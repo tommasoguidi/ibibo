@@ -1,4 +1,4 @@
-Limonare Lyrics[Testo di "Limonare"]
+[Testo di "Limonare"]
 
 [Strofa 1]
 Lo so che devo ancora abituarmi
@@ -40,11 +40,12 @@ E ora che si è svuotato il locale
 Torniamo in cucina
 Stacchiamo la spina
 E riprendiamo da dove eravamo ma più di prima
-You might also like[Ritornello]
+
+[Ritornello]
 Dobbiamo limonare
 Dobbiamo limonare
 Dobbiamo limonare fino a quando non hai il mio sapore
 Dobbiamo limonare
 Dobbiamo limonare
 Dobbiamo limonare fino a prendere una congestione
-E il cielo è arancioneEmbed
+E il cielo è arancione

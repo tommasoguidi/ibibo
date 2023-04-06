@@ -1,4 +1,4 @@
-Tutto sbagliato Lyrics[Testo di "Tutto sbagliato"]
+[Testo di "Tutto sbagliato"]
 
 [Strofa 1]
 Il momento è da centro psicanalitico
@@ -43,7 +43,8 @@ La mia voce testimonia e prova
 Mangrovia nella mente di chi non ha memoria
 Le donne col feather cut, gli uomini con il fedora
 È l'ora e stiamo per scoperchiare Pandora
-You might also like[Ritornello]
+
+[Ritornello]
 Nuvole di calce e paraffina (E la pioggia scende)
 Ancora di ferro è la cortina (E la pioggia scende)
 Tutto sbagliato
@@ -68,4 +69,4 @@ Ancora di ferro è la cortina (E la pioggia scende)
 Tutto sbagliato
 Più si va avanti più la situazione è tesa come un tuffo carpiato
 Alziamo il naso in attesa del miracolo
-(E la pioggia scende)Embed
+(E la pioggia scende)

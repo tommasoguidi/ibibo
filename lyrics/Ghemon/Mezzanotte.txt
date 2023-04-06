@@ -1,4 +1,4 @@
-Mezzanotte Lyrics[Testo di "Mezzanotte"]
+[Testo di "Mezzanotte"]
 
 [Strofa 1]
 In questa lotta dove in fondo non c'è in palio niente
@@ -40,7 +40,8 @@ Ogni guerriero, ogni soldato vero
 Delle volte deve andare giù
 Delle volte deve andare giù
 Delle volte deve andare giù
-You might also like[Strofa 3]
+
+[Strofa 3]
 Le cosce tra le cosce
 Le voci rotte
 Il suono quando sbattevamo forte
@@ -61,4 +62,4 @@ Sole di mezzanotte
 Ogni guerriero, ogni soldato vero
 Delle volte deve andare giù
 Delle volte deve andare giù
-Delle volte deve andare giù2Embed
+Delle volte deve andare giù

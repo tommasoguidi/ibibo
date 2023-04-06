@@ -1,4 +1,4 @@
-Dov’è l’Italia Lyrics[Testo di "Dov'è l'Italia"]
+[Testo di "Dov'è l'Italia"]
 
 [Strofa 1]
 Perché nascosto sono stato quasi sempre
@@ -41,7 +41,8 @@ Fra le stelle ed il sole
 Sul tappeto volante
 Fra chi vince e chi perde
 E chi non se la sente
-You might also like[Ritornello]
+
+[Ritornello]
 Dov'è l'Italia, amore mio?
 Mi sono perso
 Dov'è l'Italia, amore mio?
@@ -52,4 +53,4 @@ Mi sono perso anch'io
 Dov'è l'Italia, amore mio?
 Mi sono perso
 Dov'è l'Italia, amore mio?
-Mi sono perso2Embed
+Mi sono perso

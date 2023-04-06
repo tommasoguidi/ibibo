@@ -1,4 +1,4 @@
-CANALE 5 Lyrics[Testo di "CANALE 5"]
+[Testo di "CANALE 5"]
 
 [Strofa 1]
 È vero che nel mare c'è la plastica
@@ -39,7 +39,8 @@ Non ti posso perdonare
 Oh
 Ma mi hai fatto tanto male
 Non ti posso perdonare
-You might also like[Bridge]
+
+[Bridge]
 E rimarremo in due
 In faccia i nostri sogni
 Lo sai che a volte essere normale
@@ -53,4 +54,4 @@ Oh
 
 [Outro]
 Ma mi hai fatto tanto male
-Non ti posso perdonareEmbed
+Non ti posso perdonare

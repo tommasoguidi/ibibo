@@ -1,4 +1,4 @@
-Parquet Lyrics[Testo di "Parquet"]
+[Testo di "Parquet"]
 
 [Strofa 1]
 Stanotte piove, sì, ma mica fuori alle serrande
@@ -39,7 +39,8 @@ La linea scura dell'eyeliner
 Fotte il cervello tipo Alzheimer
 Dammi la mano mentre guardiamo lo skyline crollare piano
 E siamo tutto ciò che abbiamo perché
-You might also like[Ritornello]
+
+[Ritornello]
 Niente mi fa di più che stare dentro te
 Ti eri portata i cliché
 Sono lì sul parquet, uh yeh
@@ -63,4 +64,4 @@ Parto domani ma torno presto babe
 Esci dalle coperte bubu settete bu
 Mica mi serve che t'acchitti da soubrette da TV
 A me mi serve che mi sveglio, accanto a me ci sei tu
-Quando ti vedo andare via è un déjà vuEmbed
+Quando ti vedo andare via è un déjà vu

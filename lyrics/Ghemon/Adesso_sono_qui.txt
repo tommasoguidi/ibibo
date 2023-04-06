@@ -1,4 +1,4 @@
-Adesso sono qui Lyrics[Testo di "Adesso sono qui"]
+[Testo di "Adesso sono qui"]
 
 [Strofa 1]
 Prendi un po', dammi un po', l'anima cerca
@@ -43,7 +43,8 @@ E ho affilato le unghie, chi mi capisce mi raggiunge
 O lo fa quando sarò arrivato al dunque
 Non posso più aspettare di accontentare chiunque
 Se so che non ci riuscirei comunque
-You might also like[Ritornello]
+
+[Ritornello]
 E non mi importa più di tutto ciò che è stato
 Non c'è la rabbia e la paura che mi ha spaventato
 Adesso sono qui, dove tu mi hai lasciato
@@ -66,4 +67,4 @@ Adesso sono qui, dove tu mi hai lasciato
 Tra le mie braccia stringo ciò che sono diventato
 
 [Outro]
-Ora so bene, io ora sto beneEmbed
+Ora so bene, io ora sto bene

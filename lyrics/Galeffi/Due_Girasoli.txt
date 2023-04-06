@@ -1,4 +1,4 @@
-Due Girasoli Lyrics[Testo di "Due Girasoli"]
+[Testo di "Due Girasoli"]
 
 [Strofa 1]
 Ieri correvo dietro ai sogni
@@ -36,9 +36,10 @@ Vorrei il mondo così
 Poi ti ho detto: "Ti amo"
 Ma non vola una mosca
 In questa città
-You might also like[Outro]
+
+[Outro]
 Cade la neve a Notre Dame
 Cade la neve a Notre Dame
 Cade la neve a Notre Dame
 Cade la neve
-Cade la neveEmbed
+Cade la neve

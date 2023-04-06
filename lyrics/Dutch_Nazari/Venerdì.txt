@@ -1,4 +1,4 @@
-Venerdì Lyrics[Testo di "Venerdì"]
+[Testo di "Venerdì"]
 
 [Strofa 1]
 Venerdì è una grande festa
@@ -37,7 +37,8 @@ Quanti giorni ci dividono
 Tramonti rossi come il vino, polmoni rancidi al mattino
 Come se ieri avessimo inalato gas nervino
 "Oh, ma c'era gas nel vino?"
-You might also like[Ritornello]
+
+[Ritornello]
 Di venerdì
 (Di venerdì, di venerdì, di venerdì, di venerdì)
 
@@ -54,4 +55,4 @@ Tipo due punti, chiusa parentesi
 
 [Ritornello]
 Di venerdì
-(Di venerdì, di venerdì, di venerdì, di venerdì)Embed
+(Di venerdì, di venerdì, di venerdì, di venerdì)

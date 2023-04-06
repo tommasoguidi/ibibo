@@ -1,4 +1,4 @@
-Nacchere Lyrics[Testo di "Nacchere"]
+[Testo di "Nacchere"]
 
 [Strofa 1]
 Sì lo so avrei dovuto dirtelo
@@ -43,7 +43,8 @@ Conservo ancora del nostro viaggio in Spagna
 Tutte le nacchere
 Fottute nacchere
 Mi parlano di te
-You might also like[Outro]
+
+[Outro]
 Tutte le nacchere ormai mi parlano di te
 Fottute nacchere
 Mi parlano di te
@@ -52,4 +53,4 @@ Sarebbe un po' come buttare te
 Fottute nacchere
 Mi parlano di te
 Fottute nacchere
-Non le ho sapute mai neanche suonareEmbed
+Non le ho sapute mai neanche suonare

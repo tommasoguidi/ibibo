@@ -1,4 +1,4 @@
-Reale Lyrics[Testo di "Reale"]
+[Testo di "Reale"]
 
 [Strofa 1]
 I tuoi sospiri sono delle note
@@ -42,8 +42,9 @@ Stavolta non consulto più nessuno
 Amare e basta e lo faccio a testa alta
 Amare e basta e lo faccio a testa alta
 Amare e basta
-You might also like[Outro]
+
+[Outro]
 Non serve l'ipnosi regressiva
 Non serve un mago, è solo la vita
 Non serve un mago, è solo la vita
-La vita, la vitaEmbed
+La vita, la vita

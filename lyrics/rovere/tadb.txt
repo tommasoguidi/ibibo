@@ -1,4 +1,4 @@
-​tadb Lyrics[Testo di "tadb"]
+[Testo di "tadb"]
 
 [Strofa 1]
 E finisce così
@@ -35,8 +35,9 @@ E balliamo un lento mentre il mondo balla la tecktonik
 E se ti dovessi perdere nei siti d'incontro o in ChatRoulette
 Spero che tra mille visi spenti
 Forse ti ricorderai di me
-You might also like[Ritornello]
+
+[Ritornello]
 Passano le notti d'inverno e le aurore boreali
 Forse anche i supereroi sognano di essere normali
 Siamo sulla stessa barca in un mare di gin tonic
-E balliamo un lento mentre il mondo balla la tecktonikEmbed
+E balliamo un lento mentre il mondo balla la tecktonik

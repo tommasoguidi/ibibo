@@ -1,4 +1,4 @@
-VIENIMI (a ballare) Lyrics[Testo di "VIENIMI (a ballare)"]
+[Testo di "VIENIMI (a ballare)"]
 
 [Strofa 1]
 I miei segni sulla schiena
@@ -42,7 +42,8 @@ Con la scusa della pioggia
 Siamo andati sul divano
 Senza chiedermi il permesso
 Hai iniziato con la mano
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Prometto che io non ti cerco più
 Che non mi avveleno più
 Che troverò il modo per credere presto
@@ -69,4 +70,4 @@ Tequila, sale e limone
 Vienimi a ballare
 Lasciami ballare
 Prova a immaginare
-Le mie stelle al soleEmbed
+Le mie stelle al sole

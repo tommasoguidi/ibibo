@@ -1,4 +1,4 @@
-Se ridi Lyrics[Testo di "Se ridi"]
+[Testo di "Se ridi"]
 
 [Strofa 1]
 Scusa stasera non ho voglia di ballare
@@ -40,7 +40,8 @@ Sognare tutto quello che mi manca
 E non avere paura di te
 Tu che sei così grande
 E ti viene da ridere
-You might also like[Bridge]
+
+[Bridge]
 La macchina nuova, l’affitto di casa
 E ti viene da ridere
 Uscire da solo per fare la spesa
@@ -55,4 +56,4 @@ E correre sui tetti per scoprire l’alba
 Sognare tutto quello che ti manca
 E non avere paura di te
 Tu che sei così grande
-Se ti viene da ridereEmbed
+Se ti viene da ridere

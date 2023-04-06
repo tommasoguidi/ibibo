@@ -1,4 +1,4 @@
-Acida e imbattibile Lyrics[Testo di "Acida e imbattibile"]
+[Testo di "Acida e imbattibile"]
 
 [Strofa 1]
 Hai preso mille colpi in faccia
@@ -35,7 +35,8 @@ Acida e imbattibile
 Acida e imbattibile
 Acida e imbattibile
 Acida e imbattibile
-You might also like[Ritornello]
+
+[Ritornello]
 Ma tu, cuore a mezz'aria sogni al vento
 Faccia sognante, fiato sospeso
 Capelli arricciati sotto la tempesta
@@ -45,4 +46,4 @@ Capelli arricciati sotto la tempesta
 Sei l'ultima rimasta
 L'unica che balla
 Quella che non parla
-Sei quella che mi mancaEmbed
+Sei quella che mi manca

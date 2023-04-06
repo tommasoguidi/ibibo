@@ -1,4 +1,4 @@
-Anche oggi si dorme domani Lyrics[Testo di "Anche oggi si dorme domani"]
+[Testo di "Anche oggi si dorme domani"]
 
 [Strofa 1]
 Mettiti in fila, dai
@@ -37,7 +37,8 @@ Invece ti tocca sperare che arrivino gli UFO
 Cerca la verità
 Negli amori di serie B
 Nelle vetrine che un tempo volevi incendiare
-You might also like[Ritornello]
+
+[Ritornello]
 Tua madre non sa
 Cosa cerchi nel vuoto
 E non capirà
@@ -57,4 +58,4 @@ E quest'amore nel vuoto
 [Outro]
 Mettiti in fila dai
 Il tuo turno arriverà
-Hai solamente trent'anni ed intorno c'hai il vuotoEmbed
+Hai solamente trent'anni ed intorno c'hai il vuoto

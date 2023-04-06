@@ -1,4 +1,4 @@
-Forever Lyrics[Testo di "Forever"]
+[Testo di "Forever"]
 
 [Strofa 1]
 Cade una stella, lascia una scia, forever
@@ -36,7 +36,8 @@ Basta un'abbraccio o una carezza
 Per ricordarmelo, per ricordartelo
 Forever, oh-oh
 Forever
-You might also like[Bridge]
+
+[Bridge]
 Ti sei chiesta perché
 Ogni volta che noi ci baciamo io sento che
 Che certe volte uno più uno può fare anche tre
@@ -52,4 +53,4 @@ Forever, oh-oh
 Forever
 Forever, oh-oh
 Forever
-ForeverEmbed
+Forever

@@ -1,4 +1,4 @@
-Se tu ti prendi Lyrics[Testo di "Se tu ti prendi"]
+[Testo di "Se tu ti prendi"]
 
 [Strofa 1]
 Me lo ricordo
@@ -38,7 +38,8 @@ Se tu ti prendi io non mi prendo
 Se tu ti prendi io non mi prendo
 Batte forte il cuore
 E già lo so, non ha più senso
-You might also like[Bridge]
+
+[Bridge]
 Il destino tra le mani
 Non l'abbiamo preso mai
 Perché un bacio a volte unisce
@@ -59,4 +60,4 @@ Se tu ti prendi io non mi prendo
 Se tu ti prendi io non mi prendo
 Se tu ti prendi io non mi prendo
 Batte forte il cuore
-E già lo so, non ha più sensoEmbed
+E già lo so, non ha più senso

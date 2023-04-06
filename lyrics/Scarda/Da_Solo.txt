@@ -1,4 +1,4 @@
-Da Solo Lyrics[Testo "Da Solo"]
+[Testo "Da Solo"]
 
 [Strofa 1]
 Non sarà ciò che dicevi
@@ -43,7 +43,8 @@ Quante volte mi perdo
 Corro ma non ti prendo
 Poi ritorno e costeggio
 L'urlo del tuo silenzio
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Resto fermo sul tuo collo
 Non dico niente
 Io non voglio
@@ -78,4 +79,4 @@ Anche se fosse vero
 Oh, oh, oh
 Io ti amerei anche da solo
 Oh, oh, oh
-Oh, oh, ohEmbed
+Oh, oh, oh

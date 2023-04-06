@@ -1,4 +1,4 @@
-Amici Lyrics[Testo di "Amici"]
+[Testo di "Amici"]
 
 [Intro: Drast]
 Eh, eh-eh
@@ -50,7 +50,8 @@ Volevo dire a 'sti stronzi che io e il mio socio qua
 Siamo il West Ham
 Francesco Totti insieme a De Rossi
 Sopra la quartina finché 'n è finita (Fanculo)
-You might also like[Ritornello: Drast]
+
+[Ritornello: Drast]
 E i miei amici sono tutti speciali
 Ma gli voglio bene lo stesso (Gli voglio bene lo stesso)
 E i miei amici sono tutti drogati
@@ -61,4 +62,4 @@ Gli voglio bene lo stesso (Gli voglio bene lo stesso)
 Gli voglio bene lo stesso (Gli voglio bene lo stesso)
 
 [Outro: Drast]
-E i miei amici sono tutti specialiEmbed
+E i miei amici sono tutti speciali

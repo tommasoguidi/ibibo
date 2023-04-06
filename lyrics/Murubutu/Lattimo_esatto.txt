@@ -1,4 +1,4 @@
-L’attimo esatto Lyrics[Testo di "L'attimo esatto"]
+[Testo di "L'attimo esatto"]
 
 [Strofa 1]
 Lasciò un vuoto ed un silenzio immenso
@@ -51,8 +51,9 @@ E tutto il mondo là attorno era un incanto perenne
 Là la pioggia di sfondo ora scendeva giù in loop
 No passato o futuro ma un segmento presente
 Gli occhi chiusi, le labbra, il tempo non c'era più
-You might also like[Ritornello]
+
+[Ritornello]
 Poi quando penserai: "È stato tutto vero o è solo la mia fantasia?"
 E quando pioverà, ma dalla terra al cielo
 Forse tu tornerai
-MiaEmbed
+Mia

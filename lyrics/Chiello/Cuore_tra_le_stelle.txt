@@ -1,4 +1,4 @@
-Cuore tra le stelle Lyrics[Testo di "Cuore tra le stelle"]
+[Testo di "Cuore tra le stelle"]
 
 [Strofa 1]
 Non ti mostrerò più quella parte fragile
@@ -44,7 +44,8 @@ Ora sono così lucido
 Riesco a vedere tutte le parti
 Quella che ti ama, quella che ti odia
 Sembra assurdo, sono la stessa cosa
-You might also like[Outro]
+
+[Outro]
 Non mi è rimasto nemmeno un poco
 Quella che ti ama, quella che ti odia
-Sembra assurdo, sono la stessa cosaEmbed
+Sembra assurdo, sono la stessa cosa

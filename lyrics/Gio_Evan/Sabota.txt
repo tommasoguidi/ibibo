@@ -1,4 +1,4 @@
-Sabota Lyrics[Testo di "Sabota"]
+[Testo di "Sabota"]
 
 [Strofa 1]
 Hey barman, dammi l'insolito
@@ -40,7 +40,8 @@ E siamo uomini freddi in locali fervi
 Incapaci di baciare per quanto stringiamo i denti
 Con i sogni a puttane, lo sguardo sugli attenti
 Illuminano gli altri e se la vivono a fari spenti
-You might also like[Ritornello]
+
+[Ritornello]
 Sabato, ti spaccherò, oh oh oh
 Ti scolerò
 Ti parlerò, oh oh oh
@@ -56,4 +57,4 @@ Sabato, Sabato, Sabato, Sabato
 All'alba perderò, ma intanto
 Sabato, Sabato, Sabato, Sabato
 Sabato, Sabato, Sabato, Sabato
-All'alba perderò, ma intantoEmbed
+All'alba perderò, ma intanto

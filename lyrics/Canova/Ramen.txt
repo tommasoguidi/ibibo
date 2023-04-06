@@ -1,4 +1,4 @@
-Ramen Lyrics[Testo di "Ramen"]
+[Testo di "Ramen"]
 
 [Strofa 1]
 Io e te
@@ -38,7 +38,8 @@ Chissà se ti ricordi di me
 Chissà se ti ricordi di me
 (Oppure prendi e te ne vai)
 Chissà se ti ricordi
-You might also like[Ritornello]
+
+[Ritornello]
 Ma tanto lo so domani ti ritroverò
 Chissà se ti ricordi di me
 Oppure prendi e te ne vai
@@ -50,4 +51,4 @@ Chissà se ti ricordi di me
 Chissà se ti ricordi di me
 Chissà se ti ricordi di me
 Chissà se ti ricordi di me
-Chissà se ti ricordi di meEmbed
+Chissà se ti ricordi di me

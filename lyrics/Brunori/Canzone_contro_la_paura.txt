@@ -1,4 +1,4 @@
-Canzone contro la paura Lyrics[Testo di "Canzone contro la paura"]
+[Testo di "Canzone contro la paura"]
 
 [Strofa 1]
 Scrivo canzoni poco intelligenti
@@ -40,7 +40,8 @@ Perciò sarò superficiale
 Ma in mezzo a questo dolore
 E in tutto questo rumore
 Io canto un mondo che non c'è
-You might also like[Bridge]
+
+[Bridge]
 E invece no, tu vuoi canzoni emozionanti
 Che ti acchiappano alla gola senza tanti complimenti
 Canzoni come sberle in faccia per costringerti a pensare
@@ -71,4 +72,4 @@ In tutto questo rumore
 A volte basta una canzone
 Anche una stupida canzone
 Solo una stupida canzone
-A ricordarti chi sei?Embed
+A ricordarti chi sei?

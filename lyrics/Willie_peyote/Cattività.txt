@@ -1,4 +1,4 @@
-Cattività Lyrics[Testo di "Cattività"]
+[Testo di "Cattività"]
 
 [Intro]
 Quasi senza accorgersi
@@ -49,7 +49,8 @@ Come un'infermiera in oncologia
 Come la droga o la pornografia
 Alla fine si abitua e la soglia si alza
 E non fa più effetto, non è mai abbastanza
-You might also like[Bridge]
+
+[Bridge]
 Quasi senza accorgersi
 E ti senti il padrone e invece sei schiavo
 In balia del tuo peggio che sfugge di mano
@@ -66,4 +67,4 @@ Continua quasi senza accorgersi
 Che vive in cattività
 
 [Outro]
-Ogni giorno senza accorgersi1Embed
+Ogni giorno senza accorgersi

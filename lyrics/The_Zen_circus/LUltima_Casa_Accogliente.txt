@@ -1,4 +1,4 @@
-L’Ultima Casa Accogliente Lyrics[Testo di "L'Ultima Casa Accogliente"]
+[Testo di "L'Ultima Casa Accogliente"]
 
 [Strofa 1]
 Avevo la strada davanti, ma il futuro alle spalle
@@ -54,8 +54,9 @@ Io cosa posso farci, nessuno mi capisce
 (Si arrampica)
 Ma non è colpa mia, io cosa posso farci
 Ma non è colpa mia, ma non è colpa mia
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 E se dicembre è il mese della fine
 Per noi è l'inizio, come Gesù Cristo
 In questo bosco, dentro a questa casa risorgeremo
-E sulla notte torna il serenoEmbed
+E sulla notte torna il sereno

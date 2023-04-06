@@ -1,4 +1,4 @@
-Grande Lyrics[Testo di "Grande"]
+[Testo di "Grande"]
 
 [Strofa 1]
 Porto la sveglia indietro al punto di partenza
@@ -63,7 +63,8 @@ E pare, che la risposta più banale, sia proprio quella chiave
 Pare che nonostante le intenzioni
 Stringendo e tirando le conclusioni
 Si cresce con le delusioni
-You might also like[Ritornello]
+
+[Ritornello]
 Se c'è una cosa che ho imparato è che va rifatto il quadro
 Se c'è una teoria va rivista
 E più che l'occasione a fare l'uomo ladro
@@ -81,4 +82,4 @@ Sto diventando grande
 Sto diventando grande, grande, grande
 Sto diventando grande, grande, grande
 Sto diventando grande, grande, grande
-Sto diventando grande1Embed
+Sto diventando grande

@@ -1,4 +1,4 @@
-Sofia Lyrics[Strofa 1]
+[Strofa 1]
 Sofia, è arrabbiata con me
 Dice che spendo tutto il tempo a naufragare
 Sofia, ce l'ha tanto con me
@@ -42,7 +42,8 @@ Che non finisce mai
 Che non finisce mai
 Che non finisce mai
 Che non finisce mai
-You might also like[Ritornello]
+
+[Ritornello]
 E scusa se io non spiegare
 Quella voglia che mi porto dentro
 Di buttare al vento tutto quel che ho
@@ -57,4 +58,4 @@ Che non finisce mai
 
 L'insicurezza che mi tengo dentro
 Sembra quasi un lento
-Che non finisce maiEmbed
+Che non finisce mai

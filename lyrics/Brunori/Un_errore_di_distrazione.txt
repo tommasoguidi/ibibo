@@ -1,4 +1,4 @@
-Un errore di distrazione Lyrics[Testo di "Un errore di distrazione"]
+[Testo di "Un errore di distrazione"]
 
 [Strofa 1]
 Un giorno capirai
@@ -55,7 +55,8 @@ Fra un cappuccino e una tazzina di caffè
 Fissando un treno regionale
 Come se fosse un'astronave
 Che tra un minuto ti porta via da me
-You might also like[Ritornello]
+
+[Ritornello]
 Ma è solo un attimo
 Come dire
 Un errore di distrazione
@@ -77,4 +78,4 @@ Una lieve indecisione
 È un errore di distrazione
 È un errore di distrazione
 È un errore di distrazione
-È un errore di distrazioneEmbed
+È un errore di distrazione

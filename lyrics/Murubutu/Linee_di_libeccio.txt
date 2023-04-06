@@ -1,4 +1,4 @@
-Linee di libeccio Lyrics[Testo di "Linee di libeccio"]
+[Testo di "Linee di libeccio"]
 
 [Strofa 1: Murubutu]
 Maria cuciva ogni tanto guardava fuori
@@ -72,7 +72,8 @@ Quel giorno il rimorso, rimosso, ricordo commosso
 Rincorso sul bordo del mondo
 Quel giorno il Libeccio a ridosso del golfo
 Aiutava il suo cielo a spogliarsi, prima del sole?
-You might also like[Ritornello]
+
+[Ritornello]
 E ora dimmi dimmi com'è
 E ora che il tuo vento non c'è
 Qual è la linea che guiderà le dita
@@ -80,4 +81,4 @@ Qual è la linea che guiderà le dita
 E ora dimmi dimmi dov'è
 E ora che il suo cielo non c'è
 Qual è la via che ti salverà la vita
-(e tanto vale, tanto appare, tanto uguale)2Embed
+(e tanto vale, tanto appare, tanto uguale)

@@ -1,4 +1,4 @@
-GBTR Lyrics[Testo di "GBTR"]
+[Testo di "GBTR"]
 
 [Strofa 1]
 Sulla riva del fiume ti ho visto che andavi via lontano
@@ -38,7 +38,8 @@ E non hai nulla da ridere
 Ma non guardare giù
 'Sta vita sembra un pallone
 E tu non segni più
-You might also like[Ritornello]
+
+[Ritornello]
 Ma è sempre così
 Ad annegare
 Come un'oliva nel gin
@@ -51,4 +52,4 @@ Ma tu resta qui, qui, qui
 Non te ne andare
 
 [Outro]
-Anche se non vuoi, io resto quiEmbed
+Anche se non vuoi, io resto qui

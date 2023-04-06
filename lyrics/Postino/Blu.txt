@@ -1,4 +1,4 @@
-Blu Lyrics[Testo di "Blu"]
+[Testo di "Blu"]
 
 [Strofa 1]
 Se fossi qui, stasera sai
@@ -43,10 +43,11 @@ In questa notte di lunedì
 Roma è vuota e sono pieno di
 Voglia di andarmene via da qui
 Nascondermi in questo CD
-You might also like[Outro]
+
+[Outro]
 Adesso ho il cuore blu (Io ho il cuore blu)
 Adesso ho il cuore blu (Io ho il cuore blu)
 Adesso ho il cuore blu (Io ho il cuore blu)
 (Io ho il cuore blu, io ho il cuore blu, io ho il cuore blu)
 (Io ho il cuore blu, io ho il cuore blu, io ho il cuore blu)
-(Io ho il cuore)Embed
+(Io ho il cuore)

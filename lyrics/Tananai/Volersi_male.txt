@@ -1,4 +1,4 @@
-Volersi male Lyrics[Testo di "Volersi male"]
+[Testo di "Volersi male"]
 
 [Strofa 1]
 Ho gli occhi rossi, è colpa delle lenti
@@ -45,6 +45,7 @@ E l'odore che hai mi ricorda le strade innevate
 E le promesse non mantenute
 E forse è meglio così
 E forse è meglio così
-You might also like[Outro]
+
+[Outro]
 E l'odore che hai mi ricorda le case d'estate
-E le canzoni stonate, cantate sulle spiagge deserte la notte con te1Embed
+E le canzoni stonate, cantate sulle spiagge deserte la notte con te

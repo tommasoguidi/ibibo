@@ -1,4 +1,4 @@
-Un’altra possibilità Lyrics[Strofa 1]
+[Strofa 1]
 La conquista dello spazio
 Gli spazi a dividere
 E noi che ci lasciamo intimorire dalle favole
@@ -36,7 +36,8 @@ Più casa, meno chiesa, meno muri, meno cure
 Più bar e meno case dove bere più sicuri
 L'etica rovina in parte questa società
 Sarà che noi ci abbiamo già provato e abbiamo perso, ma
-You might also like[Ritornello]
+
+[Ritornello]
 Io spero che ci sia un'altra possibilità
 Io spero che ci sia un'altra possibilità
 Io spero che ci sia un'altra possibilità
@@ -69,4 +70,4 @@ Io spero che ci sia un'altra possibilità
 Io spero che ci sia un'altra possibilità
 Io spero che ci sia un'altra possibilità
 Io spero che ci sia un'altra possibilità
-Io spero che ci sia un'altraEmbed
+Io spero che ci sia un'altra

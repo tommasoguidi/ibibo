@@ -1,4 +1,4 @@
-Quando guardiamo una rosa Lyrics[Testo di "Quando guardiamo una rosa"]
+[Testo di "Quando guardiamo una rosa"]
 
 [Strofa 1]
 Parlami dell'universo
@@ -36,7 +36,8 @@ Di vivere insieme una vita sola
 Quando guardiamo una rosa
 Tu pensi a qualcuno
 Io penso a qualcosa
-You might also like[Post-Ritornello 1]
+
+[Post-Ritornello 1]
 Perché mi piace restare a galla
 I piedi per terra e cavarmela
 E cavarmela
@@ -66,4 +67,4 @@ Io penso a qualcosa
 Anche col cuore che balla
 La lingua per terra
 Ci provo a cavarmela
-Ci provo a cavarmelaEmbed
+Ci provo a cavarmela

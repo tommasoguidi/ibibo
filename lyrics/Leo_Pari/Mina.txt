@@ -1,4 +1,4 @@
-Mina Lyrics[Testo di "Mina"]
+[Testo di "Mina"]
 
 [Strofa 1]
 Guarda quanta bella gente che va in giro
@@ -38,7 +38,8 @@ E mi sento vivo
 Porto sempre un po' di stelle nella tasca
 Una tipa che stasera mi ci casca
 Metto il gel con una maglietta fresca
-You might also like[Bridge]
+
+[Bridge]
 Ah, non mi fa paura la notte
 E, prendo per il culo la morte
 
@@ -67,4 +68,4 @@ Uscirò senza giacca
 Con la musica a palla
 Ritorneranno gli anni '90
 Senza cabine del telefono, senza videoteche
-Ci ameremo ancora di sabato nelle discotecheEmbed
+Ci ameremo ancora di sabato nelle discoteche

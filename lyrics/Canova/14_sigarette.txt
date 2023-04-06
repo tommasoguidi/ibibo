@@ -1,4 +1,4 @@
-14 sigarette Lyrics[Testo di "14 sigarette"]
+[Testo di "14 sigarette"]
 
 [Strofa 1]
 Quattordici sigarette
@@ -34,7 +34,8 @@ E non comprendi se è giusto o se è meglio scappare
 Se è vero che guardi la luna quando sei distratta dalla tua finestra
 Che è sempre la stessa di lunedì, mercoledì e la vedi storta
 Ma che cos'hai nella testa?
-You might also like[Bridge]
+
+[Bridge]
 Se ti guardo, se ti vedo
 Se ti guardo, se ti vedo
 Se ti guardo, se ti vedo
@@ -51,4 +52,4 @@ E non comprendi se è giusto o se è meglio scappare
 Se è vero che guardi la luna quando sei distratta dalla tua finestra
 Che è sempre la stessa di lunedì, mercoledì e la vedi storta
 Ma che cos'hai nella testa?
-Che cos'hai nella testa?Embed
+Che cos'hai nella testa?

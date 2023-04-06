@@ -1,4 +1,4 @@
-Insicuri Lyrics[Testo di "Insicuri"]
+[Testo di "Insicuri"]
 
 [Strofa 1]
 Siamo cresciuti insicuri
@@ -36,7 +36,8 @@ Poi penso troppo e non mi viene in mente niente
 Ho lasciato tutti i miei pensieri alla gente
 Che se li sente e se li rivende
 Che se li sente e se li rivende
-You might also like[Ritornello]
+
+[Ritornello]
 E noi distesi per terra
 Dopo serate grandi
 E pensiamo sia bello
@@ -64,4 +65,4 @@ Senza pensare
 Era meglio prima
 Per me era meglio prima
 Per me era meglio prima
-Per me era meglio prima2Embed
+Per me era meglio prima

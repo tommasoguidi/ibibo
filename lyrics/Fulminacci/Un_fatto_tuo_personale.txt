@@ -1,4 +1,4 @@
-Un fatto tuo personale Lyrics[Testo di "Un fatto tuo personale"]
+[Testo di "Un fatto tuo personale"]
 
 [Strofa 1]
 Scusate ho bisogno di dire quello che penso
@@ -48,7 +48,8 @@ E benvenuto nell'era delle parole senza articolo
 Di quello piuttosto che quello piuttosto ridicolo
 Del sogno più grande del mondo che diventa piccolo
 E chissà qual è il prossimo bullo che diventa un idolo
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Dai tempi in cui fiero copiava il compito in classe
 Qui vince chi se ne frega e non paga le tasse
 Del bene di tutti davvero un po' ci importasse
@@ -85,4 +86,4 @@ Non evitare mai di nominarlo
 E se ti basta un codice morale
 Diamogli una spolverata
 È un po' vecchiotto e poi
-Somiglia troppo al codice della strada2Embed
+Somiglia troppo al codice della strada

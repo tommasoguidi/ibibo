@@ -1,4 +1,4 @@
-Bravi tutti Lyrics[Strofa 1]
+[Strofa 1]
 Ho colorato il mondo con i pennarelli
 Li ho presi di colori a caso senza sceglierli
 E già lo sai che noi siamo inutili e belli
@@ -47,7 +47,8 @@ Che in realtà va bene anche così
 Che la canzone migliore di un disco
 Non è mai la hit
 E che qui sono
-You might also like[Ritornello]
+
+[Ritornello]
 Tutti quanti bravi, ma noi no
 E han fatto tutti quanti i compiti e noi no
 E sanno tutti cosa fare, ma noi no
@@ -55,4 +56,4 @@ Mi guardan tutti quanti male, ma tu no, no, no, no
 Tutti quanti bravi, ma noi no
 E son vestiti tutti uguali, ma noi no
 E sanno tutti cosa dire, ma noi no
-Se bevono è giusto un bicchiere, ma noi no, no, no, no, noEmbed
+Se bevono è giusto un bicchiere, ma noi no, no, no, no, no

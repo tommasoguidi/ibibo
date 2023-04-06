@@ -1,4 +1,4 @@
-Fatto così Lyrics[Testo di "Fatto così"]
+[Testo di "Fatto così"]
 
 [Strofa 1]
 Piastrelle sollevate con le mani nude
@@ -45,7 +45,8 @@ Ho due biglietti per sempre, ci sei mai stata?
 Io sì, fa schifo, ma è tipo tappa obbligata
 Fai le valigie, sistema l'affitto
 E paga che se non è la volta buona almeno hai casa
-You might also like[Ritonello]
+
+[Ritonello]
 Sono fatto così
 Sono fatto così
 Sono fatto così bene, bene
@@ -58,4 +59,4 @@ Eh, hai detto agli altri che li raggiungiamo
 È strano, perché in realtà non li conosciamo
 Poi siamo usciti tanto per dire usciamo
 Che forse stavo a casa, era meglio, mi rilassavo
-Fanculo, andiamoEmbed
+Fanculo, andiamo

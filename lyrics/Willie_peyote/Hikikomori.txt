@@ -1,4 +1,4 @@
-Hikikomori Lyrics[Testo di "Hikikomori"]
+[Testo di "Hikikomori"]
 
 [Strofa 1]
 Hai presente in aeroporto le sale fumatori?
@@ -38,10 +38,11 @@ Meglio limitare ogni interazione
 Solo con chi ha già la mia stessa opinione
 E accetto ogni informazione
 Solo se mi darà ragione, perché ho ragione
-You might also like[Ritornello]
+
+[Ritornello]
 Fatti un mondo su misura, tutto per te
 Da cui poi non esci più
 Ciò che è fuori fa paura, tutto per te
 Anche se poi fai finta di niente
 Finta di niente
-Finta di nienteEmbed
+Finta di niente

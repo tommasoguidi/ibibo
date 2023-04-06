@@ -1,4 +1,4 @@
-ABISSALE Lyrics[Testo di "ABISSALE"]
+[Testo di "ABISSALE"]
 
 [Strofa 1]
 Parlerò di un uomo ucciso
@@ -36,7 +36,8 @@ Mi siederò con te
 Che sei un tipo strano, come me
 Che guardo sola i tramonti
 Fammi vedere i tuoi mondi"
-You might also like[Ritornello]
+
+[Ritornello]
 Ricorderai, ricorderai, ricorderai
 Che eravamo proprio belli insieme
 Ricorderai, ricorderai, ricorda, anche io
@@ -52,4 +53,4 @@ Ho sofferto come un cane
 Cosa ci fai? Cosa ci fai? Cosa ci fai?
 Dimmi, non vedevi che
 La differenza tra noi è una differenza
-Abissale?1Embed
+Abissale?

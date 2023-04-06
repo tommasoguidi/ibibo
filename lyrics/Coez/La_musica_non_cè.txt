@@ -1,4 +1,4 @@
-TranslationsEnglishLa musica non c’è Lyrics[Testo di "La musica non c’è"]
+[Testo di "La musica non c’è"]
 
 [Strofa 1]
 Volevo dirti tante cose ma non so da dove
@@ -35,7 +35,8 @@ E in fondo tutto quello che volevo lo volevo con te
 E sembra stupido ma ci credevo, e ci credevi anche te
 E non è facile trovarsi mai, oh mai, oh mai
 E tu mi dici è meglio se ora vai, ormai è tardi
-You might also like[Ritornello]
+
+[Ritornello]
 C'è troppa luce dentro la stanza, questo caldo che avanza, io non dormirò
 E scusa se non parlo abbastanza ma ho una scuola di danza nello stomaco
 E balla senza musica con te
@@ -43,4 +44,4 @@ Sei bella che la musica non c'è
 Sei bella che la musica non c'è
 Sei bella che la musica non c'è
 Sei bella che la musica non c'è
-Sei bella che la musica non c'è12Embed
+Sei bella che la musica non c'è

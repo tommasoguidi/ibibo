@@ -1,4 +1,4 @@
-79 Lyrics[Testo di "79"]
+[Testo di "79"]
 
 [Strofa 1]
 Io al liceo non ho mai studiato molto
@@ -43,7 +43,8 @@ Ma che Tozzi che sono i maturandi
 Con i loro grandi sogni di gloria
 Prima a studiare rinchiusi come Oscar Wilde
 E poi ad uscire per fare Baldorian
-You might also like[Strofa 3]
+
+[Strofa 3]
 E alla fine in qualche modo sono uscito
 Senza calci, senza spine e senza lode
 Niente ottanta, forse per darmi una lezione
@@ -63,4 +64,4 @@ Che una grande invenzione di mister Antonello Venditti
 Seventy-nine, seventy-nine, seventy-nine, seventy-nine
 Seventy-nine, seventy-nine, seventy-nine, seventy-nine
 Seventy-nine, seventy-nine, seventy-nine, seventy-nine
-Seventy-nine, seventy-nine, seventy-nine, seventy-nineEmbed
+Seventy-nine, seventy-nine, seventy-nine, seventy-nine

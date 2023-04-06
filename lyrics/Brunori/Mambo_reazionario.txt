@@ -1,4 +1,4 @@
-Mambo reazionario Lyrics[Testo di "Mambo reazionario"]
+[Testo di "Mambo reazionario"]
 
 [Intro]
 Bau!
@@ -40,7 +40,8 @@ Alla fine ti sei scocciato
 Di inseguire il Bianconiglio
 Hai cullato troppi sogni
 E adesso culli un altro figlio
-You might also likeE alla fine ti sei scordato
+
+E alla fine ti sei scordato
 Anche la felce e il mirtillo
 E quel pugno chiuso in tasca
 Sembra quasi un armadillo
@@ -103,4 +104,4 @@ Questo è davvero un gran mistero
 (Pa-ra-pa-pa-pa-pa-pa)
 
 [Outro]
-Ha-ha-ha-haEmbed
+Ha-ha-ha-ha

@@ -1,4 +1,4 @@
-Le vele Lyrics[Testo di "Le vele"]
+[Testo di "Le vele"]
 
 [Strofa 1]
 Ti accompagno alle vele
@@ -40,7 +40,8 @@ Sulle mie ferite
 Ma stanotte almeno
 Lasciami guarire
 Lasciami guarire
-You might also like[Bridge]
+
+[Bridge]
 E resteremo al buio a succhiarci il sale
 E a raccontarci come fai a non sentire mai dolore
 E resteremo al buio a toccarci piano
@@ -60,4 +61,4 @@ Un giorno forse Dio gliela farà pagare
 E non me ne frega niente
 Se questa notte poi ci tratteremo male
 Prima o poi la pagheremo tutti quanti un giorno
-Anche quel cornuto in Via del MareEmbed
+Anche quel cornuto in Via del Mare

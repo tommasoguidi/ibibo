@@ -1,4 +1,4 @@
-Rave Lyrics[Testo di "Rave"]
+[Testo di "Rave"]
 
 [Strofa 1]
 Riempiti la bocca di quello che fai
@@ -34,7 +34,8 @@ Luci di una discoteca, discoteca intorno a me
 Luci di una discoteca, discoteca intorno a me
 Luci di una discoteca, discoteca intorno a me
 Luci di una discoteca, discoteca intorno a me
-You might also like[Bridge]
+
+[Bridge]
 Che cosa ci faccio qua?
 Io non ce la faccio qua
 Che cosa ci faccio qua?
@@ -48,4 +49,4 @@ Perché solo il letame può far nascere un fiore
 All'amore che sbava in un rave di borgata
 Alla moglie ubriaca di una botte bevuta
 Ai più grandi poeti, alle loro parole
-Perché solo il letame può far nascere un fioreEmbed
+Perché solo il letame può far nascere un fiore

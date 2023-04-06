@@ -1,4 +1,4 @@
-Se ti sposassero Lyrics[Testo di "Se ti sposassero"]
+[Testo di "Se ti sposassero"]
 
 [Intro]
 Da quanto tempo! Come stai? Bello il nuovo colore
@@ -42,7 +42,8 @@ Che si scopava metà scuola?
 Ah, ora è tuo marito?
 Ha impegni di lavoro e non ha potuto essere qui?
 E tu ci credi? Tesoro come sei naive
-You might also like[Ritornello]
+
+[Ritornello]
 Se la verità mi acceca, tengo gli occhi chiusi
 È che la luce sul tuo volto accentua le ombre sul mio
 E finisco col ripetermi che il tempo cura
@@ -63,4 +64,4 @@ Ahia! Oh! Mi hai fatto male! Oh!
 Se la verità mi acceca, tengo gli occhi chiusi
 È che la luce sul tuo volto accentua le ombre sul mio
 E finisco col ripetermi che il tempo cura
-Ma col tono di chi sa che sta mentendoEmbed
+Ma col tono di chi sa che sta mentendo

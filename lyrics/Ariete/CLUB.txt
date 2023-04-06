@@ -1,4 +1,4 @@
-CLUB Lyrics[Testo di "CLUB"]
+[Testo di "CLUB"]
 
 [Intro]
 Sick Luke, Sick Luke
@@ -45,7 +45,8 @@ E dimmi a cosa serve
 Sputarsi addosso e chiarire tra le coperte
 Non voglio continuare a fingere un "per sempre"
 È un punto e a capo, facciamo finta di niente
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E siamo fuori da un club e la pioggia ci sbatte in faccia
 E la realtà è che un po' adesso mi sento un'altra
 E non mi va di riprovarci se non mi va più di ascoltarti
@@ -54,4 +55,4 @@ E non mi va di riprovarci se non mi va più di ascoltarti
 Siamo fuori da un club, ma io voglio tornare a casa
 E la realtà è che in realtà non ci sei mai stata
 E non mi va più di ballare se non mi va più di ballare
-Di ballare con te1Embed
+Di ballare con te

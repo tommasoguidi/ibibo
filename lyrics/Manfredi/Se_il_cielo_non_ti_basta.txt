@@ -1,4 +1,4 @@
-Se il cielo non ti basta Lyrics[Testo di "Se il cielo non ti basta"]
+[Testo di "Se il cielo non ti basta"]
 
 [Strofa 1]
 Se vuoi andiamo via dalla festa
@@ -34,7 +34,8 @@ Il vecchio giradischi di tua mamma
 Se poi il cielo non ti basta, capirai
 Abbiamo delle birre e non ci manca
 La voglia di parlare fino all'alba
-You might also like[Bridge]
+
+[Bridge]
 E lo confesso, un po' ci spero che
 Che poi mi chiedi se salgo da te
 E lo confesso, un po' ci spero che
@@ -52,4 +53,4 @@ Una mano che si ferma sulla gamba
 E lo confesso, un po' ci spero che
 Che poi mi chiedi se salgo da te
 E lo confesso, un po' ci spero che
-Che poi mi chiedi se salgo da te, se salgo da teEmbed
+Che poi mi chiedi se salgo da te, se salgo da te

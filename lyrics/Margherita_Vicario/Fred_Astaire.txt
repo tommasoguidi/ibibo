@@ -1,4 +1,4 @@
-Fred Astaire Lyrics[Testo di "Fred Astaire"]
+[Testo di "Fred Astaire"]
 
 [Strofa 1]
 Ti vedo che fai i piatti lì in cucina
@@ -45,7 +45,8 @@ Quando mi abbracci te
 Mi sento Beyoncé, Johnny Cash
 Ballo come fossi Fred Astaire
 Tutti che mi fanno i cori, guardo solo te
-You might also like[Bridge]
+
+[Bridge]
 E non mi importa se prima o poi
 Vuoi o non vuoi, piangerò, soffrirai
 E non mi importa se sarà un lunedì
@@ -64,4 +65,4 @@ Come mi baci te
 Quando mi abbracci te
 Mi sento Beyoncé, Johnny Cash
 Ballo come fossi Fred Astaire
-Tutti che mi fanno i cori, guardo solo teEmbed
+Tutti che mi fanno i cori, guardo solo te

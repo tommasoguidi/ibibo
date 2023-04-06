@@ -1,4 +1,4 @@
-La vita Lyrics[Testo di "La vita"]
+[Testo di "La vita"]
 
 [Strofa 1]
 La vita è bella
@@ -35,7 +35,8 @@ Ti chiedo: "Marta, come stai?"
 Va tutto bene, tutto okay
 Ma tu hai già preso la tua decisione
 Non ce la fai più
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Lo so, la vita è tragica
 La vita è stupida
 Però è bellissima
@@ -66,4 +67,4 @@ Essendo inutile
 È solo immagine
 È tutta estetica
 Io penso che la vita non è niente
-Provo a vivereEmbed
+Provo a vivere

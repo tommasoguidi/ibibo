@@ -1,4 +1,4 @@
-PASTA Lyrics[Testo di "PASTA"]
+[Testo di "PASTA"]
 
 [Intro]
 Pa-ra-pa-ra-pa-ra-pa-pa-ra
@@ -36,7 +36,8 @@ Faccia pulita, chierichetti
 Vuoi venire qui da me?
 Citofona 3-2-3, uh, ah
 Acido come la dance, quella del 2003
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Sex tape, video Blu-ray
 Io, lei, fuori da qui
 Berlin Calling
@@ -60,4 +61,4 @@ Pa-ra-pa-ra-pa-ra-pa-pa-ra, uh, ah
 Pa-ra-pa-ra-pa-ra-pa-pa-ra
 Pa-ra-pa-ra-pa-ra-pa-pa-ra, uh, ah
 Pa-ra-pa-ra-pa-ra-pa-pa-ra
-Pa-ra-pa-ra-pa-ra-pa-pa-pastaEmbed
+Pa-ra-pa-ra-pa-ra-pa-pa-pasta

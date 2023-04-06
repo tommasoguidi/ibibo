@@ -1,4 +1,4 @@
-Astronave Giradisco Lyrics[Testo di "Astronave Giradisco"]
+[Testo di "Astronave Giradisco"]
 
 [Strofa 1]
 Al mondo senza difetti
@@ -48,8 +48,9 @@ Per gli amore che finiscono
 L'ultima hit dell'universo
 Ta-ra, ta-ta-ra-ra
 "Space Vibrations"
-You might also like[Outro]
+
+[Outro]
 La-la-la-la-la-la la-la-la-la
 La-la-la-la-la-la la-la-la
 La-la-la-la-la-la la-la-la-la
-La-la-la-la-la-la la-la-laEmbed
+La-la-la-la-la-la la-la-la

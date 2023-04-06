@@ -1,4 +1,4 @@
-MONICA Lyrics[Testo di "MONICA"]
+[Testo di "MONICA"]
 
 [Intro]
 Populous
@@ -45,7 +45,8 @@ In coda al McDonald
 Seh, addirittura, "Monica, Monica, un selfie"
 Hai vinto tu
 "Oh mio Dio com'è ingrassata, Monica"
-You might also like[Ritornello]
+
+[Ritornello]
 Chiamami Monica
 Monica
 Call me Monica
@@ -67,4 +68,4 @@ Monica
 Call me Monica
 Monica
 Llama me Monica
-MonicaEmbed
+Monica

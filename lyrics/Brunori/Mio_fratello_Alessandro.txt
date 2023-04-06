@@ -1,4 +1,4 @@
-Mio fratello Alessandro Lyrics[Testo di "Mio fratello Alessandro"]
+[Testo di "Mio fratello Alessandro"]
 
 [Strofa 1]
 Mio fratello Alessandro ormai sviene sempre
@@ -41,5 +41,6 @@ E persino nel filo che unisce
 Lo sguardo dell'uomo che uccide
 E dell'uomo che muore
 Dell'uomo che muore
-You might also like[Outro]
-Mio fratello Alessandro, e mo' chi lo sente?Embed
+
+[Outro]
+Mio fratello Alessandro, e mo' chi lo sente?

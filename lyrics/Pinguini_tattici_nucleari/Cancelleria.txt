@@ -1,4 +1,4 @@
-Cancelleria Lyrics[Testo di "Cancelleria"]
+[Testo di "Cancelleria"]
 
 [Strofa 1]
 Un sindacalista proclamò al telegiornale
@@ -41,7 +41,8 @@ E poi le gomme annunciarono la fine della loro protesta
 E si trovarono davanti una patria quanto mai grigia e mesta
 Ed era troppo tardi ormai, le gomme dovevano emigrare
 Perché a cosa serve una gomma se non c'è rimasto niente da cancellare?
-You might also like[Outro]
+
+[Outro]
 Nel libero stato di Cancelleria restarono solo le biro
 Che cantarono e festeggiarono per la vittoria
 Ma com'è piccola, ma com'è fragile, ma com'è viscida e al contempo labile
@@ -50,4 +51,4 @@ E cantaron vittoria (Oh) rigonfie di boria (Eh)
 Dormiron tranquille nei loro morbidi letti
 Almeno finché (Eh), almeno finché (Eh)
 Almeno finché
-Non arrivarono i bianchettiEmbed
+Non arrivarono i bianchetti

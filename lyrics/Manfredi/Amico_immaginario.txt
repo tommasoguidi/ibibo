@@ -1,4 +1,4 @@
-Amico immaginario Lyrics[Testo di "Amico immaginario"]
+[Testo di "Amico immaginario"]
 
 [Strofa 1]
 Ti hanno visto giocare in cortile
@@ -45,7 +45,8 @@ Che se ti cerco non sparisci
 Hai notato che somigli un po' a me
 Che siamo la stessa cosa
 Un'abitudine pericolosa
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Resta a giocare con me
 Per un'ultima volta
 Resta a giocare con me
@@ -54,4 +55,4 @@ Resta a giocare con me
 Per un'ultima volta
 Resta a giocare con me
 Per un'ultima ultima
-Per un'ultima ultimaEmbed
+Per un'ultima ultima

@@ -1,4 +1,4 @@
-Inizia a respirare Lyrics[Testo di "Inizia a respirare"]
+[Testo di "Inizia a respirare"]
 
 [Strofa 1]
 Cosa farebbe un uccellino se potesse uscire dalla gabbia?
@@ -40,7 +40,8 @@ I soldi non esistono
 Beh, li hai inventati tu (Tu, tu)
 I soldi non esistono
 Beh, i soldi non esistono
-You might also like[Bridge]
+
+[Bridge]
 (Davvero?)
 Non sto scherzando
 Cosa farebbe un uccellino se potesse uscire dalla gabbia?
@@ -77,4 +78,4 @@ Beh, li hai inventati tu (Mamma)
 I soldi non esistono
 Beh, li hai inventati tu (Mamma)
 I soldi non esistono
-Beh, i soldi non esistono (Papà)Embed
+Beh, i soldi non esistono (Papà)

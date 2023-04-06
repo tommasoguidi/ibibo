@@ -1,4 +1,4 @@
-Scusa Lyrics[Testo di "Scusa"]
+[Testo di "Scusa"]
 
 [Intro]
 Pa-ra-ra, ra
@@ -34,7 +34,8 @@ A parte, però
 Che se ci penso un po'
 Non è mica così
 Non è mica così
-You might also like[Strofa]
+
+[Strofa]
 E ho rovinato tutto un'altra volta
 E sei sparita via con la tua roba
 Pezzi di cuore a terra, pezzi di porta
@@ -58,4 +59,4 @@ Non è mica così
 
 [Outro]
 Non è mica così
-Non è mica cosìEmbed
+Non è mica così

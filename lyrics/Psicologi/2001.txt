@@ -1,4 +1,4 @@
-2001 Lyrics[Testo di "2001"]
+[Testo di "2001"]
 
 [Strofa 1: Drast]
 Quest'anno sono cresciuto e non mi andava
@@ -36,7 +36,8 @@ A Via dei Sabelli con tutti i miei fra'
 Abbiamo sbocciato sorrisi, ma senza una flotta
 Manco una giacca firmata, cuori di ottima annata
 2001, bambini per strada (Okay, fatto)
-You might also like[Ritornello: Drast]
+
+[Ritornello: Drast]
 Dal 2001 (Uoh, oh)
 Che sono insicuro (Uoh, oh)
 Volevo un futuro, ma me l'hanno tolto
@@ -44,4 +45,4 @@ E se vuoi fermarci, devi spararci addosso
 Dal 2001 (Uoh, oh)
 Che sono insicuro (Uoh, oh)
 Volevo un futuro, ma me l'hanno tolto
-E se vuoi fermarci, devi spararci addossoEmbed
+E se vuoi fermarci, devi spararci addosso

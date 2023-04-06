@@ -1,4 +1,4 @@
-Eccaallà Lyrics[Testo di "Eccaallà"]
+[Testo di "Eccaallà"]
 
 [Intro]
 
@@ -60,7 +60,8 @@ La mia amica di Napoli, overo
 Dice: "È tarocco, sicuro è Moncler?" (Overo)
 Questo taxi mi pare Varenne
 Tu per me sei la crème de la crème
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Ti dico: "Vai", tu resti qua
 Ti dico: "Vie'", mi dici: "Nah"
 Tre msg, mo sta a diluvia'
@@ -102,4 +103,4 @@ Sotto casa mi urli come un capo ultrà
 "'Namo a ballà! 'Namo a ballà! 'Namo a ballà!"
 Eccallà, eccallà, eccallà
 "'Namo a ballà! 'Namo a ballà! 'Namo a ballà!"
-Eccallà, eccallà, eccallàEmbed
+Eccallà, eccallà, eccallà

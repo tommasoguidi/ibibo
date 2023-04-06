@@ -1,4 +1,4 @@
-Una festa Lyrics[Testo di "Una festa"]
+[Testo di "Una festa"]
 
 [Strofa 1]
 Sono tornato prima stasera
@@ -35,8 +35,9 @@ Con il sole dentro la mia testa
 Che senza fare niente
 Era una festa, una festa
 Woah
-You might also like[Outro]
+
+[Outro]
 Noi che guardavamo Roma
 Con la pioggia dietro a una finestra
 Che senza fare niente
-Era una festaEmbed
+Era una festa

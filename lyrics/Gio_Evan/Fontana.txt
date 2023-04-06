@@ -1,4 +1,4 @@
-Fontana Lyrics[Testo di "Fontana"]
+[Testo di "Fontana"]
 
 [Strofa 1]
 Ma l'hai capito o no?
@@ -43,7 +43,8 @@ Così anche l'inusuale
 E che a volte dire addio
 E dico a volte dire addio
 È proprio come ricominciare
-You might also like[Ritornello]
+
+[Ritornello]
 Amami con il cuore
 Sì, ma mettici la testa
 Come l'ultimo giorno di scuola
@@ -72,4 +73,4 @@ Come l'ultimo giorno di festa
 Il poeta in mezzo all'orchestra
 Come l'amore che ti aspetta
 Alla fine di questa tempesta
-Amami come chi restaEmbed
+Amami come chi resta

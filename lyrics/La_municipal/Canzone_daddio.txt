@@ -1,4 +1,4 @@
-Canzone d’addio Lyrics[Verse 1]
+[Verse 1]
 Che cosa me ne faccio del segnale?
 Se non ci chiamiamo più
 Che cosa me ne faccio della voce?
@@ -39,7 +39,8 @@ Cancellerai le notti insonni su Real Time
 O lascerai la porta aperta solo per noi
 La porta aperta è solo per noi
 Solo per noi...
-You might also like[Outro]
+
+[Outro]
 Ma lasciamoci andare
 Lasciamoci andare
 Perciò lasciamoci andare
@@ -50,4 +51,4 @@ Perciò lasciamoci andare
 Perché ho bisogno di sentirmi un altro uomo senza te
 Perciò lasciamoci andare
 Perché ho bisogno di sentirmi a pezzi come Robespierre
-Perciò lasciamoci...2Embed
+Perciò lasciamoci...

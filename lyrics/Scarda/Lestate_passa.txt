@@ -1,4 +1,4 @@
-L’estate passa Lyrics[Testo di "L'estate passa"]
+[Testo di "L'estate passa"]
 
 [Strofa 1]
 Sassi nell′acqua
@@ -36,7 +36,8 @@ E quanto tempo che è passato
 Io, mi sono ritrovato
 A rileggere le lettere
 Di tanto tempo fa
-You might also like[Ritornello]
+
+[Ritornello]
 E non lo so cos′ho provato
 Ma mi sono un po' staccato
 Da quel senso di angelicità
@@ -56,4 +57,4 @@ A scolorire col bucato
 La, la, la, la, la, la, la, la
 La, la, la, la, la, la, la, la
 La, la, la, la, la, la, la, la
-La, la, la, la, la, la, la, laEmbed
+La, la, la, la, la, la, la, la

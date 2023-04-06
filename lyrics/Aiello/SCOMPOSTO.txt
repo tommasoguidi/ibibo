@@ -1,4 +1,4 @@
-SCOMPOSTO Lyrics[Testo di "SCOMPOSTO"]
+[Testo di "SCOMPOSTO"]
 
 [Strofa 1]
 Dal caos nascono le stelle
@@ -44,7 +44,8 @@ Non trovo mai le mutande
 Ma ho ricomposto il mio viso
 Non trovo più l'occhio destro
 Mica è rimasto con te
-You might also like[Outro]
+
+[Outro]
 Portalo al sole, portalo altrove
 Portalo a vedere dove nasce il mare
 Portalo indietro, portalo in volo
@@ -53,4 +54,4 @@ Portalo a casa, ti ricordi casa
 E se non la ricordi lascialo per strada
 Le cose se appartengono
 Non restano mai sole
-Sono sicuro un giorno tornerà a vedereEmbed
+Sono sicuro un giorno tornerà a vedere

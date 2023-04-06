@@ -1,4 +1,4 @@
-Sparire Lyrics[Testo di "Sparire"]
+[Testo di "Sparire"]
 
 [Ritornello]
 Solo per farti un esempio
@@ -50,10 +50,11 @@ La convinzione che ho ragione non mi lascia
 Ma se avrò torto marcio, sarà bene che io taccia
 Non vorrei ritrovarmi il giorno che hanno messo in piazza
 La statua di un illuso con scolpita la mia faccia
-You might also like[Ritornello]
+
+[Ritornello]
 Solo per farti un esempio
 Ora io mi sento come un nome
 In mezzo ai titoli di coda
 Uno che va a piedi in autostrada
 Proprio qui e in questo momento
-Io ci sono, ma vorrei sparireEmbed
+Io ci sono, ma vorrei sparire

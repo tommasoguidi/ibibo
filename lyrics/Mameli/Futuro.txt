@@ -1,4 +1,4 @@
-Futuro Lyrics[Testo di "Futuro"]
+[Testo di "Futuro"]
 
 [Strofa 1]
 Penso che un giorno parleremo
@@ -34,7 +34,8 @@ Se ci sarà ancora la televisione
 O gli orologi sopra la stazione
 Chissà se prenderemo ancora i treni
 Per dirci: "Ti amo, quando vieni?"
-You might also like[Bridge]
+
+[Bridge]
 Faccio strane fantasie con te
 Da che mondo vieni?
 Cosa pensi di oggi e di ieri?
@@ -50,4 +51,4 @@ Di farci la guerra con parole d'amore
 Se ci sarà ancora la televisione
 O gli orologi sopra la stazione
 Chissà se prenderemo ancora i treni
-Per dirci: "Ti amo, quando vieni?"Embed
+Per dirci: "Ti amo, quando vieni?"

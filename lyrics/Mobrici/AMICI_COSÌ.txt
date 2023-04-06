@@ -1,4 +1,4 @@
-AMICI COSÌ Lyrics[Testo di "AMICI COSÌ"]
+[Testo di "AMICI COSÌ"]
 
 [Strofa 1]
 Ci siamo rivisti dopo tutti questi anni
@@ -38,7 +38,8 @@ Come mai non te ne sei andata
 A vivere in un'altra città
 Con le strade un po' più grandi
 E un po' più di felicità?
-You might also like[Ritornello]
+
+[Ritornello]
 Vai, vai, vai
 Vai per la tua strada
 Perditi nei boschi e periferie
@@ -65,4 +66,4 @@ Torna dritta a casa
 Non pensarti chiusa nelle tue malinconie
 E in un futuro che non ha fotografie
 [Outro]
-VaiEmbed
+Vai

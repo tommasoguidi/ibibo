@@ -1,4 +1,4 @@
-A vita bassa Lyrics[Testo di "A vita bassa"]
+[Testo di "A vita bassa"]
 
 [Strofa 1]
 "Professore, lei non sa"
@@ -38,8 +38,9 @@ Ed ogni anno foglie morte cadono
 I calendari cambiano
 Ed i famosi ridono
 E tutto il resto è inutile
-You might also likeE le modelle per la strada sfilano
+
+E le modelle per la strada sfilano
 Ed ogni anno foglie morte nascono
 Comete nuove cadono
 Ed un errore cosmico
-E l'universo è inutileEmbed
+E l'universo è inutile

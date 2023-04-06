@@ -1,4 +1,4 @@
-Vita Lyrics[Testo di "Vita"]
+[Testo di "Vita"]
 
 [Strofa 1]
 Compro un biglietto e poi saltiamo in due il tornello
@@ -37,7 +37,8 @@ Noi in coda sulla Roma-Napoli
 Metto la prima con il cambio che gratta (Se)
 Effetto serra e il finestrino scotta sulle braccia (Ahia!)
 (E lei) E lei ne gira un'altra, ok
-You might also like[Ritornello]
+
+[Ritornello]
 Se, ti do (Ti do), la mia vita in mano
 Giura che (Che), poi tu (Tu), me la tratti bene bene
 E, lo sai
@@ -61,4 +62,4 @@ E conosciamo il finale
 Faccio A-B-C-D con la linguetta della Coca
 Per trovare il nome di un amore che mi corrisponda
 E cerco di forzare la tua iniziale
-Ma va sempre maleEmbed
+Ma va sempre male

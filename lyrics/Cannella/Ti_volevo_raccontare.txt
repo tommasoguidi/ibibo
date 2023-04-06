@@ -1,4 +1,4 @@
-Ti volevo raccontare Lyrics[Testo di "Ti volevo raccontare"]
+[Testo di "Ti volevo raccontare"]
 
 [Strofa 1]
 Ciao, sono sempre io
@@ -38,7 +38,8 @@ Ma che scemo che sono a parlare di me
 Canteremmo tutti in coro se parlassi di meno
 E se cantassi: "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh"
 E se cantassi: "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh"
-You might also like[Bridge]
+
+[Bridge]
 Ti volevo raccontare qualcosa di speciale
 Di una notte lungo il mare che non puoi dimenticare
 Ci voleva una canzone che durasse una stagione
@@ -51,4 +52,4 @@ Di un’estate da ballare in un posto tropicale
 Ma che scemo che sono a parlare di me
 Canteremmo tutti in coro se parlassi di meno
 E se cantassi: "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh"
-E se cantassi: "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh"Embed
+E se cantassi: "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh"

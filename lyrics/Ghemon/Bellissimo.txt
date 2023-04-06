@@ -1,4 +1,4 @@
-Bellissimo Lyrics[Testo di "Bellissimo"]
+[Testo di "Bellissimo"]
 
 [Strofa 1]
 Beh, è andato tutto storto e sono vivo
@@ -38,7 +38,8 @@ Oggi casa mia è un cunicolo (Eh sì)
 Arredato dopo un incubo (È così)
 Denti neri e sguardo livido
 La vita chiede azzardi migliori
-You might also like[Bridge]
+
+[Bridge]
 C'è questa tensione sana
 Quando la pressione chiama
 Se la posta in palio si alza per me
@@ -62,4 +63,4 @@ Dentro agli attacchi di panico
 La vita chiede rischi maggiori
 Oggi casa mia è un cunicolo
 Arredato dopo un incubo
-Denti neri e sguardo lividoEmbed
+Denti neri e sguardo livido

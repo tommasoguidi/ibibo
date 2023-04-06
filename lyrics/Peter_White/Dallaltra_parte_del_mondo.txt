@@ -1,4 +1,4 @@
-Dall’altra parte del mondo Lyrics[Testo di "Dall'altra parte del mondo"]
+[Testo di "Dall'altra parte del mondo"]
 
 [Strofa 1]
 Spiccioli di stelle vanno al vento
@@ -44,7 +44,8 @@ Dove il sole non tramonta mai
 E la notte la decidi tu
 Tra le cose che non farei mai
 E le cose che non farò più
-You might also like[Outro]
+
+[Outro]
 Questa sera che non sei in città
 Ho messo i tuoi occhi, ho guardato qui intorno
 Dentro il riflesso di un tram che poi va
@@ -52,4 +53,4 @@ Dall'altra parte del mondo
 Dove il sole non tramonta mai
 E la notte la decidi tu
 Tra le cose che non farei mai
-E le cose che non farò piùEmbed
+E le cose che non farò più

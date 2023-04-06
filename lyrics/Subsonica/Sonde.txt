@@ -1,4 +1,4 @@
-Sonde Lyrics[Testo di "Sonde"]
+[Testo di "Sonde"]
 
 [Strofa]
 Confondersi
@@ -40,7 +40,8 @@ Nei tuoi movimenti
 In mezzo alla gente
 (Impronte telematiche)
 Nei tuoi movimenti
-You might also like[Ritornello]
+
+[Ritornello]
 Con la mano li puoi salutare
 Sotto un transito satellitare
 Ogni forma di conversazione
@@ -54,4 +55,4 @@ Per sondarci con più precisione
 Con la mano li puoi salutare
 In segreto ti sanno ascoltare
 Come angeli in ricezione
-Con microfoni di precisioneEmbed
+Con microfoni di precisione

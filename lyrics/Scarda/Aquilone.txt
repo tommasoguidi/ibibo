@@ -1,4 +1,4 @@
-Aquilone Lyrics[Testo di "Aquilone"]
+[Testo di "Aquilone"]
 
 [Strofa 1]
 Stringo i tuoi capelli
@@ -42,10 +42,11 @@ Sentirai sulla schiena una bocca che trema
 Come una fiamma che scava la cera
 Se morissi ti amerò ancora
 Se morissi ti amerò ancora
-You might also like[Ritornello]
+
+[Ritornello]
 E non odiarmi
 Le cose dico per te
 Sono fiori che raccolgo in un campo
 Sono frasi che profumano un giorno
 Poi lo sai che ritorno
-Già lo sai che ritornoEmbed
+Già lo sai che ritorno

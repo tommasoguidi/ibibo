@@ -1,4 +1,4 @@
-2033 Lyrics[Testo di "2033"]
+[Testo di "2033"]
 
 [Strofa 1]
 2033 e ancora qui in piazzetta io e te
@@ -38,10 +38,11 @@ E te trovavi a casa er puttan tour
 C'avemo avuto 'r nostro bel momento
 Lo IED, le foto zozze con l'amico tuo de Vice
 Che ancora nun so di' se è frocio o no
-You might also like[Ritornello 3]
+
+[Ritornello 3]
 E scaldo ancora il piatto ma per abitudine
 Che con quella robba avemo smesso tutti e due
 Ti ricordi 'a prima volta che hai comprato dei bitcoin
 Io te dicevo nun te fa frega'
 Io te dicevo nun te fa frega'
-Io te dicevo nun te fa frega'1Embed
+Io te dicevo nun te fa frega'

@@ -1,4 +1,4 @@
-Smetti di parlare Lyrics[Testo di "Smetti di parlare"]
+[Testo di "Smetti di parlare"]
 
 [Strofa 1]
 Odiami se vuoi
@@ -43,7 +43,8 @@ Dì la verità
 Mostrami il tuo fumo
 Fammi un po' vedere dove vai a finire
 Ti conosco già
-You might also like[Ritornello 1]
+
+[Ritornello 1]
 Penso solo a me
 Certe storie non le voglio più sentire
 Cosa vuoi che mi importi di te
@@ -69,4 +70,4 @@ Non ti puoi permettere di dirmi la mia colpa dove sta
 
 [Outro]
 Odiami se vuoi
-Alzo gli occhi attorno e vedo solo avvoltoiiEmbed
+Alzo gli occhi attorno e vedo solo avvoltoii

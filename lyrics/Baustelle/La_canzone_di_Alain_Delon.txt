@@ -1,4 +1,4 @@
-La canzone di Alain Delon Lyrics[Testo di "La canzone di Alain Delon"]
+[Testo di "La canzone di Alain Delon"]
 
 [Intro]
 L'unica cosa che ho è la bellezza del mondo
@@ -42,7 +42,8 @@ Tu piangevi
 Io già recitavo
 Erano anni che studiavo
 Alain Delon fumava
-You might also like[Pre-Ritornello 3]
+
+[Pre-Ritornello 3]
 Ti credi Alain Delon, sei solo stupida
 Tu eri più bella quando stavi con me
 Una modella che posava per me
@@ -57,4 +58,4 @@ Io già recitavo
 Erano anni che studiavo
 Alain Delon
 Piangevo
-RidevoEmbed
+Ridevo

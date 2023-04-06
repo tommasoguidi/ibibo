@@ -1,4 +1,4 @@
-Sei la mia droga (parte uno) Lyrics[Testo di "Sei la mia droga (parte uno)"]
+[Testo di "Sei la mia droga (parte uno)"]
 
 [Strofa 1]
 Il sole mi brucia la faccia
@@ -38,7 +38,8 @@ Ma dimmi se domani ci sarai ancora
 Dimmi se riesci a fare a meno di me
 Dimmi se domani sarai la mia droga
 Che mi fa volare
-You might also like[Strofa 3]
+
+[Strofa 3]
 E dimmi se per te vale lo stesso
 È stato solo un attimo, un attimo di sesso
 Ti prego non andartene adesso
@@ -52,4 +53,4 @@ Che mi fa volare
 Ma dimmi se domani ci sarai ancora
 Dimmi se riesci a fare a meno di me
 Dimmi se domani sarai la mia droga
-Che mi fa volare2Embed
+Che mi fa volare

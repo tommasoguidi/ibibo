@@ -1,4 +1,4 @@
-Senza titolo Lyrics[Testo di "Senza titolo"]
+[Testo di "Senza titolo"]
 
 Avevo una ragazza che non era acqua
 Non si poteva bere
@@ -39,7 +39,8 @@ E mentre
 Guarda le foglie
 Della foresta pluviale
 Sogna il cinghiale
-You might also likeAlla scuola superiore avevo un professore
+
+Alla scuola superiore avevo un professore
 Che non era saggio
 Un mio compagno di classe non era un pallone
 Ma era bravo a calcio
@@ -71,4 +72,4 @@ Ora senza una casa
 Ma la pianta
 Con grande prontezza
 Riattaccò tutti i pezzi
-Per finire in bellezzaEmbed
+Per finire in bellezza

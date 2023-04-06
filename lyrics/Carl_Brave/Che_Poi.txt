@@ -1,4 +1,4 @@
-Che Poi Lyrics[Testo di "Che Poi"]
+[Testo di "Che Poi"]
 
 [Strofa 1]
 Come va?
@@ -36,7 +36,8 @@ Tu sei il mio sangue, sei i miei capillari
 Sei 'na vecchia storia che sa di Campari
 Sulla sedia le giacche s'abbracciano
 Piante grasse ingrassano, due vite non ci bastano
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Da amici a fratelli siamesi (Siamesi)
 E poi sei sparita per mesi (Per mesi)
 E mo non capisco perché
@@ -64,4 +65,4 @@ Eh-oh, eh-oh-oh, eh-oh, eh-oh
 Una media per me (Due), una birra, fai due (Tre)
 Una media per lei (Due), una birra, fai due (Tre)
 Una media per me (Due), una birra, fai due (Tre)
-Una media per lei (Due), una birra, fai dueEmbed
+Una media per lei (Due), una birra, fai due

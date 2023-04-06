@@ -1,4 +1,4 @@
-La Mia Roma Lyrics[Testo di "La mia Roma"]
+[Testo di "La mia Roma"]
 
 [Strofa 1]
 Seduto in treno da un’ora
@@ -36,9 +36,10 @@ E mi perdo tra i binari
 Che mi riportano a te
 Sei la città più incasinata che c’è
 Ma torno sempre e non so dirti com’è
-You might also like[Ritornello]
+
+[Ritornello]
 E non so dirti com’è che anche quando sbaglio strada arrivo sempre da te
 Com’è che mi stressi da morire ma sto in fissa per te
 Che sei la mia Roma
 Bellissima di giorno e di notte così come sei
-E che mi mandi in crisi come il traffico bestiale alle seiEmbed
+E che mi mandi in crisi come il traffico bestiale alle sei

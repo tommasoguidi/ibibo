@@ -1,4 +1,4 @@
-Tetris Lyrics[Testo di "Tetris"]
+[Testo di "Tetris"]
 
 [Strofa 1]
 Tu eri per me
@@ -41,7 +41,8 @@ Oh, tu eri per me l'assenza per Bresson
 La corrida per Hemingway e la rivoluzione per Danton
 Il fischio del treno per Belluca, mi hai scandalizzato
 Come la Carrà in Rai col Tuca Tuca (Tuca tuca, tuca)
-You might also like[Ritornello]
+
+[Ritornello]
 E scusa se ti dico certe cose, ma a qualcuno devo dirle
 E l'unico qualcuno che conosco sei tu
 Che hai soffiato dentro il mio cuore a forma di armonica
@@ -70,4 +71,4 @@ Hai seminato vento e raccolto energia eolica
 I tuoi "piuttosto", i tuoi "abbastanza", non fermeranno certo
 Il vulcano che erutta sopra il mio viso scoperto
 Tutto iniziò con uno: "Sposami!" detto con indifferenza
-E finì con un: "Piacer di far la tua conoscenza"3Embed
+E finì con un: "Piacer di far la tua conoscenza"

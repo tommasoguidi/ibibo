@@ -1,4 +1,4 @@
-Iceberg Lyrics[Testo di "Iceberg"]
+[Testo di "Iceberg"]
 
 [Strofa 1]
 E vedo il mare stanotte
@@ -40,8 +40,9 @@ A quanto pare non posso più
 Restare da te
 Io non porto il più
 Il mare da te
-You might also like[Outro]
+
+[Outro]
 Io non posso più
 Restare da te
 Io non posso più
-Fumare da teEmbed
+Fumare da te

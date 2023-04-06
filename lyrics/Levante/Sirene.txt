@@ -1,4 +1,4 @@
-Sirene Lyrics[Testo di "Sirene"]
+[Testo di "Sirene"]
 
 [Strofa 1]
 Ricordi?
@@ -44,7 +44,8 @@ Sgonfia i tuoi braccioli
 Amore, dici: "Sento le sirene"
 Ma non c'è traccia di mare intorno a noi
 Se vuoi, facciamo un bagno nella pioggia, mhm-mhm
-You might also like[Interludio]
+
+[Interludio]
 Nella pioggia, ah-ah
 Nella pioggia, mhm-mhm
 
@@ -55,4 +56,4 @@ Sono Ulisse all'albero maestro
 Neanche oggi esco
 Neanche oggi esco
 Neanche oggi esco
-Neanche oggi esco5Embed
+Neanche oggi esco

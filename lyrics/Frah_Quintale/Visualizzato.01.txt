@@ -1,4 +1,4 @@
-Visualizzato.01 Lyrics[Testo di "Visualizzato.01"]
+[Testo di "Visualizzato.01"]
 
 [Skit]
 Oh Frah, vieni al Carmen Town che ci spacchiamo a merda
@@ -39,7 +39,8 @@ Perché sennò noi ci stavamo fermando qua al prossimo autogrill
 Perché abbiamo un po' fame
 Che stamattina abbiamo fatto attività fisica
 So che tu non conosci questa cosa, però
-You might also likeSe non c'è la connessione
+
+Se non c'è la connessione
 Io vado troppo, tanto in depressione
 Perciò quando non c'è il Wi-Fi
-Io canto a gran voce: "Tell me why"Embed
+Io canto a gran voce: "Tell me why"

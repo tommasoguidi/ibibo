@@ -1,4 +1,4 @@
-Di nuovo Lyrics[Testo di "Di nuovo"]
+[Testo di "Di nuovo"]
 
 [Ritornello]
 Qui tutto succede, tutto succede
@@ -35,7 +35,8 @@ Qui tutto succede, tutto succede
 Qui tutto succede di nuovo
 E quando succede, quando succede
 Dici che non capiterà più, yeh
-You might also like[Bridge]
+
+[Bridge]
 Ed è di nuovo giorno, ed è di nuovo calma
 Ed è di nuovo sera, ed è di nuovo calda
 Ed è di nuovo quasi bene benissimo. Sto da dio
@@ -78,4 +79,4 @@ Dici che non capiterà più, uoo
 Qui tutto succede, tutto succede
 Qui tutto succede di nuovo
 E quando succede, quando succede
-Dici che non capiterà più, yeh1Embed
+Dici che non capiterà più, yeh

@@ -1,4 +1,4 @@
-Telepatia Lyrics[Testo di "Telepatia"]
+[Testo di "Telepatia"]
 
 [Intro]
 Zonta
@@ -50,7 +50,8 @@ Questa notte è nostra
 Vivi questo tempo mentre scivola via
 Quando il caldo c'ha squagliato ogni forza
 È come telepatia se conosci ogni risposta
-You might also like[Outro]
+
+[Outro]
 Lo sai com'è, ahah
 Zonta, Dio ti benedica per questo
-Roc-BEmbed
+Roc-B

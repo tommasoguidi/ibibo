@@ -1,4 +1,4 @@
-Déjà Vu Lyrics[Verse 1]
+[Verse 1]
 Lucchetti sopra un ponte
 Con su scritti vecchi amori
 E per terra c’è una rosa
@@ -53,7 +53,8 @@ Sta spuntando l’alba
 Lei sbadiglia stanca
 Amore in bianco e nero
 Sembra il film di Casablanca
-You might also like[Hook]
+
+[Hook]
 E forse è un déjà vu
 Sembra un film alla tv
 Lasci il segno del rossetto
@@ -61,4 +62,4 @@ Sopra la tua Camel blu
 E forse è un déjà vu
 Noi sotto al piumone e tu
 Lasci il segno del rossetto
-Sopra la tua Camel blu2Embed
+Sopra la tua Camel blu

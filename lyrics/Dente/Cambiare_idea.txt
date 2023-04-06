@@ -1,4 +1,4 @@
-Cambiare idea Lyrics[Testo di "Cambiare idea"]
+[Testo di "Cambiare idea"]
 
 [Strofa 1]
 Questa è l'unica cosa da fare
@@ -39,7 +39,8 @@ Sarà l'inizio della fine del mondo
 Ma dovrò cambiare idea
 Persino su di me
 Persino su di me
-You might also like[Bridge]
+
+[Bridge]
 Che parlo sottovoce
 Penso troppo veloce
 E peso meno di una piuma
@@ -52,4 +53,4 @@ Se dovrò cambiare idea
 Persino su di me
 Persino su di te
 Persino su di te
-Persino su di meEmbed
+Persino su di me

@@ -1,4 +1,4 @@
-Così bravi Lyrics[Testo di "Così bravi"]
+[Testo di "Così bravi"]
 
 [Strofa 1]
 È mixata perfettamente
@@ -53,7 +53,8 @@ Vado in para per un ritardo
 Come i tedeschi
 Fammi capire con lo sguardo
 Che mi detesti
-You might also like[Ritornello]
+
+[Ritornello]
 Scrivi una lettera al ministero
 Con le richieste come nei riscatti
 Scrivi che a fare nulla siamo così bravi
@@ -62,4 +63,4 @@ E poi oggi che l'aria è sempre più veleno
 E l'inquinamento è un problema grave
 Noi a fare nulla siamo così bravi
 Che ci dovrebbero pagare
-Se ci potessero pagareEmbed
+Se ci potessero pagare

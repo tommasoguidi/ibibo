@@ -1,4 +1,4 @@
-TmVB Lyrics[Testo di "TmVB"]
+[Testo di "TmVB"]
 
 [Ritornello]
 Tutti mi vogliono bene
@@ -46,7 +46,8 @@ Mi lasciano perché mi amano troppo
 Lo fanno per me, per il mio bene
 Lo fanno per me, ma dimmi a chi è che conviene
 Dimmi a chi è che conviene
-You might also like[Strofa 2]
+
+[Strofa 2]
 Fuori piove e c'ho l'eskimo
 Tiro su il cappuccio e mi spettino
 Faccio strani giochini col lessico
@@ -87,4 +88,4 @@ Vorrei fare un pezzo con Marco Castoldi
 Vorrei fare un pezzo alla "Killin' me softly"
 Accordi più ovvi
 Vorrei fare un pezzo che faccia due soldi
-Con Marco CastoldiEmbed
+Con Marco Castoldi

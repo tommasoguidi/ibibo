@@ -1,4 +1,4 @@
-Quello che so Lyrics[Testo di "Quello che so"]
+[Testo di "Quello che so"]
 
 [Intro]
 E questo è Coez, Circolo Vizioso
@@ -49,7 +49,8 @@ Qualcuno salta via dalla finestra
 L'impatto con il mondo si fa duro e c'è qualcuno che si spezza
 E so che certe cose mai nessuno se le aspetta
 E so che qui la verità non è come si pensa
-You might also like[Ritornello]
+
+[Ritornello]
 Quello che so è che le cose non vanno mai
 Come la gente si aspetta, ma che non lo sai?
 Quello che so è molto poco, ma è quello che so
@@ -84,4 +85,4 @@ E me lo gioco perché so che è tutto quello che c'ho
 Quello che so è che le cose non vanno mai
 Come la gente si aspetta, ma che non lo sai?
 Quello che so è molto poco, ma è quello che so
-E me lo gioco perché so che è tutto quello che c'hoEmbed
+E me lo gioco perché so che è tutto quello che c'ho

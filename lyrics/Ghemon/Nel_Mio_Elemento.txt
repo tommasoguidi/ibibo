@@ -1,4 +1,4 @@
-Nel Mio Elemento Lyrics[Testo di "Nel Mio Elemento"]
+[Testo di "Nel Mio Elemento"]
 
 [Strofa 1]
 Il vento quasi mi alza da terra
@@ -35,7 +35,8 @@ Brucio quando sto con te
 Scorro quando sto con te
 Soffio quando sto con te
 Tremo quando sto con te
-You might also like[Bridge]
+
+[Bridge]
 E in un tappeto di stelle
 Leggo intrecciarsi il tuo nome
 Lungo il mio orizzonte io no, no, non vedo altro che te
@@ -52,4 +53,4 @@ Tremo quando sto con te
 Brucio quando sto con te
 Scorro quando sto con te
 Soffio quando sto con te
-Tremo quando sto con teEmbed
+Tremo quando sto con te

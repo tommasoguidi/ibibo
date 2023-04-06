@@ -1,4 +1,4 @@
-Te in particolare Lyrics[Testo di "Te in particolare"]
+[Testo di "Te in particolare"]
 
 [Strofa 1]
 Ed i tuoi occhi hanno il sapore del sale
@@ -42,7 +42,8 @@ Oooh ia ia
 Oooh ia ia
 Oooh ia ia
 Oooh ia ia
-You might also like[Outro]
+
+[Outro]
 Tanto lo so
 Che non ti importa
 Mica sei me che ogni volta
@@ -54,4 +55,4 @@ Che non ti importa
 Mica sei me che ogni volta
 Tanto lo so
 Che non ti importa
-Mica sei me che ogni voltaEmbed
+Mica sei me che ogni volta

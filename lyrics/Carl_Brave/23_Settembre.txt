@@ -1,4 +1,4 @@
-23 Settembre Lyrics[Strofa 1]
+[Strofa 1]
 Buchi di Venere combaciano con le mie scapole
 È un po' che mangio solo scatolette
 Da sotto un pino ascolto Napul' è
@@ -44,7 +44,8 @@ Winston blue, un pacchetto vuoto sopra la bajour
 In TV, Renatone sta facendo un altro tour
 Non finisce mai la guerra in Darfur
 Ti ricordi quando c'era Tele+
-You might also like[Ritornello]
+
+[Ritornello]
 Prendiamo, cambiamo canale
 Ci siamo, poi siamo due estranei
 Vorrei che ci stesse un modo
@@ -58,4 +59,4 @@ Per dirti che non ci sta un modo
 Prendiamo, cambiamo canale
 Ci siamo, poi siamo due estranei
 Vorrei che ci stesse un modo
-Per dirti che non ci sta un modoEmbed
+Per dirti che non ci sta un modo

@@ -1,4 +1,4 @@
-Spaccotutto Lyrics[Testo di "Spaccotutto"]
+[Testo di "Spaccotutto"]
 
 [Strofa 1]
 Quando sono triste
@@ -47,7 +47,8 @@ Metto le quattro frecce
 Sto muto come un pesce
 E cerco di calmarmi un po'-oh
 Ma ti giuro che stasera no
-You might also like[Ritornello]
+
+[Ritornello]
 E allora spacco tutto
 E poi bevo di brutto
 Lo so che non si può
@@ -77,4 +78,4 @@ E allora spacco tutto
 Non ditemi di stare calmo
 Che calmo non ci sto
 E allora spacco tutto
-Spacco tutto, spacco tutto, ohEmbed
+Spacco tutto, spacco tutto, oh

@@ -1,4 +1,4 @@
-Elisir D’Amor Lyrics[Testo di "Elisir D'Amor"]
+[Testo di "Elisir D'Amor"]
 
 Udite udite gente
 Il mondo è tanto triste, la donna piange, il maschio insiste, il cielo è in coma, l’ansia cresce
@@ -34,9 +34,10 @@ Compra compra elisir d'amor
 Compra compra elisir d'amor (compralo!)
 Compra compra elisir d'amor
 È qualcosa che fa bene al cuor
-You might also likeL'elisir dell'amore
+
+L'elisir dell'amore
 Scaldatevi il cuore
 Compra compra
 Compra signo' compra
 
-CompraEmbed
+Compra

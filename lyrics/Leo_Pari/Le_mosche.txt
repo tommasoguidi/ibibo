@@ -1,4 +1,4 @@
-Le mosche Lyrics[Testo di "Le mosche"]
+[Testo di "Le mosche"]
 
 [Intro]
 La-la-la-la-la-la-la-la-la-la
@@ -44,7 +44,8 @@ Schiaccia le mosche che ti stanno intorno
 Schiaccia le mosche che ti stanno intorno
 (Loro sono mosche, ma tu non sei uno stronzo)
 Schiaccia le mosche che ti stanno intorno
-You might also like[Strofa 2]
+
+[Strofa 2]
 Tu o loro? Chi preferisci che soccomba?
 Il tuo lato artistico o la loro bocca a tromba
 Distruggi il nemico quando ti circonda
@@ -93,4 +94,4 @@ La-la-la-la-la
 La-la-la-la-la-la-la-la-la-la
 La-la-la-la-la
 La-la-la-la-la-la-la-la-la-la
-La-la-la-la-laEmbed
+La-la-la-la-la

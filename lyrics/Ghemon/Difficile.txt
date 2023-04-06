@@ -1,4 +1,4 @@
-Difficile Lyrics[Testo di "Difficile"]
+[Testo di "Difficile"]
 
 [Strofa 1]
 Giuro che vorrei lasciarmi andare
@@ -35,7 +35,8 @@ Tu mi fai scordare quant'è difficile, difficile
 Proteggi i miei sogni e fa che
 Nessuno mi venga a svegliare
 Tu lo sai là fuori quant'è difficile, difficile
-You might also like[Bridge]
+
+[Bridge]
 In tutta questa mia complessità tu fidati di me
 Domani sarò ancora in piedi
 E già lo sai che mi trovi qui
@@ -50,4 +51,4 @@ Fai di me quello che ti pare
 Tu mi fai scordare quant'è difficile, difficile
 Proteggi i miei sogni e fa che
 Nessuno mi venga a svegliare
-Tu lo sai là fuori quant'è difficile, difficileEmbed
+Tu lo sai là fuori quant'è difficile, difficile

@@ -1,4 +1,4 @@
-L 02 E FREESTYLE Lyrics[Testo di "L 02 E FREESTYLE"]
+[Testo di "L 02 E FREESTYLE"]
 
 [Ritornello]
 Il cielo non è un limite
@@ -103,7 +103,8 @@ Parcheggio dentro Starbucks
 Frappuccino con il Napalm
 Nome Monica guest star
 Che resti qui, fra me e te
-You might also like[Outro]
+
+[Outro]
 Il cielo non è un limite
 Che resti tra me e te
-Il cielo non è un limiteEmbed
+Il cielo non è un limite

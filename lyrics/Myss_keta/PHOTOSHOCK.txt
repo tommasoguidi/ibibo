@@ -1,4 +1,4 @@
-PHOTOSHOCK Lyrics[Testo di "PHOTOSHOCK"]
+[Testo di "PHOTOSHOCK"]
 
 [Intro]
 Ehi, mister fotografo, ritoccami
@@ -40,7 +40,8 @@ Sono pronta per il close up (Ehi)
 Alla postazione make up (Uoh)
 Voglio solo un po' di glow ma
 Tutto ciò mi photoshock-a
-You might also like[Ritornello]
+
+[Ritornello]
 Photoshock
 Photoshock
 
@@ -72,4 +73,4 @@ Merge layers, liquify
 Filter, clone, contrast
 Merge layers, liquify
 Filter, clone, contrast
-PhotoshockEmbed
+Photoshock

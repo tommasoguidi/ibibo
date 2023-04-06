@@ -1,4 +1,4 @@
-Pignatte Lyrics[Testo di "Pignatte"]
+[Testo di "Pignatte"]
 
 [Strofa 1]
 Gaia apre le persone con gli occhi
@@ -40,7 +40,8 @@ Mi dice "Se guardi bene ogni cosa ha un'ape"
 Mi dice "Se guardi bene ogni cosa ha il miele"
 L'inverno vai tranquillo tanto viene
 La primavera no, se la vuoi è un tuo dovere
-You might also like[Ritornello]
+
+[Ritornello]
 Caramelle gli uomini son caramelle
 Caramelle gli uomini son caramelle
 Caramelle gli uomini son caramelle
@@ -50,4 +51,4 @@ E non mi importa delle guerre
 Che se guardi bene gli uomini son caramelle
 Che se guardi bene gli uomini son caramelle
 Che se guardi bene gli uomini son caramelle
-Che se guardi bene gli uomini son caramelleEmbed
+Che se guardi bene gli uomini son caramelle

@@ -1,4 +1,4 @@
-Doveva essere oggi Lyrics[Testo di "Doveva essere oggi"]
+[Testo di "Doveva essere oggi"]
 
 [Strofa 1]
 Doveva essere oggi il nostro giorno
@@ -42,7 +42,8 @@ Che ti ho visto una volta e mi è bastata quella
 Che ti ho vista struccata e ho detto che sei bella
 Che ci è piaciuto, ma che non può funzionare
 Che sto qui con il tuo fantasma che rimane
-You might also like[Bridge]
+
+[Bridge]
 E intanto mi accorgo che non so stare bene
 Che la casa vuota mi spaventa, che il tuo ricordo mi tormenta
 E intanto mi accorgo che se non imparo adesso
@@ -64,4 +65,4 @@ Che sto qui con il tuo fantasma che rimane
 
 [Outro]
 Na-na-na, col tuo fantasma che rimane
-Na-na-naEmbed
+Na-na-na

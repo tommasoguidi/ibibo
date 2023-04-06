@@ -1,4 +1,4 @@
-Non c’è più nessuno Lyrics[Testo di "Non c'è più nessuno"]
+[Testo di "Non c'è più nessuno"]
 
 [Strofa 1]
 Scrivo capolavori
@@ -43,7 +43,8 @@ Tiro da tre ma il tabellone non riporta i punti
 Attento a su chi punti
 Intendo attento a certi tagli dell'anima, non gli bastano i punti
 E qua tutti
-You might also like[Ritornello]
+
+[Ritornello]
 In corsa per il numero uno
 Più questo gioco cresce, più qui intorno non ci trovo nessuno
 Speravo di poter contare almeno su te
@@ -52,4 +53,4 @@ Di questi corridoi senza mai capire poi dove vado e com'è
 Che qui non c’è più nessuno, non c’è più nessuno
 Speravo di poter contare almeno su te
 Non c'è più nessuno, solo polvere
-Sparisce questo fumo, guardo indietro, però vedo che non c'è più nessunoEmbed
+Sparisce questo fumo, guardo indietro, però vedo che non c'è più nessuno

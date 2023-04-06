@@ -1,4 +1,4 @@
-Nelle stazioni Lyrics[Testo di "Nelle stazioni"]
+[Testo di "Nelle stazioni"]
 
 [Strofa 1]
 Non basta smetter di giocare
@@ -43,7 +43,8 @@ Che ti sussurra “ognuno per sé”
 Forse è tardi per farti notare che da soli
 Siamo solo anime dentro a scatole
 Con la scritta “fragile”
-You might also like[Ritornello]
+
+[Ritornello]
 Lo sai?
 Ci sono giorni che nonostante tutto
 E nonostante tu sia accanto a me
@@ -57,4 +58,4 @@ E nonostante tu sia accanto a me
 È un po' come tu fossi altrove
 Potrei restare qui per ore
 A ricordarti un po'
-Immaginarti un po'Embed
+Immaginarti un po'

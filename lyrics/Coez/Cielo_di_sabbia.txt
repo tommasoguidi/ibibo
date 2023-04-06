@@ -1,4 +1,4 @@
-Cielo di sabbia Lyrics[Testo di "Cielo di sabbia"]
+[Testo di "Cielo di sabbia"]
 
 [Strofa 1]
 Il telefono è spento
@@ -41,7 +41,8 @@ E sei in tutti i miei testi
 E mi chiedi se scrivo canzoni o sono le canzoni che scrivono me
 Non esistono i "se", no
 Se mi cerchi non ci sto
-You might also like[Ritornello]
+
+[Ritornello]
 Sopra di me cielo di sabbia
 Piove, non spegne la rabbia che ho
 Intorno a te mura di rabbia
@@ -49,4 +50,4 @@ Tu chiami casa una gabbia, o no?
 E il cielo sopra di noi sembra di sabbia
 E anche se piove non spegne la rabbia che ho
 E il cielo sopra di noi sembra di sabbia
-E anche se piove non spegne la rabbia che hoEmbed
+E anche se piove non spegne la rabbia che ho

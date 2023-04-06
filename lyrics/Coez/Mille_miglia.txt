@@ -1,4 +1,4 @@
-Mille miglia Lyrics[Testo di "Mille miglia"]
+[Testo di "Mille miglia"]
 
 [Intro]
 Ho corso mille miglia
@@ -54,7 +54,8 @@ Oh-oh-oh-oh-oh
 È come se mi cercassero
 Oh-oh-oh-oh-oh
 Senza sapere mai dove sto
-You might also like[Bridge]
+
+[Bridge]
 Dov'eri quando avevo bisogno di te?
 Ora da solo me la cavo
 Problemi non ne ho
@@ -69,4 +70,4 @@ Senza sapere il mio nome
 Oh-oh-oh-oh-oh
 È come se mi cercassero
 Oh-oh-oh-oh-oh
-Senza sapere mai dove stoEmbed
+Senza sapere mai dove sto

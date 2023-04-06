@@ -1,4 +1,4 @@
-Città mostro di vestiti (demo) Lyrics[Testo di "Città mostro di vestiti (demo)"]
+[Testo di "Città mostro di vestiti (demo)"]
 
 La zona militare sfavilla
 Mentre lei passa spettinata
@@ -37,11 +37,12 @@ Nei super-spacci alimentari
 E intanto scoppiano le edicole
 E i licei sono zeppi di lucertole
 E io sputo dalla finestra
-You might also likeHo una mansarda che funziona come un veliero
+
+Ho una mansarda che funziona come un veliero
 Vieni da me, facciamo la pasta al burro
 A mezzanotte
 
 Vedere le rondini
 Che divampano dalle gru
 Sono momenti
-Di alta pasticceriaEmbed
+Di alta pasticceria

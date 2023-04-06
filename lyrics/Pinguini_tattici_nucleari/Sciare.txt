@@ -1,4 +1,4 @@
-Sciare Lyrics[Testo di "Sciare"]
+[Testo di "Sciare"]
 
 [Strofa 1]
 Da bambino andavo a sciare
@@ -36,9 +36,10 @@ E gli stessi figli degli imprenditori
 Cercano in qualche modo di alleviare la sua malinconia
 Affamati, impazziti, cercano l'oro nel Klondike
 Mentre lui cerca di capire che cosa è l'alchimia
-You might also like[Outro]
+
+[Outro]
 Dicono il mare è pieno di pesci, dicono che cosa vuoi che sia
 Dicono il mare è pieno di pesci, vedi, non manca certo la compagnia
 Dicono il mare è pieno di pesci, dicono che cosa vuoi che sia
 Dicono il mare è pieno di pesci e lui risponde:
-"Sì, ma al mare non si scia"Embed
+"Sì, ma al mare non si scia"

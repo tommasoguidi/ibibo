@@ -1,4 +1,4 @@
-Amazon Lyrics[Testo di "Amazon"]
+[Testo di "Amazon"]
 
 [Strofa 1]
 Per oggi hai già mangiato
@@ -48,7 +48,8 @@ Il baffo a 15 anni
 È la dimostrazione
 Che hai sviluppato tardi
 Solo la tua opinione
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E prima o poi ci porteranno su un altro pianeta
 
 [Ritornello]
@@ -69,4 +70,4 @@ Tanto quanto
 E lì potremmo spendere tanto
 Tanto quanto
 Potremmo spendere tanto
-Tanto quantoEmbed
+Tanto quanto

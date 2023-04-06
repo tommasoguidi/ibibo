@@ -1,4 +1,4 @@
-Condor (Agostini) Lyrics[Testo di "Condor (Agostini)"]
+[Testo di "Condor (Agostini)"]
 
 [Strofa 1]
 G
@@ -54,7 +54,8 @@ Rajon Rondo, il mondo nei miei calzini
 Condor Agostini
 Condor Agostini
 Condor Agostini
-You might also like[Interludio 2]
+
+[Interludio 2]
 Te lo ricordi quando c’era lui?
 Hubner, Silenzi, Piovani, bomber Rizzitelli?
 Totò DeVitis?
@@ -76,4 +77,4 @@ Esci e vai a funghi
 Il cultore del bello come Kasia Smutniak o Cassia Smutnik
 Come si dirà? Una delle due
 Roc non è che le posso sapere tutte quante
-Smutniak, SmutniakEmbed
+Smutniak, Smutniak

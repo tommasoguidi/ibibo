@@ -1,4 +1,4 @@
-Nuovo mondo Lyrics[Testo di "Nuovo mondo"]
+[Testo di "Nuovo mondo"]
 
 [Strofa 1]
 Non è dolce naufragar
@@ -38,7 +38,8 @@ La nostra banda
 Dove va? Dove va?
 Forse non lo sa
 Forse invece arriverà
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 La storia è infinita
 Anche se finirà
 Ondeggia, volteggia
@@ -58,4 +59,4 @@ Colori, lingue, sono tutti diversi
 Per strada la gente ti sorride
 Per fare le cose usano il legno e la terra
 Son partiti, in una zattera ricordate?
-Sì, c'era anche quel cane buffo con quel naso verdeEmbed
+Sì, c'era anche quel cane buffo con quel naso verde

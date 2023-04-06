@@ -1,4 +1,4 @@
-Daniela balla la samba Lyrics[Testo di "Daniela balla la samba"]
+[Testo di "Daniela balla la samba"]
 
 [Strofa 1]
 A lei non basta mai niente
@@ -45,7 +45,8 @@ E degli allarmi
 Un raggio che accarezza la strada
 Mentre il traffico si ferma sulla carreggiata
 Resta il silenzio dei grilli
-You might also like[Outro]
+
+[Outro]
 (Daniela, Daniela scendi!
 Daniela, scendi! Daniela scendi dai!
-Dani, oh, oh scendi, scendi Dani!)Embed
+Dani, oh, oh scendi, scendi Dani!)

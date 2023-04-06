@@ -1,4 +1,4 @@
-Esiste Lyrics[Testo di "Esiste"]
+[Testo di "Esiste"]
 
 [Strofa 1]
 Esiste una macchina che può andare ad aria
@@ -45,7 +45,8 @@ Esiste la Mafia, ma non lo accetto
 Esiste chi si arrende, ma c'è ancora per fortuna chi resiste
 Perché esiste il rispetto
 Tutto il resto è un processo interminabile
-You might also like[Ritornello]
+
+[Ritornello]
 Esiste, esiste, esiste
 Esiste, esiste, esiste
 Esiste, esiste, esiste
@@ -69,4 +70,4 @@ Giocano a ping pong con le palle di King Kong
 Il mondo sotto tiro da New York ad Hong Kong
 Giocano a ping pong con le palle di King Kong
 Il mondo sotto tiro da New York ad Hong Kong
-Giocano a ping pong con le palle di King KongEmbed
+Giocano a ping pong con le palle di King Kong

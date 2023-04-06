@@ -1,4 +1,4 @@
-AVVISO Lyrics[Testo di "AVVISO"]
+[Testo di "AVVISO"]
 
 [Intro]
 (Mi innamorerò di te)
@@ -42,7 +42,8 @@ Mi innamorerò di te
 Perché non ho più nulla da fare, mhm-mhm
 Mi innamorerò di te
 Ma ogni volta spegnerò il cellulare se mi chiamerai
-You might also like[Ritornello]
+
+[Ritornello]
 Quindi non chiamarmi ma-a-a-ai
 No, tu non chiamarmi ma-a-a-ai
 Sto in fase sperimentale
@@ -65,4 +66,4 @@ Quindi non chiamarmi ma-a-a-ai
 No, tu non chiamarmi ma-a-a-ai
 Sto in fase sperimentale
 E ho paura dell'amore, tu non chiamarmi mai
-Tu non chiamarmi mai2Embed
+Tu non chiamarmi mai

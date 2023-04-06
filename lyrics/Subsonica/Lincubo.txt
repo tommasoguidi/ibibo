@@ -1,4 +1,4 @@
-L’incubo Lyrics[Strofa 1: Samuel]
+[Strofa 1: Samuel]
 È come stare appeso ad un laccio
 Sospeso nel tuo spazio
 Un altro errore e ti perderai laggiù
@@ -43,7 +43,8 @@ Quella paura di essere normale
 Di non avere niente da gridare
 O che nessuno si ricorderà
 Neanche un po' di te
-You might also like[Ritornello 2: Samuel e Willie Peyote]
+
+[Ritornello 2: Samuel e Willie Peyote]
 L'incubo di quando non sai più decidere (ah)
 Tra un equilibrio stanco e ciò che puoi vivere (ah)
 La corda che ti lega a quello che di più caro hai (ah)
@@ -91,4 +92,4 @@ Fai paura se sembri più libero
 L'incubo di quando non riesci a decidere
 Tra ciò che ti trafigge e quello che ti può uccidere
 In fondo a cosa serve questa libertà
-Fai paura se sembri più liberoEmbed
+Fai paura se sembri più libero

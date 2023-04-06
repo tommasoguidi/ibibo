@@ -1,4 +1,4 @@
-Welcome to Italy Lyrics[Testo di "Welcome to Italy"]
+[Testo di "Welcome to Italy"]
 
 [Strofa 1]
 Evoluzione, mondo che esplode
@@ -43,7 +43,8 @@ Vuoi vivere su un'isola, ma con il Wi-Fi
 No, Vasco no, non ci casco
 Vasco no, non ci casco
 Io non ci casco
-You might also like[Bridge]
+
+[Bridge]
 Ma Darwin?
 Non è più di moda Darwin
 Pensiamo ad un balletto per TikTok
@@ -61,4 +62,4 @@ Vasco no, non ci casco
 Io non ci casco
 Io non ci casco
 Io non ci casco
-Io non ci cascoEmbed
+Io non ci casco

@@ -1,4 +1,4 @@
-Contare fino a dieci Lyrics[Testo di "Contare fino a dieci"]
+[Testo di "Contare fino a dieci"]
 
 [Strofa 1]
 Tra le cose che non ho
@@ -41,7 +41,8 @@ Tutto il tempo che mi dai
 Tutto il tempo che non ho
 Per mangiar la foglia
 E dimostrarti che so
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Contare fino a dieci
 Contare fino a dieci
 Contare fino a dieci
@@ -60,4 +61,4 @@ E spaccarmi il cuore con la testa
 Costa
 Non voglio più lasciarti entrare
 Puoi restare in fondo a destra
-Smetti quanto prima di sprecare la saliva, ohEmbed
+Smetti quanto prima di sprecare la saliva, oh

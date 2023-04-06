@@ -1,4 +1,4 @@
-Aeroplani Lyrics[Testo di "Aeroplani"]
+[Testo di "Aeroplani"]
 
 [Strofa 1]
 Da ragazzino passavo il tempo
@@ -36,7 +36,8 @@ Anche se è solo lunedì, chiedo sempre:
 Io non dovevo neanche essere qui
 Io non lo so perché di venerdì
 Mi viene voglia di restare in aria
-You might also like[Ritornello]
+
+[Ritornello]
 Apri le mani
 Come quando giocavamo a fare gli aeroplani
 Partivamo e dopo tornavamo giù
@@ -69,4 +70,4 @@ E se partiamo adesso torni solo tu
 (Apri le mani)
 Uh-uh, uh-uh
 (Apri le mani)
-E se partiamo adesso torni solo tuEmbed
+E se partiamo adesso torni solo tu

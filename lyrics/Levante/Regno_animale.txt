@@ -1,4 +1,4 @@
-Regno animale Lyrics[Testo di "Regno animale"]
+[Testo di "Regno animale"]
 
 [Strofa 1]
 Con la matematica ho un rapporto complesso
@@ -41,7 +41,8 @@ Per amare non esiste un corso di aggiornamento
 Per essere felici in due ci vuole allenamento
 Per amare non esiste una patente speciale
 Nel regno animale con te
-You might also like[Bridge]
+
+[Bridge]
 Per essere completi in due
 (Nel regno animale con te)
 Per essere completi in due
@@ -51,4 +52,4 @@ Per essere completi
 [Outro]
 Per essere felici in due ci vuole allenamento
 Per amare non esiste una patente speciale
-Nel regno animale con teEmbed
+Nel regno animale con te

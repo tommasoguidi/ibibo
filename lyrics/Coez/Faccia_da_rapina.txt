@@ -1,4 +1,4 @@
-Faccia da rapina Lyrics[Testo di "Faccia da rapina"]
+[Testo di "Faccia da rapina"]
 
 [Strofa 1]
 Vestiti firmati sparsi per la stanza
@@ -36,7 +36,8 @@ Una si spezza se la tiri
 L'altro dopo immensi giri torna
 Le mani sporche come dopo una rapina
 T'avevo detto che passava prima
-You might also like[Ritornello]
+
+[Ritornello]
 Faccia da rapina
 Faccia da bambina
 Faccio sempre come vuoi te
@@ -85,4 +86,4 @@ Faccio sempre come
 Faccio sempre come vuoi te
 M'alzi le mani
 Come vuoi te
-Come vuoi teEmbed
+Come vuoi te

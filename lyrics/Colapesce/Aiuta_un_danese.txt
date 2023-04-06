@@ -1,4 +1,4 @@
-Aiuta un danese Lyrics[Ritornello]
+[Ritornello]
 A-a-iuta aiuta un danese
 Un danese è sempre cortese
 Puoi prestargli una crema solare
@@ -42,7 +42,8 @@ E pagar
 Gli ombrelloni, i lettini, la pizza, i gelati del bar
 Tutti al mar
 Ma con la protezione solar
-You might also like[Ritornello]
+
+[Ritornello]
 A-a-iuta aiuta un danese
 Un danese è sempre cortese
 Puoi prestargli una crema solare
@@ -50,4 +51,4 @@ Meglio se protezione totale
 A-a-iuta aiuta un danese
 Un danese è senza difese
 Puoi prestargli una crema solare
-Meglio se protezione totaleEmbed
+Meglio se protezione totale

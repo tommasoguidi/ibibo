@@ -1,4 +1,4 @@
-Ansia e sapone Lyrics[Testo di "Ansia e sapone"]
+[Testo di "Ansia e sapone"]
 
 [Strofa 1]
 Ma come si fa
@@ -42,7 +42,8 @@ Fanno pendant con le tue scarpe nuove
 Ma fan novanta gradi le paranoie
 Vedrai che dopo stanno bene
 Vestono bene
-You might also like[Ritornello]
+
+[Ritornello]
 E cambia tutto, cazzo, tranne me
 Parlano tutti bene tranne me
 Escono bene in foto tranne me che senza te-e
@@ -59,4 +60,4 @@ Ma il mondo gira anche senza di te
 Costellazioni le mie ansie
 Che guardano dall'alto e brillano di notte
 Che quando cala il sole ti ci prendi a botte
-Ti ci prendi a botteEmbed
+Ti ci prendi a botte

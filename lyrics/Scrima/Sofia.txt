@@ -1,4 +1,4 @@
-Sofia Lyrics[Strofa 1]
+[Strofa 1]
 Io odio le notti in tangenziale
 Le luci di natale che parlano di te
 Io odio le briciole sul letto
@@ -35,7 +35,8 @@ Voglio parlare da solo
 Come quand'ero bambino
 Voglio morire da solo
 Per finta, un minuto
-You might also like[Ritornello]
+
+[Ritornello]
 Io sono qua
 Stanotte lo giuro
 Con le tue foto attacate sul muro
@@ -84,4 +85,4 @@ Sofia, Sofia, Sofia, Sofia
 Non c'è niente che non va
 Sofia, Sofia, Sofia, Sofia
 Non c'è niente che non va
-Sofia, Sofia, Sofia, SofiaEmbed
+Sofia, Sofia, Sofia, Sofia

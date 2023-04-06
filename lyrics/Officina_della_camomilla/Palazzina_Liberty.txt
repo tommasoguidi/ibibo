@@ -1,4 +1,4 @@
-Palazzina Liberty Lyrics[Strofa]
+[Strofa]
 Palazzina Liberty Violencia
 Palazzina Liberty Polena Antiaccademica
 Palazzina Liberty Isola
@@ -38,8 +38,9 @@ Sfuma di là
 
 [Bridge]
 La realtà
-You might also like[Ritornello]
+
+[Ritornello]
 Palazzina Liberty
 Palazzina Liberty
 Palazzina Liberty
-Palazzina LibertyEmbed
+Palazzina Liberty

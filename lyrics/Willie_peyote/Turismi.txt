@@ -1,4 +1,4 @@
-Turismi Lyrics[Testo di "Turismi"]
+[Testo di "Turismi"]
 
 [Intro]
 Qui si fa così, beh, come sennò?
@@ -55,7 +55,8 @@ Come Fabrizio Corona
 Lo vedrei bene in cassa al McDonald's
 Con quei finalisti, li hai visti? In certi reality tristi
 E l'unico talento che hanno è di quello che passa di lì per caso: turismi
-You might also like[Ritornello]
+
+[Ritornello]
 Se Dio esistesse parlerebbe di sé in terza persona
 Come Diego Armando Maradona
 Se Dio esistesse parlerebbe di sé in terza persona
@@ -73,4 +74,4 @@ Che non hai possibilità
 Dimmi che non hai possibilità
 Che non hai possibilità
 Dimmi che non hai possibilità
-Che non hai possibilitàEmbed
+Che non hai possibilità

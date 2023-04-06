@@ -1,4 +1,4 @@
-Ti siedi Lyrics[Testo di "Ti siedi"]
+[Testo di "Ti siedi"]
 
 [Strofa 1]
 Poi ti siedi
@@ -36,10 +36,11 @@ E da lontano
 Mi chiami, mi chiami, mi chiami, mi chiami
 Mi chiami, però già lo sai
 Che ormai non mi vuoi più
-You might also like[Ritornello]
+
+[Ritornello]
 E ti chiedi da quanto tempo
 Tu non fai una scoperta
 E ti chiedi da quanto tempo
 Tu non fai una scoperta
 Tu non fai una scoperta
-Tu non fai una scopertaEmbed
+Tu non fai una scoperta

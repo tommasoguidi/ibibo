@@ -1,4 +1,4 @@
-Colpa del vino Lyrics[Testo di "Colpa del vino"]
+[Testo di "Colpa del vino"]
 
 [Strofa 1]
 Mi sveglio pensando è mattina, ma sono le tre
@@ -42,7 +42,8 @@ E a volte poi ti senti ridicolo
 Come quando sei sbronzo, ripeti no e ti convincono
 E sembra oro colato qualsiasi cosa ti dicono
 Scrivo solo il mio libro ma da domani c’è un nuovo capitolo
-You might also like[Ritornello]
+
+[Ritornello]
 Tu non lo sai (cosa?)
 Che la colpa non è la mia
 Ma è colpa del vino
@@ -56,4 +57,4 @@ Se è quasi mattino ed io sto ancora in giro e ti scrivo
 Questa notte sto in cattiva compagnia
 Tu non sei più mia
 Faccio squillare il tuo telefono
-Fin quando non risponde la segreteria1Embed
+Fin quando non risponde la segreteria

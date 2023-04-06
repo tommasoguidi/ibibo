@@ -1,4 +1,4 @@
-Ti sposerai Lyrics[Testo di "Ti sposerai"]
+[Testo di "Ti sposerai"]
 
 [Strofa 1]
 Le viola erano rosa, le margherite blu
@@ -41,7 +41,8 @@ E io non ci credevo che stava lì per noi
 Chissà se pure tu la cerchi mai
 T'ho scritto una canzone, quando l'ascolterai
 Sorriderai
-You might also like[Ritornello]
+
+[Ritornello]
 Eh eh, eh eh
 Sorriderai
 Eh eh, eh eh
@@ -49,4 +50,4 @@ Sparirai
 Eh eh, eh eh
 Sparirai
 Eh eh, eh eh
-Sparirai3Embed
+Sparirai

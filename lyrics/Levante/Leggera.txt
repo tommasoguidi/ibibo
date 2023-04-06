@@ -1,4 +1,4 @@
-Leggera Lyrics[Testo di "Leggera"]
+[Testo di "Leggera"]
 
 [Strofa 1]
 Fino a qui mi sembra bene
@@ -37,8 +37,9 @@ Ma quanti sogni servono a distinguere l'amore?
 Quanti sogni servono a salvarsi da un dolore?
 Quanti sogni servono a sentir di meritare?
 Quanti sogni servono a volare, volare?
-You might also like[Ritornello 1]
+
+[Ritornello 1]
 Anima così sincera
 Che non ti sembra vero quanto volo in alto
 Sotto i piedi ho ancora questo cielo ancora
-Questo cielo ancoraEmbed
+Questo cielo ancora

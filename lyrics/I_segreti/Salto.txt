@@ -1,4 +1,4 @@
-Salto Lyrics[Testo di "Salto"]
+[Testo di "Salto"]
 
 [Strofa  1]
 Salto
@@ -39,7 +39,8 @@ Per ogni inizio c'è sempre un finale
 E al futuro che mi arriva, ah
 E che dovrò affrontare
 E che dovrò affrontare
-You might also like[Bridge]
+
+[Bridge]
 E torna tutto come prima, ah
 E ricomincio a pensare
 Che si parte per poi ritornare
@@ -62,4 +63,4 @@ E ricomincio a pensare
 Che si parte per poi ritornare
 E al futuro che mi arriva, ah
 E che dovrò affrontare
-E che dovrò affrontareEmbed
+E che dovrò affrontare

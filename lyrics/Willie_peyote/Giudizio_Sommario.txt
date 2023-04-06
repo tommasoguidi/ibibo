@@ -1,4 +1,4 @@
-Giudizio Sommario Lyrics[Testo di "Giudizio Sommario"]
+[Testo di "Giudizio Sommario"]
 
 [Strofa 1]
 La vita è breve
@@ -47,7 +47,8 @@ Falso e cortese? No, freddo e formale
 Mi faccio troppe domande? Perfetto, è normale
 Ho la testa troppo pesante per fare musica leggera
 E amo troppo la verità per fare carriera
-You might also like[Ritornello]
+
+[Ritornello]
 Perché poi visto da fuori sono io l'anomalia
 Ho rinunciato a questa vostra liturgia
 Con l'orgoglio di essere sbagliato e il trauma di essere diverso
@@ -67,4 +68,4 @@ Come Gesù accettò il giudizio degli ebrei
 Ma non c'entra col volere degli dei
 Non sai quello che vuoi, non sai quello che sei
 
-[Outro]1Embed
+[Outro]

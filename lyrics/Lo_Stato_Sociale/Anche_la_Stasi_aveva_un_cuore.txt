@@ -1,4 +1,4 @@
-Anche la Stasi aveva un cuore Lyrics[Testo di "Anche la Stasi aveva un cuore"]
+[Testo di "Anche la Stasi aveva un cuore"]
 
 [Strofa 1]
 Hell is round the corner where I shelter
@@ -40,9 +40,10 @@ Perché questa è la nostra barca
 Tieni il timone con una pistola
 Ben salda alla tempia
 Ma solo è piombo che io sciolgo tra i tuoi pensieri
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Anche la Stasi aveva un cuore
 Abito qua
 Abito qua
 Abito qua
-Abito quaEmbed
+Abito qua

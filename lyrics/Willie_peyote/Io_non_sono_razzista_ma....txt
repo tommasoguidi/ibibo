@@ -1,4 +1,4 @@
-Io non sono razzista ma... Lyrics[Testo di "Io non sono razzista ma..."]
+[Testo di "Io non sono razzista ma..."]
 
 [Intro]
 Mi piace guidare nei giorni di pioggia
@@ -35,7 +35,8 @@ Parla di equità, ce ne fosse la metà
 Saremmo già da un pezzo in fuga in mare aperto, eh
 Parla di onestà, ce ne fosse la metà
 Sareste già da un pezzo prossimi all'arresto, eh
-You might also like[Ritornello]
+
+[Ritornello]
 Chi dice "io non sono un razzista ma"
 È un razzista ma non lo sa
 Chi dice "io non sono un razzista ma"
@@ -84,4 +85,4 @@ Chi dice "io non sono un razzista ma"
 Parla di equità, ce ne fosse la metà
 Saremmo già da un pezzo in fuga in mare aperto, eh
 Parla di onestà, ce ne fosse la metà
-Sareste già da un pezzo prossimi all'arresto, ehEmbed
+Sareste già da un pezzo prossimi all'arresto, eh

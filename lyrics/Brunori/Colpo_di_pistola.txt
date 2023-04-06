@@ -1,4 +1,4 @@
-Colpo di pistola Lyrics[Testo di "Colpo di pistola"]
+[Testo di "Colpo di pistola"]
 
 [Strofa 1]
 Perché lei non mi amasse non lo so
@@ -44,8 +44,9 @@ E poi perché l'ho fatto non lo so
 Forse per non sentire ancora un altro no
 Uscire dalla sua bocca dorata
 Prima l'ho uccisa e dopo l'ho baciata
-You might also like[Ritornello]
+
+[Ritornello]
 L'amore, il mio amore è un colpo di pistola
 L'amore, l'amore è una fanfara che suona la nostra canzone
 È un nodo intorno al collo
-Nel buio di una prigioneEmbed
+Nel buio di una prigione

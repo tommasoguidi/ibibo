@@ -1,4 +1,4 @@
-Marco il pazzo Lyrics[Strofa 1]
+[Strofa 1]
 Questa è la storia, l’incredibile storia
 Di Marco, un bambino iperattivo
 Quando certe sere girava male
@@ -44,8 +44,9 @@ E abbiamo un mucchio di problemi
 E siamo tutti un po' stonati
 Il coro della vita non ci vuole più
 Il coro della vita non ci vuole”
-You might also like[Outro]
+
+[Outro]
 Ma lo sappiamo come vanno a finire certe storie
 Arrivano sempre i signori con la divisa
 Che puntano il dito e cominciano a rompere
-Con la storia dell’ordine che va ristabilitoEmbed
+Con la storia dell’ordine che va ristabilito

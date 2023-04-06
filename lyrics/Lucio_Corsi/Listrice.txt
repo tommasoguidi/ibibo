@@ -1,4 +1,4 @@
-L’istrice Lyrics[Strofa]
+[Strofa]
 Se la bellezza dei fiori non fosse
 Nei petali ma nelle spine
 Vi darebbero la caccia
@@ -46,7 +46,8 @@ E la leggende dice voi siete
 Gli indiani, le piume, le trecce
 Sparate punte, evoluzioni di pelo
 Che tinge l'azzurro di nero
-You might also like[Ritornello]
+
+[Ritornello]
 Pensa che palle
 Mille giorni di fuga
 Il buttero sopra il cavallo
@@ -91,4 +92,4 @@ O a far compagnia ai morti
 Pensa che buio
 Pensa che silenzio
 A sparare le spine ai fantasmi
-Non c'è divertimentoEmbed
+Non c'è divertimento

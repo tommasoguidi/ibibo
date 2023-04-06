@@ -1,4 +1,4 @@
-Inedito (Con batteria) Lyrics[Testo di "Inedito (Con batteria)"]
+[Testo di "Inedito (Con batteria)"]
 
 [Ritornello]
 Controllo elettronico della velocità
@@ -52,7 +52,8 @@ Controllo elettronico della velocità
 Per chi è lontano e non merita di arrivare in città
 Per chi è distante chilometri dalla felicità
 E chi rimpiange la giovane età
-You might also like[Strofa 2]
+
+[Strofa 2]
 Fatti di provincia
 Dove la voglia ti finisce e ti ricomincia
 Dove nessuno ti capisce e puoi fare finta
@@ -90,4 +91,4 @@ E chi rimpiange la giovane età
 Controllo elettronico della velocità
 Per chi è lontano e non merita di arrivare in città
 Per chi è distante chilometri dalla felicità
-E chi rimpiange la giovane etàEmbed
+E chi rimpiange la giovane età

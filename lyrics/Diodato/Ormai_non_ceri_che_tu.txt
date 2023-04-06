@@ -1,4 +1,4 @@
-Ormai non c’eri che tu Lyrics[Testo di "Ormai non c'eri che tu"]
+[Testo di "Ormai non c'eri che tu"]
 
 [Strofa 1]
 Io non avevo visto mai niente di così vero
@@ -37,9 +37,10 @@ Mentre bruciava il cielo
 Mentre moriva il sole
 Io ti gridavo forte dentro una canzone
 Che ormai non c'eri
-You might also like[Outro]
+
+[Outro]
 Ormai non c'eri che tu
 Ormai non c'eri che tu
 Ormai non c'eri che tu
 Ormai non c'eri che tu
-Ormai non c'eriEmbed
+Ormai non c'eri

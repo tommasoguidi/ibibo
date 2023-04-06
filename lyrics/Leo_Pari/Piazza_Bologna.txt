@@ -1,4 +1,4 @@
-Piazza Bologna Lyrics[Testo di "Piazza Bologna"]
+[Testo di "Piazza Bologna"]
 
 [Ritornello]
 Baciami a Piazza Bologna
@@ -42,7 +42,8 @@ Anche se forse ho fatto un sbaglio
 Non ci cambieranno
 In bocca c'hai un po' di sabbia
 Dai, sputala quella rabbia
-You might also like[Ritornello]
+
+[Ritornello]
 Baciami a Piazza Bologna
 Come due anni fa a Villa Torlonia, senza vergogna
 Baciami, tanto il passato non torna, è una carogna
@@ -56,4 +57,4 @@ Na-na-na-na-na, ancora più forte
 Na-na-na-na-na, ancora più forte
 Na-na-na-na-na, ancora più forte
 Na-na-na-na-na
-Na-na-na-na-naEmbed
+Na-na-na-na-na

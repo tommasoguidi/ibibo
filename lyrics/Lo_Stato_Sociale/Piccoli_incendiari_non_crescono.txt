@@ -1,4 +1,4 @@
-Piccoli incendiari non crescono Lyrics[Testo di "Piccoli incendiari non crescono"]
+[Testo di "Piccoli incendiari non crescono"]
 
 [Intro]
 Oh-oh-oh, la-la-la-la
@@ -42,7 +42,8 @@ Fare carriera è davvero importante
 Dormire la sera è davvero importante
 Bruciare calorie è davvero importante
 Ma è più divertente bruciare le cose
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Ho amici che han sempre votato bene
 Amiche che fingono di godere
 Bambini che si fanno ritoccare
@@ -70,4 +71,4 @@ La quota rosa è davvero importante
 Il pollice verde è davvero importante
 Ma i colori si accendono così quando brucian le cose
 Oh-oh-oh-oh
-Oh, oh, ohEmbed
+Oh, oh, oh

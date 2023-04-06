@@ -1,4 +1,4 @@
-Un finale migliore Lyrics[Testo di "Un finale migliore"]
+[Testo di "Un finale migliore"]
 
 [Strofa 1]
 Ma ci dormi ancora con le mie magliette?
@@ -40,7 +40,8 @@ Tu da me resta o vai via
 Vai via da me
 Ma se non siamo niente io e te
 Tu per me cosa sei
-You might also like[Strofa 3]
+
+[Strofa 3]
 Forse non siamo niente io e te
 Mi chiedo quello sguardo dov'è
 Ma se non siamo niente io e te
@@ -65,4 +66,4 @@ Ma se non sono fatto per te
 Tu da me resta o vai via
 Vai via da me
 Ma se non siamo niente io e te
-Tu per me cosa seiEmbed
+Tu per me cosa sei

@@ -1,4 +1,4 @@
-Il mostro Lyrics[Testo di "Il mostro"]
+[Testo di "Il mostro"]
 
 [Strofa 1]
 Oggi casa nostra sembra una trincea
@@ -38,7 +38,8 @@ Il fumo denso fa nuvole e nel silenzio nessuno che
 Corre il rischio di fare un passo anche falso
 Verso l'altro siamo aquile enigmatiche
 E per paura voliamo basso
-You might also like[Ritornello]
+
+[Ritornello]
 Allora chi è il mostro tra di noi?
 Hai voglia di scommetterci che
 Se mi volto prima o poi ogni lama ti riflette
@@ -62,4 +63,4 @@ Hai voglia di scommetterci che
 Se mi volto prima o poi ogni lama ti riflette
 Chi è al posto che tu vuoi?
 Io, ma non puoi scommetterci
-Se ti volti prima o poi non c'è più nessuno con teEmbed
+Se ti volti prima o poi non c'è più nessuno con te

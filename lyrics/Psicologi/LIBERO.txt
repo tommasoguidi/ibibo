@@ -1,4 +1,4 @@
-LIBERO Lyrics[Testo di "LIBERO" ft. Franco126]
+[Testo di "LIBERO" ft. Franco126]
 
 [Intro: Drast]
 Voglio sentirmi libero, libero, libero
@@ -38,7 +38,8 @@ Con te mi sento libero, libero, libero
 In bilico in un bilocale senza ossigeno
 Non vorrei stare qui però
 Da un po' io non mi sento libero
-You might also like[Post-Ritornello: Drast]
+
+[Post-Ritornello: Drast]
 Da un po' io non mi sento libero
 Da un po' io non mi sento libero
 
@@ -69,4 +70,4 @@ Da un po' io non mi sento libero
 Ora che anche la pioggia è andata via
 Dai muri fragili di casa mia, chi mi fa compagnia?
 Mi hai lasciato solo una tela bianca
-Ti sei portata via la fantasiaEmbed
+Ti sei portata via la fantasia

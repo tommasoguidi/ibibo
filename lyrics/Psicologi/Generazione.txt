@@ -1,4 +1,4 @@
-Generazione Lyrics[Testo di "Generazione"]
+[Testo di "Generazione"]
 
 [Strofa 1: Drast]
 Sto lontano da situazioni pericolose
@@ -40,7 +40,8 @@ Il mio amico ha un processo se finisce in arresto
 Bevo fino al decesso e non mi sento me stesso
 E per questo ti cerco e poi mi detesto
 E come un tossico c'ho freddo
-You might also like[Bridge: Drast]
+
+[Bridge: Drast]
 Mi hanno detto che
 Le persone migliori rimangono da sole
 Che non posso più fare sempre come mi pare
@@ -58,4 +59,4 @@ Che il problema in Italia è la mia generazione
 Mi hanno detto che
 Le persone come me rendono il mondo peggiore
 Non resta che guardare questo mondo che cade
-Ma noi abbiamo l'amore e loro hanno le pistoleEmbed
+Ma noi abbiamo l'amore e loro hanno le pistole

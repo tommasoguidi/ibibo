@@ -1,4 +1,4 @@
-Metà mondo Lyrics[Testo di "Metà mondo"]
+[Testo di "Metà mondo"]
 
 [Strofa 1]
 Sciamani in cerchio che fumano erbe
@@ -37,7 +37,8 @@ Io mi innamoro a pelle di un colore diverso
 [Pre-Ritornello]
 Oh vita mia, voglio darti l'amore che c'è
 E se poi volo via è per vedere se vieni con me
-You might also like[Ritornello]
+
+[Ritornello]
 Ho fatto un segno sul mappamondo
 Lascio le chiavi, ecco il passaporto
 Mi confondo con il mondo e giro intorno, intorno
@@ -65,4 +66,4 @@ Ma se ti manco poi ritorno
 Se ci veniamo incontro ci vediamo a metà mondo
 A metà mondo, a metà mondo
 A metà mondo
-Se ci veniamo incontro ci vediamo a metà mondoEmbed
+Se ci veniamo incontro ci vediamo a metà mondo

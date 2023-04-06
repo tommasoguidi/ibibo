@@ -1,4 +1,4 @@
-Hopper Lyrics[Testo di "Hopper"]
+[Testo di "Hopper"]
 
 [Strofa 1]
 Tu sempre sola come i quadri di Hopper
@@ -44,7 +44,8 @@ Ti porti al mare da sola come sei rara
 Vedi le terre da lontano, Netriana
 Ti salvi il cuore, sì, con una passeggiata
 Ma ti fermi e aspetti il mondo se ha la scarpa slacciata
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E quanti scontri, quanti sforzi
 Respiri forti, andare avanti
 Per questi sogni infranti
@@ -75,4 +76,4 @@ Che sembri nata per rialzarti
 Così abituata a rialzarti
 Che sembri nata per cadere
 Ma goditi il cielo se cadi
-Che l'alba è bella vista da sdraiatiEmbed
+Che l'alba è bella vista da sdraiati

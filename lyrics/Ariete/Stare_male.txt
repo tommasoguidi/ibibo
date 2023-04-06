@@ -1,4 +1,4 @@
-Stare male Lyrics[Testo di "Stare male"]
+[Testo di "Stare male"]
 
 [Strofa 1]
 Vorrei fosse facile spiegare
@@ -38,7 +38,8 @@ Denuncio tutti i ricordi
 Ma penso però: "Ti ricordi?"
 Prima stavi bene
 Perché stare male, perché stare male così?
-You might also like[Outro]
+
+[Outro]
 E non voglio più restarci male
 Per queste cazzate che rovinano le mie giornate
 No, non voglio più restarci male
@@ -46,4 +47,4 @@ Per queste cazzate che rovinano le mie giornate
 No, non voglio più restarci male
 No, non voglio più restarci male
 No, non voglio più restarci male
-Con queste cazzate mi rovino tutte le giornateEmbed
+Con queste cazzate mi rovino tutte le giornate

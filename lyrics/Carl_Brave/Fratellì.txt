@@ -1,4 +1,4 @@
-Fratellì Lyrics[Testo di "Fratellì"]
+[Testo di "Fratellì"]
 
 [Intro]
 Ehi, ehi
@@ -68,7 +68,8 @@ E ti accolla un po' meno di quello che pensa tu dovresti avere
 Fa una chiamata, sì, poi ti fa bere
 Dai fratellino che i soldi finiscono in breve
 Buffi ti inseguono e non ti fa bene
-You might also like[Ritornello]
+
+[Ritornello]
 A fratellì, smettila, smettila con quella roba lì
 Daje fratellino, smettila, smettila e daje, non fa' così
 A fratellì, smettila, smettila con quella roba lì
@@ -82,4 +83,4 @@ Smettila fratellì
 Smettila, smettila, smettila
 Con quella roba lì
 Smettila, smettila, smettila
-Smettila, fratellìEmbed
+Smettila, fratellì

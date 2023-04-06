@@ -1,4 +1,4 @@
-Piano B Lyrics[Testo di "Piano B"]
+[Testo di "Piano B"]
 
 [Intro]
 Qui al posto mio
@@ -49,7 +49,8 @@ Io che di base nei festivi vado mega in para
 Dicono: "Scrivi che di solito da te s'impara"
 Ma non vorrei che fosse un film di cui sai già la trama
 Di chi sai già chi bara
-You might also like[Interludio]
+
+[Interludio]
 C'è solamente un modo per capire che non è
 Sempre ciò che temo a farmi credere in me
 Se tutto fosse easy scriverei niente di che
@@ -80,4 +81,4 @@ Torno indietro e amen
 Mi diverto uguale
 Guardo il limite
 Ma ora posso riderne
-Ma ora posso riderneEmbed
+Ma ora posso riderne

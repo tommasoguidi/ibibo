@@ -1,4 +1,4 @@
-Cuoreintero Lyrics[Testo di "Cuoreintero"]
+[Testo di "Cuoreintero"]
 
 [Strofa 1]
 Niente di nuovo
@@ -40,8 +40,9 @@ Perché ho bisogno di naufragare
 Per trovare qualcosa di vero
 Perché ho bisogno di naufragare
 Per trovare qualcosa di vero
-You might also like[Ritornello]
+
+[Ritornello]
 Ma il cuore è intero
 Il cuore è nero
 Forse dovrei ripartire da zero
-Per amarmi da soloEmbed
+Per amarmi da solo

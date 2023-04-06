@@ -1,4 +1,4 @@
-Lettera al prossimo Lyrics[Testo di "Lettera al prossimo"]
+[Testo di "Lettera al prossimo"]
 
 [Strofa 1]
 Mi sento come quando piove con il sole
@@ -40,7 +40,8 @@ Giurami che veglierai con me
 Sennò poi domani saranno guai
 Giurami che veglierai con me
 Se no poi domani saranno guai
-You might also like[Strofa 3]
+
+[Strofa 3]
 E in tutto questo presente
 Noi fatichiamo a definirci
 Ma il vuoto dentro si vede meno
@@ -68,4 +69,4 @@ Sennò poi domani saranno guai
 Giurami che veglierai con me
 Sennò poi domani saranno guai
 Giurami che veglierai con me
-Se no poi domani saranno guaiEmbed
+Se no poi domani saranno guai

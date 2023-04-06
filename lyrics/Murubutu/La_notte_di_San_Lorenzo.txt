@@ -1,4 +1,4 @@
-La notte di San Lorenzo Lyrics[Testo di "La notte di San Lorenzo"]
+[Testo di "La notte di San Lorenzo"]
 
 [Strofa 1]
 E quindi adesso sei tornata a salutare nel paese
@@ -67,7 +67,8 @@ Tu ti sei fatta grande, hai un lavoro e due soldi
 E adesso che tu vivi in una gran città
 Io sto ancora qui scalzo, felice come in quei giorni tra i monti
 E ho sempre quella stessa età
-You might also like[Ritornello]
+
+[Ritornello]
 Dai, prendi e dai, e forse lo sai
 E cosa ne sai
 'Ste notti non torneranno mai
@@ -82,4 +83,4 @@ Ritornerai a salutarmi in questi giorni qua
 È vero, vero, vero
 Passi un giorno, un anno intero
 Tanto mi ritroverai
-In ogni notte sopra le città4Embed
+In ogni notte sopra le città

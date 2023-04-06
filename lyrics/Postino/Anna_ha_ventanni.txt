@@ -1,4 +1,4 @@
-Anna ha vent’anni Lyrics[Testo di "Anna ha vent'anni"]
+[Testo di "Anna ha vent'anni"]
 
 [Strofa 1]
 Anna ha vent'anni, ha sempre vissuto di illusioni
@@ -50,7 +50,8 @@ In questo momento di cambiamento, tanto non ci riguarda
 O se ci riguarda non ci pensiamo
 Ma se ci fermiamo un attimo
 Capiamo che Anna in fondo siamo noi, perciò
-You might also like[Ritornello]
+
+[Ritornello]
 No, non cambierà più
 Il mondo è così com'è
 Prima o poi, cambierà anche te
@@ -58,4 +59,4 @@ Non si laverà più la merda che c'è
 Intorno a me e dentro di me
 
 E non voglio perdere parti di, parti di me
-Vorrei chiedere al tempo di tornare indietro un po'Embed
+Vorrei chiedere al tempo di tornare indietro un po'

@@ -1,4 +1,4 @@
-Nonostante sia Lyrics[Testo di "Nonostante sia"]
+[Testo di "Nonostante sia"]
 
 [Intro]
 Yeah
@@ -39,7 +39,8 @@ Per me, che era una cosa bella
 E posso solamente immaginare ciò che ti tormenta
 Ci penso quando è sera e la mia luce è spenta
 Non ti ho mai detto quella frase e vado verso i trenta
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Nonostante sia
 Molto più facile ora dirsi addio
 Nonostante dia
@@ -89,4 +90,4 @@ Rischio sempre un po' di cedere, di guardare in basso
 Non riusciamo più a frenare ed evitare lo schianto
 Ti ricordi più il motivo l'ultima volta che hai pianto con me?
 Hai pianto con me (Yeah)
-Abbiamo bevuto fino a piangere2Embed
+Abbiamo bevuto fino a piangere

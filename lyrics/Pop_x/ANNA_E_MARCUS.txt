@@ -1,4 +1,4 @@
-ANNA E MARCUS Lyrics[Testo di "ANNA E MARCUS"]
+[Testo di "ANNA E MARCUS"]
 
 [Strofa 1]
 Anna come sono tante
@@ -43,7 +43,8 @@ Ma l'America è lontana
 Dall'altra parte della luna
 Che li guarda e anche se ride
 A vederla mette quasi paura
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 E la luna in silenzio ora si avvicina
 Con un mucchio di stelle cade per strade
 Luna che cammina
@@ -55,4 +56,4 @@ Li guarda, abbaia e se ne va
 Anna avrebbe voluto morire
 Marco voleva andarsene lontano
 Uno li ha visti tornare
-Tenendosi per manoEmbed
+Tenendosi per mano

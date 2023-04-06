@@ -1,4 +1,4 @@
-Dafne sa contare Lyrics[Testo di "Dafne sa contare" ft. Dia]
+[Testo di "Dafne sa contare" ft. Dia]
 
 [Intro: Dia & Murubutu]
 Ah-ah-ah-ah-ah-ah-ah
@@ -72,7 +72,8 @@ Sale in terrazzo, guarda giù in basso
 Muove di un passo, Dafne non guarda
 Dafne sa contare, conta: due, tre, quattro (Ah-ah-ah)
 Dafne non c'è più, si è trasformata in aria (Ah-ah-ah)
-You might also like[Ritornello: Murubutu, Dia, Murubutu & Dia]
+
+[Ritornello: Murubutu, Dia, Murubutu & Dia]
 E quando rise (Quando rise), e quando finse, e quando lo decise
 E quando disse (Quando disse): "'Sto destino non avrà mai fine"
 E quando spinse (Quando spinse), quando visse, quando se lo ammise
@@ -96,4 +97,4 @@ Seh, seh
 "Tu non potrai scappare"
 Seh, seh
 Però potrò contare: uno, due, tre, quattro
-DafneEmbed
+Dafne

@@ -1,4 +1,4 @@
-Sabato Sera Lyrics[Strofa 1]
+[Strofa 1]
 Vorrei fotografare le parole
 Per raggiungere la stessa sensazione che si prova
 Mentre scrivi una canzone quando piove con il sole
@@ -42,7 +42,8 @@ Vuoi ballare sopra i prati illuminati
 Con la bici e con gli occhiali da sole
 Le canzoni escono fuori dalle macchine e dai bar
 Ma poi tu accendi la TV
-You might also like[Bridge]
+
+[Bridge]
 Accendi la TV e non voli più
 Accendi la TV e non voli più
 Accendi la TV e non voli più
@@ -57,4 +58,4 @@ Tra le luci provocate da esplosioni meteoriti e scie di gas
 E adesso che è primavera
 Vuoi ballare sopra i prati illuminati
 Con la bici e con gli occhiali da sole
-Le canzoniì escono fuori dalle macchine e dai barEmbed
+Le canzoniì escono fuori dalle macchine e dai bar

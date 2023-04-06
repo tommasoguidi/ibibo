@@ -1,4 +1,4 @@
-Sempre il buio Lyrics[Testo di "Sempre il buio"]
+[Testo di "Sempre il buio"]
 
 [Intro]
 E prima non c'era una nuvola
@@ -46,7 +46,8 @@ E quanto tempo è passato dall'ultima volta
 Che mi sono sentito così a terra
 Ho perso un'occasione, vado un po' di fretta
 Mi parlano alle spalle, voglio la vendetta
-You might also like[Ritornello]
+
+[Ritornello]
 E prima non c'era una nuvola
 Ma questa luna non si fa vedere
 Anche se scappo in un'altra città
@@ -59,4 +60,4 @@ Anche se scappo in un'altra città
 Ma prima non c'era una nuvola
 Ma questa luna non si fa vedere
 Anche se scappo in un'altra città
-Mi segue sempre il buioEmbed
+Mi segue sempre il buio

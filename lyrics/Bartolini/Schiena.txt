@@ -1,4 +1,4 @@
-Schiena Lyrics[Testo di "Schiena"]
+[Testo di "Schiena"]
 
 [Strofa 1]
 La solitudine, sai
@@ -36,7 +36,8 @@ E mi rigiro perché qui non dormo
 Ormai dal 2003
 E tu cammini con un altro stronzo
 Che non somiglia più a me
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E anche se fuori non piove
 In questa stanza muore
 Ogni ricordo in cui in fondo non sorridi mai
@@ -55,4 +56,4 @@ E ho digerito le parole che non dici mai
 E chissà, chissà
 Chissà che cosa farai
 E chissà, chissà
-Chissà che cosa faraiEmbed
+Chissà che cosa farai

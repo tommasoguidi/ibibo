@@ -1,4 +1,4 @@
-È il momento Lyrics[Testo di "È Il Momento"]
+[Testo di "È Il Momento"]
 
 [Intro]
 Se va così
@@ -39,7 +39,8 @@ Ne ho viste miliardi di migliaia di milioni
 Ma quelli come me
 Sono uno su un miliardo di migliaia di milioni
 Uno su un miliardo di migliaia di milioni
-You might also like[Strofa 2]
+
+[Strofa 2]
 Quanto vuoi giocare ancora a distrarti?
 Per quanto vuoi tenerci distanti?
 Se diamo per scontato che se giochi con gli sguardi
@@ -56,4 +57,4 @@ Mentre qui ballano vieni più vicino
 E lascia che le chiacchiere portino alla notte che ci resta
 Sfrega le labbra, muovi la testa
 
-[Rit](x2)Embed
+[Rit](x2)

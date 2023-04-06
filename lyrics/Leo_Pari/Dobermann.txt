@@ -1,4 +1,4 @@
-Dobermann Lyrics[Testo di "Dobermann"]
+[Testo di "Dobermann"]
 
 [Strofa 1]
 Che bei sogni, che bei sogni che fai
@@ -42,7 +42,8 @@ Non puoi frenare
 Il cuore è veloce
 La notte è feroce con noi
 Non ti fermare mai
-You might also like[Bridge]
+
+[Bridge]
 Che begli occhi, che begli occhi che hai
 Che bei sogni, che bei sogni che fai
 
@@ -55,4 +56,4 @@ L'amore ci rincorre come un dobermann
 (Non ti voltare)
 Il cuore è feroce
 La notte è feroce con noi
-Non ti fermare maiEmbed
+Non ti fermare mai

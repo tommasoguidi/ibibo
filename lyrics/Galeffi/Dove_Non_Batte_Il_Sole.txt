@@ -1,4 +1,4 @@
-Dove Non Batte Il Sole Lyrics[Testo di "Dove Non Batte Il Sole"]
+[Testo di "Dove Non Batte Il Sole"]
 
 [Strofa 1]
 Sono secoli che
@@ -40,7 +40,8 @@ Non moriremo di freddo
 Questa notte, no
 Non resteremo da soli nel letto
 Questa notte, no
-You might also like[Bridge]
+
+[Bridge]
 Sempre lo stesso sogno
 Con io che ti chiamo e ti chiamo
 E ti porto dove non ci vede nessuno
@@ -52,4 +53,4 @@ Però, io una cosa la so
 Non moriremo di freddo
 Questa notte, no
 Non resteremo da soli nel letto
-Questa notte, noEmbed
+Questa notte, no

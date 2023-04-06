@@ -1,4 +1,4 @@
-Freccia Lyrics[Testo di "Freccia"]
+[Testo di "Freccia"]
 
 [Strofa 1]
 Portami a un poligono di tiro
@@ -33,7 +33,8 @@ Ad un barattolo senza sporcarsi almeno un po'?
 Ma tu lo sai che sono un salice piangente
 Che di triste ha solo il nome ma non piange veramente?
 Tu lo sai che a volte basta una risata per convincermi?
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Chi ce la fa ad evitare tutto il tempo una salita
 Che sbuca fuori all'improvviso?
 Chi ce la fa ad arrivare fino in fondo con le dita
@@ -41,4 +42,4 @@ Ad un barattolo?
 Chi ce la fa ad evitare tutto il tempo una salita
 Che sbuca fuori all'improvviso?
 Chi ce la fa ad arrivare fino in fondo ad una vita
-Senza un ostacolo, senza farsi male maiEmbed
+Senza un ostacolo, senza farsi male mai

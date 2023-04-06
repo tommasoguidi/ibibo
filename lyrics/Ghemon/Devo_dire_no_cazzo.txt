@@ -1,4 +1,4 @@
-Devo dire no, cazzo! Lyrics[Testo di "Devo Dire No, Cazzo!"]
+[Testo di "Devo Dire No, Cazzo!"]
 
 [Intro]
 Io ora devo essere forte
@@ -48,7 +48,8 @@ Perderemmo sincronia se parlassi
 Sintonia e dovremmo riprogrammarci
 La nostra è sinergia e se sbaglio t'incazzi
 Ma quando sbagli tu rinfacci
-You might also like[Bridge]
+
+[Bridge]
 Ogni ora, ogni secondo, ogni minuto
 Ogni ora, ogni secondo, ogni minuto
 Ogni ora, ogni secondo, ogni minuto
@@ -68,4 +69,4 @@ Allora io ogni volta mi devo fare tutto questo ragionamento
 In testa
 E poi dopo lei fa quella faccia che io
 Non sono capace più a dirle... niente
-Eeh eh non va bene così, non va beneEmbed
+Eeh eh non va bene così, non va bene

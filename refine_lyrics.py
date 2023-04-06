@@ -26,6 +26,7 @@ for path in progress:
 
     if re.search(r0, _text) is None:
         deleted += 1
+        # print(f'Deleting {path}...')
         path.unlink()
     else:
         refined_text = re.sub(r1, r'', _text)

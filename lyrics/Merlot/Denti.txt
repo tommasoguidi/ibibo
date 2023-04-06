@@ -1,4 +1,4 @@
-Denti Lyrics[Testo di "Denti"]
+[Testo di "Denti"]
 
 [Strofa 1]
 Ti ho chiesto scusa, adesso resta qui
@@ -44,7 +44,8 @@ In fondo è andato come van le cose
 Sempre a puttane, spine sulle rose
 Baci sui denti, morsi sulle gambe
 Un po' ti amo, un po' fatti da parte
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Oh, non dirmi che oramai
 Son state pagine scure
 Ora ti perdi negli occhi suoi
@@ -69,4 +70,4 @@ Gli occhi mi esplodono quando ti perdi
 Con quei coglioni la sera alle feste
 Io non ci riesco ancora, non ci riesco
 Dammi un motivo per lasciarti andare
-Te ne do mille per ricominciareEmbed
+Te ne do mille per ricominciare

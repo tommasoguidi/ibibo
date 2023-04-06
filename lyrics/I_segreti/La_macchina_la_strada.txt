@@ -1,4 +1,4 @@
-La macchina, la strada Lyrics[Testo di "La macchina, la strada"]
+[Testo di "La macchina, la strada"]
 
 [Strofa 1]
 Giro a vuoto
@@ -35,7 +35,8 @@ La macchina, la strada, pensieri sparsi su di te
 E adesso
 Settembre non mi porterà mai via
 Dalle facce che faccio, dalla mia apatia
-You might also like[Bridge]
+
+[Bridge]
 E quant’è bello accelerare
 Andare stando fermi
 Pensare a tutti quei momenti
@@ -59,4 +60,4 @@ Con la macchina vado via
 Tu ridi di me
 Tu ridi di me
 Tu ridi di me
-Tu ridi di meEmbed
+Tu ridi di me

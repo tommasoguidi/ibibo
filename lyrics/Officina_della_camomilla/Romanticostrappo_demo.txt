@@ -1,4 +1,4 @@
-Romantico=strappo (demo) Lyrics[Testo di "Romantico=strappo (demo)"]
+[Testo di "Romantico=strappo (demo)"]
 
 Romantico sta fermo, sta piano a Firenze
 Si tocca sul petto
@@ -36,6 +36,7 @@ Eh
 Romantico raccoglie per terra i cognomi
 Delle studentesse come profiteroles
 In galleria LaFayette (Cha cha cha)
-You might also likePensieroso in acquari di film splatter ma tuttavia
+
+Pensieroso in acquari di film splatter ma tuttavia
 Le mie tenebre sono stelle filanti e un tristissimo arrivederci
-Ma sexy è la mia maglietta di Gaetano BresciEmbed
+Ma sexy è la mia maglietta di Gaetano Bresci

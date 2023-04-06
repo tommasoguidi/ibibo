@@ -1,4 +1,4 @@
-Bella Veramente Lyrics[Testo di "Bella Veramente"]
+[Testo di "Bella Veramente"]
 
 [Strofa 1]
 Io ti volevo a colazione
@@ -37,7 +37,8 @@ Però me l'aspettavo
 Con te arrabbiarsi non serve
 Tanto non cambi per niente
 Si vede che non vuoi
-You might also like[Bridge]
+
+[Bridge]
 Mi danno noia quei programmi TV
 Minestra riscaldata, mangia ragù
 Le sigarette rosse e quelle blu
@@ -65,4 +66,4 @@ Non voglio dire più niente
 Non voglio fare più niente
 È solo che la mattina sei bella veramente
 Quando ti metti gli occhiali e vedi tutto
-(Mi piaci un sacco)Embed
+(Mi piaci un sacco)

@@ -1,4 +1,4 @@
-Mango Lyrics[Testo di "Mango"]
+[Testo di "Mango"]
 
 [Ritornello]
 C'è chi morirebbe per le proprie idee (Yeah)
@@ -60,7 +60,8 @@ Si vede, vi stanno addestrando a farvi da parte
 Il problema è ben altro
 Va bene, però fino a quando?
 (Quando sarà troppo tardi!)
-You might also like[Ritornello]
+
+[Ritornello]
 C'è chi morirebbe per le proprie idee
 C'è chi ucciderebbe per le proprie idee
 Lo so, sembra sottile, sì, ma non lo è
@@ -70,4 +71,4 @@ Cosa fai per gli altri e cosa fai per te?
 Io mi sento responsabile di ciò che scrivo
 E non vi devo niente in cambio più di ciò che scrivo
 Non voglio fare il divo, però sputo finché campo
-Finché morirò sul palco chiedendo scusa come MangoEmbed
+Finché morirò sul palco chiedendo scusa come Mango

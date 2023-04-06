@@ -1,4 +1,4 @@
-Caramelle Lyrics[Testo di "Caramelle"]
+[Testo di "Caramelle"]
 
 [Ritornello]
 Da quando non ci sei più
@@ -39,7 +39,8 @@ Da quando non ci sei più
 Mangio mille caramelle
 E ho le tasche sempre piene
 Di cartine come quando c'eri
-You might also like[Strofa 2]
+
+[Strofa 2]
 Immaturi maturandi
 Qualche sigaretta sfusa come scusa per tirare tardi
 In bilico a piedi scalzi sul crinale dei vent'anni
@@ -89,4 +90,4 @@ Che non c'entra che tu non ci sei
 Da quando non ci sei più
 Mangio mille caramelle
 E ho le tasche sempre piene
-Di cartine come quando c'eriEmbed
+Di cartine come quando c'eri

@@ -1,4 +1,4 @@
-Chiusi Lyrics[Testo di "Chiusi"]
+[Testo di "Chiusi"]
 
 [Strofa 1]
 Ti parlerò ancora con gli occhi
@@ -43,7 +43,8 @@ Io le amavo più di te
 Le amavo più di te
 E tu mi amavi più di me
 Mi amavi più di me
-You might also like[Bridge]
+
+[Bridge]
 E chissà se poi ti ho dato tutto
 Tu dici no e forse hai ragione te
 E chissà se è stato così giusto
@@ -63,4 +64,4 @@ Mi amavi più di me
 
 [Outro]
 Pensa te
-Pensa teEmbed
+Pensa te

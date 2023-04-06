@@ -1,4 +1,4 @@
-Paraphernalia Lyrics[Testo di "Paraphernalia"]
+[Testo di "Paraphernalia"]
 
 [Intro]
 Un-Un-Un-Unlimited Struggle, baby
@@ -49,5 +49,6 @@ O hanno sparato a un civile o hanno scattato una foto
 "Qualcosa nella mente, a volte, fa scattare delle molle in me"
 "Qualcosa nella mente, a volte, fa scattare delle molle in me"
 "Ti porterò per mano piano verso un altro mondo..."
-You might also like[Outro]
-Un-Un-Un-Unlimited Struggle, babyEmbed
+
+[Outro]
+Un-Un-Un-Unlimited Struggle, baby

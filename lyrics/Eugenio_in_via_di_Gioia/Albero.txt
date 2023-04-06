@@ -1,4 +1,4 @@
-Albero Lyrics[Testo di "Albero"]
+[Testo di "Albero"]
 
 [Strofa 1]
 Albero, ti guardo, nero in controluce
@@ -36,7 +36,8 @@ Non hai bisogno di spostarti
 Per darti una direzione
 La tua crescita è di per sé
 La più grande opera che tu abbia mai deciso di incominciare
-You might also like[Ritornello]
+
+[Ritornello]
 Dove vai, albero?
 Così in alto che ogni germoglio
 È meno saldo alla terra
@@ -46,4 +47,4 @@ E tutte questa braccia spalancate verso il cielo
 E quelle dita affusolate perché combattono
 Contro questa gravità
 Perché combattono contro questa gravità
-Perché combattono1Embed
+Perché combattono

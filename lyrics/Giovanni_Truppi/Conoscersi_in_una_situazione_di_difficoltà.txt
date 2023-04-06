@@ -1,4 +1,4 @@
-Conoscersi in una situazione di difficoltà Lyrics[Testo di "Conoscersi in una situazione di difficoltà"]
+[Testo di "Conoscersi in una situazione di difficoltà"]
 
 [Strofa 1]
 Conoscersi
@@ -41,7 +41,8 @@ Benvenuta tra le mie promesse
 Quelle che non ci sono più
 E quelle che sono rimaste
 Stare con te mi definisce
-You might also like[Ritornello]
+
+[Ritornello]
 Se ti do la mia solitudine
 Tu mi dai la tua solitudine
 Se ti do la mia solitudine
@@ -53,4 +54,4 @@ Tu mi dai la tua solitudine
 E mentre ci innamoriamo
 Tieniti forte, tieniti bene
 Mentre mi vieni vicino
-Sull'orlo di questo burroneEmbed
+Sull'orlo di questo burrone

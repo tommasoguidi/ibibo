@@ -1,4 +1,4 @@
-I Cantautori Lyrics[Testo di "I Cantautori"]
+[Testo di "I Cantautori"]
 
 [Strofa 1]
 Gli ingegneri costruiscono case
@@ -40,8 +40,9 @@ E la musica suona
 E la musica va
 Come una motocicletta che parte di notte e tu senti il rumore
 Mentre stai facendo l’amore
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Mentre stai facendo l'amore
 Mentre stai facendo l'amore
 Mentre stai facendo l’amore
-Mentre stai facendo l'amoreEmbed
+Mentre stai facendo l'amore

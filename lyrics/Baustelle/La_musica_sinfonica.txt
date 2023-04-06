@@ -1,4 +1,4 @@
-La musica sinfonica Lyrics[Testo di "La musica sinfonica"]
+[Testo di "La musica sinfonica"]
 
 [Strofa 1]
 Non ricordo più il tuo nome
@@ -37,9 +37,10 @@ Essere felici non è facile
 Vivere e rimanere giovani
 Nel cielo con le rondini
 In terra in mezzo agli uomini
-You might also likeEssere felici non è facile
+
+Essere felici non è facile
 È quasi metafisica
 È musica sinfonica in discoteca
 
 [Outro]
-Vivere...Embed
+Vivere...

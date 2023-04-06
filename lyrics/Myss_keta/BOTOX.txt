@@ -1,4 +1,4 @@
-BOTOX Lyrics[Testo di "BOTOX"]
+[Testo di "BOTOX"]
 
 [Strofa 1]
 Un nuovo rimedio è arrivato in città
@@ -38,7 +38,8 @@ Inject me
 Inject me
 
 Bo-tox
-You might also like[Strofa 3]
+
+[Strofa 3]
 Buonasera dottore, come sta?
 Le posso confessare che mi piace un po' il dolore
 Sa, le donne come me qui a Milano
@@ -68,4 +69,4 @@ Botox
 Se vuoi provare la novità
 Botox
 Non vivi finché non
-Bo-toxEmbed
+Bo-tox

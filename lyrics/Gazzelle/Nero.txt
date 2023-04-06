@@ -1,4 +1,4 @@
-Nero Lyrics[Testo di "Nero"]
+[Testo di "Nero"]
 
 [Intro]
 Nemmeno è tutto nero
@@ -50,7 +50,8 @@ E gli occhi di lei che mi vedono
 Ed io che come al solito non parlo
 E lei che si vergogna con le amiche
 E io che vedo lui e vorrei ammazzarlo
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E la notte si prende quello che vuole
 E non rende quasi niente
 È che siamo soltanto persone sole
@@ -78,4 +79,4 @@ Nemmeno è tutto nero
 Nemmeno è tutto nero
 Nemmeno è tutto nero
 Nemmeno è tutto nero
-Nemmeno è tutto nero1Embed
+Nemmeno è tutto nero

@@ -1,4 +1,4 @@
-TRE QUARTI Lyrics[Testo di "TRE QUARTI"]
+[Testo di "TRE QUARTI"]
 
 [Strofa 1]
 Non hai capito che
@@ -38,7 +38,8 @@ E adesso sono qui, al semaforo per strada
 Sotto casa ma di chi?
 E così mi sento un mostro
 Ma qual era il tuo citofono?
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Perso nella notte
 Mi manchi forte
 Sono tutto rotto
@@ -56,4 +57,4 @@ Sai che non voglio un'altra
 Voglio te
 
 [Outro]
-E bastaEmbed
+E basta

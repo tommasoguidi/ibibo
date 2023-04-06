@@ -1,4 +1,4 @@
-Gente Lyrics[Testo di "Gente"]
+[Testo di "Gente"]
 
 [Strofa 1]
 In mezzo a tanta gente
@@ -47,7 +47,8 @@ Come i fiori d'aprile
 Ma il giorno che venne la neve
 Lasciammo soltanto
 Impronte leggere
-You might also like[Ritornello]
+
+[Ritornello]
 Ahi ahi ahi ahi
 Ahi ahi ahi ahi
 Ahi ahi ahi ahi
@@ -55,4 +56,4 @@ Ah ah ahia
 Ahi ahi ahi ahi
 Ahi ahi ahi ahi
 Ahi ahi ahi ahi
-Ah ah ahiaEmbed
+Ah ah ahia

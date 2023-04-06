@@ -1,4 +1,4 @@
-Plot twist Lyrics[Testo di "Plot twist"]
+[Testo di "Plot twist"]
 
 [Strofa 1]
 Bianco contro nero, scienza contro credo
@@ -42,7 +42,8 @@ Dammi il la
 Per cambiare idea
 Dammi il la
 Per cambiare idea
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Ma quanto può essere forte un'abitudine
 Si è sempre fatto così, è più facile
 Vorrei cambiare, ma gli altri non mi ascoltano
@@ -62,4 +63,4 @@ Non spegnere il cervello
 Dammi il la
 Per cambiare idea
 Dammi il la
-Per cambiare ideaEmbed
+Per cambiare idea

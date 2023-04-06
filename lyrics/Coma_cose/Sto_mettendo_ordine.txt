@@ -1,4 +1,4 @@
-Sto mettendo ordine Lyrics[Testo di "Sto mettendo ordine"]
+[Testo di "Sto mettendo ordine"]
 
 [Strofa 1: Fausto Lama]
 Strano rapporto per me da sempre quello con il rap
@@ -63,8 +63,9 @@ Dai Radical Stuff ai radical chic
 Dalla convention a un metamondo dentro un visore
 E in mezzo qualche amico se n'è andato (Rest in peace)
 Torno al paese, gli porto un fiore
-You might also like[Ritornello: Fausto Lama]
+
+[Ritornello: Fausto Lama]
 Mentre sto mettendo ordine (Yeah, yeah) (Dentro un pezzo sincero) (Ah, ah)
 Sto mettendo ordine (Yeah, yeah) (Uh, uh) (Ordine, ordine, ordine)
 Sto mettendo ordine (Ah, ah) (Dentro un pezzo sincero) (Uh, uh)
-Sto mettendo ordine (Ehi, ehi, ehi) (Ordine, ordine, ordine) (Ordine)1Embed
+Sto mettendo ordine (Ehi, ehi, ehi) (Ordine, ordine, ordine) (Ordine)

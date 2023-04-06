@@ -1,4 +1,4 @@
-Chissenefrega Lyrics[Strofa 1]
+[Strofa 1]
 Il sole al tramonto
 Illumina lo sfondo
 Il tuo occhio biondo
@@ -40,7 +40,8 @@ Ho una mano che mi trema
 Butto via la sigaretta
 Ma chissenefrega
 Chissenefrega
-You might also like[Strofa 2]
+
+[Strofa 2]
 Respira questa aria
 Sapore di anarchia
 Tu che balli solitaria
@@ -87,4 +88,4 @@ C'è la tua amica che mi chiama
 Ho una mano che mi trema
 Butto via la sigaretta
 Ma chissenefrega
-ChissenefregaEmbed
+Chissenefrega

@@ -1,4 +1,4 @@
-Tsunami Lyrics[Testo di "Tsunami"]
+[Testo di "Tsunami"]
 
 [Strofa 1]
 Siamo figli di Steve Jobs e del T9
@@ -37,7 +37,8 @@ E sempre più vicini, non è vero che parliamo
 Il vento soffia forte in una sola direzione
 Il mare si ritira
 Siamo rimasti soli
-You might also like[Ritornello]
+
+[Ritornello]
 Guarda lo tsunami che travolge la città
 Dentro la mia testa, calma piatta
 (tu tu tu)
@@ -70,4 +71,4 @@ Cha cha cha
 Cha cha cha
 Qui si balla, qui si balla!
 Cha cha cha
-Cha cha cha2Embed
+Cha cha cha

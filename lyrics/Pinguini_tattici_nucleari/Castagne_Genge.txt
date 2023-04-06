@@ -1,4 +1,4 @@
-Castagne Genge Lyrics[Testo di "Castagne Genge"]
+[Testo di "Castagne Genge"]
 
 [Intro: Antonella Clerici & concorrente]
 Fa schiuma ma non è un sapone. Che cos'è?
@@ -44,7 +44,8 @@ Non servono le ali per capire il cielo
 Noi del perdono e della coscienza
 No, non sapremmo che cazzo farne
 Perché la nostra filosofia si chiama carne
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Aspetta e vedrai
 Che le tue lacrime fanno crescere la selce
 Ma tu aspetta e vedrai
@@ -64,4 +65,4 @@ Che le tue lacrime fanno crescere la selce
 Ma tu aspetta e vedrai
 Che i tuoi sacrifici altro non son
 Che i tuoi sacrifici altro non son
-Che i tuoi sacrifici altro non sono cheEmbed
+Che i tuoi sacrifici altro non sono che

@@ -1,4 +1,4 @@
-​p125ets Lyrics[Testo di "p125ets"]
+[Testo di "p125ets"]
 
 [Strofa]
 L'abbiamo fatto nel bosco ad agosto
@@ -47,9 +47,10 @@ Senza di te, senza di te
 Senza di te, senza di te
 Senza di te
 Mi hai lasciato
-You might also like[Ritornello]
+
+[Ritornello]
 Vorrei che il mondo fosse una Vespa
 Dove tu devi abbracciarmi per forza
 L'asfalto brucia
 Non è poca fiducia
-È solo l'istinto di sopravvivenza1Embed
+È solo l'istinto di sopravvivenza

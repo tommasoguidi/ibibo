@@ -1,4 +1,4 @@
-Stadio Lyrics[Testo di "Stadio"]
+[Testo di "Stadio"]
 
 [Intro]
 Cantavamo canzoni alla radio
@@ -43,7 +43,8 @@ Andavo fuori di testa e gridavo
 Ma tu gridavi sempre più forte
 In due sembravamo uno stadio
 E io ancora ti amo
-You might also like[Bridge]
+
+[Bridge]
 Siamo lucciole d'inverno che si spengono e chissà
 Dove vanno poi gli stormi sorvolando la città
 E le stagioni cambieranno e resteremo qui a metà
@@ -60,4 +61,4 @@ In due sembravamo uno stadio
 E io ancora ti amo, e io ancora ti amo
 E io ancora ti amo
 In due sembravamo uno stadio
-E io ancora ti amoEmbed
+E io ancora ti amo

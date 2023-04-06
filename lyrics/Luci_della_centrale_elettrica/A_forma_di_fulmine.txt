@@ -1,4 +1,4 @@
-A forma di fulmine Lyrics[Testo di "A forma di fulmine"]
+[Testo di "A forma di fulmine"]
 
 Possiamo correre
 Possiamo andarcene
@@ -39,7 +39,8 @@ Dare nomi alle stelle
 Possiamo ridere
 Guardarci attraverso
 Vedere al buio un aereo disperso
-You might also likePossiamo vivere notti illuminate
+
+Possiamo vivere notti illuminate
 Eterne promesse in fondo a piste sterrate
 Possiamo fare mezze maratone
 Per raggiungere il tuo cuore irraggiungibile
@@ -68,4 +69,4 @@ E non avere niente da perdere
 Poi continuare a vivere
 Poi continuare a vivere
 Poi continuare a vivere
-Poi continuare a vivereEmbed
+Poi continuare a vivere

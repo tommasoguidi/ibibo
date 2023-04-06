@@ -1,4 +1,4 @@
-Ventanni Lyrics[Testo di "Ventanni"]
+[Testo di "Ventanni"]
 
 [Strofa 1]
 Se vuoi specchiarti, non preoccuparti
@@ -34,7 +34,8 @@ Non puoi fermarti davanti a un convento
 Perché la forza si prende da dentro
 Fermati il tempo di una sigaretta
 Perché la vita ormai corre di fretta
-You might also like[Ritornello]
+
+[Ritornello]
 Fai una foto davanti allo specchio
 Anche se poi non ti piaci parecchio
 Non lo puoi avere quello che non hai
@@ -44,4 +45,4 @@ Ritorna a settembre, non cambia mai niente
 Non lo capisci che il peggio è il futuro
 Ma torna il presente
 Ma vuoi provarci per l'ultima volta
-Non si può vivere senza pensare a una svoltaEmbed
+Non si può vivere senza pensare a una svolta

@@ -1,4 +1,4 @@
-COLORE Lyrics[Testo di "COLORE"]
+[Testo di "COLORE"]
 
 [Strofa 1: Drast]
 Se vuoi fumare, ti porto in Olanda
@@ -39,7 +39,8 @@ Bastavamo da soli
 E se vuoi perder tempo con chi non ferisce, ti auguro il meglio
 Di sorride' tra l'alcol, dentro una pista, dentro un bordello
 E dammi gli attimi che ho perso perché non li avrò più indietro
-You might also like[Ritornello: Drast]
+
+[Ritornello: Drast]
 Non so fermarmi più
 Mi vedo a testa in giù
 C'è una canzone che suona da un altro mondo e tu
@@ -52,4 +53,4 @@ Diventiamo colore
 Diventiamo colore
 Diventiamo colore
 Diventiamo colore
-Diventiamo colore1Embed
+Diventiamo colore

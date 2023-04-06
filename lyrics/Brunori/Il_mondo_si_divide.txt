@@ -1,4 +1,4 @@
-Il mondo si divide Lyrics[Testo di "Il mondo si divide"]
+[Testo di "Il mondo si divide"]
 
 [Strofa 1]
 Il mondo si divide fra chi pensa che i violenti
@@ -41,6 +41,7 @@ Anzi, spesso è così bello
 Ridere del mio cervello
 C'è un universo solo che unisce il cielo e il mare
 E io stanotte voglio solo respirare
-You might also likeDividere le cose è un gioco della mente
+
+Dividere le cose è un gioco della mente
 Il mondo si divide inutilmente
-Il mondo si divide inutilmenteEmbed
+Il mondo si divide inutilmente

@@ -1,4 +1,4 @@
-Mario il precario Lyrics[Testo di "Mario il precario"]
+[Testo di "Mario il precario"]
 
 [Intro]
 I giovani devono, devono abituarsi all′idea che non avranno un posto fisso per tutta la vita
@@ -42,8 +42,9 @@ Non mi posso sposare, son convivente
 Il prete dice che non son credente
 Ma io ogni sera mi rivolgo al crocifisso
 Ti prego, Cristo, dammi un posto fisso
-You might also like[Outro]
+
+[Outro]
 La la la la la la, la la la la la
 La la la la la la la la la la la la
 La la la la la la la la la la la
-La la la la la la la la la laEmbed
+La la la la la la la la la la

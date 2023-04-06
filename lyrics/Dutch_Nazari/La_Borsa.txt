@@ -1,4 +1,4 @@
-La Borsa Lyrics[Ritornello]
+[Ritornello]
 Contieni oggetti utili e inutili indiscriminatamente
 Io ho pensieri utili e inutili in mente
 E se nell'anima esiste un contenitore che si riempie con l'amore che la mente prova
@@ -51,7 +51,8 @@ Trascina i sentimenti tra il collo e i fianchi a tracolla
 Prendi e lascia, brava prendi in giro
 Poi lascia tutto in una stanza in cui vai più in fondo ad un angolino
 Come me
-You might also like[Ritornello]
+
+[Ritornello]
 Tu sei come me, simile a me, sei un poco come me, tipo me
 Tu sei come me, metaforicamente come me nel senso che
 Contieni oggetti utili e inutili indiscriminatamente
@@ -81,4 +82,4 @@ Tu sei come me, metaforicamente come me nel senso che
 Contieni oggetti utili e inutili indiscriminatamente
 Io ho pensieri utili e inutili in mente
 E se nell'anima esiste un contenitore che si riempie con l'amore che la mente prova
-Il mio è una borsa vuota ora!Embed
+Il mio è una borsa vuota ora!

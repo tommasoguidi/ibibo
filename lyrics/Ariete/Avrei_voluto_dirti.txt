@@ -1,4 +1,4 @@
-Avrei voluto dirti Lyrics[Testo di "Avrei voluto dirti"]
+[Testo di "Avrei voluto dirti"]
 
 [Strofa 1]
 La verità è che
@@ -35,7 +35,8 @@ Ma pensa un po' a me
 Che volevo solo un po' d'amore
 Ho venduto a poco il mio gran cuore
 E a sprecarlo poi sei stata te
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Tu piena di difetti
 Che in realtà poi erano i miei
 Che nonostante i tagli
@@ -50,4 +51,4 @@ E posso dirti che mi pento
 Ma pentiti un po' anche tu
 Che mi hai fatto perder tempo
 Adesso non ti credo più
-Sto bene anche da me, da me, da me2Embed
+Sto bene anche da me, da me, da me

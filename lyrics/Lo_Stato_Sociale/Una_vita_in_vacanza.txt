@@ -1,4 +1,4 @@
-Una vita in vacanza Lyrics[Testo di "Una vita in vacanza"]
+[Testo di "Una vita in vacanza"]
 
 [Strofa 1]
 E fai il cameriere, l'assicuratore
@@ -45,7 +45,8 @@ Libertà e tempo perso
 E nessuno che rompe i coglioni
 Nessuno che dice se sbagli sei fuori
 Sei fuori, sei fuori, sei fuori, sei fuori
-You might also like[Bridge]
+
+[Bridge]
 Vivere per lavorare
 O lavorare per vivere
 Fare soldi per non pensare
@@ -66,4 +67,4 @@ Nessuno che dice se sbagli sei fuori
 Sei fuori
 Sei fuori
 Sei fuori
-Sei fuori2Embed
+Sei fuori

@@ -1,4 +1,4 @@
-Nei palazzi Lyrics[Strofa 1]
+[Strofa 1]
 Tutti i bambini diventano obesi
 Negli appartamenti davanti ai videogame
 Oggi ho fatto un giro in centro
@@ -47,7 +47,8 @@ E se qualcuno ad un tratto si svegliasse sul più bello
 Scoprirebbe com'è dolce la primavera del cervello
 Amico mio devo avvisarti è un gioco serio
 Questa non è una fiction, è la guerra del pensiero
-You might also like[Ritornello]
+
+[Ritornello]
 Nei palazzi nei palazzi
 Nei palazzi nei palazzi
 Non c'è ombra di profeti
@@ -55,4 +56,4 @@ Siamo ciechi nei palazzi
 Nei palazzi nei palazzi
 Nei palazzi nei palazzi
 Siete tutti scaduti
-Siete muti nei palazziEmbed
+Siete muti nei palazzi

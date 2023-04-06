@@ -1,4 +1,4 @@
-Qualcosa da risolvere Lyrics[Testo di "Qualcosa da risolvere"]
+[Testo di "Qualcosa da risolvere"]
 
 [Strofa 1]
 Hai presente il mare dentro com'è?
@@ -42,7 +42,8 @@ Il mare fa da solitudine
 Ci resta un po' di tempo
 Un po' più di silenzio
 E qualche cosa da risolvere
-You might also likeChe sei sparita da un mese
+
+Che sei sparita da un mese
 Che in fondo va bene, si può continuare
 Cantare, gridare
 E che tutto questo mondo possa esplodere
@@ -50,4 +51,4 @@ Ti farò sapere, mi farai sapere
 Che facce fa la solitudine
 Ci resta un po' di tempo
 Un po' più di silenzio
-E qualche cosa da risolvereEmbed
+E qualche cosa da risolvere

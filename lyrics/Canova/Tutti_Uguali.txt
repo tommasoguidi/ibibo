@@ -1,4 +1,4 @@
-Tutti Uguali Lyrics[Testo di "Tutti Uguali"]
+[Testo di "Tutti Uguali"]
 
 [Strofa 1]
 Ci sono delle cose che non conosco
@@ -37,7 +37,8 @@ Siamo umani, siamo schiavi, siamo tutti uguali
 Pesci nella corrente diretti nel mare
 Siamo umani, siamo bravi solo a farci male
 Persi nella corrente siamo tutti uguali
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Non farmi male
 Se dici che hai paura, non farmi male
 Qui non c'è da respirare, non farmi male
@@ -45,4 +46,4 @@ Non farmi male, farmi male, farmi male
 
 [Outro]
 Siamo umani, siamo schiavi, siamo tutti uguali
-Persi nella corrente siamo tutti ugualiEmbed
+Persi nella corrente siamo tutti uguali

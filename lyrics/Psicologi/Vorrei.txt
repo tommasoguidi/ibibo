@@ -1,4 +1,4 @@
-Vorrei Lyrics[Testo di "Vorrei"]
+[Testo di "Vorrei"]
 
 [Strofa 1: Drast]
 Vorrei (Vorrei) un posto per me dove andare a distrarmi
@@ -41,7 +41,8 @@ Il posto più bello del mondo l'ho visto
 Ed erano i tuoi occhi col riflesso del sole
 Di tutte queste sensazioni mi tingo
 Come se dessi un peso alle mie parole
-You might also like[Ritornello: Drast]
+
+[Ritornello: Drast]
 Ti tradirei con una versione di te migliore, eh
 Mi sparerei, ma non ho voglia di far rumore
 Se il mondo finisse, io sarei felice
@@ -53,4 +54,4 @@ Mi sparerei, ma non ho voglia di far rumore
 Se il mondo finisse, io sarei felice
 Non dovrei vedere più le persone
 Ho visto il posto più bello del mondo
-E non c'era il sole, non c'era il soleEmbed
+E non c'era il sole, non c'era il sole

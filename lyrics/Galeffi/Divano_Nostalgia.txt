@@ -1,4 +1,4 @@
-Divano Nostalgia Lyrics[Testo di "Divano Nostalgia"]
+[Testo di "Divano Nostalgia"]
 
 [Strofa 1]
 Io mi sento le nuvole dentro, però piove altrove
@@ -38,7 +38,8 @@ Guardo l'orizzonte, dopo che cosa c'è?
 Ore, giorni, mesi, anni, è come il primo caffè
 Fra di noi quei baci che tu non mi dai
 Saranno coltelli domani
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Domani, domani, uh-uh
 Suona una canzone così triste
 Che assomiglia un po' a me
@@ -47,4 +48,4 @@ Che assomiglia un po' a me
 Voglio cinque grammi, ma d'amore però
 Non mi va di addormentarmi, che poi ti sognerò
 Se lo vuoi, volare è così naturale
-Mi basta tenerti per manoEmbed
+Mi basta tenerti per mano

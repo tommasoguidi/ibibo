@@ -1,4 +1,4 @@
-Mani Lyrics[Testo di "Mani"]
+[Testo di "Mani"]
 
 [Strofa 1]
 Ma com'è triste scambiarsi uno sguardo prima di andare via
@@ -36,7 +36,8 @@ E l'altra sera ti ho vista per caso su un treno
 Tremo ancora
 Tremi anche tu
 Tremi anche tu
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Prima di andar via da sola
 Prima di andar via balla ancora
 Prima di andar via da sola
@@ -54,4 +55,4 @@ Non nascondere le mani
 Io senza le tue mani sento freddo alle mani
 Con le mani mi graffiavi
 Sei tu che mi cercavi
-Rivoglio le tue maniEmbed
+Rivoglio le tue mani

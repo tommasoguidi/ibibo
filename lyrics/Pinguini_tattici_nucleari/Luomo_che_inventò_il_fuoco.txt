@@ -1,4 +1,4 @@
-L’uomo che inventò il fuoco Lyrics[Testo di "L'uomo che inventò il fuoco"]
+[Testo di "L'uomo che inventò il fuoco"]
 
 [Strofa 1]
 C'era una volta un australopiteco che portava seco
@@ -42,7 +42,8 @@ Pensava: "Io vent'anni non li ho
 Non riuscirò mai più a dire ti amo"
 Io vent'anni non ce li ho
 E non riuscirò mai più a dir ti amo
-You might also like[Strofa 3]
+
+[Strofa 3]
 C'era una volta un australopiteco
 I lividi l'hanno ridotto storpio e cieco
 E giurava vendetta, l'australopiteco
@@ -81,4 +82,4 @@ Anche scopare, cioè nel senso, (Cosa cambia cioè?) chi cazzo ti dice che non p
 Se la brevettassero, poi come il Segway due o tre anni lo usano (Lo usan tutti cioè) la userebbero tutti secondo me, proprio, ceh, con un uomo insomma, eh sì
 (Interessante come idea)
 Cosa fai stasera?
-[?]Embed
+[?]

@@ -1,4 +1,4 @@
-Tattica Lyrics[Testo di "Tattica"]
+[Testo di "Tattica"]
 
 [Strofa 1]
 Sette e trentaquattro
@@ -46,7 +46,8 @@ Però non ho una tattica, tattica, tattica, tattica
 Tattica, tattica, tattica, tattica, tattica
 La troverò una tattica, tattica, tattica, tattica
 Tattica, tattica, tattica, tattica, tattica
-You might also like[Bridge]
+
+[Bridge]
 Sto nel traffico, traffico, traffico
 Nella macchina, macchina, macchina
 Vado al massimo, massimo, massimo
@@ -64,4 +65,4 @@ Gli sbagli che ho fatto
 Però non ho una tattica, tattica, tattica, tattica
 Tattica, tattica, tattica, tattica, tattica
 La troverò una tattica, tattica, tattica, tattica
-Tattica, tattica, tattica, tattica, tatticaEmbed
+Tattica, tattica, tattica, tattica, tattica

@@ -1,4 +1,4 @@
-Tipo ok Lyrics[Testo di "Tipo ok"]
+[Testo di "Tipo ok"]
 
 [Strofa 1]
 Ed è il ritorno dell'...oh
@@ -46,7 +46,8 @@ Sul palco, quando ho finito di suonare
 [Bridge]
 Tu non sai come fare
 Tu non giochi da un po'
-You might also like[Ritornello]
+
+[Ritornello]
 L'unico motivo per cui grido è che
 Tu non mi hai capito sono un tipo ok
 Quando parte il beat io sono il tipo che
@@ -73,4 +74,4 @@ Ti fa prendere bene
 E sono un tipo ok, tipo ok, tipo ok, e sono un tipo ok
 Tipo ok, tipo ok e fa prendere bene
 Tipo ok, tipo ok, tipo ok, e sono un tipo ok
-Tipo ok, tipo ok e fa prendere beneEmbed
+Tipo ok, tipo ok e fa prendere bene

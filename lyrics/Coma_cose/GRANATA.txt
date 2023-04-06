@@ -1,4 +1,4 @@
-GRANATA Lyrics[Testo di "GRANATA"]
+[Testo di "GRANATA"]
 
 [Intro: Francesca California & Fausto Lama]
 Non sottovalutare mai il ritorno
@@ -57,7 +57,8 @@ Sì, ho solo la mia batteria
 Che fa poom-poom-cha
 Come? Come?
 Poom-poom-cha
-You might also like[Outro: Francesca California & Fausto Lama]
+
+[Outro: Francesca California & Fausto Lama]
 Non sottovalutare mai il ritorno
 Verso casa o ciò che chiami tale
-Mai una gioia tranne la fermata prima di CentraleEmbed
+Mai una gioia tranne la fermata prima di Centrale

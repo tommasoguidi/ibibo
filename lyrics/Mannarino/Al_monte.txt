@@ -1,4 +1,4 @@
-Al monte Lyrics[Testo di "Al monte"]
+[Testo di "Al monte"]
 
 [Strofa 1]
 All'inizio fu una scossa, un tuono
@@ -60,7 +60,8 @@ Lei gli risponde
 "Non lo so
 Adesso che ci amiamo
 Chi ci proteggerà"
-You might also like[Ritornello]
+
+[Ritornello]
 Salirò
 Al monte
 Troverò
@@ -113,4 +114,4 @@ Gemme per la tua fronte
 E vivrò
 Fra le onde
 Poi me ne andrò
-Tuffandomi tra le stelle1Embed
+Tuffandomi tra le stelle

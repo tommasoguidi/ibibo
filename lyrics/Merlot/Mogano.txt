@@ -1,4 +1,4 @@
-Mogano Lyrics[Testo di "Mogano"]
+[Testo di "Mogano"]
 
 [Strofa 1]
 Desirée è incazzata, stringe una cingomma
@@ -56,7 +56,8 @@ Non ho altra idea di come uscire da ’sta gabbia
 Ma vaffanculo tu e le bitch
 Non va più di moda essere innamorati (Essere innamorati)
 E sono tutti sopra i beat, fare musica ora è solo girare filmati
-You might also like[Ritornello]
+
+[Ritornello]
 Qua è tutto normale, troppo normale
 Ti prego, andiamo via
 Prendi la macchina voliamo al mare
@@ -81,4 +82,4 @@ Tipo normale, tipo normale
 Qua è tutto normale, tipo normale
 Tipo normale, tipo normale
 Qua è tutto normale, tipo normale
-Tipo normale, tipo normaleEmbed
+Tipo normale, tipo normale

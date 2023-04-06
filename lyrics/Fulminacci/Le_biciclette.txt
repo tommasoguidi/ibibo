@@ -1,4 +1,4 @@
-Le biciclette Lyrics[Testo di "Le biciclette"]
+[Testo di "Le biciclette"]
 
 [Strofa 1]
 Le biciclette, le biciclette
@@ -40,7 +40,8 @@ Su questo tetto
 Su quella spiaggia
 Sull'orizzonte di questo letto
 Su questo letto
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Lo so che è tardi
 Che sei partita
 Ma quest'estate
@@ -49,4 +50,4 @@ Ci incontravamo
 Nei nostri sogni
 Te lo ricordi?
 Tu che sei una e mi circondi
-Sei una e mi circondiEmbed
+Sei una e mi circondi

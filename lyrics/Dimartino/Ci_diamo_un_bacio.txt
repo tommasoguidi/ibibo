@@ -1,4 +1,4 @@
-Ci diamo un bacio Lyrics[Testo di "Ci diamo un bacio"]
+[Testo di "Ci diamo un bacio"]
 
 [Strofa 1]
 Corone hawaiane sui balconi di via Roma
@@ -40,7 +40,8 @@ Aspettando che arrivi dal fondo un'onda anomala
 E siamo fatti entrambi di luce stellare
 E ci bagniamo nello stesso mare
 Abbiamo entrambi figli e cani da sfamare
-You might also like[Ritornello]
+
+[Ritornello]
 Ci diamo un bacio prima di farci male
 Ci diamo un bacio prima di farci male
 Ci diamo un bacio prima di farci male
@@ -54,4 +55,4 @@ Ci diamo un bacio prima di farci male
 Palloni bucati sui balconi di via Roma
 Palloni bucati sui balconi di via Roma
 Palloni bucati sui balconi di via Roma
-Palloni bucati sui balconi di via RomaEmbed
+Palloni bucati sui balconi di via Roma

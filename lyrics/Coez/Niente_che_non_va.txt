@@ -1,4 +1,4 @@
-Niente che non va Lyrics[Testo di "Niente che non va"]
+[Testo di "Niente che non va"]
 
 [Strofa 1]
 Nasci per sbaglio
@@ -44,7 +44,8 @@ Hai fatto uno sbaglio
 Lasci qualcosa
 E ti brucia se c'è chi se la prenderà
 E non hai niente che non va
-You might also like[Ritornello]
+
+[Ritornello]
 E non hai niente che non va
 E non hai niente che non va
 
@@ -52,4 +53,4 @@ E non hai niente che non va
 E non hai niente che non va
 E non hai niente che non va
 E non hai niente che non va
-E non hai niente che non va2Embed
+E non hai niente che non va

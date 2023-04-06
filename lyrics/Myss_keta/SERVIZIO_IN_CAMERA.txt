@@ -1,4 +1,4 @@
-SERVIZIO IN CAMERA Lyrics[Intro]
+[Intro]
 Ladies and gentleman
 Benvenuti nella clinica della bellezza
 Sono M¥SS fucking KETA
@@ -38,7 +38,8 @@ Ovvietà incredibili
 Qualità introvabili
 Realtà indicibili
 Trovi tutto quello che vuoi qui nel mio servizio in camera
-You might also like[Ritornello]
+
+[Ritornello]
 Scegli quello che vuoi dal mio servizio in camera
 Scegli quello che vuoi dal mio servizio in camera
 
@@ -64,4 +65,4 @@ Chiama il mio servizio in camera
 [Ritornello]
 Scegli quello che vuoi dal mio servizio in camera
 Scegli quello che vuoi dal mio servizio in camera
-Scegli quello che vuoi dal mio servizio in cameraEmbed
+Scegli quello che vuoi dal mio servizio in camera

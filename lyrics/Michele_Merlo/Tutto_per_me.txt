@@ -1,4 +1,4 @@
-Tutto per me Lyrics[Strofa 1]
+[Strofa 1]
 Se vuoi ti dico un mio segreto
 Prometti che non scappi via anche tu
 Non riesco a prendere la metro
@@ -44,7 +44,8 @@ Fa stare meglio anche uno come me
 Vederti ridere
 È come un cinema tutto per me
 Si è, è tutto per me
-You might also like[Bridge]
+
+[Bridge]
 Tutto per me
 Sì è, è tutto per me
 
@@ -58,4 +59,4 @@ Vederti ridere
 Si è, è tutto per me
 Si è, è tutto per me
 Si è, è tutto per me
-Tutto per meEmbed
+Tutto per me

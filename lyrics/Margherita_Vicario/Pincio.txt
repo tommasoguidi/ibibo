@@ -1,4 +1,4 @@
-Pincio Lyrics[Testo di "Pincio"]
+[Testo di "Pincio"]
 
 [Intro]
 Tuo figlio avrà gli occhi neri
@@ -38,7 +38,8 @@ Tu non sai quanto ti voglio bene
 Ci vedo da vecchie a bere
 Col tuo sguardo di sguincio sul terrazzo del Pincio
 Che mi offri un abbraccio mentre io do di matto
-You might also like[Ritornello]
+
+[Ritornello]
 Severa come una strega
 Che fa congetture e prega
 Per la sua piantina che è rimasta nel vaso
@@ -49,4 +50,4 @@ Che sono trent'anni che lo mangio
 Anche quando è più aspro
 
 [Outro]
-Mi basta un abbraccioEmbed
+Mi basta un abbraccio

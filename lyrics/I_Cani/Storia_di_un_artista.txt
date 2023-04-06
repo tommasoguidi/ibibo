@@ -1,4 +1,4 @@
-Storia di un artista Lyrics[Testo di "Storia di un artista"]
+[Testo di "Storia di un artista"]
 
 [Strofa 1]
 Tua madre era una signora
@@ -39,7 +39,8 @@ Piero Ciampi, Bianciardi, Notorious B.I.G.
 Pasolini e Jay-Z
 Pasolini e Jay-Z
 Pasolini e Jay-Z
-You might also like[Strofa 3]
+
+[Strofa 3]
 E morire nel vomito
 Dopo carriere splendide
 E le storie romantiche
@@ -54,4 +55,4 @@ Che ci piacciono: i dischi, le foto, i registi
 I marchingegni alla moda, le muse, gli artisti
 E sentirci diversi, creativi, speciali
 Tutto tranne normali
-Tutto tranne normali, normaliEmbed
+Tutto tranne normali, normali

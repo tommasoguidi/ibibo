@@ -1,4 +1,4 @@
-EN Lyrics[Testo di "EN"]
+[Testo di "EN"]
 
 [Strofa 1]
 Se fossi te
@@ -47,7 +47,8 @@ Inconsapevole Art Déco
 Sei decadentemente nuda
 I tuoi fianchi
 Li avessi io
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Per le tue palpebre
 Per le piccole vene scure
 Per sua santità
@@ -65,4 +66,4 @@ Per Jackie Kennedy
 E per Marylin
 Per chiunque ma
 Solo per te
-ElisaEmbed
+Elisa

@@ -1,4 +1,4 @@
-Quel Bar Lyrics[Testo di "Quel Bar"]
+[Testo di "Quel Bar"]
 
 [Strofa 1]
 Ciao, mi presento, non sono niente per te
@@ -35,7 +35,8 @@ So che non ci conosciamo, ma
 Vorrei proprio sapere quanti libri leggi, viaggi compi
 Quanti cani o sogni accesi hai
 Ma non mi guardi mai
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Tu non mi guardi mai
 No mai, no mai, oh-oh-oh
 Tu non mi guardi mai
@@ -47,4 +48,4 @@ Vorrei proprio sapere perché non ti sposti da quel bar
 So che non ci conosciamo, ma
 Vorrei proprio sapere, sapere, sapere, sapere
 Se anche tu mi guarderai
-Ma non mi guardi maiEmbed
+Ma non mi guardi mai

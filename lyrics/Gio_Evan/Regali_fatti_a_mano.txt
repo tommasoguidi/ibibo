@@ -1,4 +1,4 @@
-Regali fatti a mano Lyrics[Testo di "Regali fatti a mano"]
+[Testo di "Regali fatti a mano"]
 
 [Strofa 1]
 Lo so che non è semplice
@@ -41,7 +41,8 @@ Per guardarti negli occhi
 Portarti via da quei posti
 Dove non stai più bene
 E dove non sto più bene
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Ed ecco cosa voglio che resti
 Fare tardi alle cene
 Perché abbiam fatto l'amore
@@ -73,4 +74,4 @@ Ma tu sei troppo di più
 [Outro]
 Ed ecco cosa voglio che resti
 Io che imparo a ballare
-Perché seguo i tuoi passiEmbed
+Perché seguo i tuoi passi

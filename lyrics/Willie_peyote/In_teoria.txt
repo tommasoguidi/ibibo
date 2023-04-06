@@ -1,4 +1,4 @@
-In teoria Lyrics[Testo di "In teoria"]
+[Testo di "In teoria"]
 
 [Intro]
 Gugi
@@ -55,7 +55,8 @@ Prima di scrivere indosso un camice bianco
 Ma se per un prezzo basso ci sta un prodotto grezzo
 Il mio lo vendo a meno di due euro
 Per me non ha prezzo
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Ah
 Questa è la vera autonomia
 La libertà di fare scelte, poi se sbaglio è colpa mia
@@ -112,4 +113,4 @@ Idea geniale o un'idiozia? Pace dei sensi o malattia?
 (Se sbaglio è colpa mia, so che se sbaglio è colpa mia)
 In teoria (In teoria), tutto è più facile in teoria
 (Se sbaglio è colpa mia, se sbaglio è colpa mia)
-So che se sbaglio è colpa mia, se sbaglio è sempre colpa mia1Embed
+So che se sbaglio è colpa mia, se sbaglio è sempre colpa mia

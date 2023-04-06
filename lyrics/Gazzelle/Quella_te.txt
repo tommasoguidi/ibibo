@@ -1,4 +1,4 @@
-Quella te Lyrics[Testo di "Quella te"]
+[Testo di "Quella te"]
 
 [Strofa 1]
 Mi ricorderò dei giorni pallidi
@@ -41,7 +41,8 @@ Solo te
 Solo te
 Solo te
 Solo te
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Solo te
 Che mi sconvolgi ancora il sabato mattina
 Con la felpa sporca della sera prima
@@ -52,4 +53,4 @@ Cammina, cammina, cammina
 Cammina, cammina
 Cammina, cammina
 Cammina, cammina
-CamminaEmbed
+Cammina

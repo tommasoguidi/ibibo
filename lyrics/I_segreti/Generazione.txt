@@ -1,4 +1,4 @@
-Generazione Lyrics[Testo di "Generazione"]
+[Testo di "Generazione"]
 
 [Strofa 1]
 Ho detto: "Che bella questa generazione"
@@ -38,7 +38,8 @@ Alla ricerca della verità
 Un pensiero che vada al di la
 Per superare queste nuvole
 In queste vite tutte pratiche
-You might also like[Ritornello]
+
+[Ritornello]
 Sarebbe bello sognare
 Non riesco neanche a dormire
 Ma voglio ricominciare
@@ -62,4 +63,4 @@ Ma sono il primo a guardare
 Con gli occhi bassi come va a finire
 Rifare tutto da capo
 Ma voglio ricominciare
-Senza più l'ansia di poter fallireEmbed
+Senza più l'ansia di poter fallire

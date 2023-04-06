@@ -1,4 +1,4 @@
-Revolver Lyrics[Testo di "Revolver"]
+[Testo di "Revolver"]
 
 [Strofa 1]
 Dico solo poche frasi
@@ -40,8 +40,9 @@ Non voglio più
 Altro che freddo
 Dimentica
 E scordami
-You might also likeE non ho più niente
+
+E non ho più niente
 Non piango più
 Ti dedico
 La mia vendetta
-E un buco di proiettileEmbed
+E un buco di proiettile

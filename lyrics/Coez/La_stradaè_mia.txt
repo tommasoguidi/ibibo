@@ -1,4 +1,4 @@
-La strada è mia Lyrics[Testo di "La strada è mia"]
+[Testo di "La strada è mia"]
 
 [Strofa 1]
 Mi resta mezza sigaretta, dividiamo
@@ -41,7 +41,8 @@ Ci siamo solo incontrati a metà
 Fammi andare oh
 Fammi andare oh
 Andare via
-You might also like[Bridge]
+
+[Bridge]
 Ho messo l'anima nei dischi
 Ho dovuto calcolarne i rischi
 Perdere te, prendere fischi
@@ -54,4 +55,4 @@ Qual è la via, lascia che sia
 Ci siamo solo incontrati a metà
 Fammi andare oh
 Fammi andare oh
-Andare via1Embed
+Andare via

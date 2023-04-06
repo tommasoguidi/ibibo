@@ -1,4 +1,4 @@
-Citazione Lyrics[Testo di "Citazione"]
+[Testo di "Citazione"]
 
 [Strofa 1]
 Quanto freddo fa
@@ -42,7 +42,8 @@ Ed ogni cosa che passa ti calpesta
 Col cuore che batte, che alla fine ti pezza
 E vado fuori di me, vado fuori di testa
 E grido come Masini: "Bella stronza"
-You might also like[Bridge]
+
+[Bridge]
 E mi verrebbe di strapparti
 Come il foglio di questa canzone
 Così da dimenticarti
@@ -56,4 +57,4 @@ Pa-ra-ra-pa, pa-pa-pa-pa-pa
 Ed ogni cosa che passa ti calpesta (Pa)
 Col cuore che batte, che alla fine ti pezza (Pa-ra-ra-pa-pa-pa-pa)
 E vado fuori di me, vado fuori di testa (Pa-ra-ra-pa)
-E grido come Masini: "Bella stronza" (Pa-pa-pa-pa-pa)Embed
+E grido come Masini: "Bella stronza" (Pa-pa-pa-pa-pa)

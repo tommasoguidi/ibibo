@@ -1,4 +1,4 @@
-Proverbio Giapponese Lyrics[Testo di "Proverbio Giapponese"]
+[Testo di "Proverbio Giapponese"]
 
 [Strofa 1]
 La ragazza che mi piace
@@ -38,7 +38,8 @@ Questo mi farà perdere la vista
 La vicina crede sia un satanista
 Quando niente va come deve
 Penso a quel proverbio giapponese
-You might also like[Ritornello]
+
+[Ritornello]
 (Strumentale)
 
 [Outro]
@@ -49,4 +50,4 @@ La ragazza che mi piace non mi piace
 Non mi piace
 Non mi piace
 Non mi piace
-Non mi piaceEmbed
+Non mi piace

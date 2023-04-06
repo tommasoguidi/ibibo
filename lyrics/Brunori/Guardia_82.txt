@@ -1,4 +1,4 @@
-Guardia ’82 Lyrics[Testo di "Guardia '82"]
+[Testo di "Guardia '82"]
 
 [Strofa 1]
 La spiaggia di Guardia rovente
@@ -33,7 +33,8 @@ Ricordi che avevi coperto di sabbia
 Palloni arancioni sgonfiati
 Fare ciao ad un treno che passa
 E guardare nel cielo la scia di un aereo
-You might also like[Ritornello 3]
+
+[Ritornello 3]
 E lei sempre senza mutande
 Ed io che non capivo neanche
 E scavavo la sabbia cercando tesori
@@ -47,4 +48,4 @@ Noi due stretti sotto la doccia
 La paura e la voglia di fare l'amore
 Il 31 d'agosto
 C'è una storia che nasce
-E un'estate che muoreEmbed
+E un'estate che muore

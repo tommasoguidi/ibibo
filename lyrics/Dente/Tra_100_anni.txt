@@ -1,4 +1,4 @@
-Tra 100 anni Lyrics[Testo di "Tra 100 anni"]
+[Testo di "Tra 100 anni"]
 
 [Strofa 1]
 Quante camminate in questi anni
@@ -36,7 +36,8 @@ Su quale hai fatto colpo
 In che momento
 Su quanti pavimenti hai camminato
 Su quali davanzali hai dondolato
-You might also like[Ritornello]
+
+[Ritornello]
 E chissà come sarò
 Tra cento anni
 Cosa farò
@@ -48,4 +49,4 @@ Tra cento anni
 Cosa farò
 E chissà come sarò
 Tra cento anni
-Tra cento anniEmbed
+Tra cento anni

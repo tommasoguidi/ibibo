@@ -1,4 +1,4 @@
-Canzone per un amico Lyrics[Testo di "Canzone per un amico"]
+[Testo di "Canzone per un amico"]
 
 [Intro]
 Tu-ru-tu tu
@@ -40,10 +40,11 @@ E se mi senti un po' lontano
 Non è perché non ci sono più
 Sto spiccando il volo
 Voglio tu sia con me
-You might also like[Ritornello]
+
+[Ritornello]
 Se vuoi, puoi chiamarmi, amico
 Quando avrai più bisogno
 Ci sarò sempre per te
 Se tutto ti sembra andar male
 Pensa ai sogni più grandi
-Avran bisogno di te2Embed
+Avran bisogno di te

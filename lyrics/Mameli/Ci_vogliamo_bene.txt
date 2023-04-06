@@ -1,4 +1,4 @@
-Ci vogliamo bene Lyrics[Testo di "Ci vogliamo bene"]
+[Testo di "Ci vogliamo bene"]
 
 [Strofa 1]
 Tabacchino ancora aperto
@@ -40,7 +40,8 @@ Come la musica commerciale
 Ci vogliamo bene
 Ed è un casino eccezionale
 È pronto da mangiare
-You might also like[Strofa 3]
+
+[Strofa 3]
 Lo sai che
 Non è mai troppo tardi
 Per fare
@@ -58,4 +59,4 @@ Come la musica commerciale
 Ci vogliamo bene
 Ed è un casino eccezionale
 È pronto da mangiare
-Ed io non ho più fameEmbed
+Ed io non ho più fame

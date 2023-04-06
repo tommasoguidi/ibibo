@@ -1,4 +1,4 @@
-Se mi vuoi Lyrics[Testo di "Se mi vuoi"]
+[Testo di "Se mi vuoi"]
 
 [Strofa 1]
 Guardami
@@ -41,7 +41,8 @@ Questa mia anima non sa
 (Se mi, se mi)
 Che cosa farsene della dignità
 (Se mi vuoi)
-You might also like[Outro]
+
+[Outro]
 Se mi vuoi
 Se mi vuoi
-Se mi vuoiEmbed
+Se mi vuoi

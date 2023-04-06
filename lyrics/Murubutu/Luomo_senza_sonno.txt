@@ -1,4 +1,4 @@
-L’uomo senza sonno Lyrics[Testo di "L'uomo senza sonno" ft. DJ T-Robb & MezzoSangue]
+[Testo di "L'uomo senza sonno" ft. DJ T-Robb & MezzoSangue]
 
 [Intro: Murubutu]
 Chiudi gli occhi e dormi (Uoh), flashback
@@ -47,7 +47,8 @@ C'è solo un modo per sfuggire a 'ste notti
 E sta sepolto nell'inconscio della scatola cranica
 E scende tra i ricordi morti a chiuderne gli occhi
 Palombaro di piombo negli abissi dell'anima
-You might also like[Ritornello: Murubutu]
+
+[Ritornello: Murubutu]
 Come spirito, chiudi gli occhi al karma
 Come un brivido, chiudi gli occhi e calma
 Come Kierkegaard, punta nella carne
@@ -105,4 +106,4 @@ Sleep's the cousin of death
 I never sleep
 [?]
 Sleep's the cousin of death
-The bed don't workEmbed
+The bed don't work

@@ -1,4 +1,4 @@
-Cantaré Lyrics[Testo di "Cantaré"]
+[Testo di "Cantaré"]
 
 [Strofa]
 In principio era la voce
@@ -45,7 +45,8 @@ Tu c'hai labbra de miele
 Core mio dimmelo te
 Che la musica cambia
 Se te voi bene
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Cuando una voz no se para
 Se le pica la oreja al patrón
 Però mi voz sigue alegra
@@ -65,4 +66,4 @@ Cantaré
 Come un tuono nel cielo
 Como lloró
 Perché vale oro
-Questa vita che grida da sola mentre canta in un coroEmbed
+Questa vita che grida da sola mentre canta in un coro

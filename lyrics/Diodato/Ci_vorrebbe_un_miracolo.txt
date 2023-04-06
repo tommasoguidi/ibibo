@@ -1,4 +1,4 @@
-Ci vorrebbe un miracolo Lyrics[Testo di "Ci vorrebbe un miracolo"]
+[Testo di "Ci vorrebbe un miracolo"]
 
 [Strofa 1]
 Gridano i gabbiani sul cuore di questa città
@@ -36,8 +36,9 @@ Vienici a salvare
 Ma rimanere lucidi in apnea, si sa
 Non è cosa semplice se poi non trovi un complice
 Con cui scambiarsi ossigeno e aspettare la normalità
-You might also like[Ritornello 3]
+
+[Ritornello 3]
 Un miracolo
 Ma entro la fine del secolo
 Se tu sai come fare, vienimi a salvare
-Vienici a salvareEmbed
+Vienici a salvare

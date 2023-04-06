@@ -1,4 +1,4 @@
-Maggio Lyrics[Strofa 1]
+[Strofa 1]
 Un fine settimana come tanti
 Ti immagino allo specchio che ti trucchi
 Metti un maglione rosso e nero a scacchi
@@ -42,11 +42,12 @@ La polvere seppellirà i pezzi di noi
 Tu eri per me
 Tutte le cose che già sai
 E sei per me tante altre cose che non sai
-You might also like[Ritornello]
+
+[Ritornello]
 E sono uscito a festeggiare e a bere
 Con gli amici miei, al solito pub
 E ti ho incontrata, non si sa che sfiga
 A volte quanto è piccola questa città
 Ma spiegami perché noi non ci salutiamo più
 Ormai guardiamo sempre in giù
-Mi hai fatto andare di traverso anche questo bicchiere di rumEmbed
+Mi hai fatto andare di traverso anche questo bicchiere di rum

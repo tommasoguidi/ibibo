@@ -1,4 +1,4 @@
-America Lyrics[Testo di "America"]
+[Testo di "America"]
 
 [Strofa 1]
 È già primavera
@@ -41,7 +41,8 @@ La nostra storia un giorno finirà
 E rimarrà soltanto il bene
 E un bacio lungo
 Fino all'America
-You might also like[Bridge]
+
+[Bridge]
 E il mondo è un posto triste senza di noi
 Lo sai che il cielo se vedi bene è il pianterreno sotto di noi
 Che meraviglia è
@@ -56,4 +57,4 @@ E ti regalo una canzone
 La nostra storia un giorno finirà
 E rimarrà soltanto il bene
 E un bacio lungo
-Fino all'AmericaEmbed
+Fino all'America

@@ -1,4 +1,4 @@
-Dritto al cuore Lyrics[Testo di "Dritto al cuore"]
+[Testo di "Dritto al cuore"]
 
 [Strofa 1]
 Quindi ci hai messo così tanto a capire
@@ -37,7 +37,8 @@ Se fossi da solo capirei
 Cantasse solo la mia voce
 Ma guarda quello che succede
 Adesso esplode il locale
-You might also like[Outro]
+
+[Outro]
 Una volta si può sbagliare
 Una volta si può sbagliare
 Se non riesci a sentire
@@ -49,4 +50,4 @@ Possiamo urlarlo ancora di più
 Una volta si può sbagliare
 Una volta si può sbagliare
 Se non riesci a sentire
-Possiamo urlarlo ancora di piùEmbed
+Possiamo urlarlo ancora di più

@@ -1,4 +1,4 @@
-E invece Lyrics[Testo di "E invece"]
+[Testo di "E invece"]
 
 Penseranno che sei caduto
 Che sei a pezzi, rotto, fratturato
@@ -23,4 +23,4 @@ Non ha una mano
 Pronta a dare tutto
 Penseranno che sei caduto
 E invece
-Stai solo guardando il cieloEmbed
+Stai solo guardando il cielo

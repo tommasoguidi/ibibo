@@ -1,4 +1,4 @@
-Bandida Lyrics[Testo di "Bandida]
+[Testo di "Bandida]
 
 [Ritornello]
 Bandida, el oro de toda su vida
@@ -55,7 +55,8 @@ Bandida, bandida, bandida
 (Y la culpa no era mía ni dónde estaba ni cómo vestía...)
 (El violador eras tú...)
 (El Estado...)
-You might also like[Ritornello]
+
+[Ritornello]
 Bandida, el oro de toda su vida
 El oro de toda su vida
 No lo puede renegar
@@ -68,4 +69,4 @@ No lo puede renegar
 Bandida, bandida, bandida
 Bandida, bandida, bandida
 Bandida, bandida, bandida
-Bandida, bandidaEmbed
+Bandida, bandida

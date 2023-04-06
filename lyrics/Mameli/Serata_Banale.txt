@@ -1,4 +1,4 @@
-Serata Banale Lyrics[Testo di "Serata Banale"]
+[Testo di "Serata Banale"]
 
 [Strofa 1]
 Sai
@@ -39,7 +39,8 @@ Dopo andare in rovina
 [Pre-Ritornello 2]
 Mi sa che forse resto a casa
 Ed esco fuori di me
-You might also like[Ritornello]
+
+[Ritornello]
 Oggi guarderò il telegiornale
 Tanto tu di uscire non ne vuoi proprio sapere
 Serata un po' banale
@@ -67,4 +68,4 @@ Da troppi giorni amore
 Che mi sembra tutto uguale
 Io non lo rifarei
 Io non lo rifarei
-Io non lo rifareiEmbed
+Io non lo rifarei

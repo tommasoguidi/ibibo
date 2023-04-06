@@ -1,4 +1,4 @@
-Lo Stakanovista Lyrics[Testo di "Lo Stakanovista"]
+[Testo di "Lo Stakanovista"]
 
 [Strofa 1]
 "Caspita quanto ti sei dimagrito"
@@ -48,10 +48,11 @@ Ho sorriso ad un autista
 Ho parlato col veo
 Ho conosciuto un'artista
 Sincero, bugiardo, egoista, stakanovista
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Tu lavori per vivere
 Io vivo per lavorare
 Con un guadagno da ridere
 C'è tanto da guadagnare
 Per uno stakanovista
-Bugiardo, sincero, altruista, stakanovistaEmbed
+Bugiardo, sincero, altruista, stakanovista

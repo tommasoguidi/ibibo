@@ -1,4 +1,4 @@
-Non ci sei più Lyrics[Testo di "Non ci sei più"]
+[Testo di "Non ci sei più"]
 
 [Strofa 1]
 Yah
@@ -50,7 +50,8 @@ Tu sei lontana dall'Italia e stai provando a scordarci
 Io, invece, sembro stare bene
 Non mi volto e mi guardo avanti
 Anche se eravamo i più fighi di tutti quanti
-You might also like[Ritornello]
+
+[Ritornello]
 Vorrei disegnare un posto dove non ci sei tu
 Dove non ci sei tu, dove non ci sei più
 E non doverti dire
@@ -58,4 +59,4 @@ E non doverti dire
 "Con chi cazzo sei?"
 "Cosa ci fai là?"
 "Oh, ma tu che cazzo vuoi da me?"
-"Dimmi che cazzo vuoi da me?"Embed
+"Dimmi che cazzo vuoi da me?"

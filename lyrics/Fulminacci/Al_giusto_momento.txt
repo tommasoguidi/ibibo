@@ -1,4 +1,4 @@
-Al giusto momento Lyrics[Testo di "Al giusto momento"]
+[Testo di "Al giusto momento"]
 
 [Strofa 1]
 Senti queste voci distratte
@@ -43,7 +43,8 @@ E tutti quei progetti a cui non puoi rinunciare
 Fa un po' freddo però
 C'è sempre una felpa per ogni evenienza
 La puoi anche tenere
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E dimmi le cose che voglio sentire
 Così da capire se posso morire per te
 Fammi vedere una foto di mamma da giovane
@@ -65,4 +66,4 @@ Forse perché non rifletto mai
 Al giusto momento
 Al giusto momento
 Al giusto momento
-Al giusto momento1Embed
+Al giusto momento

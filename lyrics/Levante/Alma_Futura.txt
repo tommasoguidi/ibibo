@@ -1,4 +1,4 @@
-Alma Futura Lyrics[Testo di "Alma Futura"]
+[Testo di "Alma Futura"]
 
 [Ritornello 1]
 A-A-Alma
@@ -39,8 +39,9 @@ A-A-Alma
 Ti lascio la mia voce e tutto l'oro che ho
 Se mi cerchi puoi trovarmi dentro a questo canto
 Perché è per te che canto
-You might also like[Ritornello 4]
+
+[Ritornello 4]
 A-A-Alma
 A-A-Alma
 A-A-Alma
-A-A-AlmaEmbed
+A-A-Alma

@@ -1,4 +1,4 @@
-Gondola Lyrics[Testo di "Gondola"]
+[Testo di "Gondola"]
 
 [Strofa 1]
 Giro il mio bicchiere di vetro, il vino rosso dondola
@@ -39,7 +39,8 @@ E passeranno volti, passeranno amici
 E sei quello fai e non quello che dici
 E passeranno i pianti dolci sui tuoi nei
 E se finisci i sogni, magari ti do i miei
-You might also like[Ritornello]
+
+[Ritornello]
 La stanza ora è vuota
 Il tempo che vola
 Ti cerco per casa, ma tu non ci sei
@@ -53,4 +54,4 @@ Il tempo che vola
 Ti cerco per casa, ma tu non ci sei
 La stanza ora è vuota
 Ho un nodo alla gola
-Il tempo che vola, ma tu non ci sei1Embed
+Il tempo che vola, ma tu non ci sei

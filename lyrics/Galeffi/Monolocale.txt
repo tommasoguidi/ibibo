@@ -1,4 +1,4 @@
-Monolocale Lyrics[Testo di "Monolocale"]
+[Testo di "Monolocale"]
 
 [Strofa 1]
 Mi disinfetto quando te ne vai
@@ -39,9 +39,10 @@ Sarò la tua altalena
 E se poi non basterà
 Ti abbraccerò ogni sera, anche quando non mi va
 Sarò la tua armatura
-You might also like[Ritornello]
+
+[Ritornello]
 Se fossi in te, non mi amerei mai e poi mai
 Fammi vedere che c'è aldilà degli occhi tuoi
 Tutte le notti che abbiamo passato nel letto
 Se le porta via il vento e poi
-Che mondo sarebbe senza di noi1Embed
+Che mondo sarebbe senza di noi

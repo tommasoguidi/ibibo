@@ -1,4 +1,4 @@
-Michel Lyrics[Testo di "Michel"]
+[Testo di "Michel"]
 
 [Strofa 1]
 Entro nel casinò, sono agitato, ma sembro calmo
@@ -44,7 +44,8 @@ Il croupier prende la prima carta, la gira e mi fa un cenno
 Punto tutti i cinquantamila, poi mi faccio il segno della croce
 Lui gira anche l'altra, guarda me, poi dice ad alta voce
 "Asso e dieci", blackjack!
-You might also like[Ritornello]
+
+[Ritornello]
 Quando ero ragazzo c'era un tipo giù da me
 Girava con me, stava in crew con me, spaccava col rap
 Poi ci siam persi di vista, mi avevan detto che fa il croupier
@@ -82,4 +83,4 @@ Quando ero ragazzo c'era un tipo giù da me
 Girava con me, stava in crew con me, spaccava col rap
 Ognuno c'ha il suo destino, il suo è di fare il croupier
 Il mio è di giocarmi le mie fiches, poi in caso ci pensa Mish
-Michel!Embed
+Michel!

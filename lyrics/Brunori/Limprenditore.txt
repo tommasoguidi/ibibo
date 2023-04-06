@@ -1,4 +1,4 @@
-L’imprenditore Lyrics[Testo di "L'imprenditore"]
+[Testo di "L'imprenditore"]
 
 [Strofa 1]
 In banca non si può più entrare con il cellulare
@@ -36,6 +36,7 @@ Ma come sono contento
 Di lavorare per ore ed ore
 Na, na-na, na
 Come on, the enterpriser
-You might also like[Outro]
+
+[Outro]
 Il mondo gira su stesso, io faccio lo stesso
-Cambio le lenzuola e non ci penso piùEmbed
+Cambio le lenzuola e non ci penso più

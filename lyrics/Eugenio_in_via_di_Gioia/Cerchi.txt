@@ -1,4 +1,4 @@
-Cerchi Lyrics[Testo di "Cerchi"]
+[Testo di "Cerchi"]
 
 [Strofa 1]
 Ho paura della morte
@@ -40,7 +40,8 @@ Dio, che paura
 Ma chi l'avrebbe detto
 Che questa creatura avesse coscienza di sé
 E fame di conoscenza anche se
-You might also like[Ritornello]
+
+[Ritornello]
 Non lo capirà mai, non lo capirà mai
 Non lo capirà mai, non lo capirà
 
@@ -61,4 +62,4 @@ Cerchi dappertutto, ma
 Non lo capirai mai, non lo capirai mai
 Non lo capirai mai, non lo capirai
 Ma non lo capirai mai, non lo capirai mai
-Non lo capirai mai, non lo capirai1Embed
+Non lo capirai mai, non lo capirai

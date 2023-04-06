@@ -1,4 +1,4 @@
-Pantagruél Lyrics[Testo di "Pantagruél"]
+[Testo di "Pantagruél"]
 
 [Intro]
 Dai che ci diamo mille baci
@@ -48,7 +48,8 @@ E se la tua mamma dicesse che ha voglia
 Di far la torta dentro pasta sfoglia
 Se lavo i piatti tra mille pastiglie
 Trovo anche il tempo di far le stoviglie
-You might also like[Ritornello 3]
+
+[Ritornello 3]
 Dai che ci diamo mille baci
 E sui fianchi tuoi tramontano gli asini
 S'impontano e volan via di qui
@@ -60,4 +61,4 @@ E sui fianchi tuoi tramontano gli asini
 S'impontano e volan via
 Dai che ci diamo mille baci
 Sui fianchi tuoi tramontano
-I nostri cuori piangono e grondanoEmbed
+I nostri cuori piangono e grondano

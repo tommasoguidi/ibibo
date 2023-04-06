@@ -1,4 +1,4 @@
-Tommaso Lyrics[Testo di "Tommaso"]
+[Testo di "Tommaso"]
 
 [Strofa 1]
 Sono molto, molto sorpreso dagli anni che mi dai
@@ -37,7 +37,8 @@ Potremmo fare il tour dei benzinai, dei benzinai
 [Pre-Ritornello]
 Quindi ti prego dimmi di sì
 Che tanto poi io già stavo qui
-You might also like[Ritornello]
+
+[Ritornello]
 Ma mica per caso
 Ho visto Tommaso
 Mi ha detto che lei
@@ -58,4 +59,4 @@ Mi mettono a-a-agitazione
 Mi mettono a-a-agitazione
 Mi mettono a-a-agitazione
 Mi mettono a-a-agitazione
-Mi mettono a-a-a-a2Embed
+Mi mettono a-a-a-a

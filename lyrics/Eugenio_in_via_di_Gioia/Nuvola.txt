@@ -1,4 +1,4 @@
-Nuvola Lyrics[Testo di "Nuvola"]
+[Testo di "Nuvola"]
 
 [Strofa 1]
 Vorrei essere nuvola, vapore trasparente
@@ -34,7 +34,8 @@ Nudo, non vestirmi di niente
 Vorrei essere nudo, non vestirmi di niente
 Vorrei essere nudo, non vestirmi di niente
 E ritornare l'ultima parte di tutto
-You might also like[Ritornello]
+
+[Ritornello]
 E non finire più
 E non finire più
 E non finire più (Immerso nel sole)
@@ -51,4 +52,4 @@ Come un pazzo che è scappato da un manicomio (E non finire più)
 Appena smesso di piangere, io voglio sentirmi appagato (E non finire più)
 In continuo divenire, una ruota che continua a girare
 E ritornare l'ultima parte di tutto
-E non finire piùEmbed
+E non finire più

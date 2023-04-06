@@ -1,4 +1,4 @@
-Ghost and Machine Lyrics[Testo di "Ghost and Machine"]
+[Testo di "Ghost and Machine"]
 
 [Strofa 1]
 Nel 2170 non ci sarà più energia
@@ -36,7 +36,8 @@ La città si nutre di loro
 [Ritornello]
 I only see, only ghost and machines
 I only see, only ghost and machines
-You might also like[Strofa 3]
+
+[Strofa 3]
 Cromosomi, astronavi, elettroni
 Mutazioni fisiche, corpi con tre mani
 Politiche sadomaso, sai per caso [?], birra in plastica
@@ -54,4 +55,4 @@ I only see, only ghost and machines
 
 [Outro]
 I only see, only ghost and machines
-I only see, only ghost and machinesEmbed
+I only see, only ghost and machines

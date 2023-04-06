@@ -1,4 +1,4 @@
-EVEREST Lyrics[Testo di "EVEREST"]
+[Testo di "EVEREST"]
 
 [Strofa 1]
 Ti dipingerei nuda su una tela
@@ -33,7 +33,8 @@ Sicuramente uno schifo, ci vuoi scommettere?
 
 [Pre-Ritornello]
 E mi ricordo che tu-tu-tu mi guardavi negli occhi
-You might also like[Ritornello]
+
+[Ritornello]
 Invece poi mi resta solo il casino
 Un letto sfatto e una bottiglia di vino
 Il tuo rossetto e una camicia di lino
@@ -57,4 +58,4 @@ Sulla vetta di un rimpianto
 Digrigno i denti, stanco
 Di lacrime, di fango
 Tu-tu-tu mi guardavi negli occhi
-E io che-che-che disegnavo i tuoi fianchiEmbed
+E io che-che-che disegnavo i tuoi fianchi

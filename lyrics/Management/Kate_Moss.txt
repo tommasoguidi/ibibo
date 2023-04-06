@@ -1,4 +1,4 @@
-Kate Moss Lyrics[Intro]
+[Intro]
 Londra, Milano, Parigi, Berlino
 New York, New York
 Londra, Milano, Parigi, Berlino
@@ -34,7 +34,8 @@ Sei in, sei out
 Sei in, sei out
 Se non sei in, sei out
 Se non sei in, sei out
-You might also like[Interlude]
+
+[Interlude]
 Londra, Milano, Parigi, Berlino
 New York, New York
 Londra, Milano, Parigi, Berlino
@@ -74,4 +75,4 @@ Siamo un viaggio costosissimo
 Non è bello ciò che è bello
 Ma è bello solo quello che è bellissimo
 È bello solo quello che è bellissimo
-È bello solo quello che è bellissimoEmbed
+È bello solo quello che è bellissimo

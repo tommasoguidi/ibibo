@@ -1,4 +1,4 @@
-L’urlo Lyrics[Testo di "L'urlo"]
+[Testo di "L'urlo"]
 
 [Strofa 1]
 Per primo io e dopo gli altri
@@ -41,9 +41,10 @@ Che sia di notte senza dormire
 La gola in fiamme, il cuore che sta per scoppiare
 Che sia per tutto il male che ho fatto
 Che sia per te, che hai sopportato la mia vita
-You might also like[Outro]
+
+[Outro]
 Questo è un urlo, solo un urlo
 Che sia di notte senza dormire
 La gola in fiamme, il cuore che sta per scoppiare
 Che sia per tutto il male che ho fatto
-Che sia per te, che hai sopportato la mia vitaEmbed
+Che sia per te, che hai sopportato la mia vita

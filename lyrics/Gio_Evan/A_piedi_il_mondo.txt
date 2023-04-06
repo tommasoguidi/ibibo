@@ -1,4 +1,4 @@
-A piedi il mondo Lyrics[Testo di "A piedi il mondo"]
+[Testo di "A piedi il mondo"]
 
 [Strofa 1]
 Ti regalerò una mia fototessera
@@ -41,7 +41,8 @@ Un giro di mojito, un giro di gin lemon
 Un giro di tequila e un altro di quello che fa boom boom
 Un giro di whisky, un giro di rum
 Un altro giro di rum, poi il giro del mondo con te
-You might also like[Ritornello]
+
+[Ritornello]
 E dicono che tutto vola via
 Ed io lo so che tu ci credi
 Ma quanti treni abbiamo perso, quanti treni
@@ -64,4 +65,4 @@ A piedi il mondo con te
 A piedi il mondo, a piedi il mondo
 A piedi il mondo, a piedi il mondo
 A piedi il mondo, a piedi il mondo
-A piedi il mondo con teEmbed
+A piedi il mondo con te

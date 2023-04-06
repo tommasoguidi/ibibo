@@ -1,4 +1,4 @@
-Lamezia Milano Lyrics[Testo di "Lamezia Milano"]
+[Testo di "Lamezia Milano"]
 
 [Strofa 1]
 Lamezia Milano, andata e ritorno
@@ -40,7 +40,8 @@ Con la metropoli che ancora incanta
 E la provincia ferma agli anni ottanta
 L'Italia sventola bandiera bianca
 E canta, e canta
-You might also like[Bridge]
+
+[Bridge]
 Uh, uh-uh-uh, uh-uh-uh
 Non riesco più a vedere
 Uh, uh-uh-uh, uh-uh-uh
@@ -60,4 +61,4 @@ E canta, e canta
 
 [Outro]
 E canta
-E canta1Embed
+E canta

@@ -1,4 +1,4 @@
-DOMANI TORNO Lyrics[Testo di "DOMANI TORNO"]
+[Testo di "DOMANI TORNO"]
 
 [Strofa 1]
 Io ero passato soltanto per dirti che mi era mancato
@@ -43,7 +43,8 @@ Tornassi indietro, vabbè che non si torna indietro mai
 Ma se potessi farlo adesso giuro
 Che non ti lascerei neppure un minuto
 Io non ti lascerei neppure un minuto
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 (Avrei voluto baciarti, baciarti, baciarti)
 (per ore, per ore, per ore, per ore)
 (avrei dovuto baciarti, baciarti per ore, per ore, per ora)
@@ -54,4 +55,4 @@ Per ore, per ore, per ore, per ore
 Avrei dovuto baciarti, baciarti per ore, per ore
 Noi stretti sul mare a morire
 Ti dedico una canzone
-Ti dedico una canzoneEmbed
+Ti dedico una canzone

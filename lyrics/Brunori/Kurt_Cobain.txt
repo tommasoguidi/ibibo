@@ -1,4 +1,4 @@
-Kurt Cobain Lyrics[Testo di "Kurt Cobain"]
+[Testo di "Kurt Cobain"]
 
 [Strofa 1]
 Vivere, come volare
@@ -42,7 +42,8 @@ E non provare più niente
 Non provare più niente
 E non avere più niente
 Da dire
-You might also like[Outro]
+
+[Outro]
 Vivere, come sognare
 Ci si può riuscire spegnendo la luce
-E tornando a dormire1Embed
+E tornando a dormire

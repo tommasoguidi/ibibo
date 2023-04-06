@@ -1,4 +1,4 @@
-Franco Lyrics[Testo di "Franco"]
+[Testo di "Franco"]
 
 [Strofa 1]
 Diciotto e trentacinque minuti, 26 gennaio
@@ -58,10 +58,11 @@ Dorme in macchina o in magazzino
 Dipende dalla stagione
 Per questo puzza anche parecchio
 Ma non ci ho mai fatto attenzione
-You might also like[Ritornello]
+
+[Ritornello]
 Lui pensa forte
 All'amante
 In Romania, moglie mia
 Lui pensa forte
 Alla moglie
-Figlia mia, sei in RomaniaEmbed
+Figlia mia, sei in Romania

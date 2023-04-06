@@ -1,4 +1,4 @@
-La volpe Lyrics[Intro]
+[Intro]
 Sono la volpe
 
 [Strofa 1]
@@ -35,7 +35,8 @@ Sono diventata un secchio
 È stato il musical delle cicale
 È stato l'uomo, è stato il male
 È stata colpa dei gelati, dello zucchero e del sale
-You might also like[Ritornello]
+
+[Ritornello]
 Mio padre poteva volare
 Si trasformava
 Sparava fiamme dalle code
@@ -53,4 +54,4 @@ Troppo pesante
 Comunque ogni mattina caccio i topi
 Dai campi vicini
 Mi chiamano per nome
-Mi vogliono bene tutti i contadiniEmbed
+Mi vogliono bene tutti i contadini

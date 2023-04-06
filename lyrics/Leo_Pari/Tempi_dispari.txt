@@ -1,4 +1,4 @@
-Tempi dispari Lyrics[Testo di "Tempi dispari"]
+[Testo di "Tempi dispari"]
 
 [Strofa 1]
 Anche un uomo può simulare un orgasmo
@@ -41,7 +41,8 @@ Venivano dalla bocca dell'uomo che vaneggia
 Cosa c'è dentro al cuore? Soltanto un po' di sangue
 Cosa c'è dentro al cuore? L'anima più grande
 Cosa c'è dentro al cuore? La versione pirata di un software che trova una risposta a tutte le domande
-You might also like[Ritornello]
+
+[Ritornello]
 Tempi dispari, tempi di spari
 Tempi dispari, tempi di spari
 Tempi dispari, tempi di spari
@@ -69,4 +70,4 @@ Qualcuno dice che non siamo tutti uguali
 Tempi dispari, tempi di spari
 Tempi dispari, tempi di spari
 Tempi dispari, tempi di spari
-Eppure a me sembriamo proprio tutti ugualiEmbed
+Eppure a me sembriamo proprio tutti uguali

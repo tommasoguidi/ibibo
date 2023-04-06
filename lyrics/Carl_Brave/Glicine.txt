@@ -1,4 +1,4 @@
-Glicine Lyrics[Testo di "Glicine"]
+[Testo di "Glicine"]
 
 [Strofa 1]
 Noi bilancia
@@ -64,7 +64,8 @@ Alla fine è successo, stavo in fila al cesso
 E tu mi sei venuta appresso
 La prima volta è magica, poi non è più lo stesso
 Vorrei svegliarmi adesso, ma s'è rotta la Nespresso
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Male, male, male
 Male, male, male
 Male, male, male
@@ -87,4 +88,4 @@ Miss you
 (Male, Male)
 (Male, Male)
 Male, male, male
-Male, male, maleEmbed
+Male, male, male

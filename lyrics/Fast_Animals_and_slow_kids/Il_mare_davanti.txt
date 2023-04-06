@@ -1,4 +1,4 @@
-Il mare davanti Lyrics[Testo di "Il mare davanti"]
+[Testo di "Il mare davanti"]
 
 [Ritornello]
 Aiuto
@@ -50,7 +50,8 @@ Ai nostri bambini
 Che non ci capiranno
 Ai nostri sogni
 Per sempre in letargo
-You might also like[Outro]
+
+[Outro]
 Non c'è più speranza
 Non c'è più speranza
 Non c'è più speranza
@@ -59,4 +60,4 @@ C'è la notte
 C'è la notte
 C'è la notte
 C'è la notte
-C'è il silenzioEmbed
+C'è il silenzio

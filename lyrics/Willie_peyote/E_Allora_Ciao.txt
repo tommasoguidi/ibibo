@@ -1,4 +1,4 @@
-E Allora Ciao Lyrics[Testo di "E Allora Ciao"]
+[Testo di "E Allora Ciao"]
 
 [Intro]
 "Taglia i ponti con tutto, vai a fare un giro, cambia nazione, cambia amici, cambia tutto quello che devi cambiare, sennò trova un modo per fartela andar bene, perché sennò l'alternativa è una sola Guglie"
@@ -54,7 +54,8 @@ Chi pecca d'esperienza parla per sentito dire
 Io ne sento dire un tot, nessuno che si alzi e dica: "No"
 Non è nella scaletta dello show
 Se saltiamo tutti insieme il pavimento non ci tiene, viene giù
-You might also like[Outro]
+
+[Outro]
 E allora ciao, e allora ciao (sì ciao ciao bello, ciao)
 E allora ciao, (ciao caro! Ciao caro)
-E allora ciao (ciao ciao, sì ciao ciao, sì, ciao)1Embed
+E allora ciao (ciao ciao, sì ciao ciao, sì, ciao)

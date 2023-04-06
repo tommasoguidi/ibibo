@@ -1,4 +1,4 @@
-Glovo Lyrics[Testo di "Glovo"]
+[Testo di "Glovo"]
 
 [Strofa 1]
 Se è proprio vero che la paura
@@ -39,7 +39,8 @@ Le cose arrivano quando più non te l’aspetti
 E poi non fare quella faccia da dura
 Proprio non ci riesci
 Che quando parli sei così sicura ma nella tua testa balbetti
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Ma che ci siamo fatti
 Ma perchè siamo fermi
 Come se non lo sapessi che i tuoi occhi la mattina sono verdi
@@ -74,4 +75,4 @@ Solo con un cuore
 Ed una Coca zero, che se poi scendo la butto nel vetro
 Ma ancora non credo, non credo
 Di volere buttare te
-Di volere buttare teEmbed
+Di volere buttare te

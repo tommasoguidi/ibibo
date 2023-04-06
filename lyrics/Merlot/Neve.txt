@@ -1,4 +1,4 @@
-Neve Lyrics[Testo di "Neve"]
+[Testo di "Neve"]
 
 [Strofa 1]
 Come l'ultima volta che ci siamo visti
@@ -43,7 +43,8 @@ Che poi alla fine finirà anche questo
 Ma adesso stringimi dentro al tuo letto
 E non pensare a quello che è successo
 A quello che è successo
-You might also like[Ritornello]
+
+[Ritornello]
 Oh, neve perché
 Ammazzami se vuoi
 O portami con te
@@ -62,4 +63,4 @@ Con te
 Portami con te, con te
 E portami con te, con te
 E portami con te, con te
-Portami con teEmbed
+Portami con te

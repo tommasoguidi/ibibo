@@ -1,4 +1,4 @@
-Babilonia Lyrics[Testo di "Babilonia"]
+[Testo di "Babilonia"]
 
 [Strofa 1]
 Cado e tu, tu vieni a riprendermi
@@ -40,6 +40,7 @@ Sia possibile ogni cosa, questa sana follia
 Sia capace di mostrarmi
 Mi basta, mi porti via da qui
 Dall'assurda e inutile Babilonia, Babilonia
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Babilonia
-BabiloniaEmbed
+Babilonia

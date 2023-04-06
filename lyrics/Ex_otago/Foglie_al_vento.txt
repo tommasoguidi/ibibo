@@ -1,4 +1,4 @@
-Foglie al vento Lyrics[Testo di "Foglie al vento"]
+[Testo di "Foglie al vento"]
 
 [Strofa 1]
 Navighiamo in mare aperto
@@ -38,7 +38,8 @@ Quanto grande è il mio cuor
 Vicino a te, vicino a te
 Quanto grande è il mio cuor
 Vicino a te, vicino a te
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Siamo come foglie al vento
 In pieno autunno
 Come un discorso aperto
@@ -60,4 +61,4 @@ Quando sarò cenere
 Navighiamo in mare aperto
 Con un barcone scassato
 Tu mi guardi e io ti guardo
-Siamo sotto un incantesimoEmbed
+Siamo sotto un incantesimo

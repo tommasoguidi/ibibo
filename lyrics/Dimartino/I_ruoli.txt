@@ -1,4 +1,4 @@
-I ruoli Lyrics[Testo di "I ruoli"]
+[Testo di "I ruoli"]
 
 [Strofa 1]
 Abbiamo deciso i ruoli
@@ -41,7 +41,8 @@ Perché non ho più voglia di perdere
 Perché non ho più voglia di perdere
 Di perdere
 Di perdere
-You might also like[Outro]
+
+[Outro]
 Perché non ho più voglia di perdere
 Di perdere
-Di perdereEmbed
+Di perdere

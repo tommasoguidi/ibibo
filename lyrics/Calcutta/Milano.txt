@@ -1,4 +1,4 @@
-Milano Lyrics[Testo di "Milano"]
+[Testo di "Milano"]
 
 [Strofa 1]
 Ci sono giorni che io vorrei dormire
@@ -39,7 +39,8 @@ Rararara rararara
 [Strofa 4]
 Ci sono giorni che io vorrei imparare
 Ed altri, invece, in cui io non so più contare
-You might also like[Outro]
+
+[Outro]
 Ma non ci riesco più
 Non ci riesco più
 Ma non ci riesco più
@@ -71,4 +72,4 @@ Io non ci riesco più
 Ma non ci riesco più
 Non ci riesco più
 Ma non ci riesco più
-Io non ci riesco più1Embed
+Io non ci riesco più

@@ -1,4 +1,4 @@
-Condividere Lyrics[Testo di "Condividere"]
+[Testo di "Condividere"]
 
 [Strofa 1]
 La stanza è distrutta
@@ -39,7 +39,8 @@ La cura del dettaglio ti rende meno libero
 Ho letto sulla metro e quasi mi convinco
 Se non fosse che già sono uno sbadato
 Nel futuro cerco l'approssimativo
-You might also like[Ritornello]
+
+[Ritornello]
 Un programma rigido
 Dieta, frutta, fibre, caroboidrati
 E contagoccie
@@ -51,4 +52,4 @@ Ci ha tolto anche il piacere
 Di condividere
 Di condividere
 Di condividere
-Di condividere davveroEmbed
+Di condividere davvero

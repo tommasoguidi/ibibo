@@ -1,4 +1,4 @@
-Ricomincio da 3 Lyrics[Testo di "Ricomincio da 3"]
+[Testo di "Ricomincio da 3"]
 
 [Strofa 1]
 Mi piacerebbe incontrarti
@@ -39,7 +39,8 @@ Ho imboccato la statale
 E anche se non ti vedo
 E anche se non ti sento
 Sto male uguale
-You might also like[Ritornello]
+
+[Ritornello]
 Dovevamo partire in tre
 Io, te e l'amore
 Ma uno non è venuto e
@@ -47,4 +48,4 @@ Non so il perché
 Dovevamo partire in tre
 Io, te e l'amore
 Ma uno non è venuto e
-E non si parteEmbed
+E non si parte

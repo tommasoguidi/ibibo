@@ -1,4 +1,4 @@
-Volare Lyrics[Testo di "Volare"]
+[Testo di "Volare"]
 
 [Strofa 1]
 La penna scrive, la mente immagina
@@ -51,7 +51,8 @@ E nel mio cielo ho scelto le stelle più belle
 Perché io un Dio non ce l'ho
 E conto i tagli che ho sotto la pelle
 Lascio i giorni bui il giorno in cui volerò
-You might also like[Ritornello]
+
+[Ritornello]
 M'hanno spiegato cosa potevo fare
 E cosa invece non è fatto per me
 Cresco in un mondo che mi vuole cambiare
@@ -77,4 +78,4 @@ Ma sto imparando a volare da me
 M'hanno spiegato cosa potevo fare
 E cosa invece non è fatto per me
 Tu mi volevi faccia al suolo ma
-Guardami spiccare il voloEmbed
+Guardami spiccare il volo

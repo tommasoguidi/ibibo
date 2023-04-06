@@ -1,4 +1,4 @@
-Quello che funziona Lyrics[Testo di "Quello che funziona"]
+[Testo di "Quello che funziona"]
 
 [Strofa 1]
 Una stanza a piazza Vittorio
@@ -42,7 +42,8 @@ Forse anche Nerone
 Odiava l'inverno
 A Milano è peggio
 Ci sono i soldi però
-You might also likeMa tu hai gli occhi tristi
+
+Ma tu hai gli occhi tristi
 Proprio come tua madre
 Che ora sta nell'Aniene
 Al mare ritornerà
@@ -69,4 +70,4 @@ Antica Roma
 Sei quello che funziona
 Quello che funzionerà
 Sei quello che funziona
-Quello che funzioneràEmbed
+Quello che funzionerà

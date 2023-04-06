@@ -1,4 +1,4 @@
-L’effetto sbagliato Lyrics[Strofa 1]
+[Strofa 1]
 Guarda che se lei ti dà picche
 Non è che è perché non vi capite
 Anche stasera quanti amici e quante amiche ha
@@ -37,7 +37,8 @@ Che effetto ti fa?
 A me fa sempre l'effetto sbagliato
 E questa città se tu non ci sei
 Sembra più brutta anche lei
-You might also like[Bridge]
+
+[Bridge]
 Ma versami da bere, sarà tutto ok (tutto ok)
 Il tizio fa il brillante ma è bigiotteria e lei l'ha scaricato in fretta, batteria
 Un cielo in una stanza se questa piazza è casa mia
@@ -66,4 +67,4 @@ Sembra più brutta anche lei
 Perché non cambia l'effetto che fa
 A me fa sempre l'effetto sbagliato
 E questa città se tu non ci sei
-Mi tocca berne altri sei1Embed
+Mi tocca berne altri sei

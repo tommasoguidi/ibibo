@@ -1,4 +1,4 @@
-La tua canzone Lyrics[Testo di "La tua canzone"]
+[Testo di "La tua canzone"]
 
 [Strofa 1]
 Amare te è facile
@@ -38,7 +38,8 @@ In questo mondo di infinite bombe
 Io ho la mia
 La tua canzone ti scalderà
 Per quando lo vorrai
-You might also like[Ritornello]
+
+[Ritornello]
 (Per quando mi amerai)
 C'è un mazzo di fiori sul mio sedile, guiderò
 (Per quando mi amerai)
@@ -63,4 +64,4 @@ O forse non era vero
 O forse non era vero
 (Per quando mi amerai)
 O forse non era vero
-(Per quando mi amerai)1Embed
+(Per quando mi amerai)

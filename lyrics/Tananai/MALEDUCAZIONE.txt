@@ -1,4 +1,4 @@
-MALEDUCAZIONE Lyrics[Testo di "MALEDUCAZIONE"]
+[Testo di "MALEDUCAZIONE"]
 
 [Strofa 1]
 Ma quanto è bello rivederti, dove sei stato?
@@ -36,7 +36,8 @@ Sento che mi sento ancora un po' stressato dalle tre
 Forse perché non ho riposato
 Scusa l'imbarazzo, la tua faccia mi ricorda che
 Non voglio essere maleducato
-You might also like[Ritornello]
+
+[Ritornello]
 Ma-ma, ma-ma-maleducato
 Ma-ma-ma-ma-ma-ma-ma-ma
 Ma-ma, ma-ma-maleducato
@@ -56,4 +57,4 @@ Eppure guardami negli occhi, ti sembro triste?
 Ma-ma, ma-ma-maleducato
 Ma-ma-ma-ma-ma-ma-ma-ma
 Ma-ma, ma-ma-maleducato
-Ma-ma-ma-ma mi stai sul c–Embed
+Ma-ma-ma-ma mi stai sul c–

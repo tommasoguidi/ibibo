@@ -1,4 +1,4 @@
-La felicità Lyrics[Testo di "La felicità"]
+[Testo di "La felicità"]
 
 [Strofa 1]
 Il gatto è scappato di casa
@@ -34,7 +34,8 @@ Il vento mi accarezzava
 Mentre cercavo la felicità
 Pure Marina ha trovato lavoro
 E adesso deve cambiare città
-You might also like[Ritornello]
+
+[Ritornello]
 Cercavo di qua, cercavo di là
 Stavo cercando la felicità
 Andavo di qua e andavo di là
@@ -87,4 +88,4 @@ Mentre cercavo la felicità
 Cercavo di qua, cercavo di là
 Stavo cercando la felicità
 Andavo di qua e andavo di là
-Mentre cercavo la felicitàEmbed
+Mentre cercavo la felicità

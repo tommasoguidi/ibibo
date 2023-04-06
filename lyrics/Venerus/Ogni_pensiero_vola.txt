@@ -1,4 +1,4 @@
-Ogni pensiero vola Lyrics[Testo di "Ogni pensiero vola"]
+[Testo di "Ogni pensiero vola"]
 
 [Strofa 1]
 Non puoi sempre fare così
@@ -38,8 +38,9 @@ E tutto attorno si dipinge un po' di blu
 Cerco nuove strade per uscire da me, oh-oh
 Per superare ogni mio limite
 E scoprire poi al di fuori che c'è
-You might also like[Ritornello]
+
+[Ritornello]
 Forse è che appartengo a un mondo un po' magico
 Vorrei volare via lontano da qui
 E a volte sento tutto attorno un po' strano
-Chissà se qualcun altro è fatto così1Embed
+Chissà se qualcun altro è fatto così

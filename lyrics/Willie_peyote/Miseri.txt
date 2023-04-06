@@ -1,4 +1,4 @@
-Miseri Lyrics[Testo di "Miseri"]
+[Testo di "Miseri"]
 
 [Intro]
 Yao
@@ -49,7 +49,8 @@ E allora dimmi te
 Quant'è arrogante l'immortalità
 Se anche Gesù è morto giovane
 Il tempo logora chi non ce l'ha
-You might also like[Bridge]
+
+[Bridge]
 L'ego del miliardario, sai, si ciba dell'invidia del più povero
 Ma non c'hai niente dopo, neanche se ti porti tutti i soldi in un sarcofago
 E se le regole del gioco le hanno scritte sempre quelli che non giocano
@@ -98,4 +99,4 @@ Lascia un segno che può sopravviverti
 (Na-na-na-na-na, na-na-na, na-na-na-na-na, na-na-na)
 Al contrario del libro di Stephen King
 (Na-na-na-na-na, na-na-na, na-na-na-na-na, na-na-na-na)
-Devono morire miseriEmbed
+Devono morire miseri

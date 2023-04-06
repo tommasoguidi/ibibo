@@ -1,4 +1,4 @@
-Che casino Lyrics[Testo di "Che casino"]
+[Testo di "Che casino"]
 
 [Strofa 1]
 Io mi muovo come se
@@ -45,7 +45,8 @@ Dio che casino
 Che bello che è il casino
 Lo sai, sono un casino
 Se vieni, ti incasino
-You might also like[Bridge]
+
+[Bridge]
 (Casino, casino)
 (Casino, casino)
 Eh, ora, ora, ora, ora, ora, ora, ora (Casino)
@@ -72,4 +73,4 @@ Io vivo e mi incasino
 Dio che casino
 Che bello che è il casino
 Lo sai, sono un casino
-Se vieni, ti incasinoEmbed
+Se vieni, ti incasino

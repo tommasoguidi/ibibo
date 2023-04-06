@@ -1,4 +1,4 @@
-Remember Lyrics[Testo di "Remember"]
+[Testo di "Remember"]
 
 [Intro]
 (Pronto?)
@@ -48,11 +48,12 @@ Troppe settimane che non appare il nome tuo sul display
 T'ho fatto da stuntman
 Ho preso le botte e mi sono fatto da parte
 Remember, remember
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Remember, remember
 I giorni, le notti, la gente
 Remember, remember
 Il mare, questi occhi, le stelle
 
 [Outro]
-Niente, niente, niente, niente, nienteEmbed
+Niente, niente, niente, niente, niente

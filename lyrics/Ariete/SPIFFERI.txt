@@ -1,4 +1,4 @@
-SPIFFERI Lyrics[Testo di "SPIFFERI"]
+[Testo di "SPIFFERI"]
 
 [Strofa 1]
 Vorrei sapere a cosa pensi ora che siamo lontane e distanti
@@ -45,7 +45,8 @@ Macchine fanno la coda
 Io resterò chiusa in casa
 Guarderò il caldo passare
 Sento i tuoi respiri negli spifferi delle persiane
-You might also like[Ritornello]
+
+[Ritornello]
 E non va più via
 Quel ricordo che avevo di noi
 Quando calava il buio, e senza niente intorno
@@ -63,4 +64,4 @@ Fuori è buio pesto
 Macchine fanno la coda
 Io resterò chiusa in casa
 Guarderò il caldo passare
-Sento i tuoi respiri negli spifferi delle persiane1Embed
+Sento i tuoi respiri negli spifferi delle persiane

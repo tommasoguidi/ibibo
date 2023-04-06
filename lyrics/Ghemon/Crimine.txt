@@ -1,4 +1,4 @@
-Crimine Lyrics[Testo di "Crimine"]
+[Testo di "Crimine"]
 
 [Strofa 1]
 Tu mi hai raccolto sul ciglio della strada con un cucchiaio
@@ -49,8 +49,9 @@ Siamo come un esplosivo pronto a detonare
 Questa fiamma ci fa innescare le cariche
 Spiega le ali stiamo per volare
 Noi due siamo un altro paio di maniche
-You might also like[Ritornello]
+
+[Ritornello]
 Io per te mi perderei e non m'importa niente
 Se penso a come sei, spericolato crimine
 Mi ero distratto a vivere e il destino ha mandato te
-Un tempismo quasi infallibile, che a pensarci fa ridereEmbed
+Un tempismo quasi infallibile, che a pensarci fa ridere

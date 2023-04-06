@@ -1,4 +1,4 @@
-Idem Lyrics[Testo di "Idem"]
+[Testo di "Idem"]
 
 [Intro]
 Quando fai un sacco di errori
@@ -42,7 +42,8 @@ Che è tutta la vita che parlo di te
 Pure quando aprivo staccavo alle tre
 E tu moriresti per stare con me
 È assurdo, ma anch'io, idem
-You might also like[Ritornello]
+
+[Ritornello]
 E se il mondo finisse domani
 Se arrivassero gli americani
 Io vorrei stare con te
@@ -65,4 +66,4 @@ Così tanto male che non sento nemmeno più quasi dolore
 [Outro]
 E se il mondo finisse domani
 Se arrivassero gli americani
-Io vorrei stare con teEmbed
+Io vorrei stare con te

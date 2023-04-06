@@ -1,4 +1,4 @@
-Fede Lyrics[Testo di "Fede"]
+[Testo di "Fede"]
 
 [Intro]
 So, how do I know how to get God's voice?
@@ -39,7 +39,8 @@ Fede, basta avere fede, sì
 Fede, bruciami i pensieri, fottimi il domani
 E dimmi che era meglio ieri
 Fede, basta avere fede, sì
-You might also like[Strofa 4]
+
+[Strofa 4]
 Dicono: "C'è chi ha fede ancora nel futuro?"
 In una barca che scompare all'orizzonte
 In un aereo che precipita sicuro
@@ -74,4 +75,4 @@ E dimmi che va tutto bene
 Fede, basta avere fede, sì
 Fede, bruciami i pensieri, fottimi il domani
 E dimmi che era meglio ieri
-Fede, basta avere fede, sìEmbed
+Fede, basta avere fede, sì

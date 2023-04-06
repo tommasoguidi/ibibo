@@ -1,4 +1,4 @@
-Cena di Classe Lyrics[Testo di "Cena di Classe"]
+[Testo di "Cena di Classe"]
 
 [Intro]
 Le promesse che fai a diciott'anni durano un giorno o una vita intera
@@ -40,7 +40,8 @@ Di recitare a memoria il "5 maggio"
 Lei lo sorregge ed alza gli occhi al cielo
 E prega Dio di farle avere coraggio
 Di farle avere coraggio
-You might also like[Outro]
+
+[Outro]
 Fra croste di pizza e calici vuoti
 Sulla scia di una promessa vigliacca
 Dieci anime perse s'ingarbugliano tra loro
@@ -48,4 +49,4 @@ Come cuffie nella tasca di una giacca
 Nell'istante in cui entrano alla Perla di Mare
 Sanno già che lo rimpiangeranno (Marco)
 Mentre paga, Bonelli sorseggia l'amaro
-E dice al barista: "Ci si vede tra un anno"Embed
+E dice al barista: "Ci si vede tra un anno"

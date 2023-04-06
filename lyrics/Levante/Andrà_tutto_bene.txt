@@ -1,4 +1,4 @@
-Andrà tutto bene Lyrics[Testo di "Andrà tutto bene"]
+[Testo di "Andrà tutto bene"]
 
 [Strofa 1]
 Con che fiducia avanzo, un passo dopo l'altro
@@ -36,7 +36,8 @@ Questo è il futuro che sognavi per te?
 Credevi fosse più lontano, eh?
 Ti senti fuori tempo limite contro ogni previsione
 Hai perso il desiderio della rivoluzione
-You might also like[Bridge]
+
+[Bridge]
 Tempi deserti di coraggio
 "Stavamo bene quando stavamo peggio"
 Le frasi fatte per parlare
@@ -50,4 +51,4 @@ Andrà tutto bene
 Questo è il futuro che sognavi per te?
 Credevi fosse più lontano, eh?
 Ti senti fuori tempo limite contro ogni previsione
-Hai perso il desiderio della rivoluzione1Embed
+Hai perso il desiderio della rivoluzione

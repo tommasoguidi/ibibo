@@ -1,4 +1,4 @@
-Sabato bestiale Lyrics[Testo di "Sabato bestiale"]
+[Testo di "Sabato bestiale"]
 
 [Strofa 1]
 Stasera sei cascato male
@@ -37,7 +37,8 @@ Sono superficiale, già
 In fondo sai, lo sai anche tu
 Che siamo figli delle stelle e della TV
 E figli delle stelle e della TV
-You might also like[Bridge]
+
+[Bridge]
 Domani ce ne andiamo al mare, senti a me
 Spaghetti, vino bianco e due caffè
 Una poltrona ed un televisore
@@ -56,4 +57,4 @@ E non sarai certo tu
 A farmi adesso la morale
 Sono superficiale, già
 Ma in fondo sai, lo sai anche tu
-Che siamo figli delle stelle e della TVEmbed
+Che siamo figli delle stelle e della TV

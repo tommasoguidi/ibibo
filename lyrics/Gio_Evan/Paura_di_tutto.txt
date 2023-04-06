@@ -1,4 +1,4 @@
-Paura di tutto Lyrics[Testo di "Paura di tutto"]
+[Testo di "Paura di tutto"]
 
 [Strofa 1]
 Una parte di me ha una parte di te
@@ -45,10 +45,11 @@ Tipo rimani per poi prenderci
 Dicono dove andremo a finire
 Spero tutti da me
 Si sta così bene da me
-You might also like[Ritornello]
+
+[Ritornello]
 E anche se ho paura di tutto
 Io lo faccio uguale
 Meglio precipitare che stare a guardare
 E anche se ho paura di tutto
 Io lo faccio uguale
-Meglio precipitareEmbed
+Meglio precipitare

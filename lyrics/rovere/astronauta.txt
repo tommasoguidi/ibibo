@@ -1,4 +1,4 @@
-​astronauta Lyrics[Testo di "astronauta"]
+[Testo di "astronauta"]
 
 [Strofa 1]
 Vorrei essere un astronauta
@@ -40,7 +40,8 @@ Dall'oblò son settimane che non si vede
 In uno sciame d'asteroidi forse mi perderò
 Ogni volta che passerò in questa stazione
 Penserò al modo migliore per illudermi che ci riuscirò
-You might also like[Ritornello]
+
+[Ritornello]
 Ogni volta che passerò in questa stazione
 Penserò al modo migliore per dirti: "Ti troverò"
 Ogni volta che passerò in questa stazione
@@ -53,4 +54,4 @@ Tu spiegami dov'è che ti nascondi
 (Quando vorrei solo un istante con te)
 
 [Outro]
-Tu spiegami dov'è che ti troviEmbed
+Tu spiegami dov'è che ti trovi

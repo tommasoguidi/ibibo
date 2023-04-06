@@ -1,4 +1,4 @@
-A Casa Mia Lyrics[Testo di "A Casa Mia"]
+[Testo di "A Casa Mia"]
 
 [Strofa 1]
 Mi spingi sai
@@ -40,7 +40,8 @@ Stanotte dormi a casa mia
 Ed ho il vizio di calibrare, puntare e poi via
 A letto nudi subito
 Noi due in un corpo unico
-You might also like[Bridge]
+
+[Bridge]
 E quando stiamo insieme il mondo si ferma per noi, per noi
 Le mani nelle mani ormai è notte tardi tu resta se vuoi
 
@@ -57,4 +58,4 @@ Potrei spogliare la tua fantasia
 Stanotte dormi a casa mia
 Ed ho il vizio di calibrare, puntare e poi via
 A letto nudi subito
-Noi due in un corpo unicoEmbed
+Noi due in un corpo unico

@@ -1,4 +1,4 @@
-Lettera al futuro Lyrics[Testo di "Lettera al futuro"]
+[Testo di "Lettera al futuro"]
 
 [Strofa 1]
 Speravo andasse tutto bene, invece è andato tutto storto
@@ -44,7 +44,8 @@ Ho scritto una lettera al futuro
 Gli ho chiesto che ti faccia stare bene
 Le lacrime che scendono dagli occhi
 Domani sono solo un po' di sale
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Ti chiamo da un palazzo in cima al mare
 Spero che tu sia felice
 Ho scritto una lettera al futuro
@@ -57,4 +58,4 @@ Ma il carburante è terminato e non si va lontano
 Io lentamente scivolo dalla tua mano
 Si è aperto un buco nello spazio e noi precipitiamo
 Non possiamo andare avanti, no non possiamo
-Io ti voglio bene, ma non ti amoEmbed
+Io ti voglio bene, ma non ti amo

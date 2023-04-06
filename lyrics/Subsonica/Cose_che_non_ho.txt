@@ -1,4 +1,4 @@
-Cose che non ho Lyrics[Testo di "Cose che non ho"]
+[Testo di "Cose che non ho"]
 
 Forse è così, io vivo fuori tempo
 È vero ciò che sento sotto pelle
@@ -52,7 +52,8 @@ Cose che non avrei potuto avere mai
 E cose che non so
 Le cose che non ho
 Guardale a fondo, non cerco una scusa
-You might also likeCose che non ho
+
+Cose che non ho
 Cose che non avrei potuto avere mai
 E cose che non so
 Le cose che non ho
@@ -67,4 +68,4 @@ Cose che non ho
 Cose che non avrei potuto avere mai
 E cose che non so
 Le cose che non ho
-Sono ciò che sono e non chiedono scusaEmbed
+Sono ciò che sono e non chiedono scusa

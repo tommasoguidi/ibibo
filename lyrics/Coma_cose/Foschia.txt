@@ -1,4 +1,4 @@
-Foschia Lyrics[Testo di "Foschia"]
+[Testo di "Foschia"]
 
 [Pre-Ritornello 1: Francesca California]
 Risvegliarsi all'improvviso
@@ -55,7 +55,8 @@ Guardo la gente per capire cosa sia normale
 Io che vorrei solo sfuggire a certe regole
 Anche se in quanto umani forse abbiamo senso solo tutti insieme
 Come le tegole
-You might also like[Pre-Ritornello 2: Francesca California]
+
+[Pre-Ritornello 2: Francesca California]
 Grigia e piatta è l'atmosfera
 Il crepuscolo è così
 Fa sparire nella sera
@@ -77,4 +78,4 @@ Bisognerebbe uscire fuori
 Cadere dall'alto è meglio che cadere nell'oblio
 Lo pensano tutti, anche io
 Cadere dall'alto è meglio che cadere nell'oblio
-Lo pensano tutti, anche DioEmbed
+Lo pensano tutti, anche Dio

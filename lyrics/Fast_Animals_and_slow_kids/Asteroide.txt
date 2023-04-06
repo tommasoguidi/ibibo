@@ -1,4 +1,4 @@
-Asteroide Lyrics[Testo di "Asteroide"]
+[Testo di "Asteroide"]
 
 [Strofa 1]
 Guarda tutto intorno
@@ -38,7 +38,8 @@ Amico mio
 Potevi dare tanto
 Ma è un diavolo
 Che slega il nostro istinto
-You might also like[Ritornello]
+
+[Ritornello]
 Che tanto arriverà
 Stai pronto ad accettare
 Il fondo del bicchiere
@@ -47,4 +48,4 @@ Che tanto arriverà
 Forte che fa male
 Come un asteroide
 Ma senza far rumore
-Succederà, succederà2Embed
+Succederà, succederà

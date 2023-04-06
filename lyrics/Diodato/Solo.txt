@@ -1,4 +1,4 @@
-Solo Lyrics[Testo di "Solo"]
+[Testo di "Solo"]
 
 [Strofa 1]
 Qualche volta sei rimasto solo
@@ -34,7 +34,8 @@ E non mi fermerà certo il pianto di una strega
 E quante volte hai finto che da solo stavi meglio
 Che da solo in fondo faccio solo quel che voglio
 E non mi guardo indietro mai, mai
-You might also like[Ritornello 1]
+
+[Ritornello 1]
 E poi non c'è più niente da dire
 E poi non hai più niente da capire
 Se non che quando resti solo
@@ -50,4 +51,4 @@ Solo per vedere se anche questa volta poi
 Non avremo più niente da dire
 Non avremo più niente da capire
 Se non che quando resti solo
-Alla fine poi ti senti soloEmbed
+Alla fine poi ti senti solo

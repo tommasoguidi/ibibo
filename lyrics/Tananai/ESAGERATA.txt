@@ -1,4 +1,4 @@
-ESAGERATA Lyrics[Testo di "ESAGERATA"]
+[Testo di "ESAGERATA"]
 
 [Intro]
 Non ti parlo più
@@ -46,7 +46,8 @@ Forse è arrivato il momento di alzarmi dal letto
 E andare in via Lecco
 Mi faccio bello, uhm
 Magari lì ti becco
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Però sei brava
 Solo in settimana
 Chissà dove ti sei buttata
@@ -78,4 +79,4 @@ Solo in settimana
 Chissà dove ti sei buttata
 Tra le braccia di un idiota
 Sei una tipa complicata
-Sempre stata esagerataEmbed
+Sempre stata esagerata

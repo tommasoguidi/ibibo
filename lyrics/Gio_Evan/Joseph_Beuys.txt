@@ -1,4 +1,4 @@
-Joseph Beuys Lyrics[Testo di "Joseph Beuys"]
+[Testo di "Joseph Beuys"]
 
 [Strofa 1]
 C'è una mostra d'arte contemporanea
@@ -38,7 +38,8 @@ C'è Alighiero Boetti che espone
 E Blu sta coprendo i suoi fili
 Ed è il momento migliore
 Per non perderci più di vista
-You might also likeMi piaccion le sedie Munari
+
+Mi piaccion le sedie Munari
 Mi piaccion le tette Manara
 Mi piaccion le onde Hokusai
 Ma tu negl'occhi hai solo guai
@@ -59,4 +60,4 @@ Bologna mi sfugge
 Bologna c'ha un casco
 Bologna è una bici
 Bologna è uno zaino
-E sempre corre con teEmbed
+E sempre corre con te

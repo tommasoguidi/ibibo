@@ -1,4 +1,4 @@
-Open Wine Lyrics[Strofa 1: Peter White]
+[Strofa 1: Peter White]
 Sei del mattino
 Lego il motorino
 In bocca uno stoppino
@@ -57,9 +57,10 @@ Ma no non ho una lira
 Mi sa che questa volta è vero che è finita
 Allora torno a casa ti sto appresso da una vita
 E mi tengo le parole sulla punta della lingua
-You might also like[Ritornello: Peter White]
+
+[Ritornello: Peter White]
 E no io non te l’ho detto mai
 Ma tu forse già lo sai
 E dai, noi due brilli a un open wine
 Ma tu prendi e te ne vai
-Tanto io non cambio maiEmbed
+Tanto io non cambio mai

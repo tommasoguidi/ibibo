@@ -1,4 +1,4 @@
-Chiamami Lyrics[Testo di "Chiamami"]
+[Testo di "Chiamami"]
 
 [Intro]
 Vedi se risponde...
@@ -47,7 +47,8 @@ Chiamami chiamami chiamami chiama chiamami
 (Falli scivolare adesso)
 Chiamami chiamami chiamami chiama chiamami
 (È il momento!)
-You might also like[Strofa 2]
+
+[Strofa 2]
 A ogni squillo il cuore mi batte forte il doppio
 A ogni messaggio ho gli aeroplani nello stomaco
 E tiro pugni alla tua foto appesa al muro
@@ -69,4 +70,4 @@ Chiamami chiamami chiamami chiama chiamami
 Chiamami chiamami chiamami chiama chiamami
 (Falli scivolare adesso)
 Chiamami chiamami chiamami chiama chiamami
-(È il momento!)Embed
+(È il momento!)

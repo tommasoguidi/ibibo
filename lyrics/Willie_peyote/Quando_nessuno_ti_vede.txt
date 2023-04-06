@@ -1,4 +1,4 @@
-Quando nessuno ti vede Lyrics[Testo di "Quando nessuno ti vede"]
+[Testo di "Quando nessuno ti vede"]
 
 [Strofa 1]
 Come un armadio di vestiti che non metti più
@@ -48,7 +48,8 @@ Hai pensato a quanto è lunga una vita intera?
 È noiosa ed inquinante come una crociera
 Siete la meglio coppia, primi tipo Adamo ed Eva
 Finché lei ti lascia citando Gio Evan
-You might also like[Ritornello]
+
+[Ritornello]
 Sai cosa pensavo? (Oh)
 Che è tutto bello finché non ci conosciamo (Oh)
 Ci innamoriamo con due sguardi da lontano (Oh)
@@ -104,4 +105,4 @@ Chi sei davvero quando nessuno ti vede?
 (Non lo è più)
 
 [Outro]
-Bello quel finale, stagaragaEmbed
+Bello quel finale, stagaraga

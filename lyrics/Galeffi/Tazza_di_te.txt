@@ -1,4 +1,4 @@
-Tazza di te Lyrics[Testo di "Tazza di te"]
+[Testo di "Tazza di te"]
 
 [Strofa 1]
 Voglio cantare per te che sei la mia ossessione
@@ -34,6 +34,7 @@ Mi basteresti te, con una tazza di tè, con una tazza di te
 Mi basteresti te, con una tazza di tè, con una tazza di te
 Mi basteresti te, con una tazza di tè, con una tazza di te
 Mi basteresti te, con una tazza di tè, con una tazza di te
-You might also like[Outro]
+
+[Outro]
 Voglio lasciarti le chiavi di casa
-Ti vorrei sposareEmbed
+Ti vorrei sposare

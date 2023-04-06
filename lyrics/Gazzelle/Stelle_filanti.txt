@@ -1,4 +1,4 @@
-Stelle filanti Lyrics[Testo di "Stelle filanti"]
+[Testo di "Stelle filanti"]
 
 [Strofa 1]
 I miei occhi sopra un tombino
@@ -42,7 +42,8 @@ Ma rimaniamo comunque accesi
 Nonostante i tuoi sogni lesi
 Come i lampioni, le stelle filanti, due ombre cinesi
 E tutti i tuoi guai non li avevo compresi
-You might also like[Ritornello]
+
+[Ritornello]
 Ma domani ti giuro partiamo
 E ti prometto che dormiamo
 E facciamo come ci pare
@@ -67,4 +68,4 @@ Ti prego non dirmi ti amo
 Ti prego non dirmi ti amo
 Ti prego non dirmi ti amo
 Ti prego non dirmi ti amo
-Ti prego non dirmiEmbed
+Ti prego non dirmi

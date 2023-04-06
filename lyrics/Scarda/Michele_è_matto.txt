@@ -1,4 +1,4 @@
-Michele è matto Lyrics[Testo di "Michele è matto"]
+[Testo di "Michele è matto"]
 
 [Strofa 1]
 La solita storia
@@ -40,7 +40,8 @@ Michele è matto
 Si è venduto il letto
 Perché non riesce a dormire più senza di lei
 Ehi, ehi, ehi
-You might also like[Bridge]
+
+[Bridge]
 Michele una volta rideva e scherzava
 Al bar con gli amici parlava, gridava
 E adesso lui beve
@@ -54,4 +55,4 @@ Ma non giudicarlo
 Non farlo troppo
 Michele è soltanto un prigioniero
 Dei ricordi passati
-Ciò che non è più veroEmbed
+Ciò che non è più vero

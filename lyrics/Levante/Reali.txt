@@ -1,4 +1,4 @@
-Reali Lyrics[Testo di "Reali"]
+[Testo di "Reali"]
 
 [Strofa 1]
 Proverò a capire
@@ -38,7 +38,8 @@ E sembra sempre sia una corsa ad ostacoli
 Se ti rincorro e cado senza mai prenderti
 E non mi stanco ancora
 Voglio di te, voglio il meglio di te, eh
-You might also like[Bridge]
+
+[Bridge]
 Ora sai che ho rimesso in ordine tra le macerie
 Ora sai che ho acceso la luce di tutte le stanze
 Ora sai che ho corso veloce e ti ho preso davvero
@@ -52,4 +53,4 @@ Solo il peggio di te, eh
 E sembra sempre sia una corsa ad ostacoli
 Se ti rincorro e cado senza mai prenderti
 E non mi stanco ancora
-Voglio di te, voglio il meglio di te, ehEmbed
+Voglio di te, voglio il meglio di te, eh

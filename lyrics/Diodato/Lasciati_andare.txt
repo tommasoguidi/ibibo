@@ -1,4 +1,4 @@
-Lasciati andare Lyrics[Testo di "Lasciati andare"]
+[Testo di "Lasciati andare"]
 
 [Strofa 1]
 Vorrei sapere dove
@@ -45,10 +45,11 @@ Pa-pa-pa-pa-pa
 Pa-pa-ra-pa-pa-pa-pa-pa
 Pa-ra-pa-pa-ra-pa-pa-pa
 Pa-ra-pa-pa
-You might also like[Outro]
+
+[Outro]
 Non vorrai mica rinunciare a tutto ciò che di speciale dà l'amore
 Per due o tre bastonate che dovrai sopportare
 Tu non lasciarti impressionare
 Tu non lasciarti spaventare
 Di me ti puoi fidare
-Lasciati andareEmbed
+Lasciati andare

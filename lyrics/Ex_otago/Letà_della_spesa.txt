@@ -1,4 +1,4 @@
-L’età della spesa Lyrics[Testo di "L'età della spesa"]
+[Testo di "L'età della spesa"]
 
 [Strofa 1]
 Ho perso la mia auto
@@ -39,7 +39,8 @@ Devo cercare di darmi da fare
 Ma chissà dov'è, chissà dov'è
 La mia casa, la mia gente
 Chissà dov'è
-You might also like[Ritornello]
+
+[Ritornello]
 C'è un fratello che manda un messaggio
 Coi segnali di fumo
 Sono in strada davanti un palazzo
@@ -47,4 +48,4 @@ Purtroppo non leggo
 C'è un fratello che manda un messaggio
 Coi segnali di fumo
 Mi sposto, c'era scritto così:
-"Ti aspettiamo"Embed
+"Ti aspettiamo"

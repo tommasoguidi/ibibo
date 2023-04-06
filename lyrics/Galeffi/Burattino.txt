@@ -1,4 +1,4 @@
-Burattino Lyrics[Testo di "Burattino"]
+[Testo di "Burattino"]
 
 [Strofa 1]
 Burattino senza fili
@@ -38,7 +38,8 @@ Io so che non è facile
 Vivere favole
 Se poi ti dondoli
 Fra l'imbroglio e la realtà
-You might also like[Bridge]
+
+[Bridge]
 Bersaglio fragile
 Per draghi, mostri e streghe
 Bacchette magiche letali su di te
@@ -60,4 +61,4 @@ Perdi pezzi che non hai
 Io so che non è facile
 Vivere favole
 Se poi ti dondoli
-Fra l'imbroglio e la realtàEmbed
+Fra l'imbroglio e la realtà

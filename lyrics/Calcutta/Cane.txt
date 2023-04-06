@@ -1,4 +1,4 @@
-Cane Lyrics[Testo di "Cane"]
+[Testo di "Cane"]
 
 [Strofa 1]
 Non so se è una canzone d'amore
@@ -39,6 +39,7 @@ Resto a casa col cane
 Anche se lui non
 Scusa non ho voglia di uscire
 Resto a casa col cane anche se lui non c'è più
-You might also like[Outro]
+
+[Outro]
 C'è più, c'è più
-C'è più, c'è più, c'èEmbed
+C'è più, c'è più, c'è

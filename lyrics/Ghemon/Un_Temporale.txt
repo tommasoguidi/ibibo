@@ -1,4 +1,4 @@
-Un Temporale Lyrics[Testo di "Un Temporale"]
+[Testo di "Un Temporale"]
 
 [Strofa 1]
 La voce dentro grida e quando è così stronza preme
@@ -39,7 +39,8 @@ Queste mani dicono chi sono
 Se mi volto, so che niente è uguale
 Questo amore che a volte imprigiono
 Mi protegge dal male
-You might also like[Bridge]
+
+[Bridge]
 L'inusitato cliché della mia confessione
 Grasso e benzina incendiano l'aria
 Puoi sentirne l'odore
@@ -53,4 +54,4 @@ Mi protegge dal male
 Queste mani dicono chi sono
 Se mi volto, so che niente è uguale
 Questo amore che a volte imprigiono
-Mi protegge dal male2Embed
+Mi protegge dal male

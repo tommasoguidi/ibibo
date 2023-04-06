@@ -1,4 +1,4 @@
-Gomma Lyrics[Testo di "Gomma"]
+[Testo di "Gomma"]
 
 [Strofa 1: Rachele Bastreghi & Francesco Bianconi]
 Settembre spesso ad aspettarti
@@ -34,7 +34,8 @@ Sabato sera dentro un buco
 E disco-gomma americana
 Leccavo caramelle amare
 E primavere già sfiorite con te
-You might also like[Strofa 4: Rachele Bastreghi & Francesco Bianconi]
+
+[Strofa 4: Rachele Bastreghi & Francesco Bianconi]
 E già ti odiavo dal profondo
 Avevo piombo da sparare
 Se stereofonica posavo
@@ -52,4 +53,4 @@ Di lecca-lecca e zuccheri
 Di doglie blu
 E di esistenza inutile
 Vibravo di vertigine
-Di lecca-lecca e zuccheriEmbed
+Di lecca-lecca e zuccheri

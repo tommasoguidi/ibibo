@@ -1,4 +1,4 @@
-Credici Sempre Lyrics[Strofa 1]
+[Strofa 1]
 Tu credici sempre
 Tanto qui ragione non l'ha avuta mai nessuno
 Nessun altro cantautore
@@ -34,7 +34,8 @@ Fossi stato un po' più sano di mente
 Avrei scritto le canzoni per piacere alla gente
 Fossi stato un po' più sano di mente
 Avrei scritto le canzoni, le canzoni (Per!)
-You might also like[Ritornello]
+
+[Ritornello]
 Per piacere alla gente
 Credi sia facile vivere senza mai vivere?
 Anche il dolore, sai, in fondo è un'emozione
@@ -49,4 +50,4 @@ Tu credici sempre
 
 [Outro]
 Dai, dimmelo tu che hai sempre un motivo per vivere
-Dimmi com'è che fai a non voler morireEmbed
+Dimmi com'è che fai a non voler morire

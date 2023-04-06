@@ -1,4 +1,4 @@
-Riccione Lyrics[Testo di "Riccione"]
+[Testo di "Riccione"]
 
 [Strofa 1]
 Le navi salpano, le spiagge bruciano
@@ -44,7 +44,8 @@ Con l'asfalto, col cemento
 Le prendo
 Come se fossero te, come se fossero te, come se fossero te
 Eh oh
-You might also like[Bridge]
+
+[Bridge]
 Nuovo sentimento, nuove scarpe, nuova casa
 Nuova gente in centro con la macchina del tempo
 Nuovi ristoranti, nuovi amici per la pelle
@@ -63,4 +64,4 @@ Le prendo
 Come se fossero te, come se fossero te, come se fossero te
 Eh oh
 Come se fossero te, come se fossero te, come se fossero te
-Eh oh2Embed
+Eh oh

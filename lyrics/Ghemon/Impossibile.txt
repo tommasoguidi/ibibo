@@ -1,4 +1,4 @@
-Impossibile Lyrics[Testo di "Impossibile"]
+[Testo di "Impossibile"]
 
 [Strofa 1]
 Parlo un linguaggio con i miei
@@ -38,7 +38,8 @@ Sai Calliope ha due braccia quasi infinite
 Che prendo al lazo e mi alzo come Lazzaro
 Dopo che ho visto un prequel
 Fatto di depressione e di un'altra pericardite
-You might also like[Bridge 2]
+
+[Bridge 2]
 Tu, che mi hai lanciato il cuore alle ortiche
 Prova a essere felice in qualcuna di quelle vite
 Che interpreti e non vivi, è per questo che fai l'attrice
@@ -67,4 +68,4 @@ Ma noi ci siamo ancora, eccome!
 C'è polvere ancora qui sulla strada che farò
 È l'ennesima prova ma io non dubito
 E tu lo sai che nessuno ha fede cieca più di me
-Chiudo gli occhi e sto pronto per l'impossibileEmbed
+Chiudo gli occhi e sto pronto per l'impossibile

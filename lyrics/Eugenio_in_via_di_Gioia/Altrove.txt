@@ -1,4 +1,4 @@
-Altrove Lyrics[Testo di "Altrove"]
+[Testo di "Altrove"]
 
 [Strofa 1]
 Devi essere contento
@@ -35,7 +35,8 @@ Povera mente
 Io ti uccido ogni giorno con le mie idee
 Povero cuore
 Io ti metto alla prova, ma povero me
-You might also like[Ritornello]
+
+[Ritornello]
 Mi perderò altrove
 A un passo dalla città
 Chissà dove
@@ -95,4 +96,4 @@ Chissà dove
 [Outro]
 Mi perderò altrove
 A un passo dalla città
-Chissà dove1Embed
+Chissà dove

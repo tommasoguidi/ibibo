@@ -1,4 +1,4 @@
-Giovani ancora Lyrics[Testo di "Giovani ancora"]
+[Testo di "Giovani ancora"]
 
 [Strofa 1]
 Siamo i finti alternativi
@@ -38,7 +38,8 @@ Sì, ti cercherei
 Sì, ma dove se non so chi sei?
 Sì, ti troverò
 Sì, ma dove? Dentro gli occhi suoi
-You might also like[Strofa 3]
+
+[Strofa 3]
 Cosa vuoi un buon lavoro e una macchina?
 Io ora voglio solo una birra
 Tanto no, non vado di fretta
@@ -54,4 +55,4 @@ Non ci cascherò mai più
 O forse ancora per un'altra volta
 Non ci cascherò mai
 Non ci cascherò mai più
-O forse ancora per un'altra voltaEmbed
+O forse ancora per un'altra volta

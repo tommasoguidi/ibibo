@@ -1,4 +1,4 @@
-Combat pop (ALBI #1) Lyrics[Testo di "Combat pop (ALBI #1)"]
+[Testo di "Combat pop (ALBI #1)"]
 
 [Intro: Alberto "Albi" Cazzola]
 Genere, ragazzi, genere!
@@ -45,7 +45,8 @@ Il tatuaggio sul collo
 Ce l'ha anche mio nonno
 E le elezioni di maggio
 Le vince il solito gonzo
-You might also like[Pre-Ritornello: Alberto "Albi" Cazzola & Francesco "Checco" Draicchio]
+
+[Pre-Ritornello: Alberto "Albi" Cazzola & Francesco "Checco" Draicchio]
 Questo è combat pop, mica rock 'n' roll
 Nella vita si può anche dire di no
 Alle canzoni d'amore, alle lezioni di stile
@@ -90,4 +91,4 @@ Per vendere pubblicità?
 Pa-pa, pa-pa-pa-ra-pa-ra-pa
 Pa-pa, pa-pa-pa-ra-pa-ra-pa
 Pa-pa, pa-pa-pa-ra-pa-ra-pa
-Pa-pa, paEmbed
+Pa-pa, pa

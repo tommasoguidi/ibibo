@@ -1,4 +1,4 @@
-Poi si romperanno Lyrics[Testo di "Poi si romperanno"]
+[Testo di "Poi si romperanno"]
 
 [Intro]
 Tu non sai come prendermi
@@ -42,7 +42,8 @@ Poi chi pulirà questo schifo? Ma sto vivendo
 Non voglio perdere un attimo, se ti respingo, so che sbaglio
 Ma non mi fido e non ho il coraggio
 Di fare altre promesse che poi si romperanno
-You might also like[Ritornello]
+
+[Ritornello]
 Che poi, poi si romperanno
 Che poi, poi si romperanno
 Che poi
@@ -59,4 +60,4 @@ Che poi
 Che poi
 Che poi
 Che poi, poi si romperanno
-Che poi4Embed
+Che poi

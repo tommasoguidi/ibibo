@@ -1,4 +1,4 @@
-LA TUA STOIA TRA LE DITA Lyrics[Testo di "LA TUA STOIA TRA LE DITA"]
+[Testo di "LA TUA STOIA TRA LE DITA"]
 
 [Strofa 1]
 Sai penso che
@@ -53,7 +53,8 @@ Parlerò di quel sorriso
 Di chi ha già deciso
 Quel sorriso di una volta
 Che mi ha aperto il paradiso
-You might also like[Ritornello]
+
+[Ritornello]
 Ma se c'è una cosa che io non ti ho mai detto
 Ma i miei problemi senza di te si chiamano guai
 È per questo che mi vedi fare il tugo
@@ -69,4 +70,4 @@ La, sha-la-la
 La, sha-la-la
 La, sha-la-la
 La, la-la, sha-la-la
-La, la-la, sha-la-laEmbed
+La, la-la, sha-la-la

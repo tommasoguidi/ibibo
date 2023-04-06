@@ -1,4 +1,4 @@
-Tenebra è la notte Lyrics[Testo di "Tenebra è la notte" ft. Dia]
+[Testo di "Tenebra è la notte" ft. Dia]
 
 [Ritornello: Dia]
 È tanto tempo che pensavo che
@@ -33,7 +33,8 @@ Guarda le luci alle finestre e suona i campanelli
 Lei parla al popolo del regno dei rimasti svegli
 Entra nel caldo degli interni degli appartamenti
 E c'è una folla di diversi tutti ad occhi aperti
-You might also like[Ritornello: Dia]
+
+[Ritornello: Dia]
 È tanto tempo che pensavo che
 E nelle notti insonni dentro me
 "E questo mondo non fa più per me
@@ -89,4 +90,4 @@ E nelle notti insonni dentro me
 E questo posto non fa più per me"
 Quando il mondo cambiò lo sfondo
 All'improvviso qua arrivasti te
-E chi sei? Mi dai e tutto quello che non ho1Embed
+E chi sei? Mi dai e tutto quello che non ho

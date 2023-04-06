@@ -1,4 +1,4 @@
-Carne Da Campagna Elettorale Lyrics[Testo di "Carne Da Campagna Elettorale"]
+[Testo di "Carne Da Campagna Elettorale"]
 
 [Intro]
 Resta un'opinione personale
@@ -64,7 +64,8 @@ Se anche voi come me volete farli fuori
 Intellettuali d'oggi, idioti di domani
 Mi riprendo il mio futuro, io
 Con queste mani
-You might also like[Ritornello]
+
+[Ritornello]
 Mi faccio crescere la barba per entrare in Al Qaida
 Io non sono carne da campagna elettorale
 Mi faccio crescere la barba per entrare in Al Qaida
@@ -81,4 +82,4 @@ E dopo averli uccisi
 Sarò fra i latitanti
 Ma finché li cerco io
 I latitanti sono loro
-Sono stanco e non sono il soloEmbed
+Sono stanco e non sono il solo

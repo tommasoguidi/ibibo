@@ -1,4 +1,4 @@
-Voce di seta Lyrics[Testo di "Voce di seta"]
+[Testo di "Voce di seta"]
 
 [Ritornello]
 Spero piova per tutta la sera
@@ -36,7 +36,8 @@ Mh, senti i battiti miei-ei-ei-ei
 Come bassi in deelay-ay-ay-ay
 Passi dentro di me, ehi, ehi, ehi
 La tua musica, baby
-You might also like[Strofa 2]
+
+[Strofa 2]
 Lui era bianco perlopiù figlio dei suoi tempi ottusi
 Un amante del buon blues ma con pregiudizi infusi
 I dogmi della schiavitù, no, non li aveva mai discussi
@@ -78,4 +79,4 @@ Sotto un cuore sono, no, no
 "E da quando sei qui, qui, qui, qui
 Non sono più lo stesso
 Sai, sei tu che salvi me
-Non pensare sia l'inverso"Embed
+Non pensare sia l'inverso"

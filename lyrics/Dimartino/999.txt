@@ -1,4 +1,4 @@
-999 Lyrics[Testo di "999"]
+[Testo di "999"]
 
 Vai, ovunque andrai
 Oltre il muro c'è la città
@@ -22,4 +22,4 @@ Dentro un pomeriggio poi
 Magari ti porto allo zoo
 A vedere i leoni drogati
 A mangiarci i leoni
-A fotterci i leoniYou might also likeEmbed
+A fotterci i leoni

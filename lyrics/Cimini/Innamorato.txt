@@ -1,4 +1,4 @@
-Innamorato Lyrics[Testo di "Innamorato"]
+[Testo di "Innamorato"]
 
 [Strofa 1]
 Io mi sono innamorato di te
@@ -38,7 +38,8 @@ Mi sono innamorato di tе
 Mi sono innamorato di te
 Mi sono innamorato di te
 Mi sono innamorato di te
-You might also like[Strofa 2]
+
+[Strofa 2]
 Facciamo le radici qui sulla mia bici
 Il vento mi dà libertà
 Col mondo che ci parla
@@ -58,4 +59,4 @@ Mi sono innamorato
 [Outro]
 Te ne sei andata senza salutare
 Te ne sei andata e ingoio solo sale
-Te ne sei andata senza salutareEmbed
+Te ne sei andata senza salutare

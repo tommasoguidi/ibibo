@@ -1,4 +1,4 @@
-SCENDE Lyrics[Testo di "SCENDE" ft. Gazzelle]
+[Testo di "SCENDE" ft. Gazzelle]
 
 [Strofa 1: Mobrici]
 Ho perso la testa ed era un venerdì
@@ -33,7 +33,8 @@ Non è sеmpre facile restare in piedi in mezzo al temporale
 A volte piove più dentro di te che per le strade
 Ti guarisco, io lo giuro, da ogni tuo dramma mentale
 No, non voglio che stai male sulle scale
-You might also like[Pre-Ritornello: Mobrici]
+
+[Pre-Ritornello: Mobrici]
 Non t'ho mai visto
 Non t'ho mai chiesto niente
 Non so chi sei
@@ -61,4 +62,4 @@ Non so cazzo ti prende
 Faccio tardi stanotte
 Dormo quando mi scende
 Ti ricordi com'è?
-Dipende, dipendeEmbed
+Dipende, dipende

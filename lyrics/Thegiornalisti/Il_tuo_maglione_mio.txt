@@ -1,4 +1,4 @@
-TranslationsEnglishIl tuo maglione mio Lyrics[Testo di "Il tuo maglione mio"]
+[Testo di "Il tuo maglione mio"]
 
 [Strofa 1]
 Ho in mente questa cosa
@@ -42,7 +42,8 @@ Che poi in realtà era la mia
 Ma non capisco niente quando indossi cose grandi
 Le maglie che ti arrivano fino alle ginocchia
 Fino alle ginocchia
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Il tuo maglione mio
 Sì, pure quello era dei miei
 Ma non capisco niente quando indossi cose grandi
@@ -50,4 +51,4 @@ Le maglie che ti arrivano fino alle ginocchia
 Fino alle ginocchia
 Divento un deficiente quando indossi cose grandi
 Le calze che ti arrivano fino alle ginocchia
-Fino alle ginocchia1Embed
+Fino alle ginocchia

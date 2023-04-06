@@ -1,4 +1,4 @@
-Moscerini Lyrics[Testo di "Moscerini"]
+[Testo di "Moscerini"]
 
 Vivere in cima ai monti, in mezzo ai campi
 Morire nei parchi pubblici, come santi
@@ -40,7 +40,8 @@ Vivere dove gli uragani non fanno vittime
 Morire e ritrovarti nel deposito delle anime
 Vivere con guerre in sottofondo
 Morire in una notte luminosa come il giorno
-You might also likeE poi dormire da soli
+
+E poi dormire da soli
 Contare i secondi tra i lampi e i tuoni
 Per cercare di capire quanto sono lontani
 I bombardamenti e i temporali
@@ -48,4 +49,4 @@ I bombardamenti e i temporali
 Poi camminare da soli
 Tranquilli nelle piogge torrenziali
 La finestra del palazzo di fronte tre metri
-Ma tu vedi orizzonti infinitiEmbed
+Ma tu vedi orizzonti infiniti

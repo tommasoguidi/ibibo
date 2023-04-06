@@ -1,4 +1,4 @@
-La bontà Lyrics[Strofa 1]
+[Strofa 1]
 Quanto pesa la bontà?
 Forse solamente un soffio
 Una piuma che cade giù
@@ -42,7 +42,8 @@ Che porto in me
 So che resterai
 Tra la polvere per
 Sporcarti con me
-You might also likePoi so che verrai
+
+Poi so che verrai
 Ad accarezzare il male
 Che porto in me
 Poi so che verrai tra la polvere
@@ -51,4 +52,4 @@ Poi so che verrai
 Ad accarezzare il male
 Che porto in me
 Poi so che verrai tra la polvere
-Per sporcarti con meEmbed
+Per sporcarti con me

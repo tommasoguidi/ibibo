@@ -1,4 +1,4 @@
-Comunque poesia Lyrics[Testo di "Comunque poesia"]
+[Testo di "Comunque poesia"]
 
 [Strofa 1]
 Vorrei disegnare con un gesso
@@ -34,7 +34,8 @@ Che han seguito un percorso
 Ed ha trovato il suo posto
 Però io sono fatto all'opposto
 Anche se so che ha un costo, io piuttosto
-You might also like[Ritornello]
+
+[Ritornello]
 Vivo ogni mio giorno
 Come un frutto che mordo
 E ogni serata come un sogno
@@ -61,4 +62,4 @@ Vivo ogni mio giorno
 Come un frutto che mordo
 E ogni serata come un sogno
 Quindi se poi alcune non me le ricordo
-È normale in fondoEmbed
+È normale in fondo

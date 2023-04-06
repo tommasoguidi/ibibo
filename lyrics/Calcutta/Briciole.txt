@@ -1,4 +1,4 @@
-Briciole Lyrics[Testo di "Briciole"]
+[Testo di "Briciole"]
 
 [Strofa 1]
 Ti ricordi?
@@ -34,9 +34,10 @@ Ma le tue parole suonano ridicole
 [Post-Ritornello 2]
 E il mondo è un tavolo, e noi siamo le piccole
 Briciole
-You might also like[Outro]
+
+[Outro]
 Se credessi a tutto quel che dici
 Sarebbe certo un rischio rimanere qui
 Ma le tue parole soffiano le briciole
 Verso un arcipelago diventano le isole
-Le isole, le i-so-le3Embed
+Le isole, le i-so-le

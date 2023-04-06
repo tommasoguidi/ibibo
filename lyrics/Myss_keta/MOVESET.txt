@@ -1,4 +1,4 @@
-MOVESET Lyrics[Testo di "MOVESET" ft. Kiddy Smile & David Blank]
+[Testo di "MOVESET" ft. Kiddy Smile & David Blank]
 
 [Intro: Kiddy Smile]
 You better dance, bitch
@@ -41,7 +41,8 @@ Qui c'è un moveset, bitch
 Guarda il moveset, bitch
 Ecco un moveset, bitch
 Dov'è il tuo moveset, bitch?
-You might also like[Interludio: M¥SS KETA]
+
+[Interludio: M¥SS KETA]
 Moveset
 Moveset
 Moveset
@@ -85,4 +86,4 @@ Qui per ballare un po'
 Premi "Start" e seleziona il moveset, moveset
 Niente storie sul dancefloor
 Qui per ballare un po'
-Premi "Start" e seleziona il moveset, moveset1Embed
+Premi "Start" e seleziona il moveset, moveset

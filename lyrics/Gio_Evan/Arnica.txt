@@ -1,4 +1,4 @@
-Arnica Lyrics[Testo di "Arnica"]
+[Testo di "Arnica"]
 
 [Strofa 1]
 E sbaglio ancora a vivere e non imparo la lezione
@@ -39,7 +39,8 @@ E cerco un posto dove poter fare il debole
 Amici buoni per smezzare una tempesta
 Che l'amore si scopre solo in mezzo al temporale
 Ammiro i vostri punti fermi, ma ho bisogno di viaggiare
-You might also like[Ritornello]
+
+[Ritornello]
 E volo con la testa tra le nuvole
 Ma vedessi il cuore quanto va più in alto
 E non voglio dimenticare niente
@@ -67,4 +68,4 @@ Le nottate a casa con gli amici a dire: "Resteremo uniti"
 E poi dire cosa, quanto ha fatto male
 Eppure non riesco a rinunciare
 Per poi dire cosa, quanto ha fatto male
-Eppure lo voglio rifareEmbed
+Eppure lo voglio rifare

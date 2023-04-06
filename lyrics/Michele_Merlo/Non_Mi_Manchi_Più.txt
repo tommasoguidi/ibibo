@@ -1,4 +1,4 @@
-Non Mi Manchi Più Lyrics[Strofa 1]
+[Strofa 1]
 Quando mi hai detto non c'è più tempo
 Sai mi è crollato il mondo addosso
 Che non si cambia e non è una scelta
@@ -41,7 +41,8 @@ Vuoi bene alla gente, non ti manca niente
 Non mi manchi più, na-na, na-na
 Non mi manchi più, na-na, na-na
 Tu non mi manchi più
-You might also like[Bridge]
+
+[Bridge]
 Dimenticare mi fa male, ricordare mi fa peggio
 Che casino nella testa
 E cosa metto sulle labbra
@@ -60,4 +61,4 @@ Non mi manchi più, na-na, na-na
 Quando mi hai detto non ha più senso
 Restare insieme ad ogni costo, io mi sono perso
 E dicevano col tempo passa tutto
-Passa anche l'infernoEmbed
+Passa anche l'inferno

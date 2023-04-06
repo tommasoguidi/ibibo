@@ -1,4 +1,4 @@
-Don Abbondio Lyrics[Testo di "Don Abbondio"]
+[Testo di "Don Abbondio"]
 
 [Strofa 1]
 Don Abbondio nello strazio
@@ -59,7 +59,8 @@ Che si poggia sempre altrove
 Per paura che agli indizi poi
 Si aggiungano le prove
 No, stasera no
-You might also like[Bridge]
+
+[Bridge]
 Na-na-na-na-na-na-na-na
 Na-na-na-na-na-na-na-na
 
@@ -69,4 +70,4 @@ Nelle statue, nelle piazze, nelle commemorazioni
 Nella voce di un padrone che non devi nominare
 Nella bocca che si apre solamente per mangiare
 E no, stasera no
-Mmh, mmhEmbed
+Mmh, mmh

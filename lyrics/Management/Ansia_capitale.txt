@@ -1,4 +1,4 @@
-Ansia capitale Lyrics[Testo di "Ansia capitale"]
+[Testo di "Ansia capitale"]
 
 [Strofa 1]
 Senti questa cassa
@@ -40,7 +40,8 @@ Prendo la mira
 Sospiro e tiro un pugno nello specchio
 Ho un grande buio dentro
 Che trita tutto come un buco nero
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Respiro il sole
 Ed ho una rabbia enorme che mi muove
 Tu lasciami stare
@@ -53,4 +54,4 @@ Grande come la Cina
 Grande come gli US
 E mi fa male la testa
 Adesso parte
-Il conto alla rovesciaEmbed
+Il conto alla rovescia

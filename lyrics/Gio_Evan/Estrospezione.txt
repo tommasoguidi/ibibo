@@ -1,4 +1,4 @@
-Estrospezione Lyrics[Testo di "Estrospezione"]
+[Testo di "Estrospezione"]
 
 [Strofa 1]
 Quasi che mi manca ballare
@@ -33,7 +33,8 @@ Il mondo va veloce, ma la vita invita a una pausa
 Se c'è un effetto senza affetto devi capire la causa
 Ho letto di me su un libro di Dostoevskij
 Se chiudo gli occhi mi vedo gli affreschi
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 E stare in casa è una parte di me
 Io che seduto risolvo i miei guai
 Che bel balcone che ho
@@ -53,4 +54,4 @@ Ma voglio ricominciar da capo
 Era da un po' che non mi vedevo
 Era da un po' che non mi fermavo
 Non sono bello come credevo
-Ma voglio ricominciar da capoEmbed
+Ma voglio ricominciar da capo

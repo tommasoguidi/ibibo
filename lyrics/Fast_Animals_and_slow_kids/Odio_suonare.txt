@@ -1,4 +1,4 @@
-Odio suonare Lyrics[Testo di "Odio suonare"]
+[Testo di "Odio suonare"]
 
 [Ritornello]
 Odio suonare
@@ -53,7 +53,8 @@ Il cinismo è il mio Virgilio
 E lo uso come cavia
 Per rendermi peggiore
 Per perdere colore
-You might also like[Outro]
+
+[Outro]
 Per rendermi peggiore
 Per perdere colore
 Per rendermi peggiore
@@ -63,4 +64,4 @@ Per perdere colore
 Per rendermi peggiore
 Per perdere colore
 Per rendermi peggiore
-Per perdere coloreEmbed
+Per perdere colore

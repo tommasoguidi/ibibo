@@ -1,4 +1,4 @@
-CLIQUE Lyrics[Testo di "CLIQUE"]
+[Testo di "CLIQUE"]
 
 [Intro]
 Populous
@@ -37,7 +37,8 @@ Le ragazze in posa, popy tutto rosa
 La mia wig maestosa, sono clamorosa
 Perdonami madre por mi vida loca
 Col cuore in gola, la mia clique vola
-You might also like[Bridge]
+
+[Bridge]
 Clique
 Clique
 Clique
@@ -61,4 +62,4 @@ I soldi, i soldi
 In contanti alla mia clique clique, clique, clique (clique)
 Total pink per la clique, clique, clique, clique (clique)
 Il fotografo fa click, click, click
-Quando vede la mia clique, clique, clique, clique (clique)Embed
+Quando vede la mia clique, clique, clique, clique (clique)

@@ -1,4 +1,4 @@
-Ricordi Lyrics[Testo di "Ricordi"]
+[Testo di "Ricordi"]
 
 [Strofa 1]
 Almeno fino a domattina ti prometto che
@@ -44,7 +44,8 @@ Quelli che piove troppo forte per stare in piedi
 E fottevamo anche la morte volando leggeri
 M'hai chiesto: "Dimmi, cosa temi? In che cosa credi?"
 La mia risposta sei tu
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Uh-uh uh-uh
 
 [Bridge]
@@ -68,4 +69,4 @@ La mia risposta sei tu
 Uh-uh uh-uh
 La mia risposta sei tu
 Uh-uh uh-uh
-La mia risposta sei tu4Embed
+La mia risposta sei tu

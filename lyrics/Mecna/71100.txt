@@ -1,4 +1,4 @@
-71100 Lyrics[Testo di "71100"]
+[Testo di "71100"]
 
 [Strofa 1]
 Appena fuori dal cinema
@@ -46,7 +46,8 @@ La stessa città che c'ha odiato
 Mi chiedo perché dopo tutto quel tempo non mi hai richiamato
 Ma alla fine ho trovato la strada nei posti in cui forse non ero mai stato
 Vado via
-You might also like[Ritornello]
+
+[Ritornello]
 Ricordo il sole che sorge
 Ricordo il vuoto che dà
 Guardare il tempo che scorre
@@ -55,4 +56,4 @@ Di questo sole che sorge
 Non so se piove da te
 Guardo il paesaggio che scorre
 Tutto poi torna com'è
-Com'è che noi non ci sentiamo più?Embed
+Com'è che noi non ci sentiamo più?

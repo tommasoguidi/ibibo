@@ -1,4 +1,4 @@
-Cinghiali Incazzati (Piano Version) Lyrics[Testo di "Cinghiali Incazzati (Piano Version)"]
+[Testo di "Cinghiali Incazzati (Piano Version)"]
 
 [Strofa 1]
 Sono un'onda in un lago, una montagna al largo
@@ -43,9 +43,10 @@ Faccendieri e disperati
 Cinghiali incazzati
 Ed io non sono uomo
 Almeno non ne sono sicuro
-You might also like[Outro]
+
+[Outro]
 Siamo filosofi e operai
 Faccendieri e disperati
 Cinghiali incazzati
 Ed io non sono uomo
-Almeno non ne sono sicuroEmbed
+Almeno non ne sono sicuro

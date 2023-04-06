@@ -1,4 +1,4 @@
-Questa non è una canzone Lyrics[Testo di "Questa non è una canzone"]
+[Testo di "Questa non è una canzone"]
 
 [Strofa 1]
 Apro la finestra e guardo il mondo fuori
@@ -44,7 +44,8 @@ Insegnatemi l'arte antica del disprezzo
 Nello sminuire ogni successo
 Sarà stato quello, sarà stato questo
 Dubitar di tutti men che di me stesso
-You might also likeMa tu non preoccuparti per me
+
+Ma tu non preoccuparti per me
 Nessuno deve preoccuparsi per me
 
 [Ad lib]
@@ -80,4 +81,4 @@ Il mio cuore, la rabbia, il tempo, forse tu
 Niente più
 
 [Outro]
-(voci sovrapposte)Embed
+(voci sovrapposte)

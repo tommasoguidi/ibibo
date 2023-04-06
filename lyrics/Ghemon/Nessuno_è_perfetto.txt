@@ -1,4 +1,4 @@
-Nessuno è perfetto Lyrics[Testo di "Nessuno è perfetto"]
+[Testo di "Nessuno è perfetto"]
 
 [Intro]
 Qui nel mio mondo non esistono barriere
@@ -42,7 +42,8 @@ Mi sa che, mi sa che, mi sa che
 Io non resisterò
 Mi sa che, mi sa che, mi sa che
 Io non resisterò
-You might also like[Ritornello]
+
+[Ritornello]
 Ehi! Al capo chi glielo dice che hai alzato
 Il gomito e non ti sei più rialzato?
 Al tipo chi glielo dice che hai già il tipo?
@@ -85,4 +86,4 @@ Qui nel mio mondo non esistono barriere
 Passiamo sere come leoni
 Giornate intere per domarci le criniere
 Ci illudiamo di acquistare il potere con due Negroni
-E di affogare il dispiacereEmbed
+E di affogare il dispiacere

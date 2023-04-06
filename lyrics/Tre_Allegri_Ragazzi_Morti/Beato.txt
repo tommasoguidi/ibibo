@@ -1,4 +1,4 @@
-Beat(o) Lyrics[Testo di "Beat(o)"]
+[Testo di "Beat(o)"]
 
 Quante cose posso fare in un giorno solo
 Forzare la mia ispirazione in cambio di denaro
@@ -31,4 +31,4 @@ Per far capire al mondo la visione che ne ho
 Sarò aperto e disponibile
 Sottomesso ad ogni cosa
 Come un santo del passato
-Per un futuro beatYou might also likeEmbed
+Per un futuro beat

@@ -1,4 +1,4 @@
-Meglio di così Lyrics[Testo di "Meglio di così"]
+[Testo di "Meglio di così"]
 
 [Strofa 1]
 Parole che ti strappano sorrisi e poi
@@ -35,7 +35,8 @@ C'è chi sogna e c'è chi spera
 E poi chi se ne frega
 Stanotte siamo tutti
 Chissà se sta finendo il mondo
-You might also like[Bridge]
+
+[Bridge]
 Io però ci penso sempre e non lo dico mai
 Che cosa non farei per rimanere qui
 No che non mi basta niente e non mi passa mai
@@ -58,4 +59,4 @@ Che cosa non farei per rimanere qui
 No che non mi basta niente e non mi passa mai
 Questo dolore profondo
 Forse stanotte in un sogno
-Ti ricordi di meEmbed
+Ti ricordi di me

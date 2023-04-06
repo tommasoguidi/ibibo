@@ -1,4 +1,4 @@
-Se solo avessi un altro Lyrics[Testo di "Se solo avessi un altro"]
+[Testo di "Se solo avessi un altro"]
 
 [Strofa 1]
 Se solo avessi un altro
@@ -37,7 +37,8 @@ Mi butteresti via
 Mi butteresti via
 Mi butteresti via
 Mi butteresti via
-You might also like[Bridge]
+
+[Bridge]
 Ma dici che ami solo me
 Non è possibile trovare un altro come te
 Ma l'uomo col suo fascino
@@ -52,4 +53,4 @@ Mi butteresti via
 Mi butteresti via
 Mi butteresti via
 Mi butteresti via
-Mi butteresti viaEmbed
+Mi butteresti via

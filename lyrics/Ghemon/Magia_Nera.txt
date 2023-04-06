@@ -1,4 +1,4 @@
-Magia Nera Lyrics[Testo di "Magia Nera"]
+[Testo di "Magia Nera"]
 
 [Strofa 1]
 Quando il cervello gravita sopra il caffè
@@ -40,9 +40,10 @@ Ogni presa di coscienza
 È una termite
 Con la giacca e con le scarpe di vernice
 Un istinto mi divide
-You might also like[Ritornello]
+
+[Ritornello]
 Quest'attimo richiede un sacrificio
 Uno scudo invisibile contro la magia nera
 In transito su pezzi di lamiera
 Con la voglia incrollabile e gli occhi di una pantera
-Che sta studiando la sua predaEmbed
+Che sta studiando la sua preda

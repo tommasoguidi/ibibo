@@ -1,4 +1,4 @@
-Però Lyrics[Testo di "Però"]
+[Testo di "Però"]
 
 [Strofa 1]
 Era bellissimissimissimissimissimo tra me e te
@@ -38,7 +38,8 @@ Però che brutto è quando ti sposti e
 Mi fai capire che non te lo toglierai
 Però mannaggia, oh
 Però, però, però
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Però che bello è quando ti giri e
 Mi fai vedere bene che vestito hai
 
@@ -47,4 +48,4 @@ Però che brutto è quando ti sposti e
 Mi fai capire che non te lo toglierai
 
 [Outro]
-Però che bello èEmbed
+Però che bello è

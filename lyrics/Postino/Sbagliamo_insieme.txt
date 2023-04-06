@@ -1,4 +1,4 @@
-Sbagliamo insieme Lyrics[Ritornello]
+[Ritornello]
 Sbagliamo insieme
 Il mondo è in disparte e tu che lo guardi da una parte
 Sbagliamo adesso
@@ -39,7 +39,8 @@ Ma ora so che sbaglierò per te
 Metterò il sale nel caffè
 Però per te, però per te
 Metterò il sale nel caffè
-You might also like[Strofa 3]
+
+[Strofa 3]
 E adesso che facciamo la doccia insieme
 Non passarmi lo shampoo perché
 Io non voglio non voglio
@@ -49,4 +50,4 @@ Io non voglio lavarmi di te
 Io non voglio, non voglio
 Non voglio, non voglio
 Non voglio lavarmi di te
-Io non voglioEmbed
+Io non voglio

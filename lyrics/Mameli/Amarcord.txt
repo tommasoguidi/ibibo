@@ -1,4 +1,4 @@
-Amarcord Lyrics[Testo di "Amarcord"]
+[Testo di "Amarcord"]
 
 [Strofa 1]
 Abbiamo visto tante cose
@@ -36,7 +36,8 @@ E di noi cosa sarà
 Ricordi l'Olanda?
 Pomeriggi persi in strada
 Senza marijuana
-You might also like[Ritornello]
+
+[Ritornello]
 Abbiamo fatto tardi
 Dormito sui taxi
 E vissuto nel letto
@@ -61,4 +62,4 @@ Senza pubblicità
 Ormai da anni
 Prefеriamo gli altri
 Non siamo più di moda
-Non siamo più di modaEmbed
+Non siamo più di moda

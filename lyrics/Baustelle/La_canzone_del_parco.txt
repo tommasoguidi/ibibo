@@ -1,4 +1,4 @@
-La canzone del parco Lyrics[Testo di "La canzone del parco"]
+[Testo di "La canzone del parco"]
 
 [Strofa 1]
 Lui e lei ridono
@@ -42,7 +42,8 @@ Domani è lontano
 Se mi ami ora
 Domani è lontano
 Se mi ami ora
-You might also like[Ritornello]
+
+[Ritornello]
 Penso che
 Ho di nuovo i brividi
 E mi lascio prendere
@@ -69,4 +70,4 @@ I miei rami stupidi
 A che cosa servono
 Se mi lascio prendere
 Da pensieri inutili
-A che cosa?Embed
+A che cosa?

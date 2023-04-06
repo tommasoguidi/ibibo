@@ -1,4 +1,4 @@
-Quadro Lyrics[Testo di "Quadro"]
+[Testo di "Quadro"]
 
 [Strofa 1]
 Forse sono io
@@ -52,7 +52,8 @@ Se vedi il mio sorriso
 Un solco nel mio viso
 Non chiedere perché
 Io me ne vado
-You might also like[Strofa 3]
+
+[Strofa 3]
 Sento l'orologio che rintocca in testa
 Il tuo cuore che batte il mio che si arresta
 Ma mi chiede di averti sempre alla sua destra
@@ -88,4 +89,4 @@ Uoh
 Io me ne vado
 Io me ne vado
 Uoh
-Io me ne vadoEmbed
+Io me ne vado

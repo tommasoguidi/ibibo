@@ -1,4 +1,4 @@
-ANITA Lyrics[Testo di "ANITA"]
+[Testo di "ANITA"]
 
 [Strofa 1]
 Anita ha gli occhi verdi
@@ -35,7 +35,8 @@ Che l'accompagna da sempre
 E che da adolescеnte
 Ha capito che un giorno
 La soffocherà
-You might also like[Ritornello]
+
+[Ritornello]
 Anita lo sa
 Chе questa notte morirà
 E che sarà
@@ -64,4 +65,4 @@ Almeno una volta prima di morire
 Anita, la mia guerriera
 Anarchica, romantica
 Dorme
-Adesso è finitaEmbed
+Adesso è finita

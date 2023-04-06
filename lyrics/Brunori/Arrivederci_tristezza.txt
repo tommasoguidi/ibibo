@@ -1,4 +1,4 @@
-Arrivederci tristezza Lyrics[Testo di "Arrivederci tristezza"]
+[Testo di "Arrivederci tristezza"]
 
 [Strofa 1]
 Mi spiace, mio caro intelletto
@@ -40,7 +40,8 @@ Anche senza di te
 Ma sono più duro di un mulo
 Ti ho preso per il culo
 E il culo è più giù
-You might also likeMiliardi di stelle ti dicono niente
+
+Miliardi di stelle ti dicono niente
 Non dicono forse che il cielo è più grande
 Più grande di te
 
@@ -61,4 +62,4 @@ E rinascere
 [Outro]
 Mi spiace, mio caro intelletto
 Vattene a letto
-E dormici suEmbed
+E dormici su

@@ -1,4 +1,4 @@
-Sol come sono sol Lyrics[Testo di " Sol come sono sol"]
+[Testo di " Sol come sono sol"]
 
 [Intro]
 Possiamo cominciare
@@ -41,7 +41,8 @@ Stringerti fra le braccia
 Rubarti al vento
 E non lasciarti più
 La-la-ra-ra-la-la
-You might also like[Strofa 2]
+
+[Strofa 2]
 Un abbandono così feroce
 Non s'era detto mai
 Gira la lingua che gira la voce
@@ -90,4 +91,4 @@ Un matrimonio così veloce
 Non s'era visto mai
 Nemmeno il tempo
 Di farsi la croce
-Che eri fuggita già1Embed
+Che eri fuggita già

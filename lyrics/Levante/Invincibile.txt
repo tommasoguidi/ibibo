@@ -1,4 +1,4 @@
-Invincibile Lyrics[Testo di "Invincibile"]
+[Testo di "Invincibile"]
 
 [Strofa 1]
 Chi di noi due
@@ -41,7 +41,8 @@ E guardami in cielo
 Che effetto ti fa sapere che volo ancora?
 Sopra il fiume di questa città
 Non aspetto che te, yeah, yeah, yeah (Yeah, yeah, yeah, yeah)
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Laggiù nel fondo
 Laggiù nel fondo
 Come ci si sente quando sei giù a fondo?
@@ -57,4 +58,4 @@ Per la sola vanità di sentirti invincibile
 Invincibile
 Invincibile
 Invincibile
-InvincibileEmbed
+Invincibile

@@ -1,4 +1,4 @@
-Ma che vuoi Lyrics[Testo di "Ma che vuoi"]
+[Testo di "Ma che vuoi"]
 
 [Intro]
 Ma che vuoi?
@@ -38,8 +38,9 @@ Ma che vuoi?
 C'hai tolto ogni speranza ormai
 Che altro vuoi
 Da noi, da noi?
-You might also likeMa che vuoi?
+
+Ma che vuoi?
 C'hai tolto ogni speranza ormai
 Che altro vuoi
 Da noi, da noi?
-Ma che vuoi?Embed
+Ma che vuoi?

@@ -1,4 +1,4 @@
-Pane in cassetta Lyrics[Testo di "Pane in cassetta"]
+[Testo di "Pane in cassetta"]
 
 [Strofa 1]
 Vorrei un biglietto, sicuramente un treno
@@ -36,7 +36,8 @@ E se ci ripensi pensaci e non ripensarci più
 Che tanto tutto scorre e un attimo dura una vita
 Si fa male solo chi non cade
 E a non buttarsi si butta una vita
-You might also like[Ritornello]
+
+[Ritornello]
 Sei libera di andare via
 Libera di andare via, libera
 Sei libera di andare via
@@ -60,4 +61,4 @@ Sei libera di andare via
 Libera di andare via, libera
 Sei libera di andare via
 Libera di andare via, libera di andare
-Io vengo con teEmbed
+Io vengo con te

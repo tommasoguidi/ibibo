@@ -1,4 +1,4 @@
-Low cost Lyrics[Testo di "Low cost"]
+[Testo di "Low cost"]
 
 [Strofa 1]
 Mi lascio cadere all'indietro
@@ -44,7 +44,8 @@ Non è la pelle di un animale
 Ma di un amico perso
 (Mi basta di pagare)
 Riscalda ma fa male
-You might also like[Bridge]
+
+[Bridge]
 Non è l'amore che ti ha ferito
 Fino a portarti alla forca
 È stato chi cercando fortuna
@@ -58,4 +59,4 @@ Non è la pelle di un animale
 (Ma oggi per volare)
 Ma di un amico perso
 (Mi basta di pagare)
-Riscalda ma fa maleEmbed
+Riscalda ma fa male

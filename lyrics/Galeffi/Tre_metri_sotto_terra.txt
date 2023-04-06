@@ -1,4 +1,4 @@
-Tre metri sotto terra Lyrics[Testo di "Tre metri sotto terra"]
+[Testo di "Tre metri sotto terra"]
 
 [Strofa 1]
 Le sigarette, quante ne ho spente
@@ -40,5 +40,6 @@ Tu lo sai perché, siamo finiti io e te, tre metri sotto terra
 Dov'è che vanno gli amori, quelli che non ce la faccio?
 Quelli che prima "Ti amo" e poi "Ti ammazzo"?
 Lo hai capito che, siamo finiti io e te, tre metri sotto terra
-You might also like[Outro]
-Sotto terra, sotto terraEmbed
+
+[Outro]
+Sotto terra, sotto terra

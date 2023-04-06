@@ -1,4 +1,4 @@
-Radio Radio Lyrics[Testo di "Radio Radio"]
+[Testo di "Radio Radio"]
 
 [Strofa 1]
 Ti ho fatto il ritornello, ti ho messo a tempo i cori
@@ -37,10 +37,11 @@ O male nero, male nero, male ner
 Tu eri spento e decadente come me
 O male nero, male nero, male ner
 Tu eri spento e decadente come me
-You might also like[Ritornello]
+
+[Ritornello]
 Metti questa in radio, metti questa in radio
 Se hai coraggio, se hai un cuore
 Passa questa canzone
 Metti questa in radio, metti questa in radio
 Se hai coraggio, se hai un cuore
-Passa questa canzoneEmbed
+Passa questa canzone

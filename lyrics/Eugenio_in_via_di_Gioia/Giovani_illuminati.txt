@@ -1,4 +1,4 @@
-Giovani illuminati Lyrics[Testo di "Giovani illuminati"]
+[Testo di "Giovani illuminati"]
 
 [Strofa 1]
 La realtà aumentata a tal punto da rendere esigua la fantasia
@@ -44,7 +44,8 @@ Sono e non sono un giovane illuminato
 A risparmio energetico
 Io sono un giovane illuminato
 Da una realtà che non conosco più
-You might also like[Outro]
+
+[Outro]
 Cinque sensi, 4G, 3D, 2.0, un solo modo per non spegnermi
 Cinque sensi, 4G, 3D, 2.0, un solo modo per non spegnermi
 Cinque sensi, 4G, 3D, 2.0, un solo modo per non spegnermi
@@ -52,4 +53,4 @@ Cinque sensi, 4G, 3D, 2.0, un solo modo per non spegnermi
 Una sola tacca
 Lontano dalla casa in cui vivo
 Lontano dalla finestra
-Lontano non prendoEmbed
+Lontano non prendo

@@ -1,4 +1,4 @@
-Come conchiglie Lyrics[Testo di "Come conchiglie"]
+[Testo di "Come conchiglie"]
 
 [Strofa 1]
 Sai quante volte me lo sono chiesto
@@ -35,7 +35,8 @@ Ci sarà ancora qualcuno all'ascolto
 Che non si arrende al vuoto che c'è intorno
 Non te lo prometto ma ti scriverò ogni giorno
 Chi l'ha detto che fa male stare ore al cellulare
-You might also likeCi sarà ancora qualcuno all'ascolto
+
+Ci sarà ancora qualcuno all'ascolto
 Che si rimette in gioco fino in fondo
 Non te lo prometto perché ho scelto di far altro
 Muovo il pendolo del cuore fra la rabbia ed il dolore
@@ -54,4 +55,4 @@ E noi come conchiglie
 E il tempo ci trascina giù
 E noi come conchiglie
 E il tempo ci trascina giù
-E noi come conchiglieEmbed
+E noi come conchiglie

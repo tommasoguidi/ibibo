@@ -1,4 +1,4 @@
-Come nelle canzoni Lyrics[Testo di "Come nelle canzoni"]
+[Testo di "Come nelle canzoni"]
 
 [Strofa 1]
 Con te ho imparato il termine mancarsi
@@ -49,7 +49,8 @@ Che tanto il meglio era uguale
 Ora che piangi a fare?
 Tutte le cose migliori e peggiori le ho fatte con te
 Ma solo il meglio non vale
-You might also like[Bridge]
+
+[Bridge]
 Eh, e non lo chiedere a nessuno, a meno che non sia me
 E non lo chiederò a nessuno, a meno che non sia te
 Sì, perché non c'era nessuno, c'eravamo io e te
@@ -61,4 +62,4 @@ T'ho dato tutto di me, forse ti ho dato il peggio di me
 Che tanto il meglio era uguale
 Ora che piangi a fare?
 Tutte le cose migliori e peggiori le ho fatte con te
-Ma solo il meglio non valeEmbed
+Ma solo il meglio non vale

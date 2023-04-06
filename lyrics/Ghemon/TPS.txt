@@ -1,4 +1,4 @@
-TPS Lyrics[Testo di "TPS"]
+[Testo di "TPS"]
 
 [Intro]
 Ghemon
@@ -38,7 +38,8 @@ Lasciami in pace e goditi questi attimi ottimi
 E se ti resta del tempo, sai cosa? Fottiti
 Il tipo che ti ha raccolta ai piedi del tuo piedistallo
 Pure se a vederlo è un cane si comporta come uno sciacallo
-You might also like[Ritornello]
+
+[Ritornello]
 Ti porto sfiga in modo che
 Possiate condividere
 Silenzi e tradimenti
@@ -77,4 +78,4 @@ Non menartela, è finita tra voi
 Che cazzo voglio da te
 Che cazzo voglio da te
 Stronza, mi mancherai
-Mi mancheraiEmbed
+Mi mancherai

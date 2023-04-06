@@ -1,4 +1,4 @@
-Maledetti italiani Lyrics[Testo di "Maledetti italiani"]
+[Testo di "Maledetti italiani"]
 
 [Strofa 1]
 Sono sempre l'ultimo a saper le cose
@@ -41,7 +41,8 @@ Bastava più prudenza
 E una città dell'estero
 Ti accoglierà con un sorriso
 Non sono un italiano vero
-You might also like[Strofa 5]
+
+[Strofa 5]
 Sono sempre l'ultimo
 E non mi dispiace
 A che serve arrivare per tempo
@@ -51,4 +52,4 @@ Se alla fine chi ha vinto ha perso lo stesso?
 Maledetti italiani
 Maledetti, maledetto me
 Maledetti italiani
-Maledetti, maledetto meEmbed
+Maledetti, maledetto me

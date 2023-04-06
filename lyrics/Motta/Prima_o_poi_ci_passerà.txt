@@ -1,4 +1,4 @@
-Prima o poi ci passerà Lyrics[Testo di "Prima o poi ci passerà"]
+[Testo di "Prima o poi ci passerà"]
 
 [Strofa 1]
 È la paura di invecchiare
@@ -38,7 +38,8 @@ Prima o poi ci passerà
 Prima o poi ci passerà
 Prima o poi ci passerà
 Prima o poi ci passerà
-You might also like[Strofa 2]
+
+[Strofa 2]
 Ritroviamoci per strada
 Per urlare il nostro nome
 Con quel poco che rimane
@@ -74,4 +75,4 @@ Prima o poi ci passerà
 Prima o poi ci passerà
 Prima o poi ci passerà
 Prima o poi ci passerà
-Prima o poi ci passerà1Embed
+Prima o poi ci passerà

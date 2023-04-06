@@ -1,4 +1,4 @@
-AUFF!! Lyrics[Strofa 1]
+[Strofa 1]
 Auff!!
 Credi che questa mia non sia poesia
 Guarda i prodigi della mia malinconia
@@ -42,7 +42,8 @@ Hey! Che cosa c'è?
 Cos'ha di speciale Baudelaire?
 Ho un amico, se ci parli per un po' (Rimbaud)
 Non ha nulla da invidiare al giovane Rimbaud
-You might also like[Bridge]
+
+[Bridge]
 L'eternità non è il sole in comunione con il mare
 L'eternità non esiste perchè non la puoi raccontare
 
@@ -67,4 +68,4 @@ Anche tu Bukowski dimmi la verità
 Di quella birra non ne hai bevuta la metà!
 Bukowski dimmi la verità
 Di quella birra non ne hai bevuta la metà, auff!!
-Auff!!5Embed
+Auff!!

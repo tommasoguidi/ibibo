@@ -1,4 +1,4 @@
-Grattacielo Lyrics[Testo di "Grattacielo"]
+[Testo di "Grattacielo"]
 
 [Strofa 1]
 Mi sono chiuso a casa, che spasso
@@ -37,7 +37,8 @@ Al gusto di veleno
 Le tue labbra fredde, quasi sottozero
 E il nostro amore è un grattacielo
 Che punta in alto, ma cade al suolo
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Vicino a te, mi sento al capolinea
 Ma senza di te, io perdo quota
 Perdo pure la testa
@@ -74,4 +75,4 @@ Stai con me stanotte
 M'ama, non m'ama
 Siam pronti alla morte
 Ancora no
-Le bombe a mano, le bombe sul divanoEmbed
+Le bombe a mano, le bombe sul divano

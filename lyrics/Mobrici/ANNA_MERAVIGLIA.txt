@@ -1,4 +1,4 @@
-ANNA MERAVIGLIA Lyrics[Testo di "ANNA MERAVIGLIA"]
+[Testo di "ANNA MERAVIGLIA"]
 
 [Strofa 1]
 Così ti vedi con un altro
@@ -44,7 +44,8 @@ Meraviglia
 Riposata su una spiaggia
 Mentre cade un'altra stella
 E da lì ti chiederai se ti avrò dimenticata
-You might also like[Outro]
+
+[Outro]
 Adesso, oh
 Lo sai
 Anna, lo sai
@@ -57,4 +58,4 @@ Anna, lo sai, ah
 Ci siamo persi, ci siamo divisi
 Ci siamo lasciati andare
 Ma non volevo dimenticare)
-Adesso lo saiEmbed
+Adesso lo sai

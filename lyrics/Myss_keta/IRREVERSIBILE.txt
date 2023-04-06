@@ -1,4 +1,4 @@
-IRREVERSIBILE Lyrics[Testo di "IRREVERSIBILE"]
+[Testo di "IRREVERSIBILE"]
 
 [Strofa 1]
 Irreversibile come il tempo
@@ -39,8 +39,9 @@ Ogni volta che assumi sostanze stupefacenti, migliaia di neuroni vengono irrever
 Tuttavia, ci sono persone come me che non guardano al passato
 Quel che stato è stato
 Ci si vede a Maracaibo ragazzi
-You might also like[Ritornello]
+
+[Ritornello]
 Irreversibile ti entra dentro
 Quando lo sento, no, non mi fermo
 Irreversibile è il mio momento
-Quando lo sento, mi entra dentro1Embed
+Quando lo sento, mi entra dentro

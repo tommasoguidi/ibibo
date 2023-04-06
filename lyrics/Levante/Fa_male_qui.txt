@@ -1,4 +1,4 @@
-Fa male qui Lyrics[Testo di "Fa male qui"]
+[Testo di "Fa male qui"]
 
 [Strofa 1]
 Non dico ciò che non so
@@ -36,7 +36,8 @@ Fa male qui-i, fa male pure qui
 Se la tua lingua biforcuta si esprime ed il paese vota
 Qui-i, fa male ancora qui
 Dove tu balli tutti i passi politici io ho i lividi
-You might also like[Bridge]
+
+[Bridge]
 Poi dici a me che questo è un mondo libero
 Ma tu sei schiavo, ammettilo
 In preda a sentenze, ma dai
@@ -48,4 +49,4 @@ Il diritto all'offesa, che scusa
 Fa male qui-i, fa male pure qui
 Se la tua lingua biforcuta si esprime ed il paese vota
 Qui-i, fa male ancora qui
-Dove tu balli tutti i passi politici io ho i lividiEmbed
+Dove tu balli tutti i passi politici io ho i lividi

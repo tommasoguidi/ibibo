@@ -1,4 +1,4 @@
-MARIACHIDI Lyrics[Testo di "MARIACHIDI"]
+[Testo di "MARIACHIDI"]
 
 [Intro: Francesca California & Fausto Lama]
 Uno per la grana e due per il pogo
@@ -40,7 +40,8 @@ Se la mia gente mi fa l'onda
 Oh, oh, oh, oh
 La mia vita non affonda
 Oh, oh, oh, oh
-You might also like[Bridge: Francesca California & Fausto lama]
+
+[Bridge: Francesca California & Fausto lama]
 Uno per la grana e due per il pogo
 Navigando in questi mari acidi
 Con una chitarra che è meglio di un fucile
@@ -73,4 +74,4 @@ Oh, oh, oh, oh
 Se la mia gente mi fa l'onda
 Oh, oh, oh, oh
 La mia vita non affonda
-Oh, oh, oh, ohEmbed
+Oh, oh, oh, oh

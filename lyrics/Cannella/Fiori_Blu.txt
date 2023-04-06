@@ -1,4 +1,4 @@
-Fiori Blu Lyrics[Testo di "Fiori Blu"]
+[Testo di "Fiori Blu"]
 
 [Strofa 1]
 Amore oggi è una giornata no
@@ -44,7 +44,8 @@ Che punterà la luce sulle nostre strade
 E sarà bello camminarci di notte
 Le vedremo poi diventare una
 E ti prenderò per mano sotto la luna
-You might also like[Bridge]
+
+[Bridge]
 E scusa se oggi voglio pensare a me
 Se a volte sbrocco e grido: "Che vita è", eh, eh
 Ma tu lo sai che io senza di te
@@ -69,4 +70,4 @@ Sotto la luna
 È colpa della città, andiamocene di qua
 Sotto la luna
 Sotto la luna
-Sotto la lunaEmbed
+Sotto la luna

@@ -1,4 +1,4 @@
-Mare Lyrics[Strofa 1]
+[Strofa 1]
 Mi chiedo se sarà la stessa cosa
 Stare con un'altra che somiglia a te
 Guardarla ridere, fare le cose come facevi te
@@ -41,7 +41,8 @@ E sento il mare che cade dagli occhi stanotte
 Io sento il mare che cade dagli occhi
 E sento il mare che cade dagli occhi stanotte
 Io sento il mare che cade
-You might also likeE sento il mare che cade dagli occhi stanotte
+
+E sento il mare che cade dagli occhi stanotte
 Io sento il mare che cade dagli occhi
 E sento il mare che cade dagli occhi stanotte
 Io sento il mare che cade
@@ -65,4 +66,4 @@ Io sento il mare che cade
 E sento il mare che cade dagli occhi stanotte
 Io sento il mare che cade dagli occhi
 E sento il mare che cade dagli occhi stanotte
-Io sento il mare che cadeEmbed
+Io sento il mare che cade

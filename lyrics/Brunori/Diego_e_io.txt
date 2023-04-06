@@ -1,4 +1,4 @@
-Diego e io Lyrics[Testo di "Diego e io"]
+[Testo di "Diego e io"]
 
 [Strofa 1]
 Due incidenti ho avuto nella vita, uno sei tu
@@ -37,7 +37,8 @@ Che ho provato ad annegare in fiumi di Mescal
 Ma il dolore sai, lui sa nuotare
 Braccia forti che purtroppo non ho avuto mai
 Per tenerti e non lasciarti andare
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Ma va', dove ti pare
 Tanto prima o poi
 Lo so che tornerai a bussare
@@ -59,4 +60,4 @@ Ah-ah-ah-aah
 La-la-la-la
 La-la-la-la
 La-la-la-la
-La-la-la-laEmbed
+La-la-la-la

@@ -1,4 +1,4 @@
-2004 Lyrics[Testo di "2004"]
+[Testo di "2004"]
 
 [Strofa 1]
 Quando suonava la campana, eravam liberi
@@ -62,8 +62,9 @@ Agli altri è andata sempre molto meglio
 Ma questa vita è bella perché cambia
 E ho fatto dei castelli in aria
 Ma sono uscito da una gabbia
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Ed io quand'ero adolescente (Ed io quand'ero adolescente)
 Non combinavo mai niente (Non combinavo mai niente)
 Ma stavo bene così (Ma stavo bene così, sah)
-Bene così yeah-eh, eh (Yeah)Embed
+Bene così yeah-eh, eh (Yeah)

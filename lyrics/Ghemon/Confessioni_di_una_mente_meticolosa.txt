@@ -1,4 +1,4 @@
-Confessioni di una mente meticolosa Lyrics[Testo di "Confessioni di una mente meticolosa"]
+[Testo di "Confessioni di una mente meticolosa"]
 
 [Intro]
 Ehi boss non spingermi che sono come un bossolo pronto ad esplodere
@@ -55,7 +55,8 @@ Ad ogni coscritto, ogni guitto, ogni derelitto
 Siamo il tesoro seppellito sul fondo del relitto
 Ed io sono la linfa grezza che fa muovere il veicolo
 Però sono un pericolo se tu non l'hai capito!
-You might also like[Ritornello]
+
+[Ritornello]
 Sei sempre tu
 Tu mi racconti un mondo dove io non sto
 Parli di un film che io avevo già visto
@@ -63,4 +64,4 @@ Col finale a sorpresa, ma è tutto previsto
 Sei sempre tu
 Tu mi racconti un mondo dove io non sto
 Parli di un film che io avevo già visto
-Col finale a sorpresa, ma è tutto previstoEmbed
+Col finale a sorpresa, ma è tutto previsto

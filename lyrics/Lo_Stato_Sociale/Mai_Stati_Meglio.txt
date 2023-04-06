@@ -1,4 +1,4 @@
-Mai Stati Meglio Lyrics[Testo di "Mai Stati Meglio"]
+[Testo di "Mai Stati Meglio"]
 
 [Strofa 1]
 Non mi sento molto bene quando mi dicono:
@@ -66,7 +66,8 @@ Non mi sento molto bene quando mi dicono
 "Non c'è più lavoro, non c'è più religione
 Non c'è più educazione, non c'è più cultura"
 Non c'è neanche un cazzo di ritornello
-You might also like[Ritornello]
+
+[Ritornello]
 Qui non c'è il ritornello
 Mi diverto lo stesso
 Qui non c'è il ritornello
@@ -102,4 +103,4 @@ Mi diverto
 Qui non c'è il ritornello
 Mi diverto lo stesso
 Qui non c'è il ritornello
-Mi divertoEmbed
+Mi diverto

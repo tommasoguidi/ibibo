@@ -1,4 +1,4 @@
-Litfiga Lyrics[Testo di "Litfiga"]
+[Testo di "Litfiga"]
 
 C'è Gennaro al lungomare
 Era a Napoli Centrale
@@ -38,7 +38,8 @@ Quanta miseria nel quartiere di Lugano
 Io vado a vivere laggiù, giù giù lontano
 Là dove batte il sole
 E vado a far l'amore
-You might also likeSon disperato, incontro un angelo qualsiasi
+
+Son disperato, incontro un angelo qualsiasi
 Gli chiedo: "Tu ti chiami Nino oppure m'imiti?"
 Son disperato, incontro un angelo qualsiasi
 Gli chiedo: "Tu ti chiami Nino oppure m'imiti?"
@@ -74,4 +75,4 @@ No, no, no non lo faccio per te
 No, no, non lo voglio fare più con te
 No, no, non lo faccio per te
 No, no, non voglio far più niente con te
-No, no, voglio stare qui da solo con meEmbed
+No, no, voglio stare qui da solo con me

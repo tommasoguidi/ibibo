@@ -1,4 +1,4 @@
-Portapalazzo Lyrics[Testo di "Portapalazzo"]
+[Testo di "Portapalazzo"]
 
 [Strofa 1]
 C'è vita nello spazio? C'è vita dopo la morte?
@@ -44,7 +44,8 @@ E la natura che ci chiede di perpetuare la specie
 Mettere al mondo un erede, un'erezione costante già dalle medie
 Devi spargere il seme, in fondo siamo animali
 A me sta bene, ma ogni tot faccio due esami
-You might also like[Ritornello]
+
+[Ritornello]
 Portapalazzo e i suoi rottami
 Mi ricordano che da domani
 È pronto il referto degli esami
@@ -77,4 +78,4 @@ Ma io non so neanche se voterò
 Portapalazzo e i suoi rottami
 Mi ricordano che da domani
 È pronto il referto degli esami
-Ma io non so se lo ritireròEmbed
+Ma io non so se lo ritirerò

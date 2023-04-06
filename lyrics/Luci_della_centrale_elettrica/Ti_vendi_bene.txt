@@ -1,4 +1,4 @@
-Ti vendi bene Lyrics[Testo di "Ti vendi bene"]
+[Testo di "Ti vendi bene"]
 
 I ragazzi si erano dispersi nella notte fredda
 Questa volta il somigliare agli altri non la salva
@@ -36,7 +36,8 @@ Bella come una grande città quando la gente è addormentata, agitata
 Come la bandiera scolorita e che in qualche modo ce la farà
 Immenso smarrimento, immensa libertà
 Immensa libertà
-You might also likeBandiera rossa trionferà, ma solo sulla costa del mare in tempesta
+
+Bandiera rossa trionferà, ma solo sulla costa del mare in tempesta
 Qualcuno gridava la luna al popolo
 Poi la sera fa il rumore di una saracinesca che si abbassa
 E Mozart a letto con la febbre alta
@@ -44,4 +45,4 @@ E Mozart a letto con la febbre alta
 Ti vendi bene, tu ti vendi bene, tu ti vendi bene
 Ti vendi bene, tu ti vendi bene, tu ti vendi bene
 Ti vendi bene, tu ti vendi bene, tu ti vendi bene
-Ti vendi bene, tu ti vendi bene, tu ti vendi beneEmbed
+Ti vendi bene, tu ti vendi bene, tu ti vendi bene

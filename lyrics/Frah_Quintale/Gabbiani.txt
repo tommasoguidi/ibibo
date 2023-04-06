@@ -1,4 +1,4 @@
-Gabbiani Lyrics[Testo di "Gabbiani"]
+[Testo di "Gabbiani"]
 
 [Strofa 1]
 Ti ho scritto e non m'hai più risposto
@@ -42,7 +42,8 @@ Hai mille schiaffi nelle mani
 Vorresti darmeli domani
 Allora perché non mi chiami?
 Non ho più guance sul mio volto
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Ti stai chiedendo come mai
 Avevo così paura e me ne sono andato
 E adesso cosa te ne fai
@@ -56,4 +57,4 @@ Se ora sono così lontano
 Del male davvero
 Del male davvero
 Uh-uh
-Uh-uhEmbed
+Uh-uh

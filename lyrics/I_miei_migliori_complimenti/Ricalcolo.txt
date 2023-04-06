@@ -1,4 +1,4 @@
-Ricalcolo Lyrics[Strofa 1]
+[Strofa 1]
 Alla fermata del 9 ti aspetto, ricalcolo
 Come un bambino in castigo in piedi in un angolo
 Che vuole soltanto perdersi nelle radure di Kanto o di Johto
@@ -40,7 +40,8 @@ Davvero
 Davvero
 Davvero
 Davvero
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Ti auguro che piova dove vai in vacanza
 Due letti singoli nella stanza
 Che non ci sia mai la tua taglia dei vestiti in sconto
@@ -62,4 +63,4 @@ Davvero
 
 (Alla fermata nel 9)
 (Alla fermata del 9)
-Alla fermata del 9 ti aspetto, ricalcoloEmbed
+Alla fermata del 9 ti aspetto, ricalcolo

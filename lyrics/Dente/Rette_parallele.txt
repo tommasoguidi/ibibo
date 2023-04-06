@@ -1,4 +1,4 @@
-Rette parallele Lyrics[Testo di "Rette parallele"]
+[Testo di "Rette parallele"]
 
 Se noi fossimo dei semafori
 Io sarei vicino a te
@@ -40,9 +40,6 @@ Quando sono "m'ama" io
 Sei "non m'ama" tu
 Quando sono "non m'ama" io
 Sei "m'ama" tu
-You might also likeIo sono il lungo inverno
-E tu la bella estate
-Siamo rette parallele
 
 Io sono il lungo inverno
 E tu la bella estate
@@ -62,4 +59,8 @@ Siamo rette parallele
 
 Io sono il lungo inverno
 E tu la bella estate
-Siamo rette paralleleEmbed
+Siamo rette parallele
+
+Io sono il lungo inverno
+E tu la bella estate
+Siamo rette parallele

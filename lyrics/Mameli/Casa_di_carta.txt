@@ -1,4 +1,4 @@
-Casa di carta Lyrics[Testo di "Casa di carta"]
+[Testo di "Casa di carta"]
 
 [Strofa 1]
 È tanto che non ci prendiamo in giro
@@ -43,7 +43,8 @@ Di vivere una vita in conflitto
 Io mi chiudo a riccio
 Concedimi un vizio
 Rimetti le chiavi o impazzisco
-You might also like[Bridge]
+
+[Bridge]
 E passerà
 Questa voglia un po' stupida
 Di rubare una macchina
@@ -82,4 +83,4 @@ Ma che non cade giù
 Giù, giù, giu
 Ma che non cade giù
 Giù, giù, giù
-Ma che non cade giùEmbed
+Ma che non cade giù

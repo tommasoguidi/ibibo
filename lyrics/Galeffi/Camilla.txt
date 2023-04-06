@@ -1,4 +1,4 @@
-Camilla Lyrics[Testo di "Camilla"]
+[Testo di "Camilla"]
 
 [Strofa 1]
 Camilla vuole solamente me
@@ -37,7 +37,8 @@ Perché ha visto troppi horror in tv
 Camilla non riesce a stare sola
 Camilla non sa mai se s'innamora
 Camilla non tradisce e non perdona
-You might also like[Ritornello]
+
+[Ritornello]
 Giri per mercatini
 Compri solo vinili
 Però con te mi annoio un po'
@@ -54,4 +55,4 @@ Proprio no
 Camilla, proprio no
 Con te io non ci sto
 Camilla, proprio no
-Camilla, proprio noEmbed
+Camilla, proprio no

@@ -1,4 +1,4 @@
-2050 Lyrics[Testo di "2050"]
+[Testo di "2050"]
 
 [Strofa 1]
 Hai la faccia di vento e un'età che non aiuta
@@ -40,7 +40,8 @@ I grattacieli spenti emergono dal mare
 A ricordarci cosa abbiamo fatto e che possiamo fare
 Quando lui ti chiederà che cosa ha fatto la gente
 Digli: "Abbiamo fatto tutto, non abbiamo fatto niente
-You might also like[Ritornello]
+
+[Ritornello]
 Scisso gli atomi di una conchiglia
 Vinto la morte, perso la meraviglia
 Strappato foreste come fili d'erba
@@ -49,4 +50,4 @@ Fatto l'amore senza capirne nulla
 Condannata la pace ad essere anche guerra
 Cambiato il corso dell'acqua corrente
 Abbiamo fatto tutto, abbiamo fatto niente
-Abbiamo fatto tutto, abbiamo fatto nienteEmbed
+Abbiamo fatto tutto, abbiamo fatto niente

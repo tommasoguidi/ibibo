@@ -1,4 +1,4 @@
-Cose che non si dicono Lyrics[Testo di "Cose che non si dicono"]
+[Testo di "Cose che non si dicono"]
 
 [Strofa 1]
 Volevo scrivere un singolo pop
@@ -38,7 +38,8 @@ Dentro l'ascensore
 Sul televisore, sul pavimento
 Mentre fuori piove, con le scarpe nuove
 Voglio fare cose
-You might also like[Bridge]
+
+[Bridge]
 La domenica
 Nella vasca
 Non ti basta
@@ -46,4 +47,4 @@ Non ti basta
 [Outro]
 Adesso dimmi cosa vuoi
 Adesso dimmi cosa vuoi
-Adesso dimmi cosa vuoiEmbed
+Adesso dimmi cosa vuoi

@@ -1,4 +1,4 @@
-Tutto Ciò Che Abbiamo Lyrics[Testo di "Tutto Ciò Che Abbiamo"]
+[Testo di "Tutto Ciò Che Abbiamo"]
 
 [Strofa 1]
 Non metto mai in ordine i vestiti
@@ -35,7 +35,8 @@ Che sono stanco morto
 E poi sei l'unica di cui mi fido
 La nostra storia è malinconica
 Come una pizza di domenica
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Tu dimmi dimmi come si fa
 Tu dimmi come si fa
 Ad esser puntuali
@@ -66,4 +67,4 @@ Non è tutto ciò che abbiamo
 Mi son svegliato in piena notte
 Sulla faccia i tuoi capelli
 Come facciamo a non far caso
-A quanto siamo belliEmbed
+A quanto siamo belli

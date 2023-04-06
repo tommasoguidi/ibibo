@@ -1,4 +1,4 @@
-Porte chiuse Lyrics[Testo di "Porte chiuse"]
+[Testo di "Porte chiuse"]
 
 [Strofa 1]
 Eccoti qua, ma dove sta
@@ -39,7 +39,8 @@ Si dovrebbe diventare grandi
 Ma se i problemi mi danno la caccia
 Vorrei buttarmi tra le tue braccia
 Vorrei buttarmi tra le tue braccia
-You might also like[Bridge]
+
+[Bridge]
 E non perdevi l'occasione di
 Guardare l'orologio e farmelo pesare
 Gli altri riescono e tu no
@@ -62,4 +63,4 @@ Vorrei buttarmi tra le tue braccia
 Vorrei buttarmi tra le tue braccia
 Vorrei buttarmi tra le tue braccia
 Ma se i problemi mi danno la caccia
-Vorrei buttarmi tra le tue bracciaEmbed
+Vorrei buttarmi tra le tue braccia

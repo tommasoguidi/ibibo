@@ -1,4 +1,4 @@
-Non te lo dico Lyrics[Testo di "Non te lo dico"]
+[Testo di "Non te lo dico"]
 
 [Strofa 1]
 Ho smesso di fumare
@@ -35,7 +35,8 @@ I pugni alla parete
 Le feste dei vicini
 Le zampe di gallina
 I graffi della vita
-You might also like[Pre-ritornello 2]
+
+[Pre-ritornello 2]
 Sarebbe bello essere normali
 E stare bene
 E invece
@@ -57,4 +58,4 @@ Ti amo ma non te lo dico
 Ti amo ma non te lo dico
 Ti amo ma non te lo dico
 Ti amo ma non te lo dico
-Ti amo ma non te lo dicoEmbed
+Ti amo ma non te lo dico

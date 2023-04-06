@@ -1,4 +1,4 @@
-LA MIA ULTIMA STORIA Lyrics[Testo di "LA MIA ULTIMA STORIA"]
+[Testo di "LA MIA ULTIMA STORIA"]
 
 [Strofa 1]
 La mia ultima storia
@@ -50,7 +50,8 @@ Avvicinati al petto
 Ho le scarpe nuove
 Come piacciono a te
 Ma le userò per correre lontano
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 E sono quattro anni
 E sono quattro anni
 Mi devi Parigi, l’ultima neve in città
@@ -68,4 +69,4 @@ Che solo su di te mi sarei abbattuto
 Avrei svitato una stella
 L’ultima notte di stelle
 E non per fare il romantico
-Ma per lasciarti nel panicoEmbed
+Ma per lasciarti nel panico

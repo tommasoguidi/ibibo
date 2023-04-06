@@ -1,4 +1,4 @@
-Brexit Lyrics[Testo di "Brexit"]
+[Testo di "Brexit"]
 
 [Strofa 1]
 Siamo tutti quanti personaggi
@@ -37,7 +37,8 @@ Io non ho neanche un soldo per viaggiare
 E andare a Londra per restare
 Non ho neanche un film da guardare
 E dopo e non ho neanche te
-You might also like[Outro]
+
+[Outro]
 (Uh)
 E non ho neanche te
-E non ho neanche teEmbed
+E non ho neanche te

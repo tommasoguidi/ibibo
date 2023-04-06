@@ -1,4 +1,4 @@
-Altrove Lyrics[Testo di "Altrove"]
+[Testo di "Altrove"]
 
 [Intro]
 Finisco un altro giro
@@ -43,7 +43,8 @@ Sai, è un anno che ci provo
 Ma ogni notte diventa un giorno
 È sola andata, senza ritorno
 Basta distrarsi un secondo
-You might also like[Outro]
+
+[Outro]
 Tu
 Perché poi tu
 Potresti essere ovunque
@@ -52,4 +53,4 @@ Di perdermi di nuovo
 Sai, è un anno che ci provo
 Ma ogni notte diventa giorno
 È sola andata, senza ritorno
-Basta distrarsi un secondo1Embed
+Basta distrarsi un secondo

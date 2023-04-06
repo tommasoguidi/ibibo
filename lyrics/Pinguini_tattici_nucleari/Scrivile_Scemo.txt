@@ -1,4 +1,4 @@
-Scrivile Scemo Lyrics[Testo di "Scrivile Scemo"]
+[Testo di "Scrivile Scemo"]
 
 [Strofa 1]
 Scrivile, scemo, stanotte non dormi
@@ -38,7 +38,8 @@ E pesano, uccidono, 'sti cazzo di "ti amo"
 Ballano dentro la bocca un ritmo cubano
 Il sangue, le lacrime, un grido blasfemo
 Tu fatti coraggio, poi scrivile, scemo
-You might also like[Bridge]
+
+[Bridge]
 E metto Bon Iver se sono giù
 E lo pronuncio sbagliato proprio come fai tu
 E scusa per l'ansia, mi mangia da dentro
@@ -65,4 +66,4 @@ Scrivile, scrivile
 Scrivile, scrivile
 Scrivile, scrivile
 Scrivile, scrivile
-Scrivile, scrivileEmbed
+Scrivile, scrivile

@@ -1,4 +1,4 @@
-Lili Marleen Lyrics[Strofa 1]
+[Strofa 1]
 Siamo bambini rapiti sepolti in un bar
 Guardiamo la Senna che passa e che va
 Parigi è una stella, non è una città
@@ -43,7 +43,8 @@ Te lo ricorderai
 Un cancro
 Un’eresia
 Due cani in sagrestia
-You might also like[Ritornello]
+
+[Ritornello]
 Lili Marleen
 Auf Wiedersehen
 Mourir en scene
@@ -69,4 +70,4 @@ Lili je t’aime
 La tastiera del mio pianoforte)
 Michel Houellebecq et Jacques Prevert
 (Vivi dentro i ricordi, le chiese
-E i kalashnikov dei kamikaze)1Embed
+E i kalashnikov dei kamikaze)

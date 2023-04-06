@@ -1,4 +1,4 @@
-Infinito Lyrics[Testo di "Infinito"]
+[Testo di "Infinito"]
 
 [Strofa 1]
 Sto cercando il modo di fare finta di niente, ma
@@ -38,8 +38,9 @@ E lo so che da solo io posso fare tutto
 Ma non riesco a levarmi il rimorso quando mi stacco
 Rallento apposta se il tempo sta per finire
 Dammi altri dieci minuti prima di uscire
-You might also like[Ritornello]
+
+[Ritornello]
 Tu mi fai amare ed odiare, poi morire e vivere
 Tu mi fai estendere, espandere fino ad esplodere (Quasi esplodere)
 Tu mi fai piangere e ridere fino a non respirare (Tu che sei per me)
-Tu che per me sei infinito all'infinitoEmbed
+Tu che per me sei infinito all'infinito

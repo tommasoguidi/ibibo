@@ -1,4 +1,4 @@
-Grand final Lyrics[Testo di "Grand final"]
+[Testo di "Grand final"]
 
 [Strofa 1]
 Padre, salvami
@@ -34,7 +34,8 @@ Una nuova alba
 Questa è la speranza
 Ma è la stessa che
 Ha chi uccide
-You might also like[Bridge]
+
+[Bridge]
 Finché rido resto in piedi
 Al futuro sputo in faccia
 Finché rido resto in piedi
@@ -88,4 +89,4 @@ Sarai uno di noi, sarai uno di noi, sarai uno di noi, sarai uno di noi
 Con le mani legate
 Ma le braccia rotte
 Per la foga con cui
-Stai sciogliendo le cordeEmbed
+Stai sciogliendo le corde

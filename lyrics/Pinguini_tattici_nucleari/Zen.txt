@@ -1,4 +1,4 @@
-Zen Lyrics[Testo di "Zen"]
+[Testo di "Zen"]
 
 [Strofa 1]
 Sarà che sono di settembre come tutti i grandi cuori
@@ -34,7 +34,8 @@ Che indosso per cercare il mio zen
 [Post-Ritornello]
 (Cercare il mio zen)
 (Cercare il mio zen)
-You might also like[Bridge]
+
+[Bridge]
 I pezzi di canzoni che tu metti nelle stories
 Per spiegar le tue emozioni agli imbecilli come me
 Me li segno sulla pelle, me li lego attorno ai polsi
@@ -50,4 +51,4 @@ Che indosso per cercare il mio zen
 (Eh-eh-eh, oh-oh)
 Li indosso per cercare il mio zen
 (Eh-eh-eh, oh-oh)
-Li indosso per cercare lo zenEmbed
+Li indosso per cercare lo zen

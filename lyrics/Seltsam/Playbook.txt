@@ -1,4 +1,4 @@
-Playbook Lyrics[Ritornello]
+[Ritornello]
 Ma che mi parli dei nostri sbagli
 Perché mi urli
 Anche se lo sai
@@ -43,7 +43,8 @@ Ti parlo in apnea
 Tu sei la mia eresia
 Tu sei l'alta marea
 Tu sei la mia follia
-You might also likeTi chiedo solo un favore
+
+Ti chiedo solo un favore
 Se poi facciamo l'amore
 Che il mio cuore l'ho perso
 Non chiamarlo mai sesso
@@ -62,4 +63,4 @@ Perché mi urli
 Anche se lo sai
 Che scriverei di te
 La fine del playbook la dedico a te
-Ogni secondo buttato a cercare che fossi il contrario di teEmbed
+Ogni secondo buttato a cercare che fossi il contrario di te

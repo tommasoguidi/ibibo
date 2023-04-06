@@ -1,4 +1,4 @@
-Super Lyrics[Strofa 1]
+[Strofa 1]
 È il funk dei pigiami al pavimento
 Il sample del divertimento
 Facciamo muovere interessi dall'interno
@@ -49,7 +49,8 @@ Sei solo la risposta ad un problema che non c'è
 Che non c'è, che non c'è
 Se tu sei la risposta la domanda qual era?
 Sei solo la risposta ad un problema che non c'è
-You might also like[Ritornello]
+
+[Ritornello]
 Vogliono superare, volano su per aria
 Quando la musica ti super, super, super, supera
 Vogliono superare, volano su per aria
@@ -57,4 +58,4 @@ Quando la musica ti super, super, super, supera
 
 [Outro]
 Vogliono superare, volano su per aria
-Vogliono superare, volano su per aria2Embed
+Vogliono superare, volano su per aria

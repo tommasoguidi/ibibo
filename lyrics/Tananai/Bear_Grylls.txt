@@ -1,4 +1,4 @@
-Bear Grylls Lyrics[Testo di "Bear Grylls"]
+[Testo di "Bear Grylls"]
 
 [Ritornello 1]
 E non abbiamo mai finito un film
@@ -45,8 +45,9 @@ E adesso invece guardo tutto un film
 Mi manchi da impazzire
 Qui dentro io mi sento un po' come Bear Grylls
 Anche io provo a non morire
-You might also like[Ritornello 1]
+
+[Ritornello 1]
 E non abbiamo mai finito un film
 Preferivamo scopare
 La coda sciolta, gli occhi rossi e poi
-Noi respiravamo maleEmbed
+Noi respiravamo male

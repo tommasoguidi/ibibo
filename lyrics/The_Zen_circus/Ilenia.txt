@@ -1,4 +1,4 @@
-Ilenia Lyrics[Testo di "Ilenia"]
+[Testo di "Ilenia"]
 
 [Intro]
 Uoh-oh-ah-ah
@@ -54,7 +54,8 @@ Che poi in realtà so anche parlare
 Ma non si capisce bene
 E quindi un po' mi dispiace
 Anzi non mi dispiace
-You might also likeDi averti conosciuto in un brutto periodo
+
+Di averti conosciuto in un brutto periodo
 Perché sei stato il più bello
 Hai brillato di più
 Una scopata, un peso
@@ -94,4 +95,4 @@ Qui dove vivi adesso
 In un anelito del cuore
 In attesa di un qualcosa
 Di un qualcuno
-Di un erroreEmbed
+Di un errore

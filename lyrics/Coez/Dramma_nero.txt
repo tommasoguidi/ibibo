@@ -1,4 +1,4 @@
-Dramma nero Lyrics[Testo di "Dramma nero"]
+[Testo di "Dramma nero"]
 
 [Strofa 1]
 Ti è mai capitato di startene a letto
@@ -40,7 +40,8 @@ Fuori dal finestrino vedo i diavoli oh
 Dov'è un lago vicino?
 Io una corda ce l'ho
 Fuori dal finestrino vedo i diavoli oh
-You might also like[Bridge]
+
+[Bridge]
 Non lo so come mai
 Se mi guardo allo specchio
 Non mi riconosco più
@@ -68,4 +69,4 @@ Dararararararo
 Sono fuori di me
 Dararararararo
 E da sempre ho un motivo
-Per scappare da meEmbed
+Per scappare da me

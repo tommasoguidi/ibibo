@@ -1,4 +1,4 @@
-Narghilè Lyrics[Testo di "Narghilè"]
+[Testo di "Narghilè"]
 
 [Strofa 1]
 In motorino faccio slalom tra le macchine
@@ -51,7 +51,8 @@ E mi chiedi, mi scaldi
 Noi due in casa scalzi
 Il sole a picco da dietro i palazzi
 Nella vasca noi due con il Chianti
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E stanotte sa troppo di te
 Ed io non riesco a dormire
 E mi giro in un letto di spine
@@ -70,4 +71,4 @@ Nuvole di narghilè
 Ormai tutto sa di te
 Sigaretta post caffè
 Sigaretta after sex
-Nuvole di narghilèEmbed
+Nuvole di narghilè

@@ -1,4 +1,4 @@
-Non Cambierà Lyrics[Testo di "Non Cambierà"]
+[Testo di "Non Cambierà"]
 
 [Strofa 1]
 Ti va di starmi vicino?
@@ -40,9 +40,10 @@ A un mondo che non sopportavi più
 Ma io posso soltanto immaginare
 Lo posso pensare, ma niente di più
 Non cambierà
-You might also like[Outro]
+
+[Outro]
 Per noi che siamo soliti cadere
 Per me che non imparerò mai più
 E corri treno e fammi immaginare
 Una vita, un amore che non vivrò più
-Non cambieràEmbed
+Non cambierà

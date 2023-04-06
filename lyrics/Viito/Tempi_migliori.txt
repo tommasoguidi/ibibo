@@ -1,4 +1,4 @@
-Tempi migliori Lyrics[Testo di "Tempi migliori"]
+[Testo di "Tempi migliori"]
 
 [Strofa 1]
 I treni arriveranno in orario
@@ -43,7 +43,8 @@ Di tutti i nostri amori
 E la precarietà
 Di tutti i nostri amori
 E la precarietà
-You might also like[Outro]
+
+[Outro]
 La primavera
 Che tanto sta arrivando
 Io non so bene quando
@@ -53,4 +54,4 @@ La strada è sempre quella
 Difendersi stasera
 Domani si vedrà
 Difendersi stasera
-Domani si vedràEmbed
+Domani si vedrà

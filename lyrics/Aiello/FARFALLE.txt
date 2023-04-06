@@ -1,4 +1,4 @@
-FARFALLE Lyrics[Testo di "FARFALLE"]
+[Testo di "FARFALLE"]
 
 [Strofa 1]
 Farfalle dietro a un vetro
@@ -38,7 +38,8 @@ Tu dimmi ancora che ore sono
 Forse è finita anni fa
 E noi non lo sappiamo
 Tu dimmi adesso dove vado
-You might also like[Bridge]
+
+[Bridge]
 Tu non mi tieni più la fronte
 Ed io mi tengo tutto dentro
 Eppure ancora ci scriviamo
@@ -55,4 +56,4 @@ E noi non lo sappiamo
 Tu dimmi ancora che ore sono
 Forse è finita anni fa
 E noi non lo sappiamo
-Tu dimmi adesso dove vadoEmbed
+Tu dimmi adesso dove vado

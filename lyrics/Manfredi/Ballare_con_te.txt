@@ -1,4 +1,4 @@
-Ballare con te Lyrics[Testo di "Ballare con te"]
+[Testo di "Ballare con te"]
 
 [Strofa 1]
 Ed ho perso la testa con l'università
@@ -48,7 +48,8 @@ L'età è una questione accesa fra chi si è fatto il problema e chi no
 Ed ora che siamo soli
 Questo mondo cambierà per noi domani se mi tieni le mani
 Come gli anni '60 nei film italiani
-You might also like[Ritornello]
+
+[Ritornello]
 E saremo più vintage nelle storie di Instagram
 Su una Vespa 50 direzione spiaggia se vieni con me
 Un'estate italiana che aspettavo il Festivalbar
@@ -59,4 +60,4 @@ A ballare con te
 A ballare con te
 Oh-oh-oh, oh-oh-oh, na-na
 A ballare con te
-Oh-oh-oh, oh-oh-oh, na-naEmbed
+Oh-oh-oh, oh-oh-oh, na-na

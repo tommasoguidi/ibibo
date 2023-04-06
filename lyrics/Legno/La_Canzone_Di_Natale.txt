@@ -1,4 +1,4 @@
-La Canzone Di Natale Lyrics[Testo di "La Canzone Di Natale"]
+[Testo di "La Canzone Di Natale"]
 
 [Strofa 1]
 Hai presente quando nevica?
@@ -37,5 +37,6 @@ E a noi, chi ci salverà?
 Sarà Babbo Natale, tuo padre o un supereroe della Marvel
 E a noi, chi ci salverà?
 Sarà Babbo Natale, tuo padre o un supereroe della Marvel
-You might also like[Outro]
-E chissà se domani sarà un'altra giornata di merdaEmbed
+
+[Outro]
+E chissà se domani sarà un'altra giornata di merda

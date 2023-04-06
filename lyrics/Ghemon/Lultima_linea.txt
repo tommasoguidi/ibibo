@@ -1,4 +1,4 @@
-L’ultima linea Lyrics[Testo di "L'ultima linea"]
+[Testo di "L'ultima linea"]
 
 [Ritornello]
 Ogni strada che sembra non avere più l'uscita
@@ -45,11 +45,12 @@ Ogni strada che sembra non avere più l'uscita
 È una gara in cui questa vita vuole metterti
 Ogni scala che verso il cielo fa la sua salita
 È una sfida in cui certe volte devi perderti
-You might also likeOgni strada che sembra non avere più l'uscita
+
+Ogni strada che sembra non avere più l'uscita
 È una gara in cui questa vita vuole metterti
 Ogni scala che verso il cielo fa la sua salita
 È una sfida in cui certe volte devi perderti
 
 [Outro]
 Fino a che l'ultima linea ritorna la prima e riparti da qui
-Vibra di luce, è mattina finché la tua notte è finita cosìEmbed
+Vibra di luce, è mattina finché la tua notte è finita così

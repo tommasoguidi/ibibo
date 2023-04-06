@@ -1,4 +1,4 @@
-Latte di mandorla Lyrics[Testo di "Latte di mandorla"]
+[Testo di "Latte di mandorla"]
 
 [Strofa 1]
 La minigonna che ti metti sembra sempre più corta
@@ -42,7 +42,8 @@ Lasciarsi in una doccia
 Le bombe ad una festa
 Mi ricordano di te
 Più della voglia che ho di te, eh, eh
-You might also like[Bridge]
+
+[Bridge]
 Tutte le frasi che vedi sui muri
 Poi restano eterne
 Ma tu sei alle terme
@@ -58,4 +59,4 @@ Più della voglia che ho di te, eh
 Lasciarsi in una doccia
 Le bombe ad una festa
 Mi ricordano di te
-Più della voglia che ho di te, eh, eh1Embed
+Più della voglia che ho di te, eh, eh

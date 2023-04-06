@@ -1,4 +1,4 @@
-PROBLEMI DI COCO Lyrics[Testo di "PROBLEMI DI COCO"]
+[Testo di "PROBLEMI DI COCO"]
 
 [Ritornello]
 Lei ha problemi di Coco
@@ -46,6 +46,7 @@ Forse è impazzito
 Me lo fa mangiare
 Quel gelato?
 Mhm, buono
-You might also like[Outro]
+
+[Outro]
 Signor magistrato
-What's wrong?Embed
+What's wrong?

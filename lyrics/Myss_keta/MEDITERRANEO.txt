@@ -1,4 +1,4 @@
-MEDITERRANEO Lyrics[Testo di "MEDITERRANEO"]
+[Testo di "MEDITERRANEO"]
 
 [Strofa 1]
 Ruolo alto, io non pago
@@ -42,7 +42,8 @@ Qui nel Mediterraneo
 Qui nel Mediterraneo
 Qui nel Mediterraneo
 Qui nel Mediterraneo
-You might also like[Interludio]
+
+[Interludio]
 Ibiza, Saint-Tropez
 Filicudi, Marrakech
 Lanzarote, Portofino
@@ -55,4 +56,4 @@ Qui nel Mediterraneo
 M-E-D-I-T-E-R-R-A-N-E-O
 Qui nel Mediterraneo
 M-E-D-I-T-E-R-R-A-N-E-O
-Qui nel MediterraneoEmbed
+Qui nel Mediterraneo

@@ -1,4 +1,4 @@
-Venerdì Lyrics[Testo di "Venerdì"]
+[Testo di "Venerdì"]
 
 [Strofa 1]
 Ho sentito una storia
@@ -37,5 +37,6 @@ Scapperemo da una festa e da un noioso venerdì
 Sai, con te io non mi annoio mai
 Ti direi altre mille cose, ma tanto tu già le sai
 Tu già le sai, tu già le sai
-You might also like[Outro]
-Ti direi altre mille cose, ma tanto tu già le saiEmbed
+
+[Outro]
+Ti direi altre mille cose, ma tanto tu già le sai

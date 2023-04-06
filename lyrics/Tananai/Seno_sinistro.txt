@@ -1,4 +1,4 @@
-Seno sinistro Lyrics[Testo di "Seno sinistro"]
+[Testo di "Seno sinistro"]
 
 [Ritornello]
 E me lo dai, me lo dai, me lo dai, sì o no?
@@ -50,7 +50,8 @@ Ti accarezzo dove ascolti
 Ti do un bacio dove mangi
 E tanti altri, tanti altri
 Tanti altri
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E ti porterò con me come
 Porto le cicatrici, porto le voglie, eh
 Come metto a posto?
@@ -72,4 +73,4 @@ Me lo dai, me lo dai, sì o no?
 Altrimenti me lo prendo
 E me lo dai, me lo dai, me lo dai, sì o no?
 Me lo dai, me lo dai, sì o no?
-E se è rotto, poi lo vendoEmbed
+E se è rotto, poi lo vendo

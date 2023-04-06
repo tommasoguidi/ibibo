@@ -1,4 +1,4 @@
-Sono umano Lyrics[Testo di "Sono umano"]
+[Testo di "Sono umano"]
 
 [Strofa 1]
 Un outfit chic per la fashion week
@@ -39,7 +39,8 @@ Sono umano, sono umano, sono umano, sono umano
 Sono umano, sono umano, sono umano, sono umano
 Sono umano, sono umano, sono umano, sono umano
 Sono umano, sono umano, sono umano, sono umano
-You might also like[Bridge]
+
+[Bridge]
 Sono umano
 Sono umano
 Sono umano
@@ -50,4 +51,4 @@ Il più esclusivo ed elitario
 Salvati da questo mortorio
 Vieni a trovarci all'obitorio
 Ti abbiamo prenotato un tavolo
-Vedrai col tempo quanto è comodoEmbed
+Vedrai col tempo quanto è comodo

@@ -1,4 +1,4 @@
-Le cose che non ho Lyrics[Testo di "Le cose che non ho"]
+[Testo di "Le cose che non ho"]
 
 [Strofa 1]
 Mi serve un buon lavoro che mi ricopra d'oro
@@ -44,7 +44,8 @@ Il voto ad Alleanza e a distanza la finanza
 E in più lo scheletro dentro l'armadio che ogni notte danza
 I giusti appigli per quello che mi manca
 La mia banca augura ai miei figli la migliore infanzia
-You might also like[Ritornello]
+
+[Ritornello]
 Ho scritto un pezzo per le cose che non ho
 Perché ogni cosa ha un prezzo e questo ha un prezzo che non pagherò
 Se me ne andrò, se morirò io lo farò
@@ -52,4 +53,4 @@ Lasciando un pezzo di quello che c'ho e quello che so da un po'
 Ti ho scritto un pezzo per le cose che non ho
 Perché ogni cosa ha un prezzo e questo ha un prezzo che non pagherò
 Se me ne andrò, se morirò io lo farò
-Lasciando un pezzo di quello che c'ho, lo so da un po'Embed
+Lasciando un pezzo di quello che c'ho, lo so da un po'

@@ -1,4 +1,4 @@
-Luci Lyrics[Testo di "Luci" ft. SANO & Altea]
+[Testo di "Luci" ft. SANO & Altea]
 
 [Strofa 1: Bartolini]
 Sono tornato e mi manca l'aria
@@ -36,7 +36,8 @@ Non fare niente che io non farei
 Anche se penserai solo ai fatti tuoi
 Non respirare senza di me
 Non fare niente che io non farei
-You might also like[Strofa 3: Altea]
+
+[Strofa 3: Altea]
 Un giorno con te
 Mi fa scordare della morte
 Ma se la guerra fosse finita
@@ -44,4 +45,4 @@ Starei dritta con la schiena
 E se bastasse il tuo volto
 A scordarsi tutti quanti
 Non mi accorgerei del brutto tempo
-Anche quando siamo stanchiEmbed
+Anche quando siamo stanchi

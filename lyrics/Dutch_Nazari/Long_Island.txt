@@ -1,4 +1,4 @@
-Long Island Lyrics[Testo di "Long Island"]
+[Testo di "Long Island"]
 
 [Intro]
 Bevo un tè freddo che sa di Long Island
@@ -50,7 +50,8 @@ Questo tè freddo forse è Long Island
 Da sopra ad un tetto guardo l'Italia
 Parlo uno slang mescolato, pescato un po' qua e là
 Polleggiato, dico sul serio, vai tra'
-You might also like[Bridge]
+
+[Bridge]
 Dove sei ora tu?
 L'orologio segna l'una e tre
 Chissà se pure tu
@@ -68,4 +69,4 @@ Parlo uno slang mescolato, pescato un po' qua e là
 Che-e-e questo tè freddo forse è Long Island
 Da sopra ad un tetto guardo l'Italia
 Parlo uno slang mescolato, pescato un po' qua e là
-Polleggiato, dico sul serio, vai tra'Embed
+Polleggiato, dico sul serio, vai tra'

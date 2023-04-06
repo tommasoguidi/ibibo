@@ -1,4 +1,4 @@
-Metodo Lyrics[Testo di "Metodo"]
+[Testo di "Metodo"]
 
 [Strofa 1: Gio Evan]
 Questo mondo qui non fa per te
@@ -37,7 +37,8 @@ Now that I have gone
 Why to cope with
 Now that I have gone
 Why to cope with that?
-You might also like[Ritornello]
+
+[Ritornello]
 Non piangere
 Troveremo un metodo
 Un angolo
@@ -50,4 +51,4 @@ Non piangere
 Troveremo un metodo
 Un angolo
 Un modo o un mondo dove poter ridere
-Non piangereEmbed
+Non piangere

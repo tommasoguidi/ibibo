@@ -1,4 +1,4 @@
-Vivere o morire Lyrics[Testo di "Vivere o morire"]
+[Testo di "Vivere o morire"]
 
 [Strofa 1]
 Livorno è una città strana
@@ -44,7 +44,8 @@ Vivere o morire
 Aver paura di tuffarsi
 Di lasciarsi andare
 E di lasciarsi andare
-You might also like[Strofa 3]
+
+[Strofa 3]
 Lei non la vedo da sei mesi
 Spero stia bene con il suo lavoro
 Riesco a mettere la mia vita in una valigia
@@ -64,4 +65,4 @@ Aver paura di dimenticare
 Vivere o morire
 Aver paura di tuffarsi
 Di lasciarsi andare
-E di lasciarsi andareEmbed
+E di lasciarsi andare

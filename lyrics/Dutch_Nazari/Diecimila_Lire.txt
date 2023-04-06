@@ -1,4 +1,4 @@
-Diecimila Lire Lyrics[Testo di "Diecimila Lire"]
+[Testo di "Diecimila Lire"]
 
 [Ritornello]
 Ho trovato nella tasca una banconota
@@ -66,7 +66,8 @@ E tu, e tu mi levi 'sti pensieri quando chiami
 Quando le tue manie, le tue magie slegano i cani
 E lasci le scie sulla mia pelle con le unghie delle mani
 Come fanno in cielo gli aeroplani
-You might also like[Ritornello]
+
+[Ritornello]
 Ho trovato nella tasca una banconota
 Pensavo a cosa avrei comprato, immaginavo già
 Per poi sentirmi solamente un povero idiota
@@ -91,4 +92,4 @@ Chissà che hai in mente adesso
 Di chi stai giudicando la mentalità
 Diecimila lire
 Mi sa che ancora adesso
-Ti venderei me stesso per diecimila lireEmbed
+Ti venderei me stesso per diecimila lire

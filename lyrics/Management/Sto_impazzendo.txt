@@ -1,4 +1,4 @@
-Sto impazzendo Lyrics[Strofa 1]
+[Strofa 1]
 La persona che mi sta accanto
 Non alza mai la voce quando parla
 La persona che mi sta accanto
@@ -36,7 +36,8 @@ Nel mondo pieno di paura stringimi
 In mezzo a questa notte scura salvami
 Perché io sto impazzendo
 Perché sto impazzendo
-You might also like[Bridge]
+
+[Bridge]
 In mezzo a questa cattiveria scaldami
 In mezzo a tutta questa storia guardami
 Ti lascio questo promemoria salvami
@@ -48,4 +49,4 @@ Perché sto impazzendo
 Perché sto impazzendo
 Non ho più la voce
 Salvami
-Tu ne sei capaceEmbed
+Tu ne sei capace

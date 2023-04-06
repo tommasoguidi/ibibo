@@ -1,4 +1,4 @@
-Non è per sempre Lyrics[Testo di "Non è per sempre"]
+[Testo di "Non è per sempre"]
 
 [Strofa 1]
 Dici che i tuoi fiori si sono rovinati
@@ -41,7 +41,8 @@ Perciò se è da un po'
 Che stai così male
 Il tuo diploma in fallimento
 È una laurea per reagire
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Puoi finger bene
 Ma so che hai fame
 
@@ -58,4 +59,4 @@ Sherwood Festival, MI AMI, Balla Coi Cinghiali: sospesi
 Primo maggio senza pubblico
 Teatro Salone Margherita: chiuso definitivamente
 Festival di Sanremo 2021, ventisei cantanti, solo tra loro oltre cinquantamila concerti, oltre mille locali, oltre diecimila persone che non lavorano più da un anno, ma non sarà per sempre
-Credeteci, i nostri fiori non sono ancora rovinatiEmbed
+Credeteci, i nostri fiori non sono ancora rovinati

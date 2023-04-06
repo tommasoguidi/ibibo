@@ -1,4 +1,4 @@
-Facile Lyrics[Testo di "Facile" ft. Luca Carboni]
+[Testo di "Facile" ft. Luca Carboni]
 
 [Intro]
 Pa-ra-ra-ra, pa-ra-ra-ra, pam-pam
@@ -52,8 +52,9 @@ Pa-ra-ra-ra, pa-ra-ra-ra, pam-pam
 Pa-ra-ra-ra, pa-ra-ra-ra, pam-pam
 Pa-ra-ra-ra, pa-ra-ra-ra, pam-pam
 Pa-ra-ra-ra, pa-ra-ra-ra, pam-pam
-You might also like[Outro: Lodo Guenzi & Luca Carboni]
+
+[Outro: Lodo Guenzi & Luca Carboni]
 La vita è così facile da essere impossibile
 L'amore è così fragile da rompere le regole
 La musica è più semplice, suonare è come ridere
-E sono così libero che posso essere deboleEmbed
+E sono così libero che posso essere debole

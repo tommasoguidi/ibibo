@@ -1,4 +1,4 @@
-Un Romantico a Milano Lyrics[Testo di "Un romantico a Milano"]
+[Testo di "Un romantico a Milano"]
 
 [Strofa 1]
 Mamma, che ne dici di un romantico a Milano?
@@ -50,5 +50,6 @@ Io vi amo
 Vi amo, ma vi sputo però
 Vi amo tutti
 È bello, è brutto, è solo questo
-You might also like[Outro]
-L'erba ti fa male se la fumi senza stileEmbed
+
+[Outro]
+L'erba ti fa male se la fumi senza stile

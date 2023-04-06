@@ -1,4 +1,4 @@
-Uffa Lyrics[Testo di "Uffa"]
+[Testo di "Uffa"]
 
 [Strofa 1]
 Uffa, che presa a male
@@ -41,7 +41,8 @@ Io ti giuro che lo so
 Che la vita fa male
 Madonna se fa male se la stai a guardare
 Senza di me, senza di me
-You might also like[Outro]
+
+[Outro]
 Amore mio, amore un corno
 Mi dici: "Ciao", ma ciao un corno
 Amore mio, amore un corno
@@ -49,4 +50,4 @@ Mi dici: "Ciao", io ti dico addio
 Io ti dico addio
 Io ti dico addio
 Io ti dico addio
-Non riesco a dirti addio1Embed
+Non riesco a dirti addio

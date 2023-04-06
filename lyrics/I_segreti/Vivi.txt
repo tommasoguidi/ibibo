@@ -1,4 +1,4 @@
-Vivi Lyrics[Testo di "Vivi"]
+[Testo di "Vivi"]
 
 [Strofa 1]
 Anche stando in pigiama questa vita scorre
@@ -37,7 +37,8 @@ E respirare quando è primavera
 Dimenticarsi di com'era
 È molto simile a volare
 Sembra un mare la città
-You might also like[Bridge]
+
+[Bridge]
 E poi per un momento, sentirsi liberi
 Senza tempo, senza spazio
 Irraggiungibili
@@ -46,4 +47,4 @@ E sentire che alla fine noi siamo simili
 
 [Outro]
 Per sentire che respiri
-Che siamo vivi, che siamo vivi, vivi, viviEmbed
+Che siamo vivi, che siamo vivi, vivi, vivi

@@ -1,4 +1,4 @@
-Monopoli Lyrics[Testo di "Monopoli"]
+[Testo di "Monopoli"]
 
 [Strofa 1]
 Quello che mi ricordo io
@@ -50,7 +50,8 @@ Anche dopo cent'anni
 Non ti capirei
 Non ti capire-e-ei
 Non ti capire-e-ei
-You might also like[Bridge]
+
+[Bridge]
 Io sono nato a Monopoli
 E tu invece a Shanghai
 Se giochi con me perdi tutto
@@ -68,4 +69,4 @@ Sì, ma non ci vivrei
 Ma se mi vuoi davvero
 Allora dimmi chi sei
 Anche dopo cent'anni
-Non ti capire-e-eiEmbed
+Non ti capire-e-ei

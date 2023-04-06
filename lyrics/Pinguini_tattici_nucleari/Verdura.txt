@@ -1,4 +1,4 @@
-Verdura Lyrics[Testo di "Verdura"]
+[Testo di "Verdura"]
 
 [Intro]
 P T N, yeah
@@ -46,7 +46,8 @@ Perché non ho più voglia delle canzoni tristi
 Che son come caramelle date dai dentisti
 Eravamo benzina, una vita tranquilla
 E poi ti ho incontrata ed è scoccata la scintilla
-You might also like[Ritornello]
+
+[Ritornello]
 Ah, siamo la fine del mondo
 Di domenica mattina
 Siamo una cena a lume di candela
@@ -74,4 +75,4 @@ Fra due taniche di benzina, eh
 Da quando sei partita
 Io non ho più paura
 E riesco a ridere pure quando
-Mangio la verdura3Embed
+Mangio la verdura

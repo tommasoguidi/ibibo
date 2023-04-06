@@ -1,4 +1,4 @@
-Labirinto Lyrics[Testo di "Labirinto"]
+[Testo di "Labirinto"]
 
 [Intro]
 Corro in questa stanza e non
@@ -61,7 +61,8 @@ Cerco il silenzio che non spezzi il silenzio
 L'attesa che chiami l'amore eterno
 Qui solo se alzi gli occhi c'è il paradiso
 Per tutto il resto è quasi un inferno
-You might also like[Ritornello]
+
+[Ritornello]
 Non sarò mai come mi vuoi
 Non sarò mai come mi vuoi
 
@@ -77,4 +78,4 @@ Si vedrà chi può prendersi il posto tuo
 Non sarò mai come mi vuoi
 Non sarò mai come mi vuoi
 Non sarò mai come tu mi vuoi
-Come tu mi vuoi, come tu mi vuoi2Embed
+Come tu mi vuoi, come tu mi vuoi

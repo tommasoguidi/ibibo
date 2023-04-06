@@ -1,4 +1,4 @@
-TranslationsEspañolEnglishTANGO Lyrics[Testo di "TANGO"]
+[Testo di "TANGO"]
 
 [Strofa 1]
 Non c'è un amore senza una ragazza che pianga
@@ -37,7 +37,8 @@ Eravamo da me, abbiamo messo i Police
 Ridevamo di te che mi sparivi nei jeans
 Tu fammi tornare alla notte che ti ho conosciuta
 Così non ti offro da bere e non ti ho conosciuta
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Ma ora addio, va bene, amore mio
 Non sei di nessun altro e di nessuna io
 Lo so quanto ti manco, ma chissà perché Dio
@@ -63,4 +64,4 @@ Noi non siamo come loro
 È meglio, è meglio
 È meglio che non rimani qui
 Io tornerò un lunedì
-Ma non è mai lunedìEmbed
+Ma non è mai lunedì

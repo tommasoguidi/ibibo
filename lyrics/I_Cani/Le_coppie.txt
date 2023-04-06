@@ -1,4 +1,4 @@
-Le coppie Lyrics[Testo di "Le coppie"]
+[Testo di "Le coppie"]
 
 [Strofa 1]
 Le coppie si fanno i regali
@@ -33,11 +33,12 @@ Le coppie si dicono basta e sui social network non sono più amici
 Lei comunque sostiene che lui abbia fatto di tutto per farsi lasciare
 Dopo mesi lo incontra a una festa e guarda di striscio se l'altra è più fica
 Si dicono non rimaniamo estranei o nemici
-You might also like[Ritornello 3]
+
+[Ritornello 3]
 Ma non ci riescono quasi mai
 Neanche i meglio intenzionati ce la fanno quasi mai
 
 [Outro]
 La statistica afferma che spesso
 Il primo a staccarsi dal primo dei baci è lo stesso
-Che alla fine dirà di troncareEmbed
+Che alla fine dirà di troncare

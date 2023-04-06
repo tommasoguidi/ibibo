@@ -1,4 +1,4 @@
-Termini Lyrics[Testo di "Termini"]
+[Testo di "Termini"]
 
 [Strofa]
 Ore 3, Termini
@@ -34,10 +34,11 @@ Ma è vero, ma è vero, ma è vero
 E se il sole ci toccherà aspetta un attimo
 Che se ne va
 Che se ne va
-You might also like[Ritornello]
+
+[Ritornello]
 Lacrimoni, lacrimoni
 Io e i miei amici tutti mezzi caciaroni
 Camminiamo su un tappeto di Peroni
 Lacrimoni, lacrimoni
 E finisco a respirarti nella zona fumatori
-Siamo spenti a terra come mozziconiEmbed
+Siamo spenti a terra come mozziconi

@@ -1,4 +1,4 @@
-Cuori Stupidi Lyrics[Strofa 1]
+[Strofa 1]
 Sembra una vita fa, noi chiusi dentro un bar
 A disegnare con le chiavi sopra i tavoli, due cuori stupidi
 10 anni fa, mio padre non lo sa
@@ -45,5 +45,6 @@ A stare bene, a stare male
 Tu con la faccia pulita di prima mattina
 Quasi mi dispiace
 Quasi mi dispiace
-You might also like[Outro]
-E nonostante tutto questo tempo siamo ancora quaEmbed
+
+[Outro]
+E nonostante tutto questo tempo siamo ancora qua

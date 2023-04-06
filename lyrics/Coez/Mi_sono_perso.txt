@@ -1,4 +1,4 @@
-Mi sono perso Lyrics[Testo di "Mi sono perso"]
+[Testo di "Mi sono perso"]
 
 [Intro]
 È Seco beat, man
@@ -40,7 +40,8 @@ A volte resto perplesso, il mondo è diverso
 Da come lo narravano a me
 O forse mi sono perso in un altro universo
 E non riesco più a tornare da te
-You might also like[Strofa 2]
+
+[Strofa 2]
 Quaggiù per me è un grosso guaio
 Da piccolo volevo essere Superman perché ha un polmone d'acciaio
 Soffrivo d'asma e diventavo giallo
@@ -67,4 +68,4 @@ E non riesco più a tornare da te
 A volte resto perplesso, il mondo è diverso
 Da come lo narravano a me
 O forse mi sono perso in un altro universo
-E non riesco più a tornare da teEmbed
+E non riesco più a tornare da te

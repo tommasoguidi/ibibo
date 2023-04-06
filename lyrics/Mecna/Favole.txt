@@ -1,4 +1,4 @@
-Favole Lyrics[Testo di "Favole"]
+[Testo di "Favole"]
 
 [Intro]
 Ah, yeah
@@ -42,7 +42,8 @@ Non raccontarmi le tue favole
 (Non ci credo più, non ci credo più)
 Non raccontarmi le tue favole
 Non raccontarmi le tue favole
-You might also like[Strofa 2]
+
+[Strofa 2]
 Perdo tempo a tenermi strette le persone
 Che quasi gioiscono
 Che quasi quasi quando scompari nessuno ti ha visto
@@ -76,4 +77,4 @@ Non so se andarci incontro
 O nascondermi per il gran finale
 
 [Outro]
-Tu non raccontarmi le tue favole che non ci credo piùEmbed
+Tu non raccontarmi le tue favole che non ci credo più

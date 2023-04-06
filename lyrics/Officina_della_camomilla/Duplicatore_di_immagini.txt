@@ -1,4 +1,4 @@
-Duplicatore di immagini Lyrics[Testo di "Duplicatore di immagini"]
+[Testo di "Duplicatore di immagini"]
 
 Prova ad immaginare
 Camden Town in fiamme
@@ -33,7 +33,8 @@ Non eri tu che compravi ancora
 I dischi originali
 Non eri tu che avevi sempre gli occhi
 Un po' stanchi
-You might also likeE prova ad immaginare
+
+E prova ad immaginare
 La solitudine delle lampade delle scale mobili bloccate
 Degli squali e delle gru delle riviste del giorno prima
 Eri brava a rubare di tutto nei supermercati inglesi
@@ -41,4 +42,4 @@ Eri felice anche senza i tuoi ipotetici mazzi di chiavi
 
 Prova ad immaginare
 La tua casa in fiamme
-E dimmi da chi andrestiEmbed
+E dimmi da chi andresti

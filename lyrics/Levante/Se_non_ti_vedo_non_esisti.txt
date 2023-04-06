@@ -1,4 +1,4 @@
-Se non ti vedo non esisti Lyrics[Testo di "Se non ti vedo non esisti"]
+[Testo di "Se non ti vedo non esisti"]
 
 [Strofa 1]
 Sei nella mia testa
@@ -36,7 +36,8 @@ Francesco
 C'è ancora posto lì vicino a te?
 Fra poco ti stancherai di sopportare
 L'attesa estenuante del mio coraggio
-You might also like[Bridge]
+
+[Bridge]
 Se non ti vedo non esisti
 Se non mi vedi non resisti
 Se non ti vedo non esisti
@@ -49,4 +50,4 @@ E tra le mani solo le preghiere
 Francesco
 C'è ancora posto lì vicino a te?
 Fra poco ti stancherai di sopportare
-L'attesa estenuante del mio coraggioEmbed
+L'attesa estenuante del mio coraggio

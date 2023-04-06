@@ -1,4 +1,4 @@
-Facile Lyrics[Testo di "Facile"]
+[Testo di "Facile"]
 
 [Strofa 1]
 E lo sai
@@ -42,7 +42,8 @@ Ti stringo forte sul mio petto
 Ti vedo poco, ti penso spesso
 Dai sempre buca, la si dà in due
 La pelle d'oca una siga in due
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Pioggia sulla giacca, la villa chiusa male
 Prendo le tue braccia, ti porto verso il mare
 Pioggia sulla spiaggia, ti insegnerò a volare
@@ -56,4 +57,4 @@ Tu che ora stai sempre per le tue
 Ti chiudo gli occhi, mi trovi a pezzi
 I miei tormenti, tu che fai resti?
 Mi vedi stanco, ti parlo a gesti
-Il tuo cuore, lo riapriresti?1Embed
+Il tuo cuore, lo riapriresti?

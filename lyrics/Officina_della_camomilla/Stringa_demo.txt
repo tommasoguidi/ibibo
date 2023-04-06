@@ -1,4 +1,4 @@
-Stringa (demo) Lyrics[Testo di "Stringa (demo)"]
+[Testo di "Stringa (demo)"]
 
 Ho visto un cane senza un occhio
 E poi tu
@@ -42,7 +42,8 @@ Preferisco quelle ho sul braccio
 Le stelle che ti cali giù
 Sono scadute ieri
 Preferisco quelle finte che porto sul braccio
-You might also likeIl mare è una tigre
+
+Il mare è una tigre
 Ma io sono più stronza
 Scatto una foto al mostro
 E dopo lavo i piatti
@@ -57,4 +58,4 @@ Per non farti innamorare di nessuno
 L'amore è un paio di stringhe legate col triplo fiocco
 Che alla lunga
 Barra
-Alla fine si slacciano sempreEmbed
+Alla fine si slacciano sempre

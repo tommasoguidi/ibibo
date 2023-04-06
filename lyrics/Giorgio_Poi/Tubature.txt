@@ -1,4 +1,4 @@
-Tubature Lyrics[Testo di "Tubature"]
+[Testo di "Tubature"]
 
 [Strofa 1]
 Con la felpa blu
@@ -42,10 +42,11 @@ Si lascia trasformare da un flusso di parole
 Adesso che tutto è già deciso
 Che il tempo non ci scappi tra le mani
 Facciamo le valigie e via lontani
-You might also like[Outro]
+
+[Outro]
 Hai visto com'è strana la città
 Hai visto com'è strana la città
 
 Hai visto com'è strana la città
 Hai visto com'è strana la città
-Hai visto com'è strana la cittàEmbed
+Hai visto com'è strana la città

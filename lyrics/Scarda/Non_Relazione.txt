@@ -1,4 +1,4 @@
-Non Relazione Lyrics[Testo di "Non Relazione"]
+[Testo di "Non Relazione"]
 
 [Strofa 1]
 Come vuoi chiamarla questa situazione?
@@ -36,7 +36,8 @@ Leggera ma di compagnia
 Come ogni nostra fantasia
 Per le notti bianche, le mattine stanche
 Per volergli bene a questo non stare insieme
-You might also like[Bridge]
+
+[Bridge]
 Come la pioggia sulla faccia
 Io ti accarezzo e non ti abbraccio
 Come una sigaretta spenta
@@ -44,4 +45,4 @@ Ne hai sempre un'altra che ti tenta
 
 [Outro]
 Come vuoi chiamarla questa situazione?
-Non vuoi definirla un'altra non relazioneEmbed
+Non vuoi definirla un'altra non relazione

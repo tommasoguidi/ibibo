@@ -1,4 +1,4 @@
-CASTELLI DI LENZUOLA Lyrics[Testo di "CASTELLI DI LENZUOLA"]
+[Testo di "CASTELLI DI LENZUOLA"]
 
 [Strofa 1]
 Come neve che ad aprile cade dalle foglie
@@ -36,7 +36,8 @@ Io tendo a cercarti sopra a divani vuoti
 Delle feste di merda a cui non voglio mai andare
 Rincorri i tuoi sguardi perché hai l'oro negli occhi
 E tutto un tuo mondo in testa che mi parla
-You might also like[Ritornello]
+
+[Ritornello]
 Passerà un'altra notte ancora
 Giochiamo a sognare, non svegliarmi
 Costruirò castelli di lenzuola
@@ -63,4 +64,4 @@ Tu non svegliarmi più
 [Outro]
 Uh-uh-uh
 Uh-uh-uh
-Ritorno bambina, tu non svegliarmi2Embed
+Ritorno bambina, tu non svegliarmi

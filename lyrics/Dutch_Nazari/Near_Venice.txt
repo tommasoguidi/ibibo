@@ -1,4 +1,4 @@
-Near Venice Lyrics[Testo di "Near Venice"]
+[Testo di "Near Venice"]
 
 [Strofa 1]
 Con oggi è venti giorni di fila che piove
@@ -36,7 +36,8 @@ Hola, mi hermano, ¿qué tal? Is everything okay?
 Ta journée était bien? Ti sei alzato alle sei?
 Parlo un po' tutte le lingue, anche se non tanto bene
 Ho messo un cappello per terra, lascia qualcosa se pensi che canto bene
-You might also like[Ritornello]
+
+[Ritornello]
 I come from near Venice
 And I don't know how long I'm staying
 But I like it
@@ -44,4 +45,4 @@ I come from near Venice
 And what about you
 Where do you come from?
 Do you like it here?
-I like it hereEmbed
+I like it here

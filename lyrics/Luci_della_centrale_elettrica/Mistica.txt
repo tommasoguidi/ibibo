@@ -1,4 +1,4 @@
-Mistica Lyrics[Testo di "Mistica"]
+[Testo di "Mistica"]
 
 [Strofa 1]
 Grandi speranze
@@ -44,7 +44,8 @@ Mondana e mistica
 Volevi solo musica elettronica
 Una cassa dritta, una cassa dritta
 Una cassa dritta nell'anima
-You might also like[Strofa 3]
+
+[Strofa 3]
 Qui è l'epicentro della malinconia
 Tutti erano al telefono
 Tu sei andata via
@@ -74,4 +75,4 @@ Una cassa dritta nell'anima
 Mondana e mistica
 Volevi solo musica elettronica
 Una cassa dritta, una cassa dritta
-Una cassa dritta nell'animaEmbed
+Una cassa dritta nell'anima

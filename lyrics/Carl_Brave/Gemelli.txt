@@ -1,4 +1,4 @@
-Gemelli Lyrics[Testo di "Gemelli"]
+[Testo di "Gemelli"]
 
 [Strofa 1]
 In viso un cielo costellato di lentiggini (Lei)
@@ -42,7 +42,8 @@ Mi scrivi: "Scendi"
 E sono cazzi amari quando inizi con: "Senti"
 Sulla privacy ho messo "Consenti"
 Ho tolto i commenti, mi sa che non scendo
-You might also like[Ritornello]
+
+[Ritornello]
 E sei la classica che in foto non rende
 So che ti piglia bene la vita da trentenne
 E riproviamo a esse quelli di sempre
@@ -80,4 +81,4 @@ Passiamo le giornate a darci addosso
 Come un Pit Bull che non molla l'osso
 Siamo una birra che è arrivata allo scolo
 E mi dispiace, amo', ma quando sto solo
-Oh, ci voloEmbed
+Oh, ci volo

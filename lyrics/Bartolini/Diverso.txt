@@ -1,4 +1,4 @@
-Diverso Lyrics[Testo di "Diverso"]
+[Testo di "Diverso"]
 
 [Intro]
 Quando sono con te, mi sento diverso
@@ -48,7 +48,8 @@ Quando sono con te, mi sento diverso
 Però senza di te purtroppo sto meglio
 Adesso sto correndo, adesso sto correndo
 E non ho troppo tempo, nessuno può buttarmi giù
-You might also like[Outro]
+
+[Outro]
 Forse non ne vale la pena
 Lo so, il mio mondo è strano, ma a me non interessa
-(Purtroppo sto meglio)Embed
+(Purtroppo sto meglio)

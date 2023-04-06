@@ -1,4 +1,4 @@
-Fenomeno Lyrics[Testo di "Fenomeno"]
+[Testo di "Fenomeno"]
 
 [Strofa 1]
 Da ragazzino uscivo di fuori dalla classe
@@ -42,7 +42,8 @@ Tutti mi chiamano fenomeno
 Vorresti il flow che c'ho, sì, come no
 Fotto i sogni finché non vengono
 Senza soldi, ma non m'arrendo, oh
-You might also like[Bridge]
+
+[Bridge]
 Bi-di-bi-bo-di-bi-bo-di-bi-bu
 Faccio magie quando rappo sul groove
 C'è gente che fa più soldi di me
@@ -56,4 +57,4 @@ Senza soldi, ma non m'arrendo, oh
 Tutti mi chiamano fenomeno
 Vorresti il flow che c'ho, sì, come no
 Fotto i sogni finché non vengono
-Senza soldi, ma non m'arrendo, ohEmbed
+Senza soldi, ma non m'arrendo, oh

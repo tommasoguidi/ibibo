@@ -1,4 +1,4 @@
-SUSHI Lyrics[Testo di "SUSHI"]
+[Testo di "SUSHI"]
 
 [Strofa 1]
 Quanti problemi hai
@@ -44,7 +44,8 @@ Ci fa gridare, stringere, sudare
 Ci fa stare bene
 Ci fa stare bene
 (ci fa stare, ci fa stare bene)
-You might also like[Strofa 3: Tormento]
+
+[Strofa 3: Tormento]
 Pronti a metterci in gioco
 Ti prego facciamo un gioco
 Di quelli che andiamo a letto
@@ -59,4 +60,4 @@ Che canto per te sull'ala di un aeroplano
 Faccio di tutto solo per farti sorridere
 Non nasconderti le tue emozioni, vivile
 C'è voluto un istante per decidere
-Che ogni gioia voglio viverla con teEmbed
+Che ogni gioia voglio viverla con te

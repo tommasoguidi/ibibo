@@ -1,4 +1,4 @@
-Scesa Lyrics[Testo di "Scesa"]
+[Testo di "Scesa"]
 
 [Strofa 1]
 La sicurezza mi aspetta per sicurezza
@@ -54,7 +54,8 @@ Quello l'ho visto già
 Una volta, due volte, cristo
 Schiribizzo, squallore
 Nella testa il mio è un grande tumore
-You might also like[Ritornello]
+
+[Ritornello]
 Che scesa
 M'è scesa
 Sei offesa
@@ -65,4 +66,4 @@ M'è scesa
 Sei offesa
 Sei tesa
 Che scesa
-Che scesaEmbed
+Che scesa

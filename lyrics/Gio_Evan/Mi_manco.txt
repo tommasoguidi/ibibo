@@ -1,4 +1,4 @@
-Mi manco Lyrics[Testo di "Mi manco"]
+[Testo di "Mi manco"]
 
 [Strofa 1]
 Sono pienissimo di guai
@@ -37,7 +37,8 @@ Forse dovrei dirmelo
 Passerò da me
 Passerò da me
 Passerò da me
-You might also like[Strofa 2]
+
+[Strofa 2]
 Sono pienissimo di mostri
 Tu sei pienissima di mostri
 Ma se tu me li mostri saranno tutti nostri
@@ -73,4 +74,4 @@ Mi manco e manco lo so
 Forse dovrei dirmelo
 Passerò da me
 Passerò da me
-Passerò da meEmbed
+Passerò da me

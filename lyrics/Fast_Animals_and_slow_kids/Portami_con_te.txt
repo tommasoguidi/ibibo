@@ -1,4 +1,4 @@
-Portami con te Lyrics[Testo di "Portami con te"]
+[Testo di "Portami con te"]
 
 [Strofa 1]
 Portami con te
@@ -43,7 +43,8 @@ Per un altro giorno almeno
 Dimmi dove io ti seguo
 La tua mano sul cuscino
 Mi sorregge
-You might also like[Bridge]
+
+[Bridge]
 Se fa freddo non importa
 Se rallenta non ci tocca
 Mi guardo per strada camminare
@@ -68,4 +69,4 @@ Che chi concede poi richiede
 Spero di non crederci per sperare
 Crederò di crederci se va bene
 Spero di non crederci per sperare
-Crederò di crederci se va beneEmbed
+Crederò di crederci se va bene

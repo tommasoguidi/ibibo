@@ -1,4 +1,4 @@
-Novecento Lyrics[Testo di "Novecento"]
+[Testo di "Novecento"]
 
 [Strofa 1]
 E così è arrivata anche per te
@@ -34,7 +34,8 @@ Ma dimmi che è giusto
 Che il futuro è questo
 Ed è con te
 Ed è con te
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Oh, dimmi che è giusto
 Che il futuro è questo
 Ed è con te
@@ -52,4 +53,4 @@ Faccio i bagagli e vado via
 Ma questa volta non chiamatelo rimpianto
 Questa canzone sarà un brindisi al futuro
 Ma questa volta non chiamatelo rimpianto
-Possiamo scegliere di crederci per sempreEmbed
+Possiamo scegliere di crederci per sempre

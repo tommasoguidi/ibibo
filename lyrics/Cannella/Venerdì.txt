@@ -1,4 +1,4 @@
-Venerdì Lyrics[Strofa 1]
+[Strofa 1]
 Ti ho promesso le stelle
 Non te le ho più portate
 Ti ho chiesto quali ti piacessero
@@ -44,7 +44,8 @@ Ho il carattere aggressivo e buono di mio padre
 Che nella vita ha fatto tutto per mia madre
 E ora sta divorziando e ci è rimasto male
 Non è proprio la fine che io vorrei fare
-You might also like[Ritornello]
+
+[Ritornello]
 Io ero pronto anche a viverti un po' così
 Senza dirlo a tuoi e vederti il venerdì
 Non m'importava se
@@ -52,4 +53,4 @@ Ti comportavi come se ti vergognassi di me
 Io ero pronto anche a viverti un po' così
 Senza dirlo a tuoi e vederti il venerdì
 A me importava che ti fidassi ancora di me
-E capissi che tra tutto ho scelto teEmbed
+E capissi che tra tutto ho scelto te

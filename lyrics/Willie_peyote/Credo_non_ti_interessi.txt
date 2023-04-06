@@ -1,4 +1,4 @@
-Credo non ti interessi Lyrics[Testo di "Credo non ti interessi"]
+[Testo di "Credo non ti interessi"]
 
 [Intr]
 Ah, ah
@@ -49,7 +49,8 @@ Quante cose in comune, ma quelle inutili
 Se faccio un piano della vita punto a includerti
 Mi basta poco, troppo poco, per deluderti
 Credo non ti interessi, okay, prima di andartene salutami
-You might also like[Ritornello]
+
+[Ritornello]
 Lo so, ma credo non ti interessi
 Che i discorsi son sempre gli stessi non proprio come li vorresti
 Lo so, ma credo non ti interessi
@@ -93,4 +94,4 @@ Tiro su il cappuccio prima che il vento mi sfiori
 Fumando un joint ricordo perfettamente i colori e gli odori
 Fumando un joint ricordo perfettamente i colori e gli odori
 Ah
-Fumando un jointEmbed
+Fumando un joint

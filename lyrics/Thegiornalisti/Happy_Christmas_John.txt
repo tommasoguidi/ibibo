@@ -1,4 +1,4 @@
-Happy Christmas John Lyrics[Strofa 1]
+[Strofa 1]
 Ma che ci posso fare
 Se a me piace il Natale
 C’è più gusto a restare
@@ -36,7 +36,8 @@ Ma che ci posso fare
 Se mi piacciono le luci accese
 Tra le vetrine del centro
 Alle candele nelle chiese
-You might also like[Bridge]
+
+[Bridge]
 Chiudi gli occhi esprimi un desiderio
 Ed immagina che sia vero
 
@@ -60,4 +61,4 @@ Happy Christmas George
 E la radio e la radio c’è sempre
 E la radio e la radio è Deejay
 Happy Christmas baby
-Happy Christmas loveEmbed
+Happy Christmas love

@@ -1,4 +1,4 @@
-Maria Antonietta Lyrics[Testo di "Maria Antonietta"]
+[Testo di "Maria Antonietta"]
 
 [Intro]
 Perdonami per quello che sto per farti
@@ -46,8 +46,9 @@ Io morivo e invece davo morte
 Lei moriva ed io restavo inerte
 (Sulla schiena, più forte)
 La mia mente era da un'altra parte
-You might also like[Outro]
+
+[Outro]
 Perdonami per tutto quello che ho fatto
 Perdonami per tutto quello che ho fatto
 Ma in fondo eravamo già grandi
-Quando tu spalancasti gli occhiEmbed
+Quando tu spalancasti gli occhi

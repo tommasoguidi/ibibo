@@ -1,4 +1,4 @@
-ORA Lyrics[Testo di "ORA"]
+[Testo di "ORA"]
 
 [Strofa 1]
 Ora, ora, ora, ora
@@ -36,7 +36,8 @@ Mi sono perso nella notte, non mi hai mai abbracciato
 E mi vergogno a dirlo, di solito sputo fuoco
 Non riuscivo a dirti che mi ricordavi di lei
 Mi ricordavi di lui, ero fuori da poco
-You might also like[Bridge]
+
+[Bridge]
 Ho visto foto di te
 Il tuo compagno, una bambina
 Poi quella casa l'hai finita
@@ -52,4 +53,4 @@ Mi ricordavi di lui, ero fuori da poco
 Mi sono perso nella notte, non mi hai mai abbracciato
 E mi vergogno a dirlo, di solito sputo fuoco
 Non riuscivo a dirti che mi ricordavi di lei
-Mi ricordavi di lui, ero fuori da pocoEmbed
+Mi ricordavi di lui, ero fuori da poco

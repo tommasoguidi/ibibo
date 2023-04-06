@@ -1,4 +1,4 @@
-Vieni all’inferno con me Lyrics[Strofa 1]
+[Strofa 1]
 L’altro giorno sono morto
 Son caduto dalla nave sul porto
 Al mio funerale per farsi vedere
@@ -39,7 +39,8 @@ Portami almeno un paio di ali
 E non ci credo che hai perso le chiavi!
 Ma dove sono le brave persone?
 E almeno accendilo il termosifone!
-You might also like[Ritornello]
+
+[Ritornello]
 E lo sapevo! Io lo sapevo, certo lo sapevo
 Mi dannerò in eterno
 Perché volevo andare all’inferno! E tu?
@@ -73,4 +74,4 @@ Vieni all’inferno con me
 Vieni all’inferno con me
 Vieni all’inferno con me
 Vieni all’inferno con me
-Vieni all’inferno con meEmbed
+Vieni all’inferno con me

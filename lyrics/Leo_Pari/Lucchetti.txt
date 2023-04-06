@@ -1,4 +1,4 @@
-Lucchetti Lyrics[Testo di “Lucchetti”]
+[Testo di “Lucchetti”]
 
 [Strofa 1]
 La sera arriva e ti fa male
@@ -37,7 +37,8 @@ Dentro di me, dentro di te
 Dentro di me-eh-eh-eh-eh
 Dentro di me, dentro di te
 Dentro di me-eh-eh-eh-eh
-You might also like[Bridge]
+
+[Bridge]
 Mi fa stare bene quello che mi fa ma'
 Mi fa stare bene quello che mi fa ma'
 Mi fa stare bene quello che mi fa ma'
@@ -51,4 +52,4 @@ Restano chiuse da mille lucchetti
 Dentro di me, dentro di te
 Dentro di me-eh-eh-eh-eh
 Dentro di me, dentro di te
-Dentro di me-eh-eh-eh-ehEmbed
+Dentro di me-eh-eh-eh-eh

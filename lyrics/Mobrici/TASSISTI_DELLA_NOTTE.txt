@@ -1,4 +1,4 @@
-TASSISTI DELLA NOTTE Lyrics[Testo di "TASSISTI DELLA NOTTE"]
+[Testo di "TASSISTI DELLA NOTTE"]
 
 [Strofa 1]
 I tassisti della notte
@@ -43,9 +43,10 @@ Che pensieri hai?
 Ragazzo, come mai hai gli occhi lucidi?
 Da dove arrivi?
 Pensi ancora a lei?
-You might also like[Ritornello]
+
+[Ritornello]
 E ritornano a casa sempre da soli
 E ritornano a casa sempre soli
 Come me, come me, come me
 Come me, come me, come me
-(Eh, Ah)Embed
+(Eh, Ah)

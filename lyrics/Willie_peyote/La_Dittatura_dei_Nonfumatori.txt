@@ -1,4 +1,4 @@
-La Dittatura dei Nonfumatori Lyrics[Testo di "La Dittatura dei Nonfumatori"]
+[Testo di "La Dittatura dei Nonfumatori"]
 
 [Ritornello]
 Da domani chi vorrà potrà fumare
@@ -60,7 +60,8 @@ Vietate proteine animali
 Da oggi droghe e i cibi sintetici sono legali
 E abbiamo un pool di esperti perché manca una conferma
 È ancora lecito nei rapporti orali ingoiare lo sperma?
-You might also like[Ritornello]
+
+[Ritornello]
 Da domani chi vorrà potrà fumare
 Ma solo dentro casa e con la finestra chiusa
 Così almeno la smettete di inquinare
@@ -68,4 +69,4 @@ Per quel fumo passivo non c'è nessuna scusa
 La gente non si vuole più ammalare
 Prevenire è sempre meglio che curare
 E noi non siamo più disposti a tollerare
-La gente come teEmbed
+La gente come te

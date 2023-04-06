@@ -1,4 +1,4 @@
-Mostro Lyrics[Testo di "Mostro"]
+[Testo di "Mostro"]
 
 [Intro]
 Dici che vuoi tutta la verità
@@ -37,7 +37,8 @@ Le Iene, le inchieste, il TG della sera
 Spacciano e rubano, tutti in galera
 Gli zingari, i gender, i testi di Sfera
 I culi, il pallone, la cronaca nera
-You might also like[Ritornello]
+
+[Ritornello]
 Sbatti il mostro in prima pagina
 Sbatti il mostro in prima pagina
 Sbatti il mostro in prima pagina
@@ -91,4 +92,4 @@ Sbatti il mostro in prima pagina
 Non serve trovare delle soluzioni
 Se riesci a trovare un colpevole
 Sbatti il mostro in prima pagina
-E spera sia solo e sia deboleEmbed
+E spera sia solo e sia debole

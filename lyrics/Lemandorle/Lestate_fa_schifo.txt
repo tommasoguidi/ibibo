@@ -1,4 +1,4 @@
-L’estate fa schifo Lyrics[Testo di "L'estate fa schifo"]
+[Testo di "L'estate fa schifo"]
 
 [Strofa 1]
 Io e te
@@ -34,7 +34,8 @@ A me l'estate fa schifo
 A me l'estate
 A me l'estate
 A me l'estate fa schifo
-You might also like[Bridge]
+
+[Bridge]
 Portami con te nella giungla di Rousseau
 Con i pugni in tasca
 Portami con te nella giungla di Rousseau
@@ -54,4 +55,4 @@ Portami con te nella giungla di Rousseau
 Con i pugni in tasca
 Portami con te nella giungla di Rousseau
 Con i pugni in tasca
-I pugni in tascaEmbed
+I pugni in tasca

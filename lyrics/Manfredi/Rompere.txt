@@ -1,4 +1,4 @@
-Rompere Lyrics[Testo di "Rompere"]
+[Testo di "Rompere"]
 
 [Strofa 1]
 Ancora provo a non fissarla quando passa
@@ -38,7 +38,8 @@ Perché sono buffo e sbaglio le parole
 Ma mi succede quando parlo con il cuore
 Domani resta almeno per la colazione
 Sei già in stazione
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Sai che cosa immagino?
 Io e te, una casa e un tavolo
 Le cene coi parenti
@@ -75,4 +76,4 @@ Le guarderò da solo
 Stiamo male entrambi però
 Tu sai dimenticare, io no
 Chissà perché apparecchio per due
-Se poi mangio da soloEmbed
+Se poi mangio da solo

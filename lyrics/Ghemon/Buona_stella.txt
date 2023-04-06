@@ -1,4 +1,4 @@
-Buona stella Lyrics[Testo di "Buona Stella"]
+[Testo di "Buona Stella"]
 
 [Strofa 1]
 Non ho scuse, lo so, che non ho una bella cera
@@ -42,7 +42,8 @@ E lo so che non è semplice
 Ma senza difficoltà in fondo che gusto c'è?
 Cerco una buona stella complice
 Però in fondo chissà stanotte che cielo c'è
-You might also likeE lo so che non è semplice
+
+E lo so che non è semplice
 Ma senza difficoltà in fondo che gusto c'è?
 Cerco una buona stella complice
-Però in fondo chissà stanotte che cielo c'èEmbed
+Però in fondo chissà stanotte che cielo c'è

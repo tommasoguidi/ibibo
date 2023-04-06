@@ -1,4 +1,4 @@
-Esami Lyrics[Testo di "Esami"]
+[Testo di "Esami"]
 
 [Strofa 1]
 Quando finirai gli esami
@@ -35,6 +35,7 @@ Ci rivedremo poi
 Torneremo a parlare
 Con il cuore
 Con il cuore
-You might also like[Outro]
+
+[Outro]
 Penso che i fiori sbocciano
-Oh-ohEmbed
+Oh-oh

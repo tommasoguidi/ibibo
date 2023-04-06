@@ -1,4 +1,4 @@
-Gesù Cristo sono io Lyrics[Testo di "Gesù Cristo sono io"]
+[Testo di "Gesù Cristo sono io"]
 
 [Strofa 1]
 Gesù Cristo sono io
@@ -42,7 +42,8 @@ Per tutte le spine del mondo
 I chiodi piantati nel cuore
 Questo è il mio sangue, questo è il mio corpo
 Li porto via amore
-You might also like[Ritornello]
+
+[Ritornello]
 Confessa che sei il demonio nella testa
 Che mi trascina sempre giù
 Confessa che il paradiso non mi spetta
@@ -50,4 +51,4 @@ Che non mi sono genuflessa, che non mi sono genuflessa
 Che, che da te risorgo anch'io
 Che da te risorgo anch'io
 Che da te risorgo anch'io
-Che da te risorgoEmbed
+Che da te risorgo

@@ -1,4 +1,4 @@
-Pace all’anima Lyrics[Testo di "Pace all'anima"]
+[Testo di "Pace all'anima"]
 
 [Intro]
 Adamo ed Eva persi nel sogno di una civiltà
@@ -56,7 +56,8 @@ E pace all'anima
 E pace all'anima
 E pace all'anima
 E pace all'anima"
-You might also like[Bridge]
+
+[Bridge]
 Lunga vita al nostro viaggio
 Lunga vita al nostro tempo
 Lunga vita a tutto questo anestetizzante piacere
@@ -81,4 +82,4 @@ Tutti i giorni
 (Lunga vita a tutto questo anestetizzante piacere)
 
 [Outro]
-E pace all'animaEmbed
+E pace all'anima

@@ -1,4 +1,4 @@
-Quelli che arriveranno Lyrics[Testo di "Quelli che arriveranno"]
+[Testo di "Quelli che arriveranno"]
 
 [Strofa 1]
 Achille guarda le stelle, ma proprio non le capisce
@@ -47,10 +47,11 @@ Se saranno più alieni o più umani
 E se avranno le solite gambe, le solite braccia, le solite facce
 Ma chiuso nel petto, magari
 Un cuore più grande
-You might also like[Outro]
+
+[Outro]
 Un cuore più grande
 Un cuore più grande
 Un cuore gigante
 Un cuore più grande
 Un cuore più grande
-Un cuore giganteEmbed
+Un cuore gigante

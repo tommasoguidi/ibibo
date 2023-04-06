@@ -1,4 +1,4 @@
-Onda Lyrics[Testo di "Onda"]
+[Testo di "Onda"]
 
 [Strofa 1]
 Sono partita così
@@ -38,4 +38,5 @@ In superficie ballavamo le mani
 Si mescolavano le bottiglie poi magia
 Finiva tutto, Ferragosto andavi via
 Come gli aerei supersonici che lasciano la scia
-You might also like[Outro]Embed
+
+[Outro]

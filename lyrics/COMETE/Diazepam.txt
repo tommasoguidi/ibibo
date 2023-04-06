@@ -1,4 +1,4 @@
-Diazepam Lyrics[Testo di "Diazepam"]
+[Testo di "Diazepam"]
 
 [Strofa 1]
 Non ci guardiamo più negli occhi
@@ -38,7 +38,8 @@ E non ci pensiamo tanto
 Per quasi tutto il giorno
 Solo per qualche volta al letto
 Quando non prendo sonno
-You might also like[Ritornello]
+
+[Ritornello]
 E la mia stanza senza la tua roba sembra un'altra
 E la camicia che mi hai regalato mi va stretta
 E ho preso qualche chilo e ho perso la ricetta
@@ -53,4 +54,4 @@ Pa-pam-pam-pam
 
 [Outro]
 Per il Diazepam
-Pam-pam-pamEmbed
+Pam-pam-pam

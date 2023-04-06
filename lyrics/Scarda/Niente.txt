@@ -1,4 +1,4 @@
-Niente Lyrics[Testo di "Niente"]
+[Testo di "Niente"]
 
 [Strofa 1]
 Piove sul marciapiede
@@ -37,7 +37,8 @@ E tu guardi chi ti stia chiamando
 Faccio finta che non me la prendo
 Faccio finta che non sto capendo, niente
 Non sto capendo niente, niente
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Non sto capendo niente
 Non sto capendo niente
 Non sto capendo niente
@@ -58,4 +59,4 @@ Non sto capendo niente
 Non sto capendo niente, niente
 Non sto capendo niente
 Non sto capendo niente
-Non sto capendo niente, nienteEmbed
+Non sto capendo niente, niente

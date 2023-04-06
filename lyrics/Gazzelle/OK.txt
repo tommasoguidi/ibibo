@@ -1,4 +1,4 @@
-OK Lyrics[Testo di "OK"]
+[Testo di "OK"]
 
 [Strofa 1]
 Come quando arrivi tardi e non c'è più nulla ormai
@@ -42,7 +42,8 @@ Seguito i passi, seguito le orme
 Ho chiesto ai gatti, ai lampioni, alle ombre
 Alle strade, alle buche, alle gocce
 Okay
-You might also like[Ritornello]
+
+[Ritornello]
 Ma come fai?
 Non ridi più
 "Ma che ne sai?"
@@ -51,4 +52,4 @@ E io rispondo: "Okay" (Okay)
 E io rispondo: "Okay" (Okay)
 E io rispondo: "Okay" (Ma come fai?)
 E io rispondo: "Okay" (Non ridi più)
-E io rispondo: "Okay" (Ma che ne sai?)Embed
+E io rispondo: "Okay" (Ma che ne sai?)

@@ -1,4 +1,4 @@
-Le sigarette Lyrics[Testo di "Le sigarette"]
+[Testo di "Le sigarette"]
 
 [Intro]
 Uh-uh-uh-uh
@@ -49,7 +49,8 @@ Le sigarette, l'umore tuo è un castello con le carte
 Le dita gialle come luci dei semafori la notte
 Le sigarette, l'umore tuo è un castello con le carte
 Le dita gialle come luci dei semafori la notte
-You might also like[Bridge]
+
+[Bridge]
 Come lanciare i dadi
 E sfidare la sorte
 La paura di stare da soli
@@ -59,4 +60,4 @@ Il bisogno di affetto, con l'amore io ho smesso
 Le sigarette, l'umore tuo è un castello con le carte
 Le dita gialle come luci dei semafori la notte
 Le sigarette, l'umore tuo è un castello con le carte
-Le dita gialle come luci dei semafori la notteEmbed
+Le dita gialle come luci dei semafori la notte

@@ -1,4 +1,4 @@
-Macedonia d’ansia Lyrics[Testo di "Macedonia d'ansia"]
+[Testo di "Macedonia d'ansia"]
 
 [Strofa 1]
 Se tu fossi la Luna
@@ -45,7 +45,8 @@ Il tuo riflesso a pezzi sullo specchio
 Sei come un puzzle, ho io l'ultimo pezzo
 Perché sei unica, ah, solo l'unica, ah
 Di tutto il resto io me ne fotto
-You might also like[Bridge]
+
+[Bridge]
 Se tu fossi la Luna
 Vorrei essere il mare
 
@@ -53,4 +54,4 @@ Vorrei essere il mare
 Il tuo riflesso a pezzi sullo specchio
 Sei come un puzzle, ho io l'ultimo pezzo
 Perché sei unica, ah, solo l'unica, ah
-Di tutto il resto io me ne fottoEmbed
+Di tutto il resto io me ne fotto

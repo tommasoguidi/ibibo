@@ -1,4 +1,4 @@
-Bastatutto Lyrics[Testo di "Bastatutto"]
+[Testo di "Bastatutto"]
 
 [Strofa 1]
 Stiamo diventando stupidi
@@ -35,7 +35,8 @@ Empatia? No
 [Pre-Ritornello 1]
 Tecnologia, Gucci pubblicità
 Che Guevara sui pigiami made in china
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Per questo adesso
 Basta, basta con il business
 E basta con il fitness
@@ -75,4 +76,4 @@ Le foto delle onde
 Le foto della luna
 Le frasi sulle stelle
 E tutti i copia e incolla
-E mamma mia che palleEmbed
+E mamma mia che palle

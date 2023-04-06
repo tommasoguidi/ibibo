@@ -1,4 +1,4 @@
-Nella Casa Lyrics[Testo di "Nella Casa"]
+[Testo di "Nella Casa"]
 
 [Intro]
 Per tutti i figli di puttana
@@ -50,7 +50,8 @@ C'hai il contante, il patrimonio
 Col demonio io ci faccio un patto
 Baratto i soldi con il mio quaderno
 C'è dentro l'anima, nessuna lacrima, siamo all'inferno
-You might also like[Ritornello]
+
+[Ritornello]
 C-C-C-Coez è nella casa, tira su le mani
 C-C-C-Coez è nella casa, m'ammazzo domani
 C-C-C-Coez è col macello nel cervello
@@ -85,4 +86,4 @@ Hello, nel gioco non c'è gusto senza infami
 C-C-C-Coez è nella casa, tira su le mani
 C-C-C-Coez è nella casa, m'ammazzo domani
 C-C-C-Coez è col macello nel cervello
-Hello, nel gioco non c'è gusto senza infamiEmbed
+Hello, nel gioco non c'è gusto senza infami

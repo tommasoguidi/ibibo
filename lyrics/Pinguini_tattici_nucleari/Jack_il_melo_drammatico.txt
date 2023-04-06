@@ -1,4 +1,4 @@
-Jack il melo drammatico Lyrics[Testo di "Jack il melo drammatico"]
+[Testo di "Jack il melo drammatico"]
 
 [Strofa 1]
 Son nato perché qualchedun mi scagliò
@@ -38,7 +38,8 @@ Sai forse l'ho conosciuta, sai forse l'ho intravista
 Sai forse mi è passata vicino
 Sarà la fortuna che mi ha baciato, oppure una svista
 L'immaginazione, forse son solo un cretino, profumava di vino
-You might also like[Strofa 3]
+
+[Strofa 3]
 Sarebbe poetico poter dire che sei morta d'inverno
 Che il gelo ti ha sopraffatta, che 'sta canzone sia un elegia
 Che nonostante tutto io comunque ti ami in eterno
@@ -71,4 +72,4 @@ Nessuno, nessuno lo sa
 E se la trama finisce, la storia rimane
 E se la storia scompare, resta la melodia
 E se anche la melodia termina, rimane, rimane
-Solo una dolce e scostumata bugiaEmbed
+Solo una dolce e scostumata bugia

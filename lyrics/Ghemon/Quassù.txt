@@ -1,4 +1,4 @@
-Quassù Lyrics[Testo di "Quassù"]
+[Testo di "Quassù"]
 
 [Strofa 1]
 Adesso grida: "Ora o mai più!"
@@ -41,7 +41,8 @@ Ma un mattino ho messo il naso fuori
 E intendo fuori da me
 Ho scoperto questa luce mia
 Ora con questa energia
-You might also like[Ritornello]
+
+[Ritornello]
 Io ritorno quassù
 I raggi, come oro, risplendono
 Questa immensa luce
@@ -59,4 +60,4 @@ Io ritorno quassù
 I raggi, come oro, risplendono
 Questa immensa luce
 In cui quasi mi immergo
-È un oceanoEmbed
+È un oceano

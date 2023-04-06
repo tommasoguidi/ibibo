@@ -1,4 +1,4 @@
-La Meglio Gioventù Lyrics[Testo di "La Meglio Gioventù"]
+[Testo di "La Meglio Gioventù"]
 
 [Strofa 1]
 Eravamo tutti in fila come maiali
@@ -39,7 +39,8 @@ Ho fatto tutto il mio meglio, ma hanno cambiato le regole
 [Ritornello]
 Io resto in piedi, so che non ci credi
 No che non mi spezzi, al massimo mi pieghi
-You might also like[Bridge]
+
+[Bridge]
 E se pensi di avere il controllo su tutto (Beh, pensi male)
 Non sai distinguere il bello dal brutto (Ahi, che dolore)
 Neanche ti immagini cos'è che ho dentro
@@ -56,4 +57,4 @@ Io resto in piedi, so che non ci credi
 No che non mi spezzi, al massimo mi pieghi
 Ma resto in piedi, so che non ci credi
 No che non mi spezzi, al massimo mi pieghi
-Ahi, che doloreEmbed
+Ahi, che dolore

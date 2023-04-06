@@ -1,4 +1,4 @@
-Blonde Lyrics[Testo di "Blonde"]
+[Testo di "Blonde"]
 
 [Strofa 1]
 Si
@@ -70,7 +70,8 @@ Ti penso sempre, continuamente
 La mia fantasia ricorrente
 Pretty Woman più cafona (più cafona)
 E lo so che mi porti a scuola anche a st'ora
-You might also like[Ritornello]
+
+[Ritornello]
 E so che c'è una donna sotto quei capelli biondi
 Blondie, Blondie
 Mi sono affezionato, ma l'amore non lo compri
@@ -88,4 +89,4 @@ Blondie, Blondie
 T'ho fatto una ricarica, ho versato il pagamento
 La bolletta dice rosso, ma io sono contento
 Sei la mia preferita, ma spartita co' altri cento
-Sono il tuo preferito quando tiro fuori i centoEmbed
+Sono il tuo preferito quando tiro fuori i cento

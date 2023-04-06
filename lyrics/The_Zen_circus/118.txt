@@ -1,4 +1,4 @@
-118 Lyrics[Testo di "118" ft. Claudio Santamaria]
+[Testo di "118" ft. Claudio Santamaria]
 
 [Strofa 1]
 Sono morto alle diciotto
@@ -46,7 +46,8 @@ Sono morto alle diciotto
 Cinque minuti dopo al bar ero risorto
 Sono nato un questo posto, non mi ci riconosco
 Ma un giorno o l'altro finirà
-You might also like[Outro]
+
+[Outro]
 Ero in cerca di risposte, ma ho trovato solo un sacco di botte
 Ero in cerca di risposte, ho trovato una cicatrice in fronte
-Mi addormento con altre mille domande ancoraEmbed
+Mi addormento con altre mille domande ancora

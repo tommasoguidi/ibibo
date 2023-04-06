@@ -1,4 +1,4 @@
-Penelope Lyrics[Testo di "Penelope"]
+[Testo di "Penelope"]
 
 [Strofa 1]
 È tutto un dare e avere qua
@@ -44,7 +44,8 @@ Ora che vivo per sempre
 Nella mia confusione
 Ma che contraddizione
 Maledetta Penelope!
-You might also like[Outro]
+
+[Outro]
 E maledetta Penelope
 E maledetta Penelope
-E maledetta PenelopeEmbed
+E maledetta Penelope

@@ -1,4 +1,4 @@
-Così speciale Lyrics[Testo di "Così speciale"]
+[Testo di "Così speciale"]
 
 [Strofa 1]
 Ora che stare insieme è reato
@@ -42,7 +42,8 @@ A quanto fosse tutto così folle, tutto così speciale?
 Avrei dovuto darti un altro bacio e dirti: "Aspetta che ritorni il sole"
 Invece di lasciarti andare via
 Invece di lasciarti andare
-You might also like[Outro]
+
+[Outro]
 E se ho paura adesso persino di pensare
 È perché so che ciò che ho perso era speciale
-Così specialeEmbed
+Così speciale

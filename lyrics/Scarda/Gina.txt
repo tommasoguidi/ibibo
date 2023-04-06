@@ -1,4 +1,4 @@
-Gina Lyrics[Testo di "Gina"]
+[Testo di "Gina"]
 
 [Strofa 1]
 Gina no non era ingenua
@@ -40,5 +40,6 @@ Ma poi un' ora soltanto prima di essere salutata
 Chi l'accarezzerà? Chi la conforterà?
 Se il pomeriggio le sembrerà grigio
 Quando la vita non va come vuole
-You might also like[Outro]
-Ma Gina no non era ingenuaEmbed
+
+[Outro]
+Ma Gina no non era ingenua

@@ -1,4 +1,4 @@
-Zanetti Lyrics[Testo di "Zanetti"]
+[Testo di "Zanetti"]
 
 [Strofa 1]
 Di notte
@@ -42,7 +42,8 @@ Tu non devi dire niente
 Noi così ci siamo nati
 Gli attacchi vincon le partite
 Le difese i campionati
-You might also like[Bridge]
+
+[Bridge]
 Corro da te
 Ma solo se m'aspetti nell'universo
 Noi due ci stiamo stretti
@@ -54,4 +55,4 @@ Veder giocare Zanetti
 [Outro]
 Non è facile farsi notare
 Io ti insegnerò a cadere
-Ma tu insegnami a volareEmbed
+Ma tu insegnami a volare

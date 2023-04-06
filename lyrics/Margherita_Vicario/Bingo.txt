@@ -1,4 +1,4 @@
-Bingo Lyrics[Testo di "Bingo"]
+[Testo di "Bingo"]
 
 [Intro]
 Tredici
@@ -42,6 +42,7 @@ Gira la terra, tu alza la testa, anzi alza la voce
 Grida più forte, chiedimi aiuto se il mondo è feroce
 Stammi vicino, fammi sentire quanto sei felice
 Se poi riesci piano piano a fare
-You might also like[Outro]
+
+[Outro]
 (Bingo, yeh-yeh-yeh-yeh-yeh)
-(Bingo, yeh-yeh-yeh-yeh-yeh)Embed
+(Bingo, yeh-yeh-yeh-yeh-yeh)

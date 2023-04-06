@@ -1,4 +1,4 @@
-Lei Lyrics[Testo di "Lei"]
+[Testo di "Lei"]
 
 [Strofa 1]
 Era sempre fredda e silenziosa
@@ -39,7 +39,8 @@ E non esco di casa per paura di incontrare
 Il tuo nome riflesso nella pioggia, sembra il mare
 Ed io non so nuotare
 Ed io non so nuotare
-You might also like[Ritornello]
+
+[Ritornello]
 Restiamo a letto che fuori da freddo
 A consumarci gli occhi nascosti dal mondo
 Io ti regalerò la luna
@@ -57,4 +58,4 @@ Ancora lei, ancora lei, ancora lei
 Ancora lei, ancora lei, ancora lei
 Ancora lei, ancora lei, ancora lei
 Ancora lei, ancora lei, ancora lei
-Ancora leiEmbed
+Ancora lei

@@ -1,4 +1,4 @@
-Catalogo Lyrics[Testo di "Catalogo"]
+[Testo di "Catalogo"]
 
 [Strofa 1]
 Facciamo parte di un catalogo
@@ -40,7 +40,8 @@ Facciamo parte di un catalogo
 E ci basta un click per scegliere il prodotto
 Ma sei triste e pure troppo mentre filtri l'obiettivo
 Pensa a quanto sei triste dal vivo
-You might also like[Ritornello]
+
+[Ritornello]
 Tutto è bene quello che finisce
 Uno nuovo mi sostituisce
 Ora che tutto invecchia prima
@@ -76,4 +77,4 @@ Dalla sera alla mattina
 Tutto è bene quello che finisce
 La solitudine un po' ti imbruttisce
 Ora che tutto invecchia prima
-Dalla sera alla mattinaEmbed
+Dalla sera alla mattina

@@ -1,4 +1,4 @@
-Asteroide Lyrics[Testo di "Asteroide"]
+[Testo di "Asteroide"]
 
 [Strofa 1]
 Secondo te la luna si sente sola
@@ -42,9 +42,10 @@ In questo cielo infinito
 Il tuo piccolo principe
 Ti aspetterò nell'immensità
 Ah-ah, ah-ah, ah-ah
-You might also like[Outro]
+
+[Outro]
 Ed in mezzo a questo buio adesso vedo solo te
 Che mi spegni la luce e mi fai sognare
 Fra lenzuola lunghissime qui nel regno di un principe
 Dove l'amore è invincibile
-Sono il tuo piccolo principeEmbed
+Sono il tuo piccolo principe

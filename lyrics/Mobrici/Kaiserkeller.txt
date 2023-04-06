@@ -1,4 +1,4 @@
-Kaiserkeller Lyrics[Testo di "Kaiserkeller"]
+[Testo di "Kaiserkeller"]
 
 [Strofa 1]
 Ti ricordi la foto dove guardavi il mare?
@@ -37,7 +37,8 @@ Io e te
 Io e te
 Io e te
 Io e te
-You might also like[Ritornello]
+
+[Ritornello]
 Io e te non ci siamo più
 Io e te non ci siamo più
 Ripeto: io e te non ci siamo più
@@ -57,4 +58,4 @@ Io e te
 Io e te
 Io e te
 Io e te
-Io e te non ci siamo piùEmbed
+Io e te non ci siamo più

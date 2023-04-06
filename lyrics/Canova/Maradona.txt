@@ -1,4 +1,4 @@
-Maradona Lyrics[Testo di "Maradona"]
+[Testo di "Maradona"]
 
 [Strofa 1]
 Una vita al top
@@ -39,7 +39,8 @@ Maradona
 Per quello che è mare
 Per quello che è sale
 Per quello che puoi perdonare
-You might also like[Bridge]
+
+[Bridge]
 Ho litigato col papa
 Sono stato in Vaticano
 E ho scoperto che era fatto tutto d'oro
@@ -65,4 +66,4 @@ Per quello che puoi giudicare
 Lalalalala
 Per quello che è mare
 Per quello che è sale
-Per quello che puoi perdonareEmbed
+Per quello che puoi perdonare

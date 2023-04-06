@@ -1,4 +1,4 @@
-Margot Lyrics[Testo di "Margot"]
+[Testo di "Margot"]
 
 [Strofa 1]
 Ti vergogni di fantasie
@@ -36,7 +36,8 @@ Ma forse è solo che non vuoi capire
 Quando ti incazzi con me
 Ma forse è solo che non vuoi capire
 Quanto mi importa
-You might also like[Ritornello]
+
+[Ritornello]
 Margot, Margot, non essere così seria
 Ti voglio leggera, non pensare più
 Prendiamo il motorino e guidi tu
@@ -45,4 +46,4 @@ Ti voglio leggera, non pensare più
 Domani lavori, adesso siamo qui
 
 [Outro]
-Ma dai, non fare cosìEmbed
+Ma dai, non fare così

@@ -1,4 +1,4 @@
-Nonono Lyrics[Testo di "Nonono"]
+[Testo di "Nonono"]
 
 [Intro]
 La, la, la, la, la, la, la
@@ -50,7 +50,8 @@ Tu sei la sfida finale di Takeshi's Castle (No, no, no)
 Io ci provo a capirti e non capisco un caz— (No, no, no)
 Guarda che notte, c'è la luna piena
 E dici: "Ti amo solo perché mi fai pena"
-You might also like[Ritornello]
+
+[Ritornello]
 Yeh, yeh, yeh
 E spettinata resti qua
 Perché la più grande libertà
@@ -87,4 +88,4 @@ Che da bambino guardavo al mare
 Yeh, yeh, yeh
 E spettinata resti qua
 Perché la più grande libertà
-È quella che non ti lascia andare viaEmbed
+È quella che non ti lascia andare via

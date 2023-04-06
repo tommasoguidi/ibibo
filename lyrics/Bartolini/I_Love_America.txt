@@ -1,4 +1,4 @@
-I Love America Lyrics[Testo di "I Love America"]
+[Testo di "I Love America"]
 
 [Strofa 1]
 7 del mattino
@@ -42,7 +42,8 @@ A vivere
 Anche senza l'isola di Creta
 Io che non ti amavo
 Ma ero innamorato
-You might also like[Ritornello]
+
+[Ritornello]
 Vieni qua
 Isola
 I love America
@@ -56,4 +57,4 @@ I love America
 Kalafrica
 Vieni qua
 America
-KalafricaEmbed
+Kalafrica

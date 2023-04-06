@@ -1,4 +1,4 @@
-Andrà tutto bene Lyrics[Testo di "Andrà tutto bene"]
+[Testo di "Andrà tutto bene"]
 
 [Strofa 1]
 Cammino
@@ -35,7 +35,8 @@ Sarà che dormo poco
 E ascolto musica sbagliata
 I miei cantanti, ti giuro, tutti quanti
 Sono bugiardi, falsi, infantili ed arroganti
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E nelle vie del centro esplode la rivoluzione
 Fra un aperitivo e i saldi di fine stagione
 E tutti ascoltano dovunque sempre la stessa canzone
@@ -70,4 +71,4 @@ L’oscurità mi chiama a sé
 Fa male, ma illumina
 Conforta la mia anima
 
-[Outro]1Embed
+[Outro]

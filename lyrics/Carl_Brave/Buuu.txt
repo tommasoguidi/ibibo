@@ -1,4 +1,4 @@
-Buuu! Lyrics[Testo di "Buuu!"]
+[Testo di "Buuu!"]
 
 [Strofa 1]
 Le tue braccia strette attorno
@@ -42,7 +42,8 @@ Che passa nel traffico, un grande classico
 Possa piarvi un colpo, ve possino
 Vorrei imbucarmi tra le tue fossette
 Per svegliarmi già dentro il tuo sorriso alle 7 di mattina
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E oggi ricordo il freddo che c'era
 La schiena a quadrati appoggiati a quella ringhiera
 All'ombra della risata più vera
@@ -69,4 +70,4 @@ Oggi ricordo il freddo che c'era
 Oggi ricordo il freddo che c'era
 Oggi
 Nella risata più vera
-Ci sta sempre una lacrima sotto la visieraEmbed
+Ci sta sempre una lacrima sotto la visiera

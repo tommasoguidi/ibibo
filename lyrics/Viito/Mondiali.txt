@@ -1,4 +1,4 @@
-Mondiali Lyrics[Testo di "Mondiali"]
+[Testo di "Mondiali"]
 
 [Strofa 1]
 Accendo Netflix, guardo serie americane
@@ -36,7 +36,8 @@ Manca l'Italia ai mondiali
 È vero, ci siamo persi
 Oggi siamo diversi
 Ricominciamo domani
-You might also like[Bridge]
+
+[Bridge]
 Ti porterò sui tetti più alti delle nostre città
 Per ricordarci chi eravamo e chi siamo da un po'
 Un'auto per andarci la trovo però
@@ -55,4 +56,4 @@ Oggi siamo diversi
 Ricominciamo domani
 Ricominciamo domani
 Ricominciamo domani
-DomaniEmbed
+Domani

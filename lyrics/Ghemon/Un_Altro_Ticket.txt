@@ -1,4 +1,4 @@
-Un Altro Ticket Lyrics[Testo di "Un Altro Ticket"]
+[Testo di "Un Altro Ticket"]
 
 [Strofa 1]
 Oggi questo ufficio mi sta stretto
@@ -49,7 +49,8 @@ Come posso scegliere se amare te o lei, che ami me o lui
 Troppi rimorsi
 Eppure non so scegliere, non so prescindere (ah no?)
 Non so scindere, io non so fingere
-You might also like[Ritornello]
+
+[Ritornello]
 Finché ci sono tienimi le mani
 Finché ci sei ti stringerò le mani
 Oggi ci sto
@@ -85,4 +86,4 @@ Termini simili nella stesura ortografica ma diversi nel significato
 Racchiudono l'infinita complessità del mio spirito in amore
 Ma non c'è verso, non c'è segnale, non c'è indicazione, non c'è codice che mi possa guidare
 È necessaria una celeste vigilessa che sappia incanalare il mio caotico trambusto nelle mie ore di punta
-E tu lo sai babyEmbed
+E tu lo sai baby

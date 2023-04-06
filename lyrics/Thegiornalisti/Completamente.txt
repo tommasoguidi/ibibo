@@ -1,4 +1,4 @@
-TranslationsEspañolCompletamente Lyrics[Testo di "Completamente"]
+[Testo di "Completamente"]
 
 [Strofa 1]
 Lui chi è?
@@ -39,7 +39,8 @@ E chi se la scorda più
 A me mi fa ancora male
 A me mi fa ancora male
 Completamente
-You might also like[Ritornello]
+
+[Ritornello]
 Non trovo sonno
 Non trovo pace
 Sento che il cuore va più veloce
@@ -56,4 +57,4 @@ Non ho più fame
 Lasciami bere
 Baciami adesso anche se piove
 Solo così sto tanto bene
-Completamente2Embed
+Completamente

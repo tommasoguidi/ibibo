@@ -1,4 +1,4 @@
-Pop Lyrics[Testo di "Pop"]
+[Testo di "Pop"]
 
 [Strofa 1]
 Contare le pecore per addormentarsi
@@ -44,4 +44,4 @@ Il pilota automatico
 Amorematico
 Aromatico al caffè
 Aromatico al caffè
-Aromatico al caffèYou might also likeEmbed
+Aromatico al caffè

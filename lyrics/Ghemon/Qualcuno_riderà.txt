@@ -1,4 +1,4 @@
-Qualcuno riderà Lyrics[Intro]
+[Intro]
 Eh si, ci sono giorni in cui le facce di tutti quelli che ti sono attorno
 Sembrano uguali come si dice certi giorni lasciarsi andare e sopravvivere
 Ma tu vai avanti per la forza del cuore, per quello che hai dentro
@@ -46,10 +46,11 @@ Se questo è il fiume che si sceglie di guadare
 Se c’è un paradiso che dobbiamo guadagnare
 Per ricercare la chiarezza tra di noi
 Queste vite sono linee parallele che dobbiamo intersecare
-You might also like[Hook]
+
+[Hook]
 Hey come va? Oggi non lo so, domani poi boh, si vedrà
 E i cerchi nella mente fanno stop, start, vorrei di nuovo la mia libertà
 Hey come va? Oggi proprio no, domani poi sì passerà
 E i battiti del cuore fanno stop, start, magari poi qualcuno riderà
 Magari poi qualcuno riderà (se passa), magari poi qualcuno riderà
-Magari poi qualcuno riderà (se passa), magari poi qualcuno rideràEmbed
+Magari poi qualcuno riderà (se passa), magari poi qualcuno riderà

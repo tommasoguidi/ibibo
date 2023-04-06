@@ -1,4 +1,4 @@
-Astronave Lyrics[Testo di "Astronave"]
+[Testo di "Astronave"]
 
 [Strofa 1]
 Fuori di qua
@@ -36,9 +36,10 @@ E non ti devo più cercare
 Solo tu mi fai sentire
 Come fossimo bambini
 Sopra a un'astronave
-You might also like[Outro]
+
+[Outro]
 Sopra un'astronave
 Sopra un'astronave
 Sopra un'astronave
 Però non farmi male
-Però non farmi maleEmbed
+Però non farmi male

@@ -1,4 +1,4 @@
-NERA SALSA DI SOIA Lyrics[Testo di "NERA SALSA DI SOIA"]
+[Testo di "NERA SALSA DI SOIA"]
 
 [Intro]
 Two, three, four
@@ -45,7 +45,8 @@ Spacca, spacca, spacca, spacca, spaccami il cuore
 Spacca, spacca, spacca, spacca
 Non ti risolvo come l'algebra
 Nera salsa di so-o-oia
-You might also like[Bridge]
+
+[Bridge]
 Ti ricordi? Vivevamo in una baracca
 Che la nostra stanza non aveva una porta
 E sе il mondo è una merda, in fondo a noi non importa
@@ -60,4 +61,4 @@ Ti sto aspettando
 Spacca, spacca, spacca, spacca, spaccami il cuore
 Spacca, spacca, spacca, spacca, ah, ah, ah
 Spacca, spacca, spacca, spacca, spaccami il cuore
-Spacca, spacca, spacca, spaccaEmbed
+Spacca, spacca, spacca, spacca

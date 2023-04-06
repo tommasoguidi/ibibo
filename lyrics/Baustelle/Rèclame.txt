@@ -1,4 +1,4 @@
-Rèclame Lyrics[Testo di "Rèclame"]
+[Testo di "Rèclame"]
 
 [Strofa 1]
 Di notti con te
@@ -37,7 +37,8 @@ Un po' d'estate in fondo c'è
 In ogni morte trovo che
 Un po' d'estate in fondo c'è
 In ogni morte
-You might also like[Strofa 2]
+
+[Strofa 2]
 Di promesse tue
 Di appuntamenti
 E di valzer lenti
@@ -70,4 +71,4 @@ In ogni morte trovo che
 Un po' d'estate in fondo c'è
 In ogni morte trovo che
 Un po' d'estate in fondo c'è
-In ogni morteEmbed
+In ogni morte

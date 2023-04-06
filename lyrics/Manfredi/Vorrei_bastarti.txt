@@ -1,4 +1,4 @@
-Vorrei bastarti Lyrics[Testo di "Vorrei bastarti"]
+[Testo di "Vorrei bastarti"]
 
 [Strofa 1]
 Io faccio tutto con calma, ma tu sei rivoluzione
@@ -46,7 +46,8 @@ Tu in primo piano ed io
 Lo sfondo in una foto
 Per te sarei chiunque, però
 Nessuno proprio no
-You might also like[Bridge]
+
+[Bridge]
 Magari il mondo intero non lo cambi
 Ma in qualche modo hai già cambiato il mio
 Tutte le storie hanno un lieto fine
@@ -62,4 +63,4 @@ Mi rendo conto che per te sono poco
 Tu in primo piano ed io
 Lo sfondo in una foto
 Per te sarei chiunque, però
-Nessuno proprio noEmbed
+Nessuno proprio no

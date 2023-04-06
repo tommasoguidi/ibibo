@@ -1,4 +1,4 @@
-Stupido paradosso Lyrics[Testo di "Stupido paradosso"]
+[Testo di "Stupido paradosso"]
 
 [Strofa 1]
 Non so perché, ma so la direzione
@@ -51,7 +51,8 @@ A bere così tanto che rischi di annegare
 E fumare così tanto che le labbra bruciano
 Impegni da procrastinare
 Diamanti che il tempo può incastonare in anelli d'argento lucido
-You might also like[Ritornello]
+
+[Ritornello]
 Se ho tutti gli occhi addosso non sono più me
 Dico io me ne frego di quel che pensano loro
 Ma lo dico solo perché pensino sia vero
@@ -64,4 +65,4 @@ E vorrei solo stare solo, stare solo, stare solo, stare solo con te
 Quando tu sei via, io provo nostalgia della tua compagnia e ti vorrei
 E vorrei solo stare solo, stare solo, stare solo, stare solo con te
 Ma poi quando ci sei vorrei solo restare solo
-Stupido paradosso, stupido meEmbed
+Stupido paradosso, stupido me

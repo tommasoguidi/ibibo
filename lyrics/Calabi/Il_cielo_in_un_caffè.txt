@@ -1,4 +1,4 @@
-Il cielo in un caffè Lyrics[Testo di "Il cielo in un caffè"]
+[Testo di "Il cielo in un caffè"]
 
 [Strofa 1]
 Per stare insieme a te
@@ -38,7 +38,8 @@ Quando hai detto "io con te"
 Con te a Milano quest'estate
 Sul letto del naviglio ci potrei annegare
 Na-Na
-You might also like[Ritornello]
+
+[Ritornello]
 Aspetterò la convenzione astrale
 Tu su un pianeta io qui sulle scale
 Se sto con te non posso aver progetti
@@ -53,4 +54,4 @@ Milano vista dallo spazio non è male
 Ma se attraverso la galassia come fosse il mare
 E a te che hai detto "io con te"
 Con te a Milano ci volevo andare
-Ma poi era sold out e ti sei presa maleEmbed
+Ma poi era sold out e ti sei presa male

@@ -1,4 +1,4 @@
-​come state Lyrics[Testo di "come state"]
+[Testo di "come state"]
 
 [Strofa 1]
 Ho vissuto tutto e l'ho distrutto
@@ -47,7 +47,8 @@ Cercavo me e voi che cosa cercate?
 Quel posto in cui star bene veramente
 Lo sai anche tu
 Non parli, ma so che capisci
-You might also like[Outro]
+
+[Outro]
 Ho vissuto tutto e l'ho distrutto
 Mamma mia, quante risate
-E voi come state?Embed
+E voi come state?

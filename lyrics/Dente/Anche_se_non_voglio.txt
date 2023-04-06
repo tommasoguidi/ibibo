@@ -1,4 +1,4 @@
-Anche se non voglio Lyrics[Testo di "Anche se non voglio"]
+[Testo di "Anche se non voglio"]
 
 [Strofa 1]
 E lascio che la gente pensi che io sia felice
@@ -38,7 +38,8 @@ Sono io quando mi sbaglio
 Quando rido, quando piango
 Quando mi sveglio, quando mi spoglio
 Sono io anche se non voglio
-You might also like[Strofa 3]
+
+[Strofa 3]
 E quanto è vero Iddio
 Ho ballato sulle onde dell’oceano
 E so volare senza ali
@@ -60,4 +61,4 @@ Sono io anche se non voglio
 E quando vengo, quando mi accendo
 Quando mangio, quando mento
 E quando canto e quando mi arrendo
-Quando mi pento, quando mi spengoEmbed
+Quando mi pento, quando mi spengo

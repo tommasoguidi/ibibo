@@ -1,4 +1,4 @@
-Il tempo non ci basterà Lyrics[Testo di "Il tempo non ci basterà"]
+[Testo di "Il tempo non ci basterà"]
 
 [Strofa 1]
 Tu eri davanti a quel negozio di dischi coi dischi pacco
@@ -54,7 +54,8 @@ Nel tuo mare che non svela quante miglia fai
 Non c'è nessuno che ci spia
 Quando la luna è poi l'unica ad essere ancora vestita
 Io me ne andavo via
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Non so se ci serve il tempo per capire
 Quanto il tempo non ci basterà mai
 
@@ -74,4 +75,4 @@ Non c'è bisogno di dirsi che sai
 Come chi non parla mai (Il tempo per capire)
 Non c'è bisogno di dirsi che fai
 Se c'è la voglia che c'hai (Tanto il tempo non ci basterà)
-Tanto il tempo non ci basterà maiEmbed
+Tanto il tempo non ci basterà mai

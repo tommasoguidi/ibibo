@@ -1,4 +1,4 @@
-Vento Del Nord Lyrics[Strofa 1]
+[Strofa 1]
 Ma questa guerra finirà col primo fiore dei ciliegi
 Disse un recluso in piedi in mezzo agli altri prigionieri
 È lui che portava ancora i segni delle pause
@@ -42,7 +42,8 @@ Il mondo qui è a forme, è a strisce uniformi
 È fatto di volti vuoti e corpi deformi
 Piero si sporse fuori e sentì il vento del nord
 Gli aveva tolto colori e contorni
-You might also like[Rit.]
+
+[Rit.]
 (Poi) un altro soffio di quel freddo gelido
 (Poi) un altro soffio di quel freddo gelido
 (Poi) ancora un soffio che si porta all'interno
@@ -50,4 +51,4 @@ E riporta all'inferno anche dopo un decennio, nono
 (Poi) un altro soffio di quel freddo gelido
 (Poi poi) di quel freddo gelido
 (Poi) ancora un soffio che si porta all'interno
-E riporta all'inferno anche dopo un decennio, nonoEmbed
+E riporta all'inferno anche dopo un decennio, nono

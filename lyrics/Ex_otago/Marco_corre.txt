@@ -1,4 +1,4 @@
-Marco corre Lyrics[Testo di "Marco corre"]
+[Testo di "Marco corre"]
 
 [Strofa 1]
 Pensa che bello
@@ -44,4 +44,4 @@ Luca ride chi se ne importa
 Al bar centrale chi lo sa
 Che un uomo lotta con la corsa
 E se un giorno smetterà
-Marco corre e correràYou might also likeEmbed
+Marco corre e correrà

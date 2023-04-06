@@ -1,4 +1,4 @@
-I pirati Lyrics[Testo di "I pirati"]
+[Testo di "I pirati"]
 
 [Strofa 1]
 Il fatto che noi due
@@ -41,7 +41,8 @@ Da parti di noi stessi
 Che conosciamo così poco
 Ma che entrano in contatto
 Si parlano
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 E chissà quando è stato
 Che ci siamo separati
 Per la prima volta, che ci siamo detti
@@ -58,4 +59,4 @@ Disegni sui muri
 Come colori
 Di un quadro che intuisco
 Sempre diverso
-Sempre uguale a sé stessoEmbed
+Sempre uguale a sé stesso

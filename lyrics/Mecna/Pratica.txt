@@ -1,4 +1,4 @@
-Pratica Lyrics[Testo di "Pratica"]
+[Testo di "Pratica"]
 
 [Strofa 1]
 Yah
@@ -36,7 +36,8 @@ Hai visto come
 A volte le persone
 Sono facce da dimenticare
 Per lo più le puoi scordare
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Non ho fatto
 Ancora di me
 La mia cosa preferita
@@ -66,4 +67,4 @@ Puoi lasciarmi così per un po'
 Mentre perdo le cose importanti e guadagno le cose che rubo
 Vorrei far parte del gruppo
 Però ormai odio un po' tutti
-Qua sembrano felici più di meEmbed
+Qua sembrano felici più di me

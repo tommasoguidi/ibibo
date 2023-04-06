@@ -1,4 +1,4 @@
-Biglietto non obliterato Lyrics[Testo di "Biglietto non obliterato"]
+[Testo di "Biglietto non obliterato"]
 
 [Strofa 1]
 Magari ti va una di queste sere
@@ -48,7 +48,8 @@ Uso noi come esempio
 Quanto mi piace 'sto esempio
 E non saremo noi di certo a cambiare il mondo
 Ma sicuro questo mondo non cambierà ciò che penso
-You might also likeTi va di non gareggiare mai?
+
+Ti va di non gareggiare mai?
 Di non sfidare mai?
 Di non competere mai?
 Ti va di vincere uguale?
@@ -80,4 +81,4 @@ Siamo la fine del mondo
 Siamo la fine del mondo
 Siamo la fine del mondo
 Alla fine del mondo
-Siamo la fine del mondoEmbed
+Siamo la fine del mondo

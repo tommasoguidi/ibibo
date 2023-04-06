@@ -1,4 +1,4 @@
-Delia Lyrics[Testo di "Delia"]
+[Testo di "Delia"]
 
 [Strofa 1]
 Delia, passa l'accendino
@@ -36,7 +36,8 @@ Da quando sei partita
 Non trovo più l'uscita
 Non guardo nemmeno più
 La Barbara D'Urso in TV
-You might also like[Ritornello]
+
+[Ritornello]
 E fuori piove, cazzo, ma dimentico l'ombrello
 Appuntamento dal dentista e scordo pure quello
 E non ho dato da mangiare nemmeno al cane
@@ -51,4 +52,4 @@ I tuoi occhi, d'estate, arrossati dal sale
 I tuoi capelli bagnati sotto a un temporale
 I tuoi jeans slacciati nella Panda dei miei
 I tuoi occhi azzurri
-I miei guaiEmbed
+I miei guai

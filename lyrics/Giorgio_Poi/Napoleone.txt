@@ -1,4 +1,4 @@
-Napoleone Lyrics[Testo di "Napoleone"]
+[Testo di "Napoleone"]
 
 [Strofa 1]
 Quanto dura una novità?
@@ -42,7 +42,8 @@ Con l'altra dici: "Non esco"
 Fuori c'è un buio di lavagna
 E una luna di gesso
 Che brilla lo stesso
-You might also like[Ritornello]
+
+[Ritornello]
 Ma tu sei pazzo, Napoleone
 Se vuoi andare dormire
 Quando la notte ti chiama per nome
@@ -51,4 +52,4 @@ C'è chi la vita la prende a morsi
 E chi la lascia squagliare
 Chi se la beve a piccoli sorsi
 E chi non può aspettare
-Non può aspettare, noEmbed
+Non può aspettare, no

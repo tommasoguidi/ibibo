@@ -1,4 +1,4 @@
-Bombe atomiche Lyrics[Testo di "Bombe atomiche"]
+[Testo di "Bombe atomiche"]
 
 [Strofa 1]
 A te non piace litigare, ma ti piace fare pace
@@ -34,7 +34,8 @@ E sai che c'è? Che voglio tutto di te
 Se poi sparisci tra la gente e non ti vedo più
 E scusa se sono fatto così, mi dispiace da morire e
 E scusa se sono fatto così, mi dispiace ma
-You might also like[Strofa 3]
+
+[Strofa 3]
 Nelle acque calme non ci so nuotare
 Voglio stare sotto un temporale di bombe atomiche
 Anche se poi scoppiamo in lacrime
@@ -54,4 +55,4 @@ E scusa se sono fatto così, mi dispiace da morire
 
 [Outro]
 Morire, da morire
-Morire, da morireEmbed
+Morire, da morire

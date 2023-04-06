@@ -1,4 +1,4 @@
-Fulmini/Il fu Venerus Lyrics[Testo di "Fulmini/Il fu Venerus"]
+[Testo di "Fulmini/Il fu Venerus"]
 
 Parte 1: Fulmini
 
@@ -49,7 +49,8 @@ Prende a pugni tutto l'universo
 E quel che penso cambia verso senza dire niente
 Con gli occhi rossi, inciampo tra la gente
 Sai, forse basta essere furbi
-You might also like[Strofa]
+
+[Strofa]
 Sai, scrivo spesso del mio amore, poi di tutti gli altri demoni
 Mi sento più persone in una e ognuna ha i suoi problemi
 Non fidarti di nessuno, V, non vogliono il tuo bene
@@ -73,4 +74,4 @@ Ci senti male, mi fa cagare la tua merda, non capisci?
 Se sono in gioco al due percento, fra’, poi non m’importa
 Allora me ne fumo un paio, arrivo fino a Marte
 Dici che sai chi sono, mettiti da parte
-Venerus non è un nome, è il mio cognome d'arte, ehi, yahEmbed
+Venerus non è un nome, è il mio cognome d'arte, ehi, yah

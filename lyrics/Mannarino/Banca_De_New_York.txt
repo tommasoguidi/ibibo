@@ -1,4 +1,4 @@
-Banca De New York Lyrics[Testo di "Banca De New York"]
+[Testo di "Banca De New York"]
 
 [Strofa 1]
 La banca de New York è andata a fondo
@@ -46,7 +46,8 @@ Chissà se un uomo muore?
 Chissà se ce la fa
 Quando gli scoppia il cuore
 Dalla felicità? Ah ah ah ah
-You might also like[Ritornello]
+
+[Ritornello]
 O meo signore, o meo signor
 O meo signore, o meo signor
 Giorni di fuoco, giorni d'amor
@@ -55,4 +56,4 @@ Sono felice di non essere un robot
 Chissà se un uomo muore?
 Chissà se ce la fa
 Quando gli scoppia il cuore
-Dalla felicità? Yah yah yah yahEmbed
+Dalla felicità? Yah yah yah yah

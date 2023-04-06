@@ -1,4 +1,4 @@
-Natalios Lyrics[Testo di "Natalios"]
+[Testo di "Natalios"]
 
 [Strofa 1]
 Ventitré e cinquantanove
@@ -38,7 +38,8 @@ Io non voglio andare in giro da solo
 È la notte di Natale anche per me
 Io non voglio andare in giro da solo
 È la notte di Natale anche per me
-You might also like[Bridge]
+
+[Bridge]
 (Io non voglio
 Io non voglio andare in giro da solo
 È la notte di Natale anche per me)
@@ -54,4 +55,4 @@ Shh
 Io non voglio andare in giro da solo
 È la notte di Natale anche per me
 Io non voglio andare in giro da solo
-È la notte di Natale anche per meEmbed
+È la notte di Natale anche per me

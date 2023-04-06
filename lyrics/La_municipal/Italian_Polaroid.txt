@@ -1,4 +1,4 @@
-Italian Polaroid Lyrics[Testo di "Italian Polaroid"]
+[Testo di "Italian Polaroid"]
 
 [Strofa 1]
 Ludovica continuava a perdere lezioni
@@ -37,7 +37,8 @@ E fumava, fumava finchè non crollava
 Lei non ci credeva più
 E restavano a mollo a guardare la luna
 Che non tramonta, che non tramonta più
-You might also like[Bridge]
+
+[Bridge]
 Ludovica non voltarti, non ti vergognare
 Tra le auiole in Via Bologna c'è il tuo spacciatore
 Andiamo a prenderci un panino da Leo il giardiniere
@@ -48,4 +49,4 @@ Ludovica tanto Giulio si comincerà presto a fare
 Ludovica non voltarti, non ti vergognare
 Per quei due, tre soldi dati alla zingara in centrale
 Ludovica non voltarti, non ti vergognare
-Per quei due, tre soldi dati alla zingara in centraleEmbed
+Per quei due, tre soldi dati alla zingara in centrale

@@ -1,4 +1,4 @@
-Vita paranoia Lyrics[Testo di "Vita paranoia"]
+[Testo di "Vita paranoia"]
 
 [Strofa 1]
 E mischio l'alcool con la Coca-Cola
@@ -43,7 +43,8 @@ Ad un reato senza punizione
 A quella voglia matta di dormire
 A quella voglia matta di impazzire
 E disegnare il sole dove muore
-You might also like[Ritornello]
+
+[Ritornello]
 E sto come una bomba
 E, sì, come una bomba
 Ma mica in senso buono
@@ -60,4 +61,4 @@ E vita paranoia
 E cuore in salamoia
 Mentre la testa vola
 E a volte però non riatterra
-Nanana naEmbed
+Nanana na

@@ -1,4 +1,4 @@
-Anima lattina Lyrics[Testo di "Anima lattina"]
+[Testo di "Anima lattina"]
 
 [Intro: Fausto Lama & Francesca California]
 Biciclette nostalgia
@@ -47,7 +47,8 @@ Conoscersi ed appartenersi
 Pizza al trancio anestesia
 Fiori arancio Vucciria
 E inventarsi una bugia per rimanere soli
-You might also like[Strofa 2: Francesca California]
+
+[Strofa 2: Francesca California]
 Ne apro una da 66
 Che poi sono gli anni di mio papà
 Aveva gli occhi tristi
@@ -59,4 +60,4 @@ Erano grandi come le zampe di un leone
 [Outro: Fausto Lama & Francesca California]
 Parlare e bere birra fino alla mattina
 Abbiamo un'anima lattina
-Sempre che abbiamo un'animaEmbed
+Sempre che abbiamo un'anima

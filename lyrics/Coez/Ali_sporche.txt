@@ -1,4 +1,4 @@
-Ali sporche Lyrics[Testo di "Ali sporche"]
+[Testo di "Ali sporche"]
 
 [Strofa 1]
 Ho i tagli sotto i talloni (Ah)
@@ -38,7 +38,8 @@ E anche se ho le ali sporche di sangue
 Un giorno volerò da te
 E questo sangue m'ha reso grande
 Per questo volerò da te
-You might also like[Bridge]
+
+[Bridge]
 Sto sotto la pioggia, la vita mi boccia
 Sto qui che insisto, resisto, chiamami "roccia"
 E quello che ho già, l'ho preso da me, nessuno regala (No)
@@ -54,4 +55,4 @@ Per questo volerò da te
 E anche se ho le ali sporche di sangue
 Un giorno volerò da te
 E questo sangue m'ha reso grande
-Per questo volerò da teEmbed
+Per questo volerò da te

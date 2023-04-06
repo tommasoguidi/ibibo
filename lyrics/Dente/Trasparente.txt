@@ -1,4 +1,4 @@
-Trasparente Lyrics[Testo di "Trasparente"]
+[Testo di "Trasparente"]
 
 [Strofa 1]
 Se ne vanno dalla stazione alcuni treni
@@ -40,7 +40,8 @@ C'è una cosa che mi manca
 E una che non so
 Che cosa sono stato?
 Che cosa sarò?
-You might also like[Pre-ritornello]
+
+[Pre-ritornello]
 Io ti dirò com'è essere trasparente agli occhi della gente
 
 [Ritornello]
@@ -50,4 +51,4 @@ Oggi che ora è?
 Su di noi che tempo fa
 Se non piove, pioverà
 Se non piove, pioverà
-Se non piove, pioveràEmbed
+Se non piove, pioverà

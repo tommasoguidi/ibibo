@@ -1,4 +1,4 @@
-Sul fondo dello scrigno Lyrics[Testo di "Sul fondo dello scrigno"]
+[Testo di "Sul fondo dello scrigno"]
 
 [Strofa]
 Non sono niente
@@ -35,6 +35,7 @@ Dove ho messo i miei desideri?
 Sul fondo dello scrigno?
 Reclamerò la mia corona
 Ma senza non sono niente, niente
-You might also like[Outro]
+
+[Outro]
 Ma senza non sono niente, niente
-Ma senza non sono niente1Embed
+Ma senza non sono niente

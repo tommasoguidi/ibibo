@@ -1,4 +1,4 @@
-CORNFLAKES Lyrics[Testo di "CORNFLAKES"]
+[Testo di "CORNFLAKES"]
 
 [Strofa 1]
 Quanto mi sento bene quando
@@ -37,7 +37,8 @@ Quando dovrei stare tranquillo
 E dirti "è tutto ok"
 Quando invece mi perdo nel vino
 E mangio i tuoi corn flakes
-You might also like[Ritornello]
+
+[Ritornello]
 E poi di notte mi sono accorto che ti stavo cercando
 In uno stupido film d'amore dell'anno scorso
 E mi è venuta voglia di chiamarti
@@ -59,4 +60,4 @@ Anche se non rispondi
 Quanto mi sento bene quando
 Quando sto con lei
 Quando è notte e ti scrivo 'ohi'
-E tu rispondi 'ehi'1Embed
+E tu rispondi 'ehi'

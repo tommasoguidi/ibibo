@@ -1,4 +1,4 @@
-Fuori orario Lyrics[Testo di "Fuori orario"]
+[Testo di "Fuori orario"]
 
 [Strofa 1]
 Yeah, visione notturna dai miei Tom Ford
@@ -45,7 +45,8 @@ Fuori orario, visionario
 Mentre provo ad essere mi-milionario
 Finché muoio addosso ho un rosario
 "Sono pulito" dico al co-commissario
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Fuori orario, visionario
 Mentre la terra gira al co-co-contrario
 In questo mondo ho solo le palle e un rimario
@@ -59,4 +60,4 @@ Oggi ho tutto, ma niente da dare
 
 [Outro]
 Fuori orario, visionario
-Fuori orario, visionarioEmbed
+Fuori orario, visionario

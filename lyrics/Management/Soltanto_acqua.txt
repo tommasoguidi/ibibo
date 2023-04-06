@@ -1,4 +1,4 @@
-Soltanto acqua Lyrics[Strofa 1]
+[Strofa 1]
 Sono appassiti anche i fiori
 Sulla camicia hawaiana che mi hai regalato
 Saranno stati sei anni fa
@@ -37,7 +37,8 @@ Sotto l'ombrellone senti che caldo che fa
 Ci vorrebbe un bagno
 Ci vorrebbe un sogno
 Ci vorresti tu dentro al mio mondo
-You might also like[Bridge]
+
+[Bridge]
 Questo castello in rovina che mi porto dentro
 È l'unica cosa che mi parla di te
 Ho paura di guarire
@@ -56,4 +57,4 @@ Ci vorresti tu dentro al mio mondo
 [Outro] (x2)
 E guardo il mare come sempre
 Ma senza di te
-Il mare mi sembra soltanto acquaEmbed
+Il mare mi sembra soltanto acqua

@@ -1,4 +1,4 @@
-7 Lyrics[Testo di "7"]
+[Testo di "7"]
 
 [Intro]
 "Non ti posso più vedere
@@ -35,7 +35,8 @@ Come volevi tu
 Abbiamo smesso di nuotare ancora prima di iniziare
 Siamo due frane, che te lo dico a fare
 Mhm-mhm
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Ma la verità
 È che non riesco più a perdere
 
@@ -55,4 +56,4 @@ Sette
 Liberati per le sette
 E portami dentro di te
 E smettila di fare a botte
-A botte con te, mhm-mhm-mhmEmbed
+A botte con te, mhm-mhm-mhm

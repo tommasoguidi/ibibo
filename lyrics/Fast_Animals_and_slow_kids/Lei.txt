@@ -1,4 +1,4 @@
-Lei Lyrics[Testo di "Lei"]
+[Testo di "Lei"]
 
 [Ritornello]
 Senza lei, da solo non ce la farei
@@ -38,9 +38,10 @@ Fatemi parlare perché ve lo voglio dire
 L'amore è una cosa stupida e lo sanno tutti
 Anche se aprono la bocca e si ingozzano di banalità, continuamente
 Ma la realtà è che a noi non interessa l'amore
-You might also like[Ritornello]
+
+[Ritornello]
 Senza lei, da solo non ce la farei
 Senza lei, niente mai
 Mi ucciderei
 I suoi occhi come stelle, sai
-Senza lei, senza, senza, senza niente, nienteEmbed
+Senza lei, senza, senza, senza niente, niente

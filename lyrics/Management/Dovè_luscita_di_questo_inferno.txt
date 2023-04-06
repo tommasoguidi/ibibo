@@ -1,4 +1,4 @@
-Dov’è l’uscita di questo inferno? Lyrics[Testo di "Dov'è l'uscita di questo inferno?"]
+[Testo di "Dov'è l'uscita di questo inferno?"]
 
 [Strofa 1]
 Vivo sul lastrico
@@ -36,7 +36,8 @@ E non mi servirà la fortuna (A che t'aiuta?)
 Quella sì
 Ci vuole fegato (Non me lo sono giocato)
 Solo fegato (Non me lo sono giocato)
-You might also like[Bridge]
+
+[Bridge]
 Mi sono svegliato sette ore fa
 Ho ancora sonno
 Esco per la strada, schiena dritta
@@ -68,4 +69,4 @@ Duemilaventi
 Mi tuffo dentro i sentimenti
 Venti ventuno
 Non mi piego per nessuno
-Io vi rompo il culoEmbed
+Io vi rompo il culo

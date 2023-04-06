@@ -1,4 +1,4 @@
-L Lyrics[Testo di "L"]
+[Testo di "L"]
 
 [Strofa 1]
 Mi hai fatto credere di essere speciale per un giorno
@@ -44,7 +44,8 @@ E sei così lontana che non so nemmeno se sei stata mia
 (Se sei stata mia)
 E me ne vado via, e brinderai alla mia
 E me ne vado via, e tu brinderai alla mia
-You might also like[Outro]
+
+[Outro]
 Mi hai fatto credere di essere speciale per un giorno
 Per un nanosecondo
-Poi mi hai sparato un colpo3Embed
+Poi mi hai sparato un colpo

@@ -1,4 +1,4 @@
-Django Lyrics[Testo di "Django"]
+[Testo di "Django"]
 
 [Intro]
 Buonasera, signori e signore
@@ -42,7 +42,8 @@ Gipsy love stories never last 'cause you know
 The more we are bastard the more we enjoy the show
 But Jasmine I forgave you, so come back to me
 I'll give you my song and I shiny new kind of fucking machine
-You might also like[Ritornello]
+
+[Ritornello]
 Gipsy the moon and gipsy the sun
 They always move and if they don't we get fucked
 Gipsy those years now that they've gone
@@ -59,4 +60,4 @@ And dance
 And dance
 And dance
 
-[Assolo di fisarmonica]Embed
+[Assolo di fisarmonica]

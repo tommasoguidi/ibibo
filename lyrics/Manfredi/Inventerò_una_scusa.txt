@@ -1,4 +1,4 @@
-Inventerò una scusa Lyrics[Testo di "Inventerò una scusa"]
+[Testo di "Inventerò una scusa"]
 
 [Strofa 1]
 Tu avevi mille graffi ed io non avevo cerotti
@@ -44,6 +44,7 @@ In questo mondo di sorrisi
 Mi sembra che non servo a niente
 Resta qui ancora un istante
 Non arrenderti con me
-You might also like[Outro]
+
+[Outro]
 Inventerò una scusa per dirti che io insieme a te
-Farei tutto da capo anche se so che non finisce beneEmbed
+Farei tutto da capo anche se so che non finisce bene

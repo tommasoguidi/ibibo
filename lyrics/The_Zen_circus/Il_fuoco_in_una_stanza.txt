@@ -1,4 +1,4 @@
-Il fuoco in una stanza Lyrics[Testo di "Il fuoco in una stanza"]
+[Testo di "Il fuoco in una stanza"]
 
 [Strofa 1]
 C'è tua madre dentro ad ogni boccone
@@ -42,7 +42,8 @@ Facciamo un giro sulla Circumvesuviana
 Mentre il vulcano sputa questa luna piena
 Che ci guarda mentre tu mi dici basta
 Non più il cielo, il fuoco in una stanza
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Che cosa dicono di noi
 Le voci in questi corridoi
 Un'altra estate e tu che fai
@@ -54,4 +55,4 @@ Per sentirti meno sola
 Libero cos'è, per chi libero non è?
 Una stanza brucia già
 Urla quanto vuoi
-Ma nessuno, nessuno ti sentiràEmbed
+Ma nessuno, nessuno ti sentirà

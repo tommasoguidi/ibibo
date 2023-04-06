@@ -1,4 +1,4 @@
-Faccio un casino Lyrics[Testo di "Faccio un casino"]
+[Testo di "Faccio un casino"]
 
 [Strofa 1]
 Ho scritto "Ti amo" sulla sabbia
@@ -38,7 +38,8 @@ Amami o faccio un casino
 Amami o faccio un casino
 Amami o faccio un casino
 Amami o faccio un casino
-You might also like[Bridge]
+
+[Bridge]
 Dimmi cos'è che vuoi da me
 Dimmi cos'è che vuoi da me
 Dimmi cos'è che vuoi da me
@@ -64,4 +65,4 @@ Rimane qui anche se non vuoi
 Amami o faccio un casino
 Dimmi cos'è che vuoi da me
 Lo sai che c'è?
-Amami o faccio un casino1Embed
+Amami o faccio un casino

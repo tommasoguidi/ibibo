@@ -1,4 +1,4 @@
-Fulmini Lyrics[Testo di "Fulmini"]
+[Testo di "Fulmini"]
 
 [Strofa 1]
 Avevamo tutto, poi cos'è successo?
@@ -39,5 +39,6 @@ I tuoi fantasmi non ti trovano
 Se ti nascondi sempre in mezzo ai miei
 Resta dietro di me
 Allora resta dietro di me
-You might also like[Outro]
-Allora resta dietro di meEmbed
+
+[Outro]
+Allora resta dietro di me

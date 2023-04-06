@@ -1,4 +1,4 @@
-È Stato Lui Lyrics[Testo di "È Stato Lui"]
+[Testo di "È Stato Lui"]
 
 [Strofa 1]
 È stato lui che mi ha cercata
@@ -44,7 +44,8 @@ Guarda sempre tu non vuoi capire mai
 Io non ho fatto quasi niente
 Tu lo sai
 E tu lo sai
-You might also like[Bridge]
+
+[Bridge]
 Usciamo insieme da una vita
 E lui mi piace proprio perché tu lo scegli
 Però ti giuro è stato un bacio
@@ -64,4 +65,4 @@ Dentro i miei occhi
 Guarda sempre tu non vuoi capire mai
 Io non ho fatto quasi niente
 Tu lo sai
-E tu lo saiEmbed
+E tu lo sai

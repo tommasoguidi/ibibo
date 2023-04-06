@@ -1,4 +1,4 @@
-Strato Lyrics[Testo di "Strato"]
+[Testo di "Strato"]
 
 [Strofa 1]
 Ho visto crescere una pianta
@@ -38,7 +38,8 @@ Ho accettato il mio destino
 (L'ho accettato come potevo)
 Poi ho spento senza salvare
 (Senza salvare, senza salvare, senza salvare)
-You might also like[Interludio]
+
+[Interludio]
 Alla prossima a destra
 Quindi la destinazione è avanti sulla sinistra
 Siete giunti a destinazione
@@ -70,4 +71,4 @@ Ti do un bacio
 Ti do un bacio
 Ti do un bacio
 Ti do un bacio
-Ti do un bacioEmbed
+Ti do un bacio

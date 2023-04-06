@@ -1,4 +1,4 @@
-Canzoni tristi Lyrics[Testo di "Canzoni tristi"]
+[Testo di "Canzoni tristi"]
 
 [Strofa 1]
 Adesso che mi sento grande, dovrei un po' riposare
@@ -43,7 +43,8 @@ Che le mie parole siano gocce sul tuo collo
 Vorrei per una volta
 Sentirti sussurrare queste mie canzoni tristi
 Come quando canti al mare
-You might also likeVorrei che queste note
+
+Vorrei che queste note
 Le cantassi nella doccia
 Che le mie parole siano gocce sul tuo collo
 Vorrei per una volta
@@ -71,4 +72,4 @@ Le cantassi nella doccia
 Che le mie parole siano gocce sul tuo collo
 Vorrei per una volta
 Sentirti sussurrare queste mie canzoni tristi
-Come quando canti al mareEmbed
+Come quando canti al mare

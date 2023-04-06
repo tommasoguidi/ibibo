@@ -1,4 +1,4 @@
-SUI MURI Lyrics[Testo di "SUI MURI"]
+[Testo di "SUI MURI"]
 
 [Strofa 1: Drast]
 La mia migliore amica è una 66
@@ -44,7 +44,8 @@ Per quanti treni ho preso, per quanta pioggia ho visto
 Tu sei il mio sole, la mia vita, tutto ciò che ottengo
 Per quanto lontano io un giorno possa andare
 Tu sarai per sempre casa e una casa rimane
-You might also like[Ritornello: Drast]
+
+[Ritornello: Drast]
 Ed ho visto un angelo con gli occhi scuri
 Ed i capelli più corti del fiato
 Ho letto frasi d'amore sui muri
@@ -52,4 +53,4 @@ Erano tutte con verbi al passato
 Tu vedi nero quando hai gli occhi chiusi
 Io vedo noi distesi sopra a un prato
 Ho scritto frasi d'amore sui muri
-Ed il mio nome adesso è cancellato8Embed
+Ed il mio nome adesso è cancellato

@@ -1,4 +1,4 @@
-Ho Avuto Dei Problemi Lyrics[Intro]
+[Intro]
 "Sì, pronto?
 Ah, ciao, sì, sì, scusa, c'hai ragione
 Sì, no, è che ho avuto dei problemi
@@ -39,7 +39,8 @@ Una del mattino a letto con le luci spente e poi
 Due del mattino e ancora non si dorme niente e allora
 Tre decimi di grammo di erba stratackente
 Per levarmi 'sti fantasmi dalla mente
-You might also like[Strofa 2]
+
+[Strofa 2]
 'Sti fantasmi hanno in mano spilli appuntiti come aculei di un echidna
 E imprimono a sangue sulla carne il loro stigma
 E ogni problema irrisolto avvalora il paradigma
@@ -65,4 +66,4 @@ Ma ho avuto dei problemi e ancora non riesco a risolverli
 Una del mattino a letto con le luci spente e poi
 Due del mattino e ancora non si dorme niente e allora
 Tre decimi di grammo di erba stratackente
-Per levarmi 'sti fantasmi dalla menteEmbed
+Per levarmi 'sti fantasmi dalla mente

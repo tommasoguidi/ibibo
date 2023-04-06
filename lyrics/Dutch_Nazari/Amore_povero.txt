@@ -1,4 +1,4 @@
-Amore povero Lyrics[Testo di "Amore povero"]
+[Testo di "Amore povero"]
 
 [Ritornello]
 Io soldi non ne ho ma proverò
@@ -43,7 +43,8 @@ Non ho una lira, una kuna, una dracma, un rublo
 Ma se per te ciò che conta è il cash, se vuoi rubo
 E se poi finisco in prigione e non mi lasci
 Ti scriverò lettere dal carcere come Gramsci
-You might also like[Ritornello]
+
+[Ritornello]
 Io soldi non ne ho ma proverò
 A far sì che ci basti un amore povero oh
 Non sono molti gli assi che sfodero
@@ -51,4 +52,4 @@ Ma spero che ci basti un amore povero oh
 Crolla l'economia e noi ci innamoriamo
 I capitali scappano via e noi ci innamoriamo
 Tramonta la democrazia e noi ci innamoriamo
-Dimmi tu quanto è stupido il genere umanoEmbed
+Dimmi tu quanto è stupido il genere umano

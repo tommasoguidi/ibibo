@@ -1,4 +1,4 @@
-Cara Maria Lyrics[Testo di "Cara Maria"]
+[Testo di "Cara Maria"]
 
 [Strofa 1]
 Chissà se le statue di notte hanno freddo
@@ -36,7 +36,8 @@ Cara Maria, che vuoi che sia?
 Se io mi sono già scordato
 Di tutto il mio passato
 E tu sei già il futuro
-You might also like[Strofa 3]
+
+[Strofa 3]
 Ah, così è l'amore
 Prima nasce e dopo muore
 Poi si trovano altre cose
@@ -50,4 +51,4 @@ Assomigliano a se stessi
 Ma noi siamo un po' più vecchi
 Però siamo ancora pronti
 Perché se non stiamo attenti
-Magari ci perdiamo le chiamate più importanti, ahEmbed
+Magari ci perdiamo le chiamate più importanti, ah

@@ -1,4 +1,4 @@
-Play Lyrics[Testo di "Play"]
+[Testo di "Play"]
 
 [Intro]
 Play, play, play, play
@@ -50,7 +50,8 @@ Io do di stomaco se sento un do di petto
 Te l'ho detto, non sono per lo stile perfetto
 Perché sono un vero professionista
 Io faccio musica solamente per diletto
-You might also like[Ritornello]
+
+[Ritornello]
 Van Gogh è morto povero però c'aveva orecchio
 [?] non è morto giovane, McCartney è vecchio (Play, play)
 Quanta bella musica finisce dentro al secchio
@@ -68,4 +69,4 @@ Ma questo Zucchero è più amaro del Ramazzotti
 
 [Outro]
 Play, play, play, play
-Play, play, play, playEmbed
+Play, play, play, play

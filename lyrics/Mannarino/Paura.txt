@@ -1,4 +1,4 @@
-Paura Lyrics[Testo di "Paura"]
+[Testo di "Paura"]
 
 [Strofa 1]
 Quanti fiori ho visto farsi male
@@ -42,7 +42,8 @@ Non avere paura
 Non avere paura alcuna
 Non avere paura alcuna
 Non avere paura
-You might also like[Strofa 3]
+
+[Strofa 3]
 È scoppiata la bomba sopra al letto
 Hai lasciato una lacrima sul cuscino
 Chi l'avrebbe mai detto
@@ -82,4 +83,4 @@ E di farti sentire
 [Outro]
 Che io non ho paura alcuna
 Che io non ho paura alcuna
-Che io non ho pauraEmbed
+Che io non ho paura

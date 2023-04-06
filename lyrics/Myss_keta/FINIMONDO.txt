@@ -1,4 +1,4 @@
-FINIMONDO Lyrics[Testo di "FINIMONDO"]
+[Testo di "FINIMONDO"]
 
 [Ritornello]
 Che finimondo
@@ -44,7 +44,8 @@ Sarà volato
 Ma com'è strano il fato
 Proprio su di me (Ah, ah, ah, ah, ah)
 Che fini–
-You might also like[Strofa 2]
+
+[Strofa 2]
 Sto-Sto-Sto in tiro (Non vedi, amore?)
 Cosa tocchi? Lo sai quanto costa? Un cifro (Un milione)
 (Che finimo–)
@@ -85,4 +86,4 @@ Se ci fossi anche tu qui con me
 (Che finimondo
 Per un capello biondo
 Che stava sul gilè)
-Se ci fossi anche tu qui con meEmbed
+Se ci fossi anche tu qui con me

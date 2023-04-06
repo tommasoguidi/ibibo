@@ -1,4 +1,4 @@
-Tedesca Lyrics[Testo di "Tedesca"]
+[Testo di "Tedesca"]
 
 [Strofa 1]
 Non importa chi sia né come la pensi
@@ -47,10 +47,11 @@ Che in ogni inizio è compresa anche una fine
 E forse al mondo solo questo è da capire
 Se fossi così saggio adesso starei zitto
 E invece no
-You might also like[Ritornello]
+
+[Ritornello]
 E poi ti guardi e ti riguardi davanti allo specchio
 Solo il riflesso tra voi due è quello che diventa vecchio
 E poi ti guardi e ti riguardi davanti allo specchio
 Solo il riflesso tra voi due è quello che diventa vecchio
 E poi ti guardi e ti riguardi davanti allo specchio
-Solo il riflesso tra voi due è quello che diventa vecchioEmbed
+Solo il riflesso tra voi due è quello che diventa vecchio

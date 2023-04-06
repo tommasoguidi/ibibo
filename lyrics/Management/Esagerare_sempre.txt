@@ -1,4 +1,4 @@
-Esagerare sempre Lyrics[Strofa 1]
+[Strofa 1]
 Noi che ci incontriamo qui tutte le sere
 Chissà che cosa andiamo cercando
 In questo casino di mani, di braccia e di sudore
@@ -35,7 +35,8 @@ Vogliamo tutto e tutto non è abbastanza
 E siamo fatti così, ci piace godere
 Ci piace quando godiamo insieme
 Vogliamo esagerare, esagerare sempre
-You might also like[Outro]
+
+[Outro]
 E siamo fatti così, ci piace godere
 Ci piace piangere, vogliamo piangere sì, ma per la felicità
 E ci piace l'amore ma spesso
@@ -47,4 +48,4 @@ Che sarà mai un'evasione?
 Anche a letto ogni tanto ci sentiamo in prigione
 Anche a letto ogni tanto ci sentiamo in prigione
 Ci sentiamo in prigione
-Ci sentiamo in prigioneEmbed
+Ci sentiamo in prigione

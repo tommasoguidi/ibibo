@@ -1,4 +1,4 @@
-Vai A Lavorare Lyrics[Intro]
+[Intro]
 Ye ye ye Willie peyote
 Disoccupato e nullatenente (ah)
 Su dieci cose fatte (a-ha)
@@ -53,7 +53,8 @@ Mi alzo alle nove: sbocco
 "Ehm pronto?
 Mi sa che oggi non vengo, lo so è l'influenza
 Mi spiace, abbia pazienza"
-You might also like[Ritornello]
+
+[Ritornello]
 “Sono ventitré anni che continui a cazzeggiare
 Vai a lavorare”
 Io non sono preso male, menomale, zero pare
@@ -101,4 +102,4 @@ Io non sono preso male, menomale, zero pare
 Menomale, zero pare
 
 Vai a lavorare!
-Vai a lavorare!Embed
+Vai a lavorare!

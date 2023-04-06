@@ -1,4 +1,4 @@
-Ho smesso di scrivere Lyrics[Testo di "Ho smesso di scrivere"]
+[Testo di "Ho smesso di scrivere"]
 
 [Strofa 1]
 Fanculo quelle volte che non mi rispondi
@@ -39,7 +39,8 @@ Ho smesso di scrivere
 Da quando ci sei
 Perché scrivo solo se sto male
 Ma con te non ci sto male mai
-You might also like[Bridge]
+
+[Bridge]
 Non ci sto male mai
 Non ci sto male mai
 Non ci sto male mai
@@ -70,4 +71,4 @@ Non ci sto male mai
 Non ci sto male mai
 Ma con te non ci sto mai
 Con te non ci sto mai
-Con te non ci sto maiEmbed
+Con te non ci sto mai

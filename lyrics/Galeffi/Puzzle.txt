@@ -1,4 +1,4 @@
-Puzzle Lyrics[Testo di "Puzzle"]
+[Testo di "Puzzle"]
 
 [Ritornello]
 Vorrei pedalare insieme a te
@@ -36,7 +36,8 @@ Solo con te
 Non vedo l'ora
 Di immaginare il nostro amore sulla luna
 Solo con te
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Facciamo un puzzle
 A pezzi siamo io e te
 Facciamo un puzzle
@@ -52,4 +53,4 @@ A pezzi siamo io e te
 Facciamo un puzzle
 A pezzi siamo io e te
 Facciamo un puzzle
-Ci siam persi chissà perchéEmbed
+Ci siam persi chissà perché

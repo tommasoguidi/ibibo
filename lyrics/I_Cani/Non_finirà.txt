@@ -1,4 +1,4 @@
-Non finirà Lyrics[Testo di "Non finirà"]
+[Testo di "Non finirà"]
 
 [Strofa 1]
 Riportiamo le filosofie in cantina
@@ -36,7 +36,8 @@ Riportiamo le filosofie in cantina
 Con le religioni e la PlayStation 2
 Solo il senso che stia per scadere il tempo
 Quello stai sicura non finirà mai
-You might also like[Ritornello]
+
+[Ritornello]
 Perché non finirà, non finirà mai
 Perché non finirà, non finirà mai
 Perché non finirà, non finirà mai
@@ -49,4 +50,4 @@ Perché non finirà, non finirà mai
 Perché non finirà, non finirà mai
 Perché non finirà, non finirà mai
 Perché non finirà, non finirà mai
-Perché nonEmbed
+Perché non

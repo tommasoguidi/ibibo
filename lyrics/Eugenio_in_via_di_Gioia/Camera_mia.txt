@@ -1,4 +1,4 @@
-Camera mia Lyrics[Testo di "Camera mia"]
+[Testo di "Camera mia"]
 
 [Intro]
 La mia casa una stazione
@@ -52,7 +52,8 @@ Oltre quella linea gialla
 Proprio lì che c'è camera mia
 Proprio lì, proprio lì, proprio lì
 Che trovi camera mia
-You might also like[Strofa 3]
+
+[Strofa 3]
 E perderemo coincidenze
 E stringeremo bene i denti
 Con le braccia conserte
@@ -84,4 +85,4 @@ Oltre quella linea gialla
 È proprio lì che c'è camera mia
 Proprio lì che c'è camera mia
 Proprio lì, proprio lì, proprio lì
-Che trovi camera miaEmbed
+Che trovi camera mia

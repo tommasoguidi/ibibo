@@ -1,4 +1,4 @@
-Freshdance Lyrics[Testo di "Freshdance"]
+[Testo di "Freshdance"]
 
 [Interludio]
 Dance, dance, dance
@@ -39,7 +39,8 @@ Hai la luna nella giacca
 Sei più troia di una star
 Sei più bella della notte, della notte quando fuggi
 Hai le borse sotto gli occhi, ma non sono di Gucci
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 L'amore non si vede, l'amore si fa
 L'amore non puoi chiuderlo a chiave
 L'amore non fa finta, l'amore lo sa
@@ -66,4 +67,4 @@ Non sentiamo più dolore
 Chiudi gli occhi e cadi in trans
 [Interludio]
 Dance, dance, dance
-Dance, dance, danceEmbed
+Dance, dance, dance

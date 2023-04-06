@@ -1,4 +1,4 @@
-Una canzone per Lyrics[Testo di "Una canzone per"]
+[Testo di "Una canzone per"]
 
 [Strofa 1]
 Stanotte ho scritto una canzone per te
@@ -43,7 +43,8 @@ Mi proteggi sotto la tua ala
 Ci coalizziamo come due koala
 Con le unghie infilate dentro la schiena
 Dentro al tuo letto sei un fiume in piena
-You might also like[Ritornello]
+
+[Ritornello]
 E poi arriverà la primavera
 E questo ghiaccio si scioglierà
 E noi usciremo una sera
@@ -58,4 +59,4 @@ Stanotte ho scritto una canzone per te
 Stanotte ho scritto una canzone per te
 Faceva na-na-na-na-na-ah
 Però ti giuro che era bella perché
-Faceva solo na-na-na-na-na-ahEmbed
+Faceva solo na-na-na-na-na-ah

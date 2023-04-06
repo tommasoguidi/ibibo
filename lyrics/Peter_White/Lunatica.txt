@@ -1,4 +1,4 @@
-Lunatica Lyrics[Testo di "Lunatica"]
+[Testo di "Lunatica"]
 
 [Strofa 1]
 Quante cose devo fare
@@ -42,7 +42,8 @@ No, non si usa più (No, non si usa più)
 E poi si svuota la strada
 La festa è finita
 Ormai è andata così (Ormai è andata così)
-You might also like[Ritornello]
+
+[Ritornello]
 Lei canta
 Chiede: "Com'è che fa?"
 Na-na-na-na
@@ -58,4 +59,4 @@ Un motivetto
 Che fa "na-na na-na"
 La guardo e sento
 Un motivetto
-Che fa "na-na na-na"Embed
+Che fa "na-na na-na"

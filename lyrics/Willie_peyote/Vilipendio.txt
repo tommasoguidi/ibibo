@@ -1,4 +1,4 @@
-Vilipendio Lyrics[Testo di "Vilipendio"]
+[Testo di "Vilipendio"]
 
 [Intro]
 Non voglio litigare, voglio mitigare
@@ -42,7 +42,8 @@ Quale complotto, quale potere occulto
 Certe label fanno uscire tutti tipo l'indulto
 Siete tutti così uguali che oramai neanche capisco
 Se è una playlist di Spotify o il tuo nuovo disco
-You might also like[Outro]
+
+[Outro]
 Io non voglio litigare, non mi sembra il caso
 Continuate a mitizzare altri idioti a caso
 E si fa per scherzare, se ti sei offeso
@@ -50,4 +51,4 @@ E si fa per scherzare, se ti sei offeso
 Io non voglio litigare, non mi sembra il caso
 Continuate a mitizzare altri idioti a caso
 E si fa per scherzare, se ti sei offeso
-È colpa degli schiaffi che non hai mai preso1Embed
+È colpa degli schiaffi che non hai mai preso

@@ -1,4 +1,4 @@
-Margherita Lyrics[Testo di "Margherita"]
+[Testo di "Margherita"]
 
 [Strofa 1]
 Avevo tutto in mano
@@ -45,8 +45,9 @@ Magari ancora scappo dalle ombre
 Magari ancora gioco con le onde
 Ma ora mi scotto pure di notte
 La testa sotto con il mare forte
-You might also like[Ritornello]
+
+[Ritornello]
 Un mare che, un mare che
 Che non mi porta mai da te
 Un mare che, un mare che
-Che non ti porta mai da meEmbed
+Che non ti porta mai da me

@@ -1,4 +1,4 @@
-È già domani ora Lyrics[Testo di "È già domani ora"]
+[Testo di "È già domani ora"]
 
 [Strofa 1]
 Colleziono calzini spaiati nel letto
@@ -36,7 +36,8 @@ Fino a domani, fino a domani ancora
 Ma è già domani, è già domani ora
 Fino a domani, fino a domani ancora
 Ma è già domani, è già domani ora
-You might also like[Pre-ritornello]
+
+[Pre-ritornello]
 Io non ho nulla da rimpiangere
 Eppure non riesco a smettere
 
@@ -60,4 +61,4 @@ Tendi quelle braccia al cielo
 Quando alla radio senti i Rolling Stones
 Chiediti se sei sincero
 Chiedilo ancora un po'
-Chiedilo ancora un po'Embed
+Chiedilo ancora un po'

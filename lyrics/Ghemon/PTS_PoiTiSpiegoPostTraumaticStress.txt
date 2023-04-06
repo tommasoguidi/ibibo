@@ -1,4 +1,4 @@
-PTS (PoiTiSpiego/PostTraumaticStress) Lyrics[Testo di "PTS (PoiTiSpiego/PostTraumaticStress)"]
+[Testo di "PTS (PoiTiSpiego/PostTraumaticStress)"]
 
 [Strofa 1]
 Messo come sono ho sbrigato le mie pratiche
@@ -52,7 +52,8 @@ Ne il crack del ginocchio di Bruno Conti
 Io intendo il crack che vedi i mostri
 La realtà la distorci
 Il crack e fumi pipe come Marco Castoldi
-You might also like[Ritornello]
+
+[Ritornello]
 Dovete lasciare ogni speranza se entrate
 Qui è tutto di Gilmar senza filtri e facciate
 E solo se siete disposti a farvi guidare
@@ -70,4 +71,4 @@ Queste rime blu cobalto per la malinconia delle mie sere
 Col pretesto che mi devo preparare
 Esco, proprio adesso, non vi vorrei annoiare
 Il tempo non si spreca mi devo lasciare andare
-Me ne vado in discoteca, e guardo gli altri ballareEmbed
+Me ne vado in discoteca, e guardo gli altri ballare

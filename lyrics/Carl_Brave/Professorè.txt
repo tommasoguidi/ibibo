@@ -1,4 +1,4 @@
-Professorè Lyrics[Testo di "Professorè"]
+[Testo di "Professorè"]
 
 [Intro]
 Non voglio andare a scuola
@@ -52,7 +52,8 @@ Ogni battuta era "Tu madre" o "Tu sorella"
 Pregavo la bidella: "Suona 'sta campanella"
 E mentre il prof parlava dell'ampere
 Io stavo a casa col PC a chatta' su Messenger, Messenger
-You might also like[Ritornello]
+
+[Ritornello]
 Aeh professorè
 Vorrei vederti a te
 Mi so' fatto il culo ehh
@@ -66,4 +67,4 @@ E poi m'hai messo tre
 Hola ah oggi non voglio andare a scuola
 Hola, hola, hola, hola, hola-ah
 Oggi non voglio andare a scuola
-Hola, hola, hola, holaEmbed
+Hola, hola, hola, hola

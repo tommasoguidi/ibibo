@@ -1,4 +1,4 @@
-Cazzo che bello Lyrics[Strofa 1]
+[Strofa 1]
 Merda!
 Non ci credevo
 Non ci credevi nemmeno tu che ci sarei riuscito
@@ -55,7 +55,8 @@ Non mi frega d'essere accettato
 Torno alla pazzia del mio cervello
 E alla solitudine del mio ostello
 Però, però!
-You might also like[Ritornello]
+
+[Ritornello]
 Cazzo che bello!
 Sono cattivo proprio come te
 Cazzo che bello!
@@ -71,4 +72,4 @@ Sparo sentenze proprio come fai tu con me
 Cazzo che bello!
 Cazzo che bello!
 Cazzo che bello!
-Cazzo che bello!Embed
+Cazzo che bello!

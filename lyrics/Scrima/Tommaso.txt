@@ -1,4 +1,4 @@
-Tommaso Lyrics[Testo di "Tommaso"]
+[Testo di "Tommaso"]
 
 [Strofa 1]
 Siamo convinti di vedere bene
@@ -35,9 +35,10 @@ Il mondo che immagini in meglio
 Per te
 Per me
 Per te
-You might also like[Ritornello]
+
+[Ritornello]
 Tommaso lo sa che il mare d'inverno è più bello
 Tommaso che sente la pioggia che è sotto l'ombrello
 Tommaso che sente l'odore e capisce che è amore
 Tommaso non vede ma sa chi è
-Tommaso non vede ma sa chi èEmbed
+Tommaso non vede ma sa chi è

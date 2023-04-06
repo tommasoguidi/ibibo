@@ -1,4 +1,4 @@
-All you can eat Lyrics[Testo di "All you can eat"]
+[Testo di "All you can eat"]
 
 [Strofa 1]
 Ho saltato l'appello all’università
@@ -42,7 +42,8 @@ Ti morderò, ti mangerò o no
 Mi mandi fuori di testa
 Come una tazza di sakè
 Sei la mia cena perfetta, serata perfetta
-You might also like[Bridge]
+
+[Bridge]
 È quasi mezzanotte
 Ma dai, chi se ne fotte, sali da me
 Ho un divano-letto
@@ -67,4 +68,4 @@ All you can eat
 E vado fuori di testa
 Con una tazza di sakè
 All you can eat
-Ti mangerò, ti scorderòEmbed
+Ti mangerò, ti scorderò

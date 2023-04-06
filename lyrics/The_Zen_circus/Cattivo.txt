@@ -1,4 +1,4 @@
-Cattivo Lyrics[Testo di "Cattivo"]
+[Testo di "Cattivo"]
 
 [Strofa 1]
 Basta rime del cazzo, ho voglia di spezzarle
@@ -34,10 +34,11 @@ E quando volo ogni volta casco
 Non sento niente, non provo nulla
 Mi guardo dentro, non mi riconosco
 Quando recito ogni volta è un fiasco
-You might also like[Ritornello]
+
+[Ritornello]
 Oggi la città è bellissima
 La gente litiga e si urla contro
 Mentre il traffico è un girotondo
 Guardo la mia vita come al cinema
 Il protagonista di certo è Dio
-Così il cattivo oggi sono ioEmbed
+Così il cattivo oggi sono io

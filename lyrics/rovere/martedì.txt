@@ -1,4 +1,4 @@
-​martedì Lyrics[Testo di "martedì"]
+[Testo di "martedì"]
 
 [Strofa 1]
 Sai, non c'è più luce qui
@@ -38,7 +38,8 @@ Forse la marea
 Ti ricordi come fulmini e tempesta
 Tempesta la tua testa
 Di parole inutili
-You might also like[Bridge]
+
+[Bridge]
 Fai rumore se prendi contro un'immagine
 Ma ti risvegli che ti senti fragile
 E ti aspettavi un domani, ma ormai è cenere
@@ -56,4 +57,4 @@ Di parole inutili
 
 [Outro]
 Sai, è stato bello, sì
-Ma ci vediamo martedìEmbed
+Ma ci vediamo martedì

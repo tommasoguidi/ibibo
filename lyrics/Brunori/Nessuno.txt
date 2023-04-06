@@ -1,4 +1,4 @@
-Nessuno Lyrics[Testo di "Nessuno"]
+[Testo di "Nessuno"]
 
 [Strofa 1]
 Mangio quel che mangio
@@ -42,7 +42,8 @@ Nessuno
 Di-di-di
 Di-ri-di-di-di
 Di-di-di
-You might also like[Strofa 3]
+
+[Strofa 3]
 Canto una canzone
 Perché altrimenti come si fa
 A descrivere una sensazione
@@ -71,4 +72,4 @@ Di-di-di
 Nessuno
 Di-ri-di-di
 Di-di-di-di
-Na-na-nahEmbed
+Na-na-nah

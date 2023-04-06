@@ -1,4 +1,4 @@
-La vita veramente Lyrics[Testo di "La vita veramente"]
+[Testo di "La vita veramente"]
 
 [Strofa 1]
 Il computer mi serve per testimoniare le cose
@@ -47,7 +47,8 @@ E a guardarmi allo specchio mentre mi aspetti
 Il mattino mi serve per giustificare il caffè
 Il caffè per la mia prima sigaretta
 La mia prima sigaretta per tutte le altre
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Odio i ciclisti, tutti i turisti
 E sono stanco di me
 Anzi stanco di te
@@ -109,4 +110,4 @@ Senza pensare che lo sto facendo
 E dimmi cos'è
 E dimmi cos'è
 E dimmi cos'è
-La vita veramenteEmbed
+La vita veramente

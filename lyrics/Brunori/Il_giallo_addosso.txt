@@ -1,4 +1,4 @@
-Il giallo addosso Lyrics[Testo di "Il giallo addosso"]
+[Testo di "Il giallo addosso"]
 
 [Intro]
 (Attivo la batteria elettronica?)
@@ -40,7 +40,8 @@ Accidenti all'America, alla Francia, alla Germania, alla Russia e all'Ucraina
 Accidenti a chi pensa a far la guerra e a fare soldi dalla sera alla mattina
 Accidenti all'Italia, che non crede più ai santi, non crede ai poeti e nemmeno agli eroi
 Figurati a noi
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Figurati a noi
 Mhm-mhm-mhm-mhm
 Figurati a noi
@@ -70,4 +71,4 @@ Accidenti anche a noi
 Accidenti anche a noi
 Accidenti anche a noi
 Accidenti anche a noi
-AccidentiEmbed
+Accidenti

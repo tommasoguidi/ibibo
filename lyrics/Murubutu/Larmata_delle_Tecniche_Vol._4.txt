@@ -1,4 +1,4 @@
-L’armata delle Tecniche Vol. 4 Lyrics[Testo di "L'armata delle Tecniche Vol. 4"]
+[Testo di "L'armata delle Tecniche Vol. 4"]
 
 [Ritornello]
 Con la testa a tempo, oh, oh
@@ -61,7 +61,8 @@ Capo accetta 'sto zero, poi accendimi un cero
 Porta il cambio se canto, se calco lo zeugma
 Ma qua ho già reso a pieno, sono già asceso al cielo
 E sul mio palco ogni incastro è il mio pneuma, l'ápeiron
-You might also like[Bridge]
+
+[Bridge]
 Aaaaaaaah
 Mille viaggi da linguaggio, mille facce su 'sta traccia fanno
 Aaaaaaaah
@@ -82,4 +83,4 @@ Tutti zitti
 [?]
 MC babbuini maschio
 Kattiveria Crew
-My manEmbed
+My man

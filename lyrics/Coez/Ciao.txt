@@ -1,4 +1,4 @@
-Ciao Lyrics[Testo di "Ciao"]
+[Testo di "Ciao"]
 
 [Strofa 1]
 Ho smesso col credere ai grandi
@@ -41,7 +41,8 @@ Perché? Perché?
 E le mie strade portano da te
 Perché? Perché?
 Oggi ho smesso di chiedermelo
-You might also like[Bridge]
+
+[Bridge]
 Ho smesso di lottare e andare contro certi mostri
 Dentro un cinema 3D con più di mille posti
 E ho smesso di volere donne, soldi, gloria e fama
@@ -55,4 +56,4 @@ Ma le tue strade portano da me
 Perché? Perché?
 E le mie strade portano da te
 Perché? Perché?
-Oggi ho smesso di chiedermelo2Embed
+Oggi ho smesso di chiedermelo

@@ -1,4 +1,4 @@
-Karaoke Lyrics[Testo di "Karaoke"]
+[Testo di "Karaoke"]
 
 [Strofa 1]
 In discoteca ci manco da un po'
@@ -38,7 +38,8 @@ Che fretta c'era?
 "Oh let it be, let it be"
 Con una mano nei jeans
 Tutta la gente cantava
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Na, na, na-na-na-na
 Na-na-na-na, na, na, na-na-na-na
 Na-na-na-na, na, na, na-na-na-na
@@ -54,4 +55,4 @@ Ahi-ahi-ahi cantava
 Solo canzoni tristi
 Tornando a casa la sera
 Che fretta c'era?
-Che fretta c'era?Embed
+Che fretta c'era?

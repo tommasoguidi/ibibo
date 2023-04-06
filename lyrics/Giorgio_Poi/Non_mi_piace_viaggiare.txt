@@ -1,4 +1,4 @@
-Non mi piace viaggiare Lyrics[Testo di "Non mi piace viaggiare"]
+[Testo di "Non mi piace viaggiare"]
 
 [Strofa 1]
 All'una di notte con gli occhi di pietra
@@ -34,7 +34,8 @@ E m'ha detto che devo andarci anch'io
 [Pre-Ritornello]
 Ma mi ci vedi? Io no
 Io più ci penso, meno lo so
-You might also like[Ritornello]
+
+[Ritornello]
 Scusa, non mi piace viaggiare
 La pancia della nave ci può digerire
 Il treno serve a farti impazzire
@@ -46,4 +47,4 @@ In bicicletta è freddo d'inverno, no
 Le trappole a rotelle, sei pazzo?
 Sottomarini a forma di cazzo, no
 Satelliti per girare in tondo
-Viaggiare per distruggere il mondo, no, no, noEmbed
+Viaggiare per distruggere il mondo, no, no, no

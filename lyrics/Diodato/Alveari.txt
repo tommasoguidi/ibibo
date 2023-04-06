@@ -1,4 +1,4 @@
-Alveari Lyrics[Testo di "Alveari"]
+[Testo di "Alveari"]
 
 [Strofa 1]
 Dio, quanta vita scorre
@@ -37,7 +37,8 @@ Che fuori c’è la guerra
 Non te ne accorgi più
 Che sei anche tu un soldato
 Che spari pure tu
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Per poi cadere un giorno
 Cadere un giorno e ricordarsi che
 È tutto così facile, un equilibrio facile da perdere
@@ -63,4 +64,4 @@ Cadere un giorno e ricordarsi che
 Ma cadere non è inutile, cadere non è inutile
 Cadere è ritrovarsi, ricordarsi di nuovo
 Dell'essenziale invisibile
-Dell'essenziale invisibileEmbed
+Dell'essenziale invisibile

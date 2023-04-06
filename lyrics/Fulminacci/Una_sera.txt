@@ -1,4 +1,4 @@
-Una sera Lyrics[Testo di "Una sera"]
+[Testo di "Una sera"]
 
 [Strofa 1]
 Strana com'è lei
@@ -48,7 +48,8 @@ Ma ricorda che l'Aurelia è troppo fredda quando è sera
 Non si può fare come ti pare
 Tra un po' non avrai più vent'anni
 E la vita diventa un mestiere
-You might also like[Outro]
+
+[Outro]
 Come fai
 Forse un dì perdonerai
-Aspetto3Embed
+Aspetto

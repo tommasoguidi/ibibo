@@ -1,4 +1,4 @@
-Bohémien Lyrics[Testo di "Bohémien"]
+[Testo di "Bohémien"]
 
 [Intro]
 Uh-uh-uh-uh-uh-uh
@@ -41,7 +41,8 @@ La vecchia che ci abita accanto ieri è venuta a chiedere il sale
 Mi ha domandato quando facciamo un figlio, che cringe (Cazzo che cringe)
 E mia mamma mi ha detto che sono troppo bohémien
 E che se sono così lo devo solamente a te
-You might also like[Bridge]
+
+[Bridge]
 Cremonini girava in sella alla sua Vespa
 Ma io sto sopra a un Segway perché Milano ti dà alla testa
 Bussa alla vicina che ci manca la panna
@@ -54,4 +55,4 @@ Mia mamma ti odia sul serio
 E non ti può sopportare
 Ma le farebbe piacere
 Invitarti per cena a Natale
-Ma tu non puoi venireEmbed
+Ma tu non puoi venire

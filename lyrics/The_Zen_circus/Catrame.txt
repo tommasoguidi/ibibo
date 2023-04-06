@@ -1,4 +1,4 @@
-Catrame Lyrics[Testo di "Catrame"]
+[Testo di "Catrame"]
 
 [Intro]
 Io sono nato in una casa fatta di catrame
@@ -36,9 +36,10 @@ Ma i primi siamo noi a dirci bugie orribili
 Chi è senza peccato non capirà
 Ma un giorno tutto questo finirà
 Forse bene, forse male, chi lo sa?
-You might also like[Outro]
+
+[Outro]
 Mi manchi, bastardo, come una tela al ragno
 L'amore è un sasso che lanci in uno stagno
 Il cerchio si allarga e se guardi bene al centro
 Sei tu, sei tu
-E chi può odiarti di più?Embed
+E chi può odiarti di più?

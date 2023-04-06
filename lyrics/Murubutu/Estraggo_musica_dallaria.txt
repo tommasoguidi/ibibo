@@ -1,4 +1,4 @@
-Estraggo musica dall’aria Lyrics[Testo di "Estraggo musica dall'aria"]
+[Testo di "Estraggo musica dall'aria"]
 
 [Intro]
 Seh, e mi ricordo bene, ehi, eh
@@ -56,7 +56,8 @@ Scroscia forte dall'alba
 Ogni goccia tocca il suolo che nasconde un fantasma
 Direttore di 'sta orchestra, tu mia musa che incanta
 Questo micro è una bacchetta, estraggo musica dall'aria
-You might also like[Ritornello]
+
+[Ritornello]
 E mi ricordo bene, e vedo tutto insieme
 Perché dentro questo cuore ho cento buchi e crepe
 La tua mano sulla fronte mentre il cielo stringeva
@@ -64,4 +65,4 @@ Ha reso tenera la notte più di Keats e Fitzgerald
 E mi ricordo bene, e so che tutto è breve
 Perché dentro questo cuore ho cento funi e leve
 La tua mano senza forza mentre il cielo stingeva
-Ha reso verità la pioggia, sei più gelida a ogni gocciaEmbed
+Ha reso verità la pioggia, sei più gelida a ogni goccia

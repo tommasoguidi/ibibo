@@ -1,4 +1,4 @@
-Fuori dal mondo Lyrics[Testo di "Fuori dal mondo"]
+[Testo di "Fuori dal mondo"]
 
 [Strofa 1]
 Noi che crediamo ancora nell'amore profondo
@@ -34,7 +34,8 @@ Noi che buongiorno al mare, anche s'è un giorno di merda
 E che per stare in piedi non puoi stare per terra
 Noi che siamo contenti anche nei giorni infelici
 Perché quello che muore nutre le radici
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Di questa terra che si sente un poco giù
 Che adesso c'ha la febbre e suda un po' di più
 Noi figli dei fiori
@@ -79,4 +80,4 @@ Che vanno dai tromboni fino ai sassofoni
 Siamo fuori dal mondo (Fuori dal mondo)
 Fuori dal mondo (Fuori dal mondo)
 (Fuori dal mondo, fuori dal mondo)
-Fuori dal mondoEmbed
+Fuori dal mondo

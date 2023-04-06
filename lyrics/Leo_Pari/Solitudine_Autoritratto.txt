@@ -1,4 +1,4 @@
-Solitudine: Autoritratto Lyrics[Testo di "Solitudine: Autoritratto"]
+[Testo di "Solitudine: Autoritratto"]
 
 [Strofa 1]
 Troppo innamorata da non poterne più
@@ -38,7 +38,8 @@ Col cuore aperto
 Na-na-na-na-na-na-na-na-na-na-na-na
 Na-na-na-na-na-na-na-na-na-na-na-na
 Na-na-na-na-na-na-na-na-na-na-na-na
-You might also like[Bridge]
+
+[Bridge]
 È già da un po' che faccio pratica
 
 [Ritornello]
@@ -48,4 +49,4 @@ Io resto fermo
 Col cuore aperto
 Na-na-na-na-na-na-na-na-na-na-na-na
 Na-na-na-na-na-na-na-na-na-na-na-na
-Na-na-na-na-na-na-na-na-na-na-na-naEmbed
+Na-na-na-na-na-na-na-na-na-na-na-na

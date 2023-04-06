@@ -1,4 +1,4 @@
-Nuvole Lyrics[Testo di "Nuvole"]
+[Testo di "Nuvole"]
 
 [Strofa 1]
 Le nuvole si superano a destra
@@ -34,7 +34,8 @@ Divora 'sto silenzio, di quеlli imbarazzanti
 Che cerchi di superare
 Ma fai solo peggio e potrà solo peggiorare
 Del sole manco l'ombra
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 I taxi fanno a ronde in cerca di turisti da spennare
 E tu parli, parli, parli
 Na-na-na-na-na-na-na-na-na
@@ -75,4 +76,4 @@ Ti prenderei il sole tra l'indice e il pollice
 Ricasco nel passato e non è mai soffice
 E se butti carta io butterò forbice
 E tu parli, parli, parli
-Na-na-na-na-na-na-na-na-naEmbed
+Na-na-na-na-na-na-na-na-na

@@ -1,4 +1,4 @@
-Sferica Lyrics[Testo di "Sferica"]
+[Testo di "Sferica"]
 
 [Strofa 1]
 Qualcuno dice che la terra è piatta
@@ -41,8 +41,9 @@ E come si fa
 A districare pensieri
 A perdersi un biglietto per un'astronave blu
 Forza saltiamo su
-You might also like[Outro]
+
+[Outro]
 E come si fa
 A dirsi di no
 E come si fa
-A districare pensieriEmbed
+A districare pensieri

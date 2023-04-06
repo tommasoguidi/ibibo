@@ -1,4 +1,4 @@
-Rose rosse Lyrics[Strofa 1]
+[Strofa 1]
 Non ti domandi da quant'é che non sei felice
 Nascondi a tutti quella tua bella cicatrice
 E passi i giorni a sudare su una calcolatrice
@@ -40,7 +40,8 @@ Disegnare coi pastelli sopra il muro come quando eri bambina
 Ti fa sentire viva
 E se non c'é alternativa evadi dalla tua prigione
 Con un po' di fantasia
-You might also like[Ritornello]
+
+[Ritornello]
 Ami le rose rosse ma nessun uomo te le regala mai
 E sei piena di borse ma non ti piace uscire
 E quindi non le usi mai
@@ -50,4 +51,4 @@ Ami le rose rosse ma nessun uomo te le regala mai
 E sei piena di borse ma non ti piace uscire
 E quindi non le usi mai
 Al posto delle lacrime hai gocce di Lexotan
-Al posto delle lacrime hai gocce di LexotanEmbed
+Al posto delle lacrime hai gocce di Lexotan

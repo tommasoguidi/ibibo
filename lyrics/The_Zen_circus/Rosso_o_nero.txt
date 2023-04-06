@@ -1,4 +1,4 @@
-Rosso o nero Lyrics[Testo di "Rosso o nero"]
+[Testo di "Rosso o nero"]
 
 [Strofa 1]
 I creativi si spostano, gli affitti si alzano
@@ -34,7 +34,8 @@ Cerco consenso
 È fuori moda tutto
 È moda solo fuori
 È merda nell'interno
-You might also like[Bridge]
+
+[Bridge]
 Sono vecchio, passato
 L'hype è finito
 E la vita ti aspetta per mostrarti il dito
@@ -44,4 +45,4 @@ Cresci bene che ripasso
 Delle mode sbatte il cazzo
 Fiero sopra il mio destriero
 Gioco tutto su il rosso o il nero
-Il rosso o il neroEmbed
+Il rosso o il nero

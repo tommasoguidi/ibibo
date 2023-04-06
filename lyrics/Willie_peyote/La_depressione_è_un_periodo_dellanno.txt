@@ -1,4 +1,4 @@
-La depressione è un periodo dell’anno Lyrics[Testo di "La depressione è un periodo dell'anno"]
+[Testo di "La depressione è un periodo dell'anno"]
 
 [Ritornello]
 La depressione è un periodo dell'anno
@@ -34,7 +34,8 @@ Io abuso di alcol e droghe
 Ormai tutti i giorni da vent'anni buoni
 Ma voi quale scusa trovate
 Che vi siete tutti bruciati i neuroni? (Coglioni)
-You might also like[Ritornello]
+
+[Ritornello]
 La depressione è un periodo dell'anno
 Ma non ci sono più le mezze stagioni
 Al giorno ormai quante polemiche fanno
@@ -103,4 +104,4 @@ Qui tutti burloni o Burioni
 Nessuno c'ha un sogno, uno scopo
 Una vita, però c'hanno tutti un sacco di opinioni
 Buttare giù tutte le statue
-O temere le cospirazioni3Embed
+O temere le cospirazioni

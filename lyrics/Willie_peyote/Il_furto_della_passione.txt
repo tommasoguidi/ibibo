@@ -1,4 +1,4 @@
-Il furto della passione Lyrics[Testo di "Il furto della passione"]
+[Testo di "Il furto della passione"]
 
 [Ritornello]
 La felicità è un furto
@@ -53,7 +53,8 @@ Forse sbaglio nome, Colombo con gli indiani
 Io sono un campione a mettere avanti le mani
 Ma 'sta roba, se ti prende, quasi sempre ci rimani
 Come quando ho visto te
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Non ero pronto, tu mi hai colto impreparato
 Ho fatto finta perché in quello sono il capo
 Sembrare strafottente, disinteressato
@@ -68,4 +69,4 @@ Io cercavo solo un complice
 E vabbè, scusa il disturbo
 La felicità è un furto
 Io cercavo solo un complice
-E lo so che sembra assurdoEmbed
+E lo so che sembra assurdo

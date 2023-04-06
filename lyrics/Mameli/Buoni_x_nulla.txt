@@ -1,4 +1,4 @@
-Buoni x nulla Lyrics[Testo di "Buoni x nulla"]
+[Testo di "Buoni x nulla"]
 
 [Strofa 1]
 Le tue abitudini sono strane
@@ -44,7 +44,8 @@ E lo ammetto, il tuo modo di fare
 La principessa alcune volte mi da un po' fastidio
 E quindi passo le notti sul divano
 Per capire se ho sbagliato dal principio
-You might also like[Ritornello]
+
+[Ritornello]
 E adesso non mi importa cosa dici
 Vorrei soltanto delirare un altro po'
 Farei tutta Milano con la bici
@@ -61,4 +62,4 @@ Puoi chiedermi dei soldi, tanto non ne ho
 Lo sai che non mi piace quando mi dai buca
 Come se torno a casa e trovo la verdura
 Lo sai che in generale io non ho paura
-Ma di te si, un po' ce l'hoEmbed
+Ma di te si, un po' ce l'ho

@@ -1,4 +1,4 @@
-Io centro con i missili Lyrics[Testo di "Io centro con i missili"]
+[Testo di "Io centro con i missili"]
 
 [Intro]
 Volo su un Boe-boe-boeing
@@ -48,8 +48,9 @@ Io sono un missile
 Ho sfiorato più di mille volte l'atmosfera
 Ed ora sono inutile
 Inutilizzabile
-You might also like[Outro]
+
+[Outro]
 Io sono un missile
 Ho sfiorato più di mille volte l'atmosfera
 Ed ora sono inutile
-IrraggiungibileEmbed
+Irraggiungibile

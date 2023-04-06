@@ -1,4 +1,4 @@
-Casa Tua Lyrics[Testo di "Casa Tua"]
+[Testo di "Casa Tua"]
 
 [Strofa 1]
 Io non so come fai, ad essere sempre così
@@ -35,7 +35,8 @@ E poi mi parli sopra
 E ti escono parole a caso
 Poi ti preoccupi di essere noiosa
 Ma dai,ma dai
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Ehi ti va?
 Di fare il giro lungo e rimanere un po'
 In una vita come quella mia che non è il top
@@ -69,4 +70,4 @@ Fermarci a dormire in un posto isolato
 È sempre casa tua
 Non fare complimenti che ci resto male
 Eh-eh
-Che questa è casa tuaEmbed
+Che questa è casa tua

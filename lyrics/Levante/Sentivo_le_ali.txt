@@ -1,4 +1,4 @@
-Sentivo le ali Lyrics[Testo di “Sentivo le ali”]
+[Testo di “Sentivo le ali”]
 
 [Intro]
 Vai, vai
@@ -37,7 +37,8 @@ Sospesa dell’idea che non mi ami
 Che non arriverai mai domani
 Resto, me ne vado
 E se non torni non avrò paura
-You might also like[Outro]
+
+[Outro]
 Presto si è fatto tardi
 Ho corso incontro a nuovi sguardi
-La prima vera volta non si scorda mai, maiEmbed
+La prima vera volta non si scorda mai, mai

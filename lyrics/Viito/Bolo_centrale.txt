@@ -1,4 +1,4 @@
-Bolo centrale Lyrics[Testo di "Bolo centrale"]
+[Testo di "Bolo centrale"]
 
 [Intro]
 *Fischiettio*
@@ -41,7 +41,8 @@ Mischio questo pianto con il temporale
 È la prima volta dell'anno che guardo il mare
 Lo sai, lo sai, che le persone fanno male
 Te lo diceva un dottore, che stava lì a fumare
-You might also like[Bridge]
+
+[Bridge]
 L'aria fresca sulla pelle la mattina presto
 La poca luce dietro una finestra
 Semichiusa all'alba, quando fuori è bello
@@ -62,4 +63,4 @@ Te lo diceva un dottore, che stava lì a fumare
 
 [Outro]
 *Fischiettio*
-Na-na-na-na-na-na-na-na-na-naEmbed
+Na-na-na-na-na-na-na-na-na-na

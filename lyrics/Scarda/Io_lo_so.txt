@@ -1,4 +1,4 @@
-Io lo so Lyrics[Testo di "Io lo so"]
+[Testo di "Io lo so"]
 
 [Strofa 1]
 Io lo so
@@ -37,7 +37,8 @@ E temi tutto anche la gente
 Quando c'è e quando è assente
 Tutto ciò che ti circonda
 È un pericolo imminente
-You might also like[Ritornello]
+
+[Ritornello]
 E pensi non funzioni niente
 Sul tuo specchio e nella gente
 Né salute, niente amore
@@ -55,4 +56,4 @@ Allora lasciati un po' andare
 Siamo fiamme su candele
 Siamo fatti per bruciare
 Non puoi sempre trattenere
-Troppa vita da squagliareEmbed
+Troppa vita da squagliare

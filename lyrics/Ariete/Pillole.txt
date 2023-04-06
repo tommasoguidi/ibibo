@@ -1,4 +1,4 @@
-Pillole Lyrics[Testo di "Pillole"]
+[Testo di "Pillole"]
 
 [Strofa 1]
 Associo Roma a cose brutte, ma non posso andarmene
@@ -38,7 +38,8 @@ E che se fossi qui con me, forse non sarebbe in salita
 Non sarebbe in salita
 Non sarebbe in salita
 Ed ora sei sparita
-You might also like[Ritornello]
+
+[Ritornello]
 Pillole, pillole, prendo pillole per stare calma
 Non mi fido più di nessun'altra
 Tengo paranoie nella tasca
@@ -66,4 +67,4 @@ E giro Termini aspettando te
 Piccole, piccole, siamo piccole dentro la stanza
 Sento qualche cosa che mi manca
 È da quando tu mi hai detto: "Basta"
-Che giro Termini aspettando te5Embed
+Che giro Termini aspettando te

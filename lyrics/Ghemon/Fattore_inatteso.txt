@@ -1,4 +1,4 @@
-Fattore inatteso Lyrics[Testo di "Fattore Inatteso" ft. Hyst]
+[Testo di "Fattore Inatteso" ft. Hyst]
 
 [Ritornello: Hyst]
 Il peso è
@@ -48,7 +48,8 @@ Il peso è
 Sempre un fattore inatteso,però
 Io cerco
 Di stare attento a ciò che penso
-You might also like[Strofa 3: Ghemon]
+
+[Strofa 3: Ghemon]
 Peggio di peggio, più giù di così non si può
 E devo risalire, oh!
 Ora sto troppo meglio, chi mi ferma?
@@ -62,4 +63,4 @@ Nessun altro, se non lo fai tu, è così...
 Il peso è
 Sempre un fattore inatteso,però
 Io cerco
-Di stare attento a ciò che pensoEmbed
+Di stare attento a ciò che penso

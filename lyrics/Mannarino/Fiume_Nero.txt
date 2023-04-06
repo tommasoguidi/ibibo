@@ -1,4 +1,4 @@
-Fiume Nero Lyrics[Testo di "Fiume Nero"]
+[Testo di "Fiume Nero"]
 
 [Strofa 1]
 Mia vita, mia vagabonda
@@ -44,7 +44,8 @@ Tamburi, tamburi, tamburi, tamburi
 Tamburi nella tua mente
 Tamburi dentro al tuo petto
 Che lì fuori nessuno sente
-You might also like[Ritornello]
+
+[Ritornello]
 Ehi, è un fiume nero, nero, nero, nero
 È un fiume nero
 Ehi, è un fiume nero, nero, nero, nero
@@ -81,4 +82,4 @@ Adesso siamo lontani
 Ehi, è un fiume nero, nero, nero, nero
 È un fiume nero
 Ehi, è un fiume nero, nero, nero, nero
-Che torna in cieloEmbed
+Che torna in cielo

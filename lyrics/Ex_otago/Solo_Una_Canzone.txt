@@ -1,4 +1,4 @@
-Solo Una Canzone Lyrics[Testo di "Solo Una Canzone"]
+[Testo di "Solo Una Canzone"]
 
 [Strofa 1]
 Resta con me
@@ -34,7 +34,8 @@ Ma tutte quelle storie
 Che hanno visto almeno dieci primavere
 Cento casini, cento grandi scene
 Mille pagine attaccate ancora insieme
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Non è semplice
 Restare complici
 Un amante credibile
@@ -68,4 +69,4 @@ Tutto ciò che sento, oh
 
 [Outro]
 È solo una canzone
-Abbracciami per favoreEmbed
+Abbracciami per favore

@@ -1,4 +1,4 @@
-MEDICINE Lyrics[Testo di "MEDICINE"]
+[Testo di "MEDICINE"]
 
 [Intro: Lil Kaneki]
 Il mio Paese, il mio–
@@ -41,7 +41,8 @@ E se io mi divertissi come è legale fare
 O morirei di noia, o morirei di fame
 E fuori c'è la guerra, e sono vuote le strade
 Ma non devi pensarci, ci devi fare pace
-You might also like[Ritornello: Drast]
+
+[Ritornello: Drast]
 La soluzione ai problemi sono le medicine
 Una per fare festa, una per chi non sorride
 Una appena ti svegli, una prima di dormire
@@ -50,4 +51,4 @@ La soluzione ai problemi sono le medicine
 Una per stare sveglia, una per chi non sorride
 Una a prima mattina, una prima di morire
 Medicine, medicine, riempiti di medicine
-Riempiti di medicineEmbed
+Riempiti di medicine

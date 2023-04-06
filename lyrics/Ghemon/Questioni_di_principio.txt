@@ -1,4 +1,4 @@
-Questioni di principio Lyrics[Testo di "Questioni di principio"]
+[Testo di "Questioni di principio"]
 
 [Strofa 1]
 Potrei accarezzare la mia imperfezione
@@ -46,7 +46,8 @@ Non devo
 No, no, non devo
 Potrei farlo, però non devo
 No, no, non devo farlo, però
-You might also like[Bridge]
+
+[Bridge]
 Potrei abbandonare tutta la mia vita
 In mano a qualche guru, a qualche life coach
 Ma ho deciso di trovare solo la mia voce
@@ -71,4 +72,4 @@ No, no, non devo farlo, però
 Non devo
 No, no, non devo
 Potrei farlo, però non devo
-No, no, non devo farlo, peròEmbed
+No, no, non devo farlo, però

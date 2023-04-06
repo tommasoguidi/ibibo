@@ -1,4 +1,4 @@
-TranslationsEnglishScatole Lyrics[Testo di "Scatole"]
+[Testo di "Scatole"]
 
 [Intro]
 One, two, three, four
@@ -45,7 +45,8 @@ Sì, ma io non sono come te
 Di quello che sarò, tu che ne sai?
 Sì, ma io non sono come te, eh, eh
 Vedi di non dimenticarlo mai
-You might also like[Outro]
+
+[Outro]
 E adesso anche io c'ho una soffitta
 Ed un pezzo di carta in una teca pulita
 E non faccio l'architetto o l'ingegnere
@@ -53,4 +54,4 @@ Mio padre in qualche modo ha accettato la mia vita
 Gli dicevo: "Io non sono come te
 Io sono diverso, io sono migliore"
 Ma le canzoni in fondo sono solo scatole
-Dove la gente si rifugia quando fuori piove2Embed
+Dove la gente si rifugia quando fuori piove

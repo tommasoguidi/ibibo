@@ -1,4 +1,4 @@
-Barconi Lyrics[Testo di "Barconi"]
+[Testo di "Barconi"]
 
 [Strofa 1]
 Andata senza ritorno
@@ -38,7 +38,8 @@ Aprite tutti i balconi
 E andiamocene fuori
 Che ci guardiamo negli occhi e vediamo
 Che non siamo soli, non siamo soli, uh-uh
-You might also like[Bridge]
+
+[Bridge]
 Che poi magari basta solo una scusa
 Una porta socchiusa per tornare da me
 Che poi magari resta solo una scusa
@@ -58,4 +59,4 @@ Che non siamo soli, non siamo soli
 E non sentirti meno importante
 E non pensare che non c'entri niente
 E non sentirti meno importante
-E non pensare che non c'entri nienteEmbed
+E non pensare che non c'entri niente

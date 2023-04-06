@@ -1,4 +1,4 @@
-Genio Dentro Lyrics[Testo di "Genio Dentro"]
+[Testo di "Genio Dentro"]
 
 [Strofa 1: Dutch Nazari]
 Ti ho tenuto d'occhio in questi anni, sai?
@@ -62,7 +62,8 @@ C'è del genio in chi riesce a realizzare gli ossimori
 A convivere perfettamente con altri mammiferi
 C'è del genio nelle pupille, nelle papille
 Nelle truffe ma fatte per bene: otto per mille
-You might also like[Ritornello: Dutch Nazari]
+
+[Ritornello: Dutch Nazari]
 E tu dirai che non è vero, ma hai un genio dentro di te
 E certe volte quando scrivi le notti
 Lo tradisce quel tuo sguardo negli occhi
@@ -76,4 +77,4 @@ Ma sì figurati appunto nel senso ma nel caso in cui avesse la voglia
 Ah ah ma figurati non ho nessun potere in carica ho solo il telefonino quindi
 (ma solo quando vuole lui)
 No ma anche in un futuro remoto prossimo quando sarà
-Svegliati a primavera peròEmbed
+Svegliati a primavera però

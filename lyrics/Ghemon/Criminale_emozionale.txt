@@ -1,4 +1,4 @@
-Criminale emozionale Lyrics[Testo di "Criminale emozionale"]
+[Testo di "Criminale emozionale"]
 
 [Strofa 1]
 Non sono come credi
@@ -37,7 +37,8 @@ A che eravamo rimasti
 Ho dei problemi con l'ego
 Mi ami ma intanto detesti
 Che quando chiami mi nego
-You might also like[Bridge]
+
+[Bridge]
 Ognuno in fondo ha qualche cosa da nascondere
 Ma io ti ho detto tutto di me
 
@@ -59,4 +60,4 @@ E te lo giuro che perfetto non lo sono stato mai
 La gente crede nell'aspetto e nell'effetto che gli fai
 E l'illusione che dai
 (E l'impressione che fai)
-Dell'illusione che dai1Embed
+Dell'illusione che dai

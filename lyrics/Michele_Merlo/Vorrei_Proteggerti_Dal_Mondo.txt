@@ -1,4 +1,4 @@
-Vorrei Proteggerti Dal Mondo Lyrics[Strofa 1]
+[Strofa 1]
 Te lo ricordi come se fosse ieri
 Il giorno in cui tu ti sei persa dentro
 Ed hai pensato a come fare a ritrovare la strada
@@ -35,7 +35,8 @@ Perché sei sola e non capisci cosa è vero e cosa è falso
 Vorrei proteggerti da tutto, tu stella contro l’universo
 Provare a prendere la vita anche se non ci trovi un senso
 Anche se non ci trovi un senso
-You might also like[Bridge]
+
+[Bridge]
 È solo quando chiudi gli occhi che vedi bene ciò che hai dentro
 Perché a volte è dentro a un pugno che si nasconde l'universo
 In fondo sai che forse è vero quello che ci siamo detti
@@ -46,4 +47,4 @@ Vorrei proteggerti dal mondo, perché il mondo non è giusto
 Perché sei sola e non capisci cosa è vero e cosa è falso
 Vorrei proteggerti da tutto, tu stella contro l'universo
 Provare a prendere la vita anche se non ci trovi un senso
-Anche se non ci trovi un sensoEmbed
+Anche se non ci trovi un senso

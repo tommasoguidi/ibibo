@@ -1,4 +1,4 @@
-In (gin) di vita Lyrics[Testo di "In (gin) di vita"]
+[Testo di "In (gin) di vita"]
 
 [Strofa 1]
 Sono fatto dei tuoi occhi
@@ -34,7 +34,8 @@ Sono matto, sì
 Come il Joker Joaquin Phoenix
 Non mi fa ridere ma piangere
 Hai visto il film?
-You might also like[Bridge]
+
+[Bridge]
 E adesso che è finito il tour
 E adesso che mi manchi tu
 Che non ti trovo più nel mio menù
@@ -63,4 +64,4 @@ Chiamami stupido
 E adesso che è finito il tour
 E proprio adesso che mi manchi tu
 Che non ti trovo più nel mio menù
-Che cosa ordino?Embed
+Che cosa ordino?

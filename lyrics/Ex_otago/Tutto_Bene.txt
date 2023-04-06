@@ -1,4 +1,4 @@
-Tutto Bene Lyrics[Testo di "Tutto Bene"]
+[Testo di "Tutto Bene"]
 
 [Strofa 1]
 Tu dimmi cosa fai, lavori o studi?
@@ -34,7 +34,8 @@ Tutto bene, tutto bene, tutto bene
 Tutto bene, tutto bene, va sempre tutto bene
 Sempre tutto bene, tutto bene, tutto bene
 Tutto bene, tutto bene, terribilmente tutto bene
-You might also like[Bridge]
+
+[Bridge]
 Va bene, sei ottimista
 È una vita che fai yoga
 E ti sei fatto anche la barca
@@ -44,4 +45,4 @@ Ma non può andare sempre tutto bene
 Tutto bene, tutto bene, tutto bene
 Tutto bene, tutto bene, va sempre tutto bene
 Sempre tutto bene, tutto bene, tutto bene
-Tutto bene, tutto bene, terribilmente tutto beneEmbed
+Tutto bene, tutto bene, terribilmente tutto bene

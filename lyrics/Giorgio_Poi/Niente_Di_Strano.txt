@@ -1,4 +1,4 @@
-Niente Di Strano Lyrics[Testo di "Niente Di Strano"]
+[Testo di "Niente Di Strano"]
 
 [Strofa 1]
 Hai detto prendo tutto e vado via
@@ -54,7 +54,8 @@ Che rimangono tra i denti
 Chilometri di filo interverbale
 Per poterle pronunciare
 E per lenire l'imbarazzo di un'incomprensione
-You might also like[Ritornello]
+
+[Ritornello]
 Ma niente di strano
 Niente di strano
 Niente di strano
@@ -67,4 +68,4 @@ Niente di strano
 Niente di strano
 Niente di strano
 Niente di strano
-Niente di stranoEmbed
+Niente di strano

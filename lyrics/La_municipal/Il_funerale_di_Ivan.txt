@@ -1,4 +1,4 @@
-Il funerale di Ivan Lyrics[Testo di "Il funerale di Ivan"]
+[Testo di "Il funerale di Ivan"]
 
 [Strofa 1]
 Metto ancora qualche goccia nel bicchiere
@@ -49,7 +49,8 @@ Sua madre vuole solo la verità
 Sua madre vuole solo la verità
 Sua madre vuole solo la verità
 Sua madre vuole solo la verità
-You might also like[Outro]
+
+[Outro]
 Perché tanto prima o poi finirà
 Finirà tutto quanto
 Finirà tutto quanto perché
@@ -60,4 +61,4 @@ Tanto prima o poi finirà
 Finirà tutto quanto
 Finirà tutto quanto perché
 Tanto prima o poi finirà
-Finirà tutto quantoEmbed
+Finirà tutto quanto

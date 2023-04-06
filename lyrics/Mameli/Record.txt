@@ -1,4 +1,4 @@
-Record Lyrics[Testo di "Record"]
+[Testo di "Record"]
 
 [Strofa 1]
 La testa è una giostra
@@ -38,8 +38,9 @@ Ormai da un po' troppe settimane la mia testa non c'è
 Ho solo una valigia e la mia felpa grigia che sta bene anche a te
 Ci mescoliamo o no
 Comunque vada è stato bello da record
-You might also like[Outro]
+
+[Outro]
 Ci mescoliamo o no
 Comunque vada è stato bello da record
 Comunque vada è stato bello da record
-Comunque vada è stato bello da recordEmbed
+Comunque vada è stato bello da record

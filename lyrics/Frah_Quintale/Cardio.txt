@@ -1,4 +1,4 @@
-Cardio Lyrics[Testo di "Cardio"]
+[Testo di "Cardio"]
 
 [Strofa 1]
 Non so ancora bene chi sei
@@ -38,7 +38,8 @@ Per te sarò un giovane vecchio
 Col bastone e con l'apparecchio
 Per te quasi rischio l'arresto
 Tu mi fai fare cardio
-You might also like[Ritornello]
+
+[Ritornello]
 Io con te fingo di essere un altro
 Quando ci dobbiamo vedere
 Con te quasi rischio un infarto
@@ -46,4 +47,4 @@ Tu mi fai fare cardio
 Per te sarò un giovane vecchio
 Col bastone e con l'apparecchio
 Per te quasi rischio l'arresto
-Tu mi fai fare cardioEmbed
+Tu mi fai fare cardio

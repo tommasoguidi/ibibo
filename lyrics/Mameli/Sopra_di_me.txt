@@ -1,4 +1,4 @@
-Sopra di me Lyrics[Testo di "Sopra di me"]
+[Testo di "Sopra di me"]
 
 [Strofa 1]
 È vero che parlo da solo di notte
@@ -36,7 +36,8 @@ E quando tu un giorno avrai la voglia
 Di fare un giro con me
 Sarà un'altra botta pazzesca
 Senza una sosta, pausa caffè
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Ma mi avevi detto
 Che è solo una scusa
 E invece
@@ -64,4 +65,4 @@ Non c'è niente di personale
 Ma non ho di meglio da fare
 Rimuginare, ti giuro la smetto
 Ti giuro la smetto
-Ti giuro la smettoEmbed
+Ti giuro la smetto

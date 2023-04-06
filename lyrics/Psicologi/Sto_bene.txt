@@ -1,4 +1,4 @@
-Sto bene Lyrics[Testo di "Sto bene"]
+[Testo di "Sto bene"]
 
 [Strofa 1: Drast]
 Un treno che parte, vado a quel paese
@@ -50,7 +50,8 @@ Cerco un po' di tutto quando tutto manca
 E sono un po' distrutto, fumo nella stanza
 Tra un attacco d'ansia scrivi e arrivi al punto
 Nel momento giusto, però
-You might also like[Pre-Ritornello: Lil Kaneki]
+
+[Pre-Ritornello: Lil Kaneki]
 Spaccherò la faccia al tuo ex
 Quando si ripresenterà
 Piangi come un coccodrillo
@@ -70,4 +71,4 @@ Sto bene finalmente, sto bene finalmente
 Lo sai, lo sai
 Che sto bene finalmente, sto bene finalmente
 Lo sai, lo sai
-Che sto bene finalmente, sto bene, sto bene, sto bene1Embed
+Che sto bene finalmente, sto bene, sto bene, sto bene

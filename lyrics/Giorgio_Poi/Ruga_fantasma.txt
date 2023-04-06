@@ -1,4 +1,4 @@
-Ruga fantasma Lyrics[Testo di "Ruga fantasma"]
+[Testo di "Ruga fantasma"]
 
 [Strofa 1]
 Mi sembra che dalla pizza
@@ -38,7 +38,8 @@ Che riempiva la stanza
 Quando eri triste
 Quando dicevi:
 "Forse è finita la primavera"
-You might also like[Bridge]
+
+[Bridge]
 Forse è finita la primavera
 
 [Ritornello]
@@ -46,4 +47,4 @@ Pero di te mi ricordo
 Una ruga sul volto
 Ma c'era soltanto, soltanto, soltanto
 Quando finiva la primavera
-Quando finiva la primaveraEmbed
+Quando finiva la primavera

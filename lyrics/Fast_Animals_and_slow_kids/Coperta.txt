@@ -1,4 +1,4 @@
-Coperta Lyrics[Testo di "Coperta"]
+[Testo di "Coperta"]
 
 [Strofa 1]
 Parlami per ore
@@ -42,8 +42,9 @@ Lo sguardo del ritorno
 Puro romanticismo
 Disperso fra la nebbia
 Di ricordi che non voglio
-You might also like[Outro]
+
+[Outro]
 Lo sguardo del ritorno
 Puro romanticismo
 Disperso fra la nebbia
-Di ricordi che non voglioEmbed
+Di ricordi che non voglio

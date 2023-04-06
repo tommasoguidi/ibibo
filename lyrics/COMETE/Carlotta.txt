@@ -1,4 +1,4 @@
-Carlotta Lyrics[Testo di "Carlotta"]
+[Testo di "Carlotta"]
 
 [Intro]
 Sarebbe bello aprire gli occhi adesso
@@ -42,7 +42,8 @@ Voglio solo una spiaggia
 Il sole a picco, un clima tropicale
 Ma sono in metro, un tipo sta parlando
 Di strategia aziendale?
-You might also like[Ritornello]
+
+[Ritornello]
 E ci buttiamo sopra il letto stanchi
 Dormiamo un po', dormiamo
 Tu chiudi gli occhi, dici che mi ascolti
@@ -78,4 +79,4 @@ Domani poi vediamo
 Però a volte mi sembra che sei
 Come l'unico mi piace su un post
 Come l'unico posto sicuro
-Dove nessuno sa come stoEmbed
+Dove nessuno sa come sto

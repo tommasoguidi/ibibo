@@ -1,4 +1,4 @@
-Eroina Lyrics[Testo di "Eroina"]
+[Testo di "Eroina"]
 
 [Strofa 1]
 L'amore è come eroina
@@ -46,7 +46,8 @@ Dalla sera alla mattina
 Ti voglio in circolo, sei eroina
 E me ne fotto se poi starò male
 Sei l'overdose che mi fa stare bene
-You might also like[Ritornello]
+
+[Ritornello]
 Ci sono dei momenti in cui
 Io non riesco a fare a meno di te
 Che mi rilassi e mi fai stare bene
@@ -57,4 +58,4 @@ E mentre vorresti farmi l'amore
 Ti prego resta ancora qui a guardare
 Non sarò mai maturo abbastanza
 Per dirti: "Ti voglio bene" e che
-Voglio stare con teEmbed
+Voglio stare con te

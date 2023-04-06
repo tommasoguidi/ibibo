@@ -1,4 +1,4 @@
-Sette Volte Lyrics[Testo di "Sette Volte"]
+[Testo di "Sette Volte"]
 
 [Strofa 1]
 Noi due, bussole diverse
@@ -40,7 +40,8 @@ Lo so me lo dite tutti, cazzo ne sapete
 Quello che è giusto per me
 Forse mi piace stare male, l'illusione mi va bene
 Perché cerco la perfezione nelle lame, belle ma affilate
-You might also like[Bridge]
+
+[Bridge]
 Ora che siamo soli
 Ti prego, muoviti su di me
 Fammi sentire cosa vuol dire amore
@@ -63,4 +64,4 @@ Non era mai quella giusta per me
 Lo so me lo dite tutti, cazzo ne sapete
 Quello che è giusto per me
 Forse mi piace stare male, l'illusione mi va bene
-Perché cerco la perfezione nelle lame, belle ma affilateEmbed
+Perché cerco la perfezione nelle lame, belle ma affilate

@@ -1,4 +1,4 @@
-Sui divanetti Lyrics[Testo di "Sui divanetti"]
+[Testo di "Sui divanetti"]
 
 [Strofa 1]
 Mi perdo nelle vie immerso nel rito
@@ -61,7 +61,8 @@ Dici che son cambiato, ma io mi sento identico
 Lo stesso e con gli stessi specchi su cui mi inerpico
 Ognuno ha un sogno, un desiderio autentico
 Il problema mio è che io i sogni me li dimentico
-You might also like[Bridge]
+
+[Bridge]
 E te l'ho spiegato che anche se fatico senza
 Ho bisogno della tua assenza
 Per capire meglio la mia essenza
@@ -88,4 +89,4 @@ Il mondo è una discoteca
 E io svengo sui divanetti
 Divanetti
 Il mondo è una discoteca
-E io...Embed
+E io...

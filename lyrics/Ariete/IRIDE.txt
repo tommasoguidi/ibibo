@@ -1,4 +1,4 @@
-IRIDE Lyrics[Testo di "IRIDE"]
+[Testo di "IRIDE"]
 
 [Strofa 1]
 Passa un'altra notte e sono sola in mezzo alle coperte
@@ -42,7 +42,8 @@ E mi fa strano realizzare che
 Non esiste più qualcuno
 Che mi amerà come te
 E ti amerà come me
-You might also like[Ritornello]
+
+[Ritornello]
 E non riesco più a restare da sola
 Ma non mi piace stare in mezzo alla gente
 E sento che mi manca sempre qualcosa
@@ -50,4 +51,4 @@ E mi ritorni in mente, mi ritorni in mente
 E ripensando a come eravamo allora
 Mi sono chiesta quando dura un per sempre
 Ed ogni volta che un ricordo riaffiora
-Mi ritorni in mente, mi ritorni in mente1Embed
+Mi ritorni in mente, mi ritorni in mente

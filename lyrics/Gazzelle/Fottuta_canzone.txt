@@ -1,4 +1,4 @@
-Fottuta canzone Lyrics[Testo di "Fottuta canzone"]
+[Testo di "Fottuta canzone"]
 
 [Strofa 1]
 Non mi scordo come è brutto il mondo
@@ -34,7 +34,8 @@ Mal di testa, panico, panico, panico
 Ho paura di star bene
 Faccio finta che non me ne
 Frega niente, invece, invece, invece sì
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Taffe-taffe-tafferugli sopra il pianerottolo
 Noi due contro tutto e tutti
 Questo sì è romantico
@@ -53,4 +54,4 @@ Ci metto la faccia
 [Outro]
 E tu stai come me e io sto come te
 Ma stavolta ci metto la faccia
-Ci metto la facciaEmbed
+Ci metto la faccia

@@ -1,4 +1,4 @@
-Bambini Lyrics[Testo di "Bambini"]
+[Testo di "Bambini"]
 
 [Strofa 1]
 Eravamo bambini
@@ -39,10 +39,11 @@ Ma non per quello che è, perché
 Perché era straordinario inseguire il pallone con te, perché
 Perché eravamo sinceri, seguivamo l'istinto facendoci male
 Non era facile capire che eravamo solo noi
-You might also like[Outro]
+
+[Outro]
 Voglio ritornare bambino
 Voglio ritornare bambino
 Giocare con mio padre a nascondino
 Voglio ritornare bambino
 Voglio ritornare bambino
-Guardare le montagne dal finestrinoEmbed
+Guardare le montagne dal finestrino

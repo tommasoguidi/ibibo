@@ -1,4 +1,4 @@
-Cosa farai Lyrics[Ritornello]
+[Ritornello]
 Se non ti chiedo che cosa farai
 È perché lo so già
 Lo so già, yeah
@@ -36,7 +36,8 @@ Cosa farai
 Se non ti chiedo
 Cosa farai
 (lo so già)
-You might also like[Ritornello]
+
+[Ritornello]
 Se non ti chiedo che cosa farai
 È perché lo so già
 Lo so già, yeah
@@ -48,4 +49,4 @@ Lo so già, yeah
 Siamo stati un po' dappertutto
 Ma ci amiamo in questa città
 Non posso aspettare un minuto
-Ma è il futuro che aspetteràEmbed
+Ma è il futuro che aspetterà

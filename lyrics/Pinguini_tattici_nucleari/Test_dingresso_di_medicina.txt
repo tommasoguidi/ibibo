@@ -1,4 +1,4 @@
-Test d’ingresso di medicina Lyrics[Testo di "Test d'ingresso di medicina"]
+[Testo di "Test d'ingresso di medicina"]
 
 Nelle fredde e buie ore di filosofia
 In cui si risponde sempre alle stesse domande
@@ -42,7 +42,8 @@ E ci siam divertiti ad usare l'ombrello come una barca
 E adesso che siamo tutti inzuppati
 Le nostre madri ci sbatteranno fuori di casa
 E non ci apriranno più
-You might also likeConserva sempre la paura di calpestare la linea
+
+Conserva sempre la paura di calpestare la linea
 Che divide una piastrella dall'altra
 O cadrai nella lava e ti dissolverai
 E tua madre poi verrà a cercare me
@@ -71,4 +72,4 @@ Ritentare l'anno prossimo anche se so che
 Nessuno riuscirà mai a passare il test d'ingresso di Medicina
 Neanche io, neanche tu
 [Outro]
-Ma Tullio sì1Embed
+Ma Tullio sì

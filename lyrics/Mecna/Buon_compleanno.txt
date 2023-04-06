@@ -1,4 +1,4 @@
-Buon compleanno Lyrics[Testo di "Buon compleanno"]
+[Testo di "Buon compleanno"]
 
 [Strofa 1]
 Per quanto possa ricordarmi
@@ -54,7 +54,8 @@ E credo che io sia normale
 Solo chi sta bene solo poi può amare
 Sai quanta gente scopa per sentirsi dire: "Ti amo"
 A volte è l'unico motivo per cui ci cerchiamo
-You might also like[Ritornello]
+
+[Ritornello]
 Capitano a tutti le giornate storte
 So che sembro stare altrove a volte
 Qui il tempo passa come se stesse volando
@@ -74,4 +75,4 @@ Su WhatsApp dire: "Vi voglio bene, ci sentiamo dopo"
 Per come sono fatto è pure tanto
 So che per sempre avrò qualcuno a fianco
 Cercavo le parole giuste e intanto
-Buon compleannoEmbed
+Buon compleanno

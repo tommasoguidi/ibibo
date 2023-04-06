@@ -1,4 +1,4 @@
-Libera Lyrics[Testo di "Libera"]
+[Testo di "Libera"]
 
 Adesso sono libera
 E se lo sono libero anche te
@@ -33,7 +33,8 @@ Vedi notti piccolissime grandi mattine
 C'è un incendio in cielo e sulle colline
 Vedi gli alberi le rondini hanno ragione
 E da loro vorrei imparare
-You might also likeE dal settimo piano mi chiedo
+
+E dal settimo piano mi chiedo
 Come il pavimento possa reggere il peso
 Delle promesse che ci facciamo
 Qui qui dal settimo piano
@@ -43,4 +44,4 @@ Adesso mi perdono per i giorni indimenticabili
 Per avermi raggiunto dove prima ero da solo
 
 E adesso sono libera
-E se lo sono libero anche teEmbed
+E se lo sono libero anche te

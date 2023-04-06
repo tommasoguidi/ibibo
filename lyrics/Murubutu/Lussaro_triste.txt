@@ -1,4 +1,4 @@
-L’ussaro triste Lyrics[Testo di "L'ussaro triste"]
+[Testo di "L'ussaro triste"]
 
 [Intro]
 Questa è la storia di un ussaro russo
@@ -71,7 +71,8 @@ L'ussaro sentì nel cuore bruciare il dolore
 Il suo nome nel fango alla stregua di un invasore
 Cosi s'avviò verso il lago senza fretta o timore
 Qualcuno lo vide mormorare qualcosa sotto le icone
-You might also like[Ritornello]
+
+[Ritornello]
 Nonostante lo sguardo costante
 Due lacrime calde rigavan le guance
 Tu chiedi perché?
@@ -81,4 +82,4 @@ Nonostante il suo corpo composto
 Due lacrime calde rigavano il volto
 Domandi perché?
 Per quanto memore d’usi, abusi e regole
-Nel tempo s’era perso il passo fra due epocheEmbed
+Nel tempo s’era perso il passo fra due epoche

@@ -1,4 +1,4 @@
-Meno male Lyrics[Testo di "Meno male"]
+[Testo di "Meno male"]
 
 [Strofa 1]
 Una donna balla l'indie pop
@@ -40,10 +40,11 @@ Di tutte quelle brutte, bruttissime parole
 E allora spogliati
 Guardarti forse è poco
 Amarti è farsi male
-You might also like[Outro]
+
+[Outro]
 Amarti è farsi male
 Amarti è farsi male
 Amarti è farsi male
 Amarti è farsi male
 Amarti è farsi male
-Amarti è farsi maleEmbed
+Amarti è farsi male

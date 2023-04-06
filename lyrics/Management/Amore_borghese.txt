@@ -1,4 +1,4 @@
-Amore borghese Lyrics[Strofa 1]
+[Strofa 1]
 Ti ho chiesto dove vai
 Ti ho chiesto dove vai quando dormi
 Anche tu sputi sui tuoi sogni?
@@ -48,11 +48,12 @@ Ingioiellata e profumata come una luna indiana?
 Cosa ci fai sulla Praga - San Pietroburgo
 Vestita da puttana
 Ingioiellata e profumata come una luna indiana?
-You might also like[Bridge]
+
+[Bridge]
 E ridere senza più preoccuparsi di niente
 Non sarebbe più semplice
 Ti verrebbe più semplice
 
 Lasciami stare
 Per me non è questo il modo d'amare!
-Non tutti possono mangiare le farfalleEmbed
+Non tutti possono mangiare le farfalle

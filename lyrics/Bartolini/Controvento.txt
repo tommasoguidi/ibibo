@@ -1,4 +1,4 @@
-Controvento Lyrics[Testo di "Controvento"]
+[Testo di "Controvento"]
 
 [Strofa]
 Sono le quattro
@@ -41,10 +41,11 @@ Ma senza te
 Non sento
 E torno a casa anche se son lento
 E torno a casa anche se son lento
-You might also likeC'è il panico
+
+C'è il panico
 Mi perdo
 Non riesco a respirare controvento
 Ma senza te
 Non sento
 E torno a casa anche se son lento
-E torno a casa anche se son lentoEmbed
+E torno a casa anche se son lento

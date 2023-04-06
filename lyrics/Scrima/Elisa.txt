@@ -1,4 +1,4 @@
-Elisa Lyrics[Strofa 1]
+[Strofa 1]
 Accendo l'ultima sigaretta
 Mezza la fuma il vento
 Mi guardo intorno con lo sguardo di chi sta soffrendo
@@ -36,7 +36,8 @@ Piove, piove
 Madonna mia se piove, piove
 Fa freddo, è buio e piove, piove
 Madonna mia se piove, piove
-You might also like[Outro]
+
+[Outro]
 Dimmi dove sei, ti prego dimmi dove sei
 Stanotte dimmi dove sei, ti prego dimmi dove sei
 Stanotte dimmi dove sei, ti prego dimmi dove sei
@@ -46,4 +47,4 @@ Madonna mia se piove e...
 Fa freddo, è buio e piove e...
 Madonna mia se piove e...
 Dimmi dove sei, ti prego dimmi dove sei
-Stanotte dimmi dove seiEmbed
+Stanotte dimmi dove sei

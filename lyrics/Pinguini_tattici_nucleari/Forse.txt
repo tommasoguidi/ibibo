@@ -1,4 +1,4 @@
-Forse Lyrics[Testo di "Forse"]
+[Testo di "Forse"]
 
 [Strofa 1]
 Forse è vero che di notte tutto viene un po' più facile
@@ -39,7 +39,8 @@ E cerchi le mie colpe nella mia musica
 Fragile come un golpe in Sudamerica
 La nostra buona stella parla in codice Morse
 Le ho chiesto di stasera e mi ha risposto: "Forse va bene"
-You might also like[Ritornello]
+
+[Ritornello]
 Non c'è nessun posto
 Per quelli come noi che vivon sui rasoi
 Ma mi son nascosto nei tuoi
@@ -53,4 +54,4 @@ Le ho chiesto di stasera e mi ha risposto: "Forse"
 La nostra buona stella è la peggiore tra le luci
 E se ci credi troppo va a finire che ti bruci, ahi
 ..-. --- .-. ... .
-..-. --- .-. ... .Embed
+..-. --- .-. ... .

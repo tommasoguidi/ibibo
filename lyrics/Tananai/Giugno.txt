@@ -1,4 +1,4 @@
-Giugno Lyrics[Testo di "Giugno"]
+[Testo di "Giugno"]
 
 [Strofa 1]
 Ti dirò un segreto che in ben pochi sanno
@@ -38,9 +38,10 @@ E siamo stati svegli quando dovevam dormire
 Abbiamo corso quando dovevamo gattonare
 Ridevi quando urlavo col navigatore
 È che non conoscevo le strade per ritornare in questa benedetta casa
-You might also like[Ritornello]
+
+[Ritornello]
 Che voglio vedere bruciare
 Lascerò dei bei fiori sul cruscotto solamente per vederli appassire
 E a volte sono stato assente
 Ma, giuro, non volevo farti del male
-Non ho mai voluto vedere una bella ragazza soffrireEmbed
+Non ho mai voluto vedere una bella ragazza soffrire

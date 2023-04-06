@@ -1,4 +1,4 @@
-L’ago della bussola Lyrics[Testo di "L'ago della bussola"]
+[Testo di "L'ago della bussola"]
 
 [Strofa 1]
 Sei fatta d'acqua e non ti posso bere
@@ -34,7 +34,8 @@ L'unico difetto che hai
 Sono io
 Sono io
 Sono io
-You might also like[Bridge 2]
+
+[Bridge 2]
 E sei bellissima che prendo fuoco
 E stupidissima se pensi che gioco
 Che non ti amo più
@@ -55,4 +56,4 @@ Sono io
 Sono io
 Sono io
 Sono io
-SonoEmbed
+Sono

@@ -1,4 +1,4 @@
-La prima volta Lyrics[Testo di "La prima volta"]
+[Testo di "La prima volta"]
 
 [Strofa 1]
 Troppo bella per essere perfetta
@@ -39,7 +39,8 @@ Come chi passa le ore a inventare
 Le stesse identiche note
 Come chi splende e poi scade
 Come tutte le cose
-You might also like[Ritornello]
+
+[Ritornello]
 E se non so da dove cominciare
 Non chiedermi come andrà a finire
 E se non so da dove cominciare
@@ -47,4 +48,4 @@ Tu non chiedermi come andrà a finire
 E se non sai da dove cominciare
 Io non ti chiedo come andrà a finire
 Io non ti chiedo come andrà a finire
-Io non ti chiedo come andrà a finireEmbed
+Io non ti chiedo come andrà a finire

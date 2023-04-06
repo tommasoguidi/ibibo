@@ -1,4 +1,4 @@
-Ape Lyrics[Testo di "Ape"]
+[Testo di "Ape"]
 
 [Intro]
 
@@ -42,4 +42,5 @@ Non avevamo mai niente da fare
 E il cielo non lo guardavamo mai
 Ma mi ricordo ancora quelle nuvole sopra di noi
 Mi ricordo ancora quelle nuvole sopra di noi
-You might also like[Outro]Embed
+
+[Outro]

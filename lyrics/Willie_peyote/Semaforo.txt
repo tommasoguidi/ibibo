@@ -1,4 +1,4 @@
-Semaforo Lyrics[Testo di "Semaforo"]
+[Testo di "Semaforo"]
 
 [Strofa 1]
 Usciamo entrambi dal locale col bicchiere in mano
@@ -40,7 +40,8 @@ Io sono il solo spettatore
 Io sono il solo spettatore
 Io sono il solo spettatore
 Io sono il solo spettatore
-You might also like[Strofa 3]
+
+[Strofa 3]
 Usciamo entrambi dal locale col bicchiere in mano
 Li troverò sul comodino quando ci svegliamo
 Mi ricorderanno subito perché ti amo
@@ -64,4 +65,4 @@ Io sono il solo spettatore
 Io sono il solo spettatore, io sono il solo spettatore
 Io sono il solo spettatore, io sono il solo spettatore
 Io sono il solo spettatore, io sono il solo spettatore
-Io sono il solo spettatoreEmbed
+Io sono il solo spettatore

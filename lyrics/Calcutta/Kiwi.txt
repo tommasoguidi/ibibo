@@ -1,4 +1,4 @@
-Kiwi Lyrics[Testo di "Kiwi"]
+[Testo di "Kiwi"]
 
 [Strofa 1]
 Vestiti come ti pare
@@ -36,7 +36,8 @@ Ridici su
 Con l'"acca" e la "a"
 Resta così indecisa
 Come quando tu fai la spesa
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 C'è il temporale
 Per strada solo noi
 Venite a prenderci
@@ -47,4 +48,4 @@ Per guardare gli occhi miei
 Oh mondo cane
 Tu fatti gli affari tuoi
 Oh mondo cane
-Tu fatti gli affari tuoi2Embed
+Tu fatti gli affari tuoi

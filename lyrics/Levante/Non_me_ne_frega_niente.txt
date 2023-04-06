@@ -1,4 +1,4 @@
-Non me ne frega niente Lyrics[Testo di "Non me ne frega niente"]
+[Testo di "Non me ne frega niente"]
 
 [Strofa 1]
 Sogno
@@ -35,7 +35,8 @@ La gente grida aiuto, io prego non capiti a me
 Non me ne frega niente se spente
 Le luci, tutto quello che succede non si vede
 Non me ne frega niente di niente
-You might also like[Bridge]
+
+[Bridge]
 Se il mondo crolla non mi prende
 (Il mondo crolla e non mi prende)
 Se il mondo crolla non mi prende
@@ -51,4 +52,4 @@ Non me ne frega niente di niente
 
 [Outro]
 Niente di niente
-Niente di nienteEmbed
+Niente di niente

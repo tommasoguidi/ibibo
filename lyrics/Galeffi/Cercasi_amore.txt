@@ -1,4 +1,4 @@
-Cercasi amore Lyrics[Testo di "Cercasi amore"]
+[Testo di "Cercasi amore"]
 
 [Strofa 1]
 Cercasi amore dove si può comprare
@@ -36,7 +36,8 @@ Fammi godere prima di sparire
 Un filo di trucco non nasconde l'inganno
 Prendere o lasciare, vuoi solo giocare
 Ma questo cuore no, non è un albergo
-You might also like[Bridge]
+
+[Bridge]
 Continuiamo a farci male, non ci importa neanche un po'
 Continuiamo a farci male, non ci importa neanche un po'
 
@@ -48,4 +49,4 @@ Cercasi amore tutti i giorni dell'anno
 Fammi godere prima di sparire
 Un filo di trucco non nasconde l'inganno
 Prendere o lasciare, vuoi solo giocare
-Ma questo cuore no, non è un albergoEmbed
+Ma questo cuore no, non è un albergo

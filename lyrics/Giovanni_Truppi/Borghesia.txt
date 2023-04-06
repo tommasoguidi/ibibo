@@ -1,4 +1,4 @@
-Borghesia Lyrics[Testo di "Borghesia"]
+[Testo di "Borghesia"]
 
 [Strofa 1]
 Borghesia
@@ -41,7 +41,8 @@ Dai giornali all'università
 Prima per giocare alla rivoluzione
 Poi per un po' di soldi facili
 E poi per la salute e la spiritualità
-You might also like[Ritornello 1]
+
+[Ritornello 1]
 Per il Natale
 E la famiglia
 Per quattro mura
@@ -69,4 +70,4 @@ Un pochino di più, un pochino di più
 [Outro]
 Borghesia
 Sono bastati un paio di secoli
-Ed ecco già che voli viaEmbed
+Ed ecco già che voli via

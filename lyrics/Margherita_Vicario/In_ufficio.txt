@@ -1,4 +1,4 @@
-In ufficio Lyrics[Testo di "In ufficio"]
+[Testo di "In ufficio"]
 
 [Strofa 1]
 0 4 7 5
@@ -42,8 +42,9 @@ Forse ti serve un'amica, che so
 Un cinema, una gita
 Se vuoi mi puoi chiamare
 Voglio scappare
-You might also like[Outro]
+
+[Outro]
 Forse è il tono che è sbagliato e sai perché?
 Forse dovresti sorridere
 Dalla cornetta si sente
-Si senteEmbed
+Si sente

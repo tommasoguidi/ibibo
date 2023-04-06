@@ -1,4 +1,4 @@
-ESTATE80 Lyrics[Testo di "ESTATE80"]
+[Testo di "ESTATE80"]
 
 [Strofa 1: Drast]
 Chissà da fuori cosa si vede
@@ -38,11 +38,12 @@ Chissà mio papà com'era alla mia età
 Chissà se anche lui viveva senza pretese
 Se allo specchio vedeva un fantasma cortese
 Se adesso è Boston George o un pastore maltese
-You might also like[Ritornello: Drast]
+
+[Ritornello: Drast]
 E parlo inglese a Madrid, parlo in spagnolo a Lisbona
 Guardo in italiano i film e ho sempre una scusa nuova
 Per il tuo scarso interesse, quando fai finta di niente
 E parlo inglese a Madrid, parlo in spagnolo a Lisbona
 Guardo in italiano i film e ho sempre una scusa nuova
 Per il tuo scarso interesse, quando fai finta di niente
-Di niente3Embed
+Di niente

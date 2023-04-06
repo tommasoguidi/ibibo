@@ -1,4 +1,4 @@
-TranslationsPortuguês1996 La stagione del rumore Lyrics[Testo di “1996 La stagione del rumore”]
+[Testo di “1996 La stagione del rumore”]
 
 [Strofa 1]
 E passa il tempo a passo svelto
@@ -40,9 +40,10 @@ Ed io credevo fossi a tanto da me
 E invece c’era tanto spazio tra me e te
 Ed io credevo fossi a tanto da me
 E invece c’ero solo io tra me e te
-You might also like[Ritornello]
+
+[Ritornello]
 Primavera e poi
 Il caldo estivo fra noi
 L’autunno ci porterà
 Tra le promesse d’inverno
-Stringiti a me se avrai freddoEmbed
+Stringiti a me se avrai freddo

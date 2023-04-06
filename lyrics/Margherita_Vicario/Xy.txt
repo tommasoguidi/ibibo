@@ -1,4 +1,4 @@
-Xy Lyrics[Testo di "Xy" ft. Elodie]
+[Testo di "Xy" ft. Elodie]
 
 [Intro: Elodie]
 Ehi, Marghe
@@ -39,7 +39,8 @@ E sul divano mangio fragole
 Tu che mi chiedi: "Cosa vuoi da me?"
 Siamo diversi, non ti offendere
 Non te la prendere, non te la prendere
-You might also like[Pre-Ritornello: Elodie]
+
+[Pre-Ritornello: Elodie]
 Certe canzoni non hanno un perché
 Penserò a te se tu penserai a me
 Tanto se tutti viviamo d'amore
@@ -76,4 +77,4 @@ E non si balla più, dai-da-da-da
 X e Y
 Anch'io ti amo tantissimo
 Tutta la vita per dirselo
-Ma non si balla più, dai-da-da-daEmbed
+Ma non si balla più, dai-da-da-da

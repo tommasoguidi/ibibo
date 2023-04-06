@@ -1,4 +1,4 @@
-Aurora Lyrics[Testo di "Aurora"]
+[Testo di "Aurora"]
 
 [Strofa 1]
 Vola via, pacchetto digitale
@@ -45,4 +45,5 @@ Nei momenti vuoti
 I momenti vuoti
 I momenti vuoti
 I momenti vuoti
-You might also like[Outro]Embed
+
+[Outro]

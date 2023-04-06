@@ -1,4 +1,4 @@
-1312 Lyrics[Testo di "1312"]
+[Testo di "1312"]
 
 [Ritornello: Drast]
 1312, lo sanno anche i muri qui
@@ -42,7 +42,8 @@ Nn'c'è niente da riparare
 Pioggia cade come sangue
 Per ogni persona zitta
 Scrivo questo e grido che
-You might also like[Ritornello: Drast]
+
+[Ritornello: Drast]
 1312, lo sanno anche i muri qui
 Luci accese, strade buie, bambini sui Liberty
 Venerdì, amami, per terra nei vicoli
@@ -50,4 +51,4 @@ Buttati nei vicoli, ed è
 1312, per sentirci liberi
 Luci accese, strade buie, locali terribili
 Venerdì, amami, per terra nei vicoli
-Stesi in mezzo ai vicoli1Embed
+Stesi in mezzo ai vicoli

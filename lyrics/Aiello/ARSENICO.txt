@@ -1,4 +1,4 @@
-ARSENICO Lyrics[Testo di "ARSENICO"]
+[Testo di "ARSENICO"]
 
 [Strofa 1]
 Le mie notti su Instagram
@@ -45,7 +45,8 @@ Io non so più di te
 Io non so più di te
 (Non so più di te)
 Ma che dolore c'è
-You might also like[Ritornello]
+
+[Ritornello]
 C'è dolore
 Che dolore dentro me quando piove
 Quando piove e tu non stai con me
@@ -69,4 +70,4 @@ La notte al distributore automatico
 Io non dimentico il profumo dell’angolo
 Dove mi hai lasciato quel sabato
 Vomitavo amore all’arsenico
-Per odiarti un po'1Embed
+Per odiarti un po'

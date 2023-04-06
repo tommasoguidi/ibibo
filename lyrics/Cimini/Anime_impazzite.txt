@@ -1,4 +1,4 @@
-Anime impazzite Lyrics[Strofa 1]
+[Strofa 1]
 Siamo anime impazzite
 Siamo alberi
 Che si muovono col vento
@@ -38,7 +38,8 @@ Ma non c'è luce che non passi, amore
 Da una finestra rotta è come morire
 Io e te senza niente da dire
 In un buio che non mi fa respirare
-You might also like[Ritornello]
+
+[Ritornello]
 Woho
 Nuvola sotto il sole
 Un gelato all'equatore
@@ -72,4 +73,4 @@ La mattina quando piove
 Voglio respirare
 Bene come al mare
 Bene come al mare
-LalalaEmbed
+Lalala

@@ -1,4 +1,4 @@
-1312 Lyrics[Testo di "1312"]
+[Testo di "1312"]
 
 [Intro]
 Pecorella
@@ -36,7 +36,8 @@ Avete il ferro in tasca, ma 'sti cazzi, a me non serve
 Non ho la divisa, ma ho le palle, almeno quelle
 Non siete pecorelle, ma lupi travestiti
 E non citare Pasolini, non sai quello che dici
-You might also like[Bridge]
+
+[Bridge]
 Sarà dura, ricorda sarà dura
 Non senti più il dolore, né la fame o la paura
 Ricorda sarà dura, hai fatto la tua scelta, io ho fatto la mia
@@ -60,4 +61,4 @@ La libera espressione non esiste se hai la merda nel cervello
 Quindi state zitti (State zitti)
 Quegl'infami non diventano innocenti anche se assolti o prescritti
 (Don't clean up this blood) Quel sangue non va via
-(Polizia di Stato, Stato di polizia)1Embed
+(Polizia di Stato, Stato di polizia)

@@ -1,4 +1,4 @@
-Intro Lyrics[Testo di "Intro"]
+[Testo di "Intro"]
 
 [Intro]
 Yo!
@@ -61,7 +61,8 @@ Per Battisti, De Andrè, Donny Hathaway
 Piero Ciampi, Luigi Tenco e Rino Gaetano
 Hanno fermato il tempo
 Per ciò li ricordiamo
-You might also like[Outro]
+
+[Outro]
 (Ghemon
 Qualcosa Cambierà Mixtape)
-PeaceEmbed
+Peace

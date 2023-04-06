@@ -1,4 +1,4 @@
-Klimt Lyrics[Testo di "Klimt"]
+[Testo di "Klimt"]
 
 [Strofa 1]
 Nel mezzo di un dialogo su Fibonacci
@@ -40,7 +40,8 @@ Siamo rimasti soli con il vento a favore
 Con il vento a favore
 Con il vento a favore
 Con il vento a favore
-You might also like[Ritornello]
+
+[Ritornello]
 Se c'è un posto bello, sei te
 Ti ci devo portare
 Se c'è un posto bello, sei te
@@ -48,4 +49,4 @@ Mi ci devi portare
 Se c'è un posto in più accanto a te
 Mi ci devi contare
 Se c'è un posto in più accanto a te
-Mi ci devi contareEmbed
+Mi ci devi contare

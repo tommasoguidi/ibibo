@@ -1,4 +1,4 @@
-Lasciami andare Lyrics[Testo di "Lasciami andare"]
+[Testo di "Lasciami andare"]
 
 [Strofa 1]
 E lasciami finire
@@ -48,8 +48,9 @@ Devi
 Lasciarmi
 Andare
 Ora
-You might also like[Outro]
+
+[Outro]
 Uh, oh oh
 Uh, oh oh
 Uh, oh oh
-Uh, oh ohEmbed
+Uh, oh oh

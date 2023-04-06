@@ -98,7 +98,9 @@ artists_list = ['Aiello',
                 'Tre Allegri Ragazzi Morti',
                 'Venerus',
                 'Viito',
-                'Willie peyote']
+                'Willie peyote',
+                'Labadessa',
+                'Ministri']
 
 lyrics_dir = Path('lyrics')
 done = os.listdir(lyrics_dir)

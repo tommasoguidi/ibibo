@@ -1,4 +1,4 @@
-Isobarre Lyrics[Testo di "Isobarre"]
+[Testo di "Isobarre"]
 
 [Intro]
 Per quanto lei scappasse oltre le linee delle mappe
@@ -49,7 +49,8 @@ Pareva un caldo incanto, la nenia di un nuovo cantico
 Divinità dell'aria nell'alba di un nuovo Pantheon
 Per tutti gli aquiloni con sintomi da infarto
 Gli stormi migratori con sindrome di Wanderlust
-You might also like[Ritornello]
+
+[Ritornello]
 Ma lui ti inseguirà per sempre, non basterà
 Non si fermerà mai
 Sulla pelle delle terre perenne, dove andrai?
@@ -82,4 +83,4 @@ Sulla pelle delle terre perenne, dove andrai?
 Con la pressione sulle tempie, come un boato
 Non si fermerà mai
 Con mille storie dentro il ventre, tu mentre
-FuggiraiEmbed
+Fuggirai

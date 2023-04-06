@@ -1,4 +1,4 @@
-PARADISO Lyrics[Testo di "PARADISO"]
+[Testo di "PARADISO"]
 
 [Strofa 1]
 Come stai, io non so
@@ -40,7 +40,8 @@ Se mi baci sulla bocca
 Io ti bacio sopra al naso
 Io mi sento quasi sempre nel posto sbagliato
 Mentre adesso
-You might also like[Ritornello]
+
+[Ritornello]
 E mi ripeti che l'amore, che l'amore non è amore
 Se l'amore è una vertigine, baby
 E mi ripeto che l'amore, che l'amore, ma l'amore
@@ -51,4 +52,4 @@ Il mio messaggio nella notte
 Che ti sveglia, non ti arrabbi
 Mi rispondi: "Sono in paradiso"
 Pa-pa-pa-pa-pa-pa-paradiso
-Pa-pa-pa-pa-pa-pa-paradisoEmbed
+Pa-pa-pa-pa-pa-pa-paradiso

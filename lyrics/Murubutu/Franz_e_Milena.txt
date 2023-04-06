@@ -1,4 +1,4 @@
-Franz e Milena Lyrics[Testo di "Franz e Milena"]
+[Testo di "Franz e Milena"]
 
 [Strofa 1]
 Ed ogni notte quel ricordo era il suo fuoco e la sua forza
@@ -45,7 +45,8 @@ Le guide di un ponte in marmo
 Là eretto tra mano e mano
 Ed ogni notte leggendo vedeva intanto
 I suoi occhi caldi in contrasto col cielo freddo in cobalto
-You might also like[Ritornello]
+
+[Ritornello]
 Verrà la notte e avrà il contorno degli occhi tuoi
 Ed io e te soli tra i ricordi come due eroi
 Le mani strette come nodi sugli scrittoi
@@ -88,4 +89,4 @@ You dream about
 The things you'll never do
 I have no doubt
 You dream about
-The things you'll never doEmbed
+The things you'll never do

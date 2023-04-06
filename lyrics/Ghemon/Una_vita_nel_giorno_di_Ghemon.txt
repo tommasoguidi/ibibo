@@ -1,4 +1,4 @@
-Una vita nel giorno di Ghemon Lyrics[Testo di "Una vita nel giorno di Ghemon"]
+[Testo di "Una vita nel giorno di Ghemon"]
 
 [Scratch]
 
@@ -59,4 +59,5 @@ Perciò no alla pressione!
 No a chi vuole avere ragione, e cerca sempre di darne dimostrazione
 Con la testa su, come sia possibile tutto questo
 Mi svesto, dormo, domani c'è sveglia presto!
-You might also like[Scratch]Embed
+
+[Scratch]

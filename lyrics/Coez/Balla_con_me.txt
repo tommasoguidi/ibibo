@@ -1,4 +1,4 @@
-Balla con me Lyrics[Testo di "Balla con me"]
+[Testo di "Balla con me"]
 
 [Strofa 1]
 Vorrei parlarti di un sole grosso e giallo
@@ -44,7 +44,8 @@ Fanculo, io c'ho il cuore spinato
 Perché qua qualcuno già c'è stirato
 Dal primo fiato che ho respirato
 Ho captato a cos'ero predestinato
-You might also like[Ritornello]
+
+[Ritornello]
 Prima che tutto crolli a pezzi tira su le mani
 Sarà il momento di pentirsi domani
 Uccidi questo tempo prima che lui uccida te
@@ -65,4 +66,4 @@ Balla con me
 Prima che tutto crolli a pezzi tira su le mani
 Sarà il momento di pentirsi domani
 Uccidi questo tempo prima che lui uccida te
-Balla con meEmbed
+Balla con me

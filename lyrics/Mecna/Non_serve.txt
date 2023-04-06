@@ -1,4 +1,4 @@
-Non serve Lyrics[Testo di "Non serve"]
+[Testo di "Non serve"]
 
 [Ritornello]
 Puoi dirmi che mi ami, ma non serve
@@ -40,7 +40,8 @@ Puoi dirmi che mi ami, ma non serve
 Dimentico quello che non serve
 Mi parli di cose banali perché
 Conosci un segreto che non serve
-You might also like[Strofa 2]
+
+[Strofa 2]
 Yeah
 Sai come convincerli, tu sai fare solo questo
 Per te è sempre venerdì, e non torni a casa presto
@@ -66,4 +67,4 @@ Conosci un segreto che non serve
 (Non serve, non serve, non serve, no)
 (Non serve, no)
 (Non serve, no)
-(Non serve, non serve, non serve, no)Embed
+(Non serve, non serve, non serve, no)

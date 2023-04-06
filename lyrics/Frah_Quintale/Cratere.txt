@@ -1,4 +1,4 @@
-Cratere Lyrics[Testo di "Cratere"]
+[Testo di "Cratere"]
 
 [Strofa 1]
 Ho rotto un altro cellulare, capirai che sfiga
@@ -37,7 +37,8 @@ Metto un altro video che fa ridere
 Guardo ancora questa luna
 Esco e vedo che succede
 Indosserò un'armatura senza essere un cavaliere
-You might also like[Ritornello]
+
+[Ritornello]
 Goditi l'estate anche per me
 Brinderai con delle altre persone
 Non ti preoccupare mai per me
@@ -48,4 +49,4 @@ In un posto freddo tra le tue parole
 Ho rotto un altro cellulare, ma il tuo numero lo so a memoria
 E posso cancellare una rubrica intera, ma non questa storia
 E posso anche trovarne un'altra che sorride quando chiamo
-Che ti somigli da lontano per poi ricominciar tutto da capoEmbed
+Che ti somigli da lontano per poi ricominciar tutto da capo

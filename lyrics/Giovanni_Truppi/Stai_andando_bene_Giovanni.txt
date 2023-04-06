@@ -1,4 +1,4 @@
-Stai andando bene Giovanni Lyrics[Testo di "Stai andando bene Giovanni"]
+[Testo di "Stai andando bene Giovanni"]
 
 [Ritornello]
 Stai andando bene Giovanni
@@ -37,7 +37,8 @@ Dal loro punto di vista, certi torti enormi che ti fanno sono piccoli piccoli
 È una questione di sensibilità
 Ma è pure una questione di centimetri, metri
 A volte pure chilometri
-You might also like[Ritornello]
+
+[Ritornello]
 Stai andando bene Giovanni
 Dai che ce la puoi fare
 Stai andando bene Giovanni
@@ -72,4 +73,4 @@ Perché che te ne fai della perfezione senza la condivisione?
 [Outro]
 E non pensare di poter dare più di quello che puoi dare
 E non pensare di poter dare più di quello che puoi dare
-E non pensare di poter dare più di quello che puoi dareEmbed
+E non pensare di poter dare più di quello che puoi dare

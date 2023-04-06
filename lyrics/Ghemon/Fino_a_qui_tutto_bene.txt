@@ -1,4 +1,4 @@
-Fino a qui (tutto bene) Lyrics[Testo di "Fino a qui (tutto bene)"]
+[Testo di "Fino a qui (tutto bene)"]
 
 [Intro]
 Ehi, ancora una volta qui
@@ -55,7 +55,8 @@ E tutto ciò che non sai è parapiglia
 È merda che non sai come gestirla
 Ma è tutto nella mente e passa nelle vene
 E fino a che ci siamo per noi tutto bene
-You might also like[Ritornello]
+
+[Ritornello]
 Ogni storia con le sue pieghe (Le sue pieghe)
 Che ci stringe a sé e ci tiene (E ci tiene)
 Che ci butta via e ci spreme (E ci spreme)
@@ -78,4 +79,4 @@ Fino a qui tutto bene
 Fino a qui
 Fino a qui tutto bene come L'odio
 Fino a qui
-Peace, dogEmbed
+Peace, dog

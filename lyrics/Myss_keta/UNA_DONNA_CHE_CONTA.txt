@@ -1,4 +1,4 @@
-UNA DONNA CHE CONTA Lyrics[Testo di "UNA DONNA CHE CONTA"]
+[Testo di "UNA DONNA CHE CONTA"]
 
 [Strofa 1]
 Si chiamava Miguel
@@ -42,7 +42,8 @@ Se facevo i capricci
 Si chiamava Lele
 Mi ha detto: "Sarai una star"
 1995: vinco il Festivalbar
-You might also like[Bridge]
+
+[Bridge]
 Sì, non sono una santa
 Ma erano altri tempi gli anni '90
 Di vodka nel cuore
@@ -104,4 +105,4 @@ Bruno, Emilio, Magda, Roberto
 Mi devi ancora quaranta euro, fratello, quand'è che ci vediamo?
 Beh, non posso farci niente
 Mio malgrado l'infinito mi tormenta
-Vabbuò ciao va1Embed
+Vabbuò ciao va

@@ -1,4 +1,4 @@
-TranslationsEnglishRidere Lyrics[Testo di "Ridere"]
+[Testo di "Ridere"]
 
 [Intro]
 Uoh-oh
@@ -41,7 +41,8 @@ Che un giorno quando sarai persa
 Ripenserai ogni tanto a cosa siamo stati noi
 Alle giornate al mare, a tutte le mie pare
 Alle cucine che non abbiam potuto comprare
-You might also like[Post-Ritornello 2]
+
+[Post-Ritornello 2]
 Lo shampoo all'albicocca, i tuoi capelli in bocca
 Alla tua testa dura, all'ansia, alla paura
 Giuro che un po' mi fa ridere
@@ -56,4 +57,4 @@ Le cene da tua mamma, la nostra prima canna
 La carbonara a Londra quando ci han messo la panna
 I tuoi occhi, i tuoi nei che non sono più i miei
 Ma alla fine ti giuro che lo rifarei
-Che lo rifarei5Embed
+Che lo rifarei

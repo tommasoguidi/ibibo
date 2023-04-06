@@ -1,4 +1,4 @@
-Una Monetina Lyrics[Testo di "Una Monetina"]
+[Testo di "Una Monetina"]
 
 [Ritornello]
 Datemi una monetina, ho fame
@@ -51,7 +51,8 @@ Non ho più un grande obiettivo a cui ambisco
 Le piccole cose che ho le ingrandisco
 Io gestivo capitale speculativo a rischio
 E ora neanche hanno più il mio nominativo al fisco ma
-You might also like[Strofa 4]
+
+[Strofa 4]
 Non mi manca avere un tetto: ho già il cielo
 E non mi manca qualche oggetto: ho il pensiero
 Non mi mancano vestiti o una doccia
@@ -79,4 +80,4 @@ Niente a cui rinunciare sia impossibile
 Datemi una monetina, ho fame
 Va bene anche una piccina, di rame
 Solo una monetina o due al limite
-Niente a cui rinunciare sia impossibileEmbed
+Niente a cui rinunciare sia impossibile

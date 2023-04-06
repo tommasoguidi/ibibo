@@ -1,4 +1,4 @@
-Zefiro Lyrics[Strofa 1: Murubutu]
+[Strofa 1: Murubutu]
 E lui seguiva la linea della montagna
 Mentre il sole già scioglieva la neve sopra il castagno
 Quarant'anni passati in miniera per quella paga
@@ -48,6 +48,7 @@ La brezza riempiva le orecchie ed il petto
 Portava a lui il suono del vecchio dialetto
 Che forse è la fonte diretta di un mondo
 Ormai perso che aleggia nel grembo del vento
-You might also like[Ritornello: Amelivia]
+
+[Ritornello: Amelivia]
 Tornerai un tempo sembra identico ricorderai
-Quando il vento era un'ideaEmbed
+Quando il vento era un'idea

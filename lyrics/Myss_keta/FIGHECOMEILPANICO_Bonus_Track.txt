@@ -1,4 +1,4 @@
-#FIGHECOMEILPANICO (Bonus Track) Lyrics[Testo di "#FIGHECOMEILPANICO"]
+[Testo di "#FIGHECOMEILPANICO"]
 
 [Strofa 1]
 Alessia Merz, Giorgia Palmas
@@ -37,7 +37,8 @@ Bene' Parodi, Silvia Toffanin
 Lalla Bittch, Sylvie Lubamba
 Mascia Ferri
 E pure la Corvaglia
-You might also like[Ritornello]
+
+[Ritornello]
 Fighe come il panico
 Co-me il panico
 Fighe come il panico
@@ -55,4 +56,4 @@ Desiderami
 Sono fatale
 Dicono che le brave ragazze vanno in paradiso
 Beh, le cattive vanno d'appertutto
-MediasetEmbed
+Mediaset

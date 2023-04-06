@@ -1,4 +1,4 @@
-Groupie Lyrics[Testo di "Groupie"]
+[Testo di "Groupie"]
 
 [Strofa 1]
 Pelle di vaniglia
@@ -35,8 +35,9 @@ Hai visto tante cose
 Negli occhi degli altri
 Hai visto tante cose
 Negli occhi degli altri
-You might also like[Outro]
+
+[Outro]
 Se non fossi una groupie
 Se non fossi una groupie
 Se non fossi una groupie
-Se non fossi una groupieEmbed
+Se non fossi una groupie

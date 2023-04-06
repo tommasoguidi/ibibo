@@ -1,4 +1,4 @@
-Lei Lyrics[Testo di "Lei"]
+[Testo di "Lei"]
 
 [Strofa 1]
 Si disse di non parlare
@@ -43,8 +43,9 @@ E scese il temporale e goccia dopo goccia crebbe un fiore
 Che non ha un nome, che non ha un colore
 Che non ha visto mai nessuno
 Ma tutti noi,  tutti noi, prima o poi ne sentimmo il profumo
-You might also like[Outro]
+
+[Outro]
 Lei lasciò solo una scritta sul muro
 "Pagheranno caro, pagheranno tutto"
 Voi picchiate duro
-Aprite una breccia e vedrete il futuroEmbed
+Aprite una breccia e vedrete il futuro

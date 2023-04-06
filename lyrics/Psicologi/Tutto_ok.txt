@@ -1,4 +1,4 @@
-Tutto ok Lyrics[Testo di "Tutto ok"]
+[Testo di "Tutto ok"]
 
 [Strofa 1: Lil Kaneki]
 Ehi, bro, ti ricordi? Non avevo da mangiare
@@ -44,7 +44,8 @@ Non sei felice da quando sei partito
 Ed allontani chi prova a starti vicino
 Apri un altro blister e scusa se te lo dico
 Non sei ancora morto, è vero, ma non sei nemmeno vivo
-You might also like[Ritornello: Drast]
+
+[Ritornello: Drast]
 Ehi, bro, tutto okay?
 Scrivimi un messaggio quando passi di qua
 Sembri uno sconosciuto, neanche so più chi sei
@@ -52,4 +53,4 @@ Hai cambiato amici ed hai cambiato città
 Ma io ancora spero che ti vada tutto okay
 Ma io ancora spero che qualcosa cambierà
 Sembri uno sconosciuto, neanche so più chi sei
-Scrivimi un messaggio quando passi di qua4Embed
+Scrivimi un messaggio quando passi di qua

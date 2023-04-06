@@ -1,4 +1,4 @@
-Adamo Lyrics[Ritornello]
+[Ritornello]
 Padre mio, tu per me eri Dio
 Come è successo che ti ho perso?
 Padre mio, tu per me eri Dio
@@ -42,6 +42,7 @@ Che mi hai trasmesso in un altro momento
 È la mappa che devo decifrare
 Per attraversare questo mare
 E venirti a salvare
-You might also likePadre mio
+
+Padre mio
 Padre, cuore di Dio
-Sì che lo so che ti manco anch'ioEmbed
+Sì che lo so che ti manco anch'io

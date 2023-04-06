@@ -1,4 +1,4 @@
-Ciao, ci vediamo Lyrics[Testo di "Ciao, ci vediamo"]
+[Testo di "Ciao, ci vediamo"]
 
 [Strofa 1]
 Forse è arrivato il momento di andare via
@@ -46,7 +46,8 @@ Fuori non c'è niente che sia meglio di te e me
 Ciao, ci vediamo
 Ciao, non possiamo
 Ciao, ciao
-You might also like[Bridge]
+
+[Bridge]
 Sorridi e dici "Non finirà così"
 Se non c'è soluzione, sarà rivoluzione
 
@@ -68,4 +69,4 @@ Ciao, ciao
 [Outro]
 Ciao, ci vediamo
 Ciao, ci sentiamo
-Ciao, ciaoEmbed
+Ciao, ciao

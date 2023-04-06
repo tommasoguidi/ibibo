@@ -1,4 +1,4 @@
-Casa de papel Lyrics[Testo di "Casa de papel"]
+[Testo di "Casa de papel"]
 
 [Strofa 1]
 Steso sul letto, con la testa sul tetto
@@ -38,7 +38,8 @@ Come vorresti te, come vorresti te
 È bello finché dura anche se non lo è
 È bello finché dura anche se non è bello
 Come vorresti te, come vorresti te
-You might also like[Bridge]
+
+[Bridge]
 È bello fare la guerra
 Per poi fare la pace
 Restiamo nudi sopra a un letto disfatto
@@ -59,4 +60,4 @@ Come vorresti te, come vorresti te
 È bello finché dura anche se non è bello
 Come vorresti te, come vorresti te
 È bello finché dura anche se non è bello
-Come vorresti te, come vorresti teEmbed
+Come vorresti te, come vorresti te

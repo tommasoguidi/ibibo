@@ -1,4 +1,4 @@
-La Metro C Lyrics[Testo di "La Metro C"]
+[Testo di "La Metro C"]
 
 [Strofa 1]
 Per te che guardi negli occhi la tua ragazza
@@ -45,10 +45,11 @@ Faranno la Metro C
 E ci troveranno tesori nascosti
 E i libri dei critici
 Hanno detto così
-You might also like[Outro]
+
+[Outro]
 Hanno detto che è proprio così
 Faranno la Metro C
 Per avvicinare la gente
 Il futuro e il presente nei bagni pubblici
 Alla radio hanno detto che qui
-Faranno la Metro CEmbed
+Faranno la Metro C

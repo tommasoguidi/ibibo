@@ -1,4 +1,4 @@
-Amore Mio Lyrics[Testo di "Amore Mio"]
+[Testo di "Amore Mio"]
 
 [Strofa 1]
 Respiro appena, ho un brivido
@@ -44,7 +44,8 @@ Ti prego, un'altra volta, amore mio
 Che sarà mai?
 Io che non ti ho mai detto: "Amore mio"
 "Amore mio", "Amore mio"
-You might also like[Bridge]
+
+[Bridge]
 Amore mio, amore mio
 Amore mio
 
@@ -56,4 +57,4 @@ Guarda quanto tempo ancora
 Ti prego, un'altra volta, amore mio
 Che sarà mai?
 Io che non ti ho mai detto: "Amore mio"
-"Amore mio", "Amore mio"Embed
+"Amore mio", "Amore mio"

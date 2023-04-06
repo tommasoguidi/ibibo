@@ -1,4 +1,4 @@
-Qualunque cosa sia Lyrics[Strofa 1]
+[Strofa 1]
 Schivare il traffico in tangenziale
 Fregare il tempo, correre da te
 Milano da bere, vivere e sognare
@@ -45,6 +45,7 @@ Oltre questa notte, la malinconia
 Tu-tu, turu-ru
 Amo tutto questo, qualunque cosa sia
 Tu-tu, turu-ru
-You might also like[Outro]
+
+[Outro]
 Tu-tu, turu-ru
-Amo tutto questo, qualunque cosa siaEmbed
+Amo tutto questo, qualunque cosa sia

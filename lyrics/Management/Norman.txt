@@ -1,4 +1,4 @@
-Norman Lyrics[Testo di "Norman"]
+[Testo di "Norman"]
 
 [Strofa]
 Dottorando in filosofia
@@ -37,7 +37,8 @@ Norman, sai che felicità
 Forse ti dedicheranno un'aula all'università
 Ma non ti viene da ridere?
 Non ti ci viene da ridere?
-You might also like[Ritornello]
+
+[Ritornello]
 Norman, amico mio
 Siamo così piccoli che quando cadiamo non ci sente nessuno
 Noi non lo facciamo quel boato
@@ -47,4 +48,4 @@ Norman, amico mio
 Siamo così piccoli che quando cadiamo non ci sente nessuno
 Noi non lo facciamo quel boato
 Che fa l'impresario
-Che fa l'uomo di statoEmbed
+Che fa l'uomo di stato

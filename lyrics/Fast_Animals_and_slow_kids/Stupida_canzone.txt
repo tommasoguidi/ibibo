@@ -1,4 +1,4 @@
-Stupida canzone Lyrics[Testo di "Stupida canzone"]
+[Testo di "Stupida canzone"]
 
 [Strofa 1]
 Certe volte se ci penso vorrei mettermi ad urlare
@@ -38,7 +38,8 @@ Tre sono le note di una stupida canzone
 Uno, cosa voglio
 Due, cosa mi aspetto
 Tre, stringimi forte che non so che fine faccio
-You might also like[Bridge]
+
+[Bridge]
 E forse calano i mercati
 E forse non ti vedrò più
 Se poi spengono le luci, mi ritrovi quaggiù
@@ -59,4 +60,4 @@ Tre, stringimi forte che non so che fine faccio
 Te stringimi forte
 Te stringimi forte
 Te stringimi forte
-Te stringimi forte stanotteEmbed
+Te stringimi forte stanotte

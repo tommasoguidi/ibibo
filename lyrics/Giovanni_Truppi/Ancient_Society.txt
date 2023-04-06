@@ -1,4 +1,4 @@
-Ancient Society Lyrics[Testo di "Ancient Society"]
+[Testo di "Ancient Society"]
 
 Dall'inizio della civiltà
 L'aumento della ricchezza
@@ -42,7 +42,8 @@ In conclusione di un corso storico
 Il cui unico scopo è la proprietà
 Poiché un simile corso porta già dentro se
 Gli elementi della sua stessa annientazione
-You might also likeDemocrazia
+
+Democrazia
 Nel governo
 Fraternità
 Nella società
@@ -53,4 +54,4 @@ Consacreranno il prossimo stadio
 Della società
 A cui tendono costantemente
 Esperienza, scienza e ragione
-Sarà una resurrezioneEmbed
+Sarà una resurrezione

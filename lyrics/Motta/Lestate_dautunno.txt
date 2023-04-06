@@ -1,4 +1,4 @@
-L’estate d’autunno Lyrics[Testo di "L'estate d'autunno"]
+[Testo di "L'estate d'autunno"]
 
 [Strofa 1]
 Se fossi stato figlio di nessuno
@@ -38,7 +38,8 @@ Mi conosco e non capisco
 In una vita a metà
 E senza scegliere abbiamo scelto questo
 Se io fossi stato un altro
-You might also like[Bridge]
+
+[Bridge]
 In un altro spazio
 Cancellati dal tempo
 Inventati in un bar
@@ -54,4 +55,4 @@ Siamo quello che vogliamo
 E anche quello che non volevamo mai
 E per essere me stesso ho bisogno di te
 E abbiamo scelto tutto quello che è successo
-Se io fossi stato un altro, chi lo saEmbed
+Se io fossi stato un altro, chi lo sa

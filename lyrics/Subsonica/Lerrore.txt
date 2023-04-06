@@ -1,4 +1,4 @@
-L’errore Lyrics[Verse 1]
+[Verse 1]
 Il buio che scava dentro te
 È denso e ti fa piangere
 È tempo di farlo in silenzio
@@ -38,7 +38,8 @@ Più niente
 Il vuoto accorcia le distanze
 In fuga e costantemente
 Pronto allo scontro
-You might also like[Verse 3]
+
+[Verse 3]
 Il buio rappreso dentro te
 Le conseguenze ruvide
 L'errore riflesso in un lampo
@@ -58,4 +59,4 @@ Solo disconnetterti un istante
 Quasi fosse tregua
 Come fosse prima
 
-[Chorus x2]Embed
+[Chorus x2]

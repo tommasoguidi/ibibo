@@ -1,4 +1,4 @@
-Amare... o lasciare andare Lyrics[Testo di "Amare... O Lasciare Andare"]
+[Testo di "Amare... O Lasciare Andare"]
 
 [Intro]
 Sì, va così
@@ -37,7 +37,8 @@ Essere un'altra faccia tra un miliardo di facce inespressive lo fa indispettire
 Si chiede allo specchio ed è il 13 di marzo
 "Voglio scegliere la vita, smettere quest'embargo!"
 Il mattino successivo si licenzia e da quel momento è un altro
-You might also like[Ritornello]
+
+[Ritornello]
 Prima che tutto si perda, prima di rinunciare alla magia, ripensa a quanto vale e se ci tieni ritenta
 Devi amare o lasciare andare, devi amare o lasciare andare
 Ma se la via è più stretta e tu stai per lasciare che la malinconia ti stenda, a volte è meglio mollare
@@ -50,4 +51,4 @@ In queste maglie fitte, qualcosa ci rimane
 Tu devi amare, o lasciare andare
 Prima che sia troppo tardi per recuperare
 Tra queste maglie strette qualcosa scompare
-Forse non era quella la chiaveEmbed
+Forse non era quella la chiave

@@ -1,4 +1,4 @@
-Mater Lyrics[Testo di "Mater"]
+[Testo di "Mater"]
 
 [Strofa 1]
 Così vicina a Dio
@@ -36,7 +36,8 @@ Ma speri di trovarti ancora
 Sangue che nel destino scorre
 Sangue di genesi, di splendore
 Sai dirti chi sei?
-You might also like[Ritornello 1]
+
+[Ritornello 1]
 Per mare, per terra e per cielo
 Tutti parlano di te
 Tutti chiedono che tu sia grande
@@ -62,4 +63,4 @@ Una voce dentro grida: "Mater"
 Quante stelle conti su di te?
 Quale stella sogni di essere?
 Ma tu di fatto sei umana davvero
-E nel pianto senti dire "Mater"Embed
+E nel pianto senti dire "Mater"

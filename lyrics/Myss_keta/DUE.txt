@@ -1,4 +1,4 @@
-DUE Lyrics[Testo di "DUE"]
+[Testo di "DUE"]
 
 [Intro]
 M¥SS, kiss
@@ -39,7 +39,8 @@ Solo decisi, no fake, no snitch (Non ci piacciono)
 Il mood è top, i vestiti on fleek
 Mi metto una cosetta, I woke up like this
 Cameriere? (Ah)
-You might also like[Ritornello]
+
+[Ritornello]
 Ne voglio due (Uh)
 Due, due, due
 Sì, tu ne vuoi due?
@@ -54,4 +55,4 @@ Tira su 'sto beat
 Le beat c'est chic
 
 [Outro]
-Mi metto una cosetta, I woke up like thisEmbed
+Mi metto una cosetta, I woke up like this

@@ -1,4 +1,4 @@
-Niente da dichiarare Lyrics[Testo di "Niente Da Dichiarare"]
+[Testo di "Niente Da Dichiarare"]
 
 [Strofa 1]
 Le frasi da usare prima di partire sono "addio"
@@ -35,7 +35,8 @@ Hai visto il mondo?
 L'hai stretto bene
 E non hai niente da chiarire
 Niente da dichiarare
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 E alle dogane, alle frontiere
 Alle divise tutte uguali
 Al vento contro le bandiere
@@ -51,4 +52,4 @@ Niente da dichiarare
 Sulle croci sopra i questionari inutili
 Niente da dichiarare
 Sulla geografia che divide le anime
-Niente da dichiarareEmbed
+Niente da dichiarare

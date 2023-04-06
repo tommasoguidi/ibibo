@@ -1,4 +1,4 @@
-Amazzonia Lyrics[Testo di "Amazzonia"]
+[Testo di "Amazzonia"]
 
 [Strofa 1]
 Non ho dubbi ti ricorderai di me
@@ -37,10 +37,11 @@ Anch'io Kahlo, sì ma Frida
 Mi amazzo di Moretti Nanni
 Se citi Jack, io verso Kerouac
 Mi scusi, dove vado per otherside?
-You might also like[Ritornello]
+
+[Ritornello]
 Vieni con me e ti porto a non fare la stessa storia
 Dai periodi di merda nascono i fiori
 Io e te, Amazzonia
 Vieni con me, ti porto a non fare la stessa storia
 Dai periodi di merda nascono i fiori
-Io e te, AmazzoniaEmbed
+Io e te, Amazzonia

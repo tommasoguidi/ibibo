@@ -1,4 +1,4 @@
-108 Lyrics[Testo di "108"]
+[Testo di "108"]
 
 [Intro]
 1-0-8 Treb
@@ -38,7 +38,8 @@ Punto alla testa, ti ho lasciato un biglietto
 Vado a schiantarmi, ti ho lasciato un biglietto
 Io non ho mai
 Saputo dire tutte quelle cose che loro dicevano di te
-You might also like[Ritornello]
+
+[Ritornello]
 Ho fatto un sogno e sono a pezzi
 Tu non mi credi, ma non ho più paura di stare qui da solo
 Mi nascondevo tra i palazzi
@@ -63,4 +64,4 @@ Tu non mi credi, ma non ho più paura di stare qui da solo
 Mi nascondevo tra i palazzi
 Mi nascondevo e sono a pezzi
 Tu non mi vedi, ma non ho più paura di
-Stare qui da solo, qui da solo con meEmbed
+Stare qui da solo, qui da solo con me

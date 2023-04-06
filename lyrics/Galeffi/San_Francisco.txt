@@ -1,4 +1,4 @@
-San Francisco Lyrics[Testo di "San Francisco"]
+[Testo di "San Francisco"]
 
 [Intro]
 Tu-ru-tu-tu-tu-tu-ru-tu
@@ -39,7 +39,8 @@ In questa notte d'estate vorrei vederti brillare
 Come la stella più bella che il cielo quasi scompare
 Ma che tristezza l'estate se non ho te da sognare
 Se fossi questo orizzonte, io, io ti vorrei attraversare
-You might also like[Ritornello]
+
+[Ritornello]
 Come le strade di San Francisco (Tu-ru-tu-tu)
 Come le strade di San Francisco (Tu-ru-tu-tu)
 Domani il mare sarà bellissimo (Tu-ru-tu-tu)
@@ -61,4 +62,4 @@ Domani il mare sarà bellissimo (Tu-ru-tu-tu)
 Sarà bellissimo, sarà bellissimo (Tu-ru-tu-tu)
 
 [Outro]
-Sarà bellissimoEmbed
+Sarà bellissimo

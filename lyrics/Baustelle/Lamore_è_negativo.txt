@@ -1,4 +1,4 @@
-L’amore è negativo Lyrics[Testo di "L'amore è negativo"]
+[Testo di "L'amore è negativo"]
 
 [Strofa 1]
 Chiama Hitler, chiama Donald Trump
@@ -36,6 +36,7 @@ Contro la vita, contro la realtà
 Mi piacciono i maestri cattivi
 E le tue mani nell'oscurità
 Mi manchi, sul serio, lo sai
-You might also like[Outro]
+
+[Outro]
 Non sacrificare Isacco a Dio
-Salva tuo figlio muori al posto suoEmbed
+Salva tuo figlio muori al posto suo

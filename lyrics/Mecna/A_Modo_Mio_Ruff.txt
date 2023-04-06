@@ -1,4 +1,4 @@
-A Modo Mio (Ruff) Lyrics[Testo di "A Modo Mio (Ruff)"]
+[Testo di "A Modo Mio (Ruff)"]
 
 [Intro]
 Ehi
@@ -59,7 +59,8 @@ Mi immergo nella calma che uso se ti combatto
 A patto che possa essere l’unico che è rimasto
 A poter sognare di tenerti in braccio
 E va così
-You might also like[Ritornello]
+
+[Ritornello]
 Io prego perché possa scriverti ancora
 Ma a modo mio, a modo mio
 Io prego perché possa ridere ancora
@@ -93,4 +94,4 @@ Ma sono passi importanti da fare
 E non abbiamo il coraggio di farci male ancora
 Siamo la prova vivente che c'è qualcosa
 Qualcosa che vale la pena di sviscerare
-Suona nella mia vita ancora5Embed
+Suona nella mia vita ancora

@@ -1,4 +1,4 @@
-Hollywood Lyrics[Testo di "Hollywood"]
+[Testo di "Hollywood"]
 
 [Strofa 1]
 Vorrei essere a bordo di quella cartina
@@ -40,7 +40,8 @@ Poi ti chiamo, ma è occupato
 Poi mi dici che c'è un altro
 Solo quando non resisto
 Piango e scrivo un altro disco
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Sogno una Vespa
 E il casco no
 E di andarе a letto
@@ -64,4 +65,4 @@ Prometti che non ti scorderai di me
 Prometti che non ti scorderai di me
 Prometti che non ti scorderai di me
 Prometti che non ti scorderai
-Prometti che non ti scorderaiEmbed
+Prometti che non ti scorderai

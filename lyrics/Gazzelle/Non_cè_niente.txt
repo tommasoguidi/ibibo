@@ -1,4 +1,4 @@
-Non c’è niente Lyrics[Testo di "Non c'è niente"]
+[Testo di "Non c'è niente"]
 
 [Intro]
 Oh-oh, oh-oh, oh-oh, oh-oh
@@ -34,7 +34,8 @@ Non c’è niente di male
 Se non ti va più di uscire la sera
 Se non ti va più di uscire la sera
 Se non ti va più di uscire la sera
-You might also like[Bridge 2]
+
+[Bridge 2]
 Di uscire la sera
 Di uscire da sola con gli occhi di cera
 Mhm, avere la pioggia dentro la pancia e le scarpe di tela
@@ -50,4 +51,4 @@ Come un angolo di notte dietro casa
 Oh-oh, oh-oh, oh-oh, oh-oh
 Non c'è niente, non c'è niente
 Oh-oh, oh-oh, oh-oh, oh-oh
-Non c'è niente, non c'è nienteEmbed
+Non c'è niente, non c'è niente

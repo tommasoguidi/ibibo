@@ -1,4 +1,4 @@
-Memo Lyrics[Testo di "Memo"]
+[Testo di "Memo"]
 
 [Intro]
 Dove va a finire tutto l’amore di una storia d'amore?
@@ -39,11 +39,12 @@ Poi siamo stati l'incrocio di due sguardi
 Perfetti sconosciuti
 L'amore ci ha cambiati
 L'amore ci ha lasciati
-You might also like[Outro]
+
+[Outro]
 Corre veloce e le vite si scontrano
 Dalle luci dell'alba al tramonto
 Ritrovarsi abbracciati per anni e odiarsi all'improvviso
 
 Corre veloce e le vite si scontrano
 Dalle luci dell'alba al tramonto
-Ritrovarsi abbracciati per anni e odiarsi all'improvvisoEmbed
+Ritrovarsi abbracciati per anni e odiarsi all'improvviso

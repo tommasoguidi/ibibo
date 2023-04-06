@@ -1,4 +1,4 @@
-Lavoro Sporco Lyrics[Testo di "Lavoro Sporco"]
+[Testo di "Lavoro Sporco"]
 
 [Intro]
 DJ Fester
@@ -51,7 +51,8 @@ Continuano a commissionarlo
 Ma qualcuno deve pur farlo
 La prima regola è non rivelarlo
 Perché una volta che hai scelto non puoi cambiarlo
-You might also like[Strofa 3]
+
+[Strofa 3]
 E sento l'adrenalina...
 Che sale nonostante ormai farlo m'è familiare
 Per quanto queste siano procedure routinarie
@@ -79,4 +80,4 @@ Continuano a commissionarlo
 È un lavoro sporco che tutti stanno evitando
 Ma qualcuno deve pur farlo
 La prima regola è non rivelarlo
-Perché una volta che hai scelto non puoi cambiarloEmbed
+Perché una volta che hai scelto non puoi cambiarlo

@@ -1,4 +1,4 @@
-Troppi Preti Troppe Suore Lyrics[Testo di "Troppi Preti Troppe Suore"]
+[Testo di "Troppi Preti Troppe Suore"]
 
 [Strofa 1]
 Madonna, quanto tempo perdo
@@ -35,7 +35,8 @@ Chiedo scusa a chi ci crede e spera nel trascendentale
 Pure io c'ho i miei santini e ascolto le loro parole
 Scienziati, mezzi pazzi, son poeti e gran pittori
 Sono astronomi devoti, sono artisti, son dottori
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Oh, ma come si farà?
 Parlan tutti a vanvera
 Aspetta, mo mi impegno, frasi random, ritornello
@@ -68,4 +69,4 @@ C'ha una famiglia, quel deficiente
 E mi chiamano, ma non ci vado
 Mi curo, ma tendo al degrado
 Non riesco proprio a empatizzare
-Troppi preti e troppe suoreEmbed
+Troppi preti e troppe suore

@@ -1,4 +1,4 @@
-Niente di che Lyrics[Testo di "Niente di che"]
+[Testo di "Niente di che"]
 
 [Strofa 1]
 Ho messo le scarpe
@@ -35,7 +35,8 @@ E forse ho imparato ad andare
 Più forte dei miei pensieri, ricordi di ieri
 E correre di più
 O solamente non ci sei più
-You might also like[Ritornello]
+
+[Ritornello]
 Mi capita che
 Mi guardo intorno e non trovo più niente
 Più niente di te
@@ -66,4 +67,4 @@ Perché non siamo più niente di che
 Di che, di che, di che, di che
 Perché non siamo più niente di che
 Di che, di che, di che, di che
-Perché non siamo più nienteEmbed
+Perché non siamo più niente

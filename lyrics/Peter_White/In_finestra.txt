@@ -1,4 +1,4 @@
-In finestra Lyrics[Testo di "In finestra"]
+[Testo di "In finestra"]
 
 [Strofa 1]
 Fuori piove al vento e sono già le sette
@@ -40,8 +40,9 @@ E scusami vado di fretta
 Magari ci vedremo a una festa
 Fumeremo i ricordi in finestra
 Mentre la pioggia spezza il fumo di una sigaretta
-You might also like[Outro]
+
+[Outro]
 E scusami vado di fretta
 Magari ci vedremo a una festa
 Fumeremo i ricordi in finestra
-Mentre la pioggia spezza il fumo di una sigarettaEmbed
+Mentre la pioggia spezza il fumo di una sigaretta

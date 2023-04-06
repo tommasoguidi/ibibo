@@ -1,4 +1,4 @@
-Memorie di un povero naso Lyrics[Testo di "Memorie di un povero naso" ft. Mastrosuono]
+[Testo di "Memorie di un povero naso" ft. Mastrosuono]
 
 [Strofa 1]
 E io che ti inseguivo tra i brividi e tra i vicoli tipici
@@ -44,7 +44,8 @@ Dicevi: "Non ho partner, io non ho parte"
 Qualcuno ne ebbe nausea, sì, ma no, non Sartre
 Tu sei l'odore, amore, dolore di 'sto mendicante
 Tu mi perdonerai se a volte perdo sangue
-You might also like[Ritornello]
+
+[Ritornello]
 Povero me, io pensavo tra me e me
 Respiro fra te e me, morivo per niente
 Dimmi, dimmi chi non soffre tra sé e sé
@@ -69,4 +70,4 @@ Lo chiedano a me, me
 Lo chiedano a me, me
 Lo chiedano a me, me
 Chi non crede alle storie non piange
-Lo chiedano a meEmbed
+Lo chiedano a me

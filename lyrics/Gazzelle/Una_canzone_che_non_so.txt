@@ -1,4 +1,4 @@
-Una canzone che non so Lyrics[Testo di "Una canzone che non so"]
+[Testo di "Una canzone che non so"]
 
 [Strofa 1]
 Che ti ricordi di me lo so
@@ -37,7 +37,8 @@ Una canzone che non so
 [Bridge]
 E tu sei come volevo
 E tu sei come veleno
-You might also like[Ritornello]
+
+[Ritornello]
 Come quando ti spogli vado fuori di testa
 Ma vorrei sparire un po'
 Come quando ti arrabbi e strilli dalla finestra
@@ -51,4 +52,4 @@ Come quando t'arrabbi
 Come quando ti spogli
 Come quando t'arrabbi
 Come quando ti spogli
-Come quando ti spogli2Embed
+Come quando ti spogli

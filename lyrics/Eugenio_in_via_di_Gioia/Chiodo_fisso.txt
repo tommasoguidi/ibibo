@@ -1,4 +1,4 @@
-Chiodo fisso Lyrics[Testo di "Chiodo fisso"]
+[Testo di "Chiodo fisso"]
 
 [Strofa 1]
 Sono un chiodo entrato per sbaglio
@@ -39,11 +39,12 @@ Io non mi prenderò mai cura di te
 Io non mi prenderò mai cura di te
 Io non mi prenderò mai cura di te
 Io non mi prenderò mai cura di te
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Tu sei l'umanità
 Tu sei l'umanità
 Tu sei l'umanità
 Tu sei l'umanità ed io la natura
 Tu sei l'umanità ed io la natura
 Tu sei l'umanità ed io la natura
-Tu sei l'umanità ed io la naturaEmbed
+Tu sei l'umanità ed io la natura

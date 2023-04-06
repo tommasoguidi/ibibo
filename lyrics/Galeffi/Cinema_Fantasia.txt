@@ -1,4 +1,4 @@
-Cinema Fantasia Lyrics[Testo di "Cinema Fantasia"]
+[Testo di "Cinema Fantasia"]
 
 [Strofa 1]
 Un giorno inizia sempre da un caffè
@@ -41,7 +41,8 @@ Di regalarmi i tuoi occhi
 Fino alla fine dei giorni, oh no
 Non cambiare mai
 E non volare via, come una fantasia
-You might also like[Bridge]
+
+[Bridge]
 Vorrei baciarti come un tempo
 Vorrei tornare a quel momento, oh
 Vorrei piacerti come un tempo
@@ -50,4 +51,4 @@ Ma non è così, non è più così
 [Outro]
 Fino alla fine dei giorni
 Non cambiare mai
-E non volare via, come una fantasiaEmbed
+E non volare via, come una fantasia

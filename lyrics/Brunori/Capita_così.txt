@@ -1,4 +1,4 @@
-Capita così Lyrics[Testo di "Capita così"]
+[Testo di "Capita così"]
 
 [Strofa 1]
 Capita così
@@ -38,7 +38,8 @@ Ti senti ridicolo, sei ridicolo
 Quando pensi che sei uno su sette miliardi
 E che tanto, comunque, oramai è troppo tardi
 Oramai è troppo tardi
-You might also like[Bridge]
+
+[Bridge]
 E accade il miracolo, è un miracolo
 Accade in un attimo, è un attimo
 Una gioia che inganna di nuovo il tuo cuore
@@ -50,4 +51,4 @@ Anche se capita così
 Anche se capita così
 Anche se capita così
 Anche se capita così
-Anche se capita così1Embed
+Anche se capita così

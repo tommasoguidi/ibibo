@@ -1,4 +1,4 @@
-TranslationsEnglishManzarek Lyrics[Testo di "Manzarek"]
+[Testo di "Manzarek"]
 
 [Strofa 1]
 Vestita da sera, vestita da sposa
@@ -37,9 +37,10 @@ Una canzone dei Doors
 E ti copri la faccia di pugni e di insulti
 E passando per caso ti chiedi se è un caso
 Che leggi su un muro che il peggio è passato
-You might also like[Ritornello]
+
+[Ritornello]
 Se c'è una cosa che odio di più
 È che non posso vederti tutti i santi giorni
 E c'è una cosa che odio ancora di più
 È che non posso vederti quando ti spogli con
-Una maglietta dei Doors4Embed
+Una maglietta dei Doors

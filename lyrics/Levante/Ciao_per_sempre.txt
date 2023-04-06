@@ -1,4 +1,4 @@
-Ciao per sempre Lyrics[Testo di "Ciao per sempre"]
+[Testo di "Ciao per sempre"]
 
 [Strofa 1]
 Prendi tutto quello che ho
@@ -46,9 +46,10 @@ Tra questa gente
 Tutto il bello, tutto il buono
 Porto via nel mentre
 Caro amore, ciao per sempre
-You might also like[Ritornello]
+
+[Ritornello]
 Non sei stato mio e mai mio sarai
 Tra questa gente
 Tutto il bello, tutto il buono
 Porto via nel mentre
-Caro amore, ciao per sempreEmbed
+Caro amore, ciao per sempre

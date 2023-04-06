@@ -1,4 +1,4 @@
-Benedetto sei tu Lyrics[Testo di "Benedetto sei tu"]
+[Testo di "Benedetto sei tu"]
 
 [Intro]
 One, two, three, four
@@ -38,10 +38,11 @@ Ma è inutile, c'è un incendio
 E stai pisciando
 Controvento
 Capita
-You might also like[Ritornello]
+
+[Ritornello]
 Prendimi la mano e andiamo
 Verso un mondo più lontano
 Dove troveremo l'uomo
 Dove troveremo il modo
 Per respirare un po'
-E ritornare umaniEmbed
+E ritornare umani

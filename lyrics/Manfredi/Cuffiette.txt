@@ -1,4 +1,4 @@
-Cuffiette Lyrics[Testo di "Cuffiette"]
+[Testo di "Cuffiette"]
 
 [Strofa 1]
 Sono cintura bianca di vita, ho tutto da imparare
@@ -34,7 +34,8 @@ E la tua amica strana questa volta aspetterà
 I suoi problemi non c'importano stasera
 E la tua amica che ti chiama e chiede cosa c'è
 Se me la passi glielo grido in faccia che
-You might also like[Ritornello]
+
+[Ritornello]
 Sono stufo di te, che sei stufa di me
 Sono stufo di te, che sei stufa di me
 Sono stufo di te, che sei stufa di me
@@ -56,4 +57,4 @@ Se me la passi glielo grido in faccia che
 Sono stufo di te, che sei stufa di me
 Sono stufo di te, che sei stufa di me
 Sono stufo di te, che sei stufa di me
-Sono stufo di te, che sei stufa di meEmbed
+Sono stufo di te, che sei stufa di me

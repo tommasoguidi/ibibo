@@ -1,4 +1,4 @@
-Controllo Lyrics[Testo di "Controllo"]
+[Testo di "Controllo"]
 
 [Strofa 1]
 C'è un delicato equilibrio da mantenere
@@ -37,7 +37,8 @@ Che stasera posso pure andare
 Nanana, nanana, nanana, nanana
 Questa sera posso pure affogare, affogare
 Nanana, nanana, nanana
-You might also like[Ritornello]
+
+[Ritornello]
 In questo locale dove tutti si innamorano
 E le canzoni, e le canzoni cadono dagli occhi
 In questo locale dove tutti si salutano
@@ -57,4 +58,4 @@ Fuori controllo che lo controllo
 Nanana, nanana, nanana, nanana
 Fuori controllo
 Nanana, nanana, nanana
-Fuori controllo che lo controlloEmbed
+Fuori controllo che lo controllo

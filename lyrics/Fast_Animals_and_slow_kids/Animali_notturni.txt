@@ -1,4 +1,4 @@
-Animali notturni Lyrics[Testo di "Animali Notturni"]
+[Testo di "Animali Notturni"]
 
 [Strofa 1]
 Ma dove son finiti tutti quanti?
@@ -36,7 +36,8 @@ Una canzone senza coraggio
 Un grande amore senza uno sbando
 Un'amicizia che si addormenta
 Una parola detta troppo in fretta
-You might also like[Bridge]
+
+[Bridge]
 Poi, ti aspetti di arrivare in fondo
 Trovare spazio in quest'inferno
 Ma sei un'altra storia, solo un'altra storia
@@ -63,4 +64,4 @@ E non sentirci mai più soli
 E non sentirci mai più soli
 E non sentirci mai più soli
 E non sentirci mai più soli
-E non sentirci mai più2Embed
+E non sentirci mai più

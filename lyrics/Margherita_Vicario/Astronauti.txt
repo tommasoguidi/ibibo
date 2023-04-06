@@ -1,4 +1,4 @@
-Astronauti Lyrics[Testo di "Astronauti"]
+[Testo di "Astronauti"]
 
 [Strofa 1]
 Io le ho viste le tue capriole
@@ -36,7 +36,8 @@ E lo so che fa paura ma
 Come un'onda in alto mare
 Che quando poi la vedi e non riesci a respirare
 Capita un po' a tutti, sappi che
-You might also like[Ritornello]
+
+[Ritornello]
 Come dal cielo gli astronauti
 Io guardo oltre e vedo te
 Miliardi di significati, il tempo è poco ma ce n’è
@@ -64,4 +65,4 @@ Te l'ho già detto che mi piaci
 [Outro]
 Il bello della vita è che nessuno l'ha capita
 Così han fatto la fatica di inventarsi l'aldilà
-Ma il senso della vita è proprio fare la fatica di godersi la salita ed arrivare fino a quaEmbed
+Ma il senso della vita è proprio fare la fatica di godersi la salita ed arrivare fino a qua

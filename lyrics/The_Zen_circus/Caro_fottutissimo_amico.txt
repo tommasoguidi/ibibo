@@ -1,4 +1,4 @@
-Caro fottutissimo amico Lyrics[Testo di "Caro fottutissimo amico"]
+[Testo di "Caro fottutissimo amico"]
 
 [Strofa 1: Appino]
 Caro fottutissimo amico mio
@@ -46,7 +46,8 @@ Il tempo parla una lingua che sappiamo già
 Impareremo un giorno anche quella dell'eternità
 Ecco un altro viaggio, ma adesso dove si va?
 Lo decidiamo noi
-You might also like[Ritornello: Motta]
+
+[Ritornello: Motta]
 Lasciati attraversare
 Lascia che il mondo giri su sé stesso senza far rumore
 Qui dove nessuno può farti del male
@@ -56,4 +57,4 @@ E non avremo sonno
 Avremo solo questa santa voglia di sbagliare tutto
 Com'è sempre stato
 Come solo è giusto
-Essere ancora e per sempre insiemeEmbed
+Essere ancora e per sempre insieme

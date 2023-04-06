@@ -1,4 +1,4 @@
-Comunque Lyrics[Testo di "Comunque"]
+[Testo di "Comunque"]
 
 [Strofa 1]
 E tu non hai perso tempo, bisou
@@ -41,9 +41,10 @@ Di sentire: "Come stai?" e te: "Come te la passi?"
 Hai lasciato un bel visualizzato a tutti i miei messaggi
 E comunque, è per cambiare discorso
 Comunque, è per prendere tempo da te
-You might also like[Outro]
+
+[Outro]
 Un cmq per abbreviare una parola
 Per cambiare discorso da te
 Che comunque stai bene pure da sola
 Per prendere tempo
-Comunque...1Embed
+Comunque...

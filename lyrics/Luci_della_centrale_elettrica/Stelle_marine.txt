@@ -1,4 +1,4 @@
-Stelle marine Lyrics[Testo di "Stelle marine"]
+[Testo di "Stelle marine"]
 
 In questa notte di disordini e sentinelle
 È andata via la luce e tutti hanno visto
@@ -36,7 +36,8 @@ In questa città stupenda
 Dove si infrange l'onda migratoria
 E il dormiveglia di chi passa
 Tutta la notte sulla 90
-You might also likeHo sentito la tua voce in una conchiglia
+
+Ho sentito la tua voce in una conchiglia
 L'acqua si impara dalla sete
 La terra dagli oceani attraversati
 La pace dai racconti di battaglia
@@ -73,4 +74,4 @@ La pace dai racconti di battaglia
 
 L'acqua si impara dalla sete
 La terra dagli oceani attraversati
-La pace dai racconti di battagliaEmbed
+La pace dai racconti di battaglia

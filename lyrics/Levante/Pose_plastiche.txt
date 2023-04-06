@@ -1,4 +1,4 @@
-Pose plastiche Lyrics[Testo di "Pose plastiche"]
+[Testo di "Pose plastiche"]
 
 [Strofa 1]
 È il tempo che mi manca un po'
@@ -39,8 +39,9 @@ E basta con le pose plastiche ed i proforma
 I sorrisi indossati all'occorrenza, la riverenza
 E basta allo sguardo borioso della festa
 Il martello che manca da dare in testa, contessa
-You might also like[Outro]
+
+[Outro]
 E basta con le pose plastiche ed i proforma
 I sorrisi indossati all'occorrenza, la riverenza
 (E basta) Basta (E basta)
-(Con le pose plastiche) Con le pose plasticheEmbed
+(Con le pose plastiche) Con le pose plastiche

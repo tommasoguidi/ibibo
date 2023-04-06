@@ -1,4 +1,4 @@
-TVB Lyrics[Testo di "TVB"]
+[Testo di "TVB"]
 
 [Strofa 1]
 Ci risiamo
@@ -35,7 +35,8 @@ Che ti ricorda la strada
 Quando senza memoria avrai bisogno di me
 Quando ti senti sola, bevi una Coca-Cola
 Che ti aiuta a reggere
-You might also like[Ritornello]
+
+[Ritornello]
 Perché ti voglio bene
 Perché ti voglio bene
 Perché ti voglio
@@ -55,4 +56,4 @@ Perché ti voglio bene
 (Tanto bene, tanto bene, ti voglio tanto bene, tanto bene)
 Perché ti voglio bene
 (Ti voglio tanto bene, tanto bene, ti voglio tanto bene, tanto bene
-Ti voglio)Embed
+Ti voglio)

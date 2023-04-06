@@ -1,4 +1,4 @@
-CANTAUTORE Lyrics[Testo di "CANTAUTORE"]
+[Testo di "CANTAUTORE"]
 
 [Strofa 1]
 Mi sono svegliato adesso
@@ -35,11 +35,12 @@ Io sono un cantautore
 Vivo nel dolore, ai margini della città
 Io sono un cantastorie
 Vivo nel dolore, ai margini della città
-You might also like[Bridge]
+
+[Bridge]
 Oh
 
 [Ritornello]
 Io sono un cantautore
 Vivo nel dolore, ai margini della città, oh
 Io sono un cantastorie
-Vivo nel dolore, ai margini della cittàEmbed
+Vivo nel dolore, ai margini della città

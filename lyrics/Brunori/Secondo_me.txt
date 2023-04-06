@@ -1,4 +1,4 @@
-Secondo me Lyrics[Testo di "Secondo me"]
+[Testo di "Secondo me"]
 
 [Strofa 1]
 Secondo me hanno ragione anche i vegani
@@ -40,7 +40,8 @@ Se canti il popolo, sarai anche un cantautore
 Sarai anche un cantastorie
 Ma ogni volta ai tuoi concerti
 Non c'è neanche un muratore
-You might also like[Ritornello]
+
+[Ritornello]
 Secondo me, secondo me
 Io vedo il mondo solo secondo me
 Secondo me, secondo me
@@ -72,4 +73,4 @@ Ah-ah-ah-ah-aah
 Ah-ah-ah-ah-aah
 Ah-ah-ah-ah-aah
 Ah-ah-ah-ah-aah
-Ah-aah1Embed
+Ah-aah

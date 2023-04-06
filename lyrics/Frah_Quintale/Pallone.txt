@@ -1,4 +1,4 @@
-Pallone Lyrics[Testo di "Pallone"]
+[Testo di "Pallone"]
 
 [Strofa 1]
 Ti sei mai sentito solo e vulnerabile?
@@ -35,7 +35,8 @@ Siamo lanciati nella notte a fari spenti
 E se non sai qual è la strada la inventi
 E se a volte non tutto quadra
 Ed il mondo non ti regala tu prendi
-You might also like[Bridge]
+
+[Bridge]
 Giocavamo sotto casa a pallone
 Ci tiravano l'acqua addosso
 Poi qualcuno è diventato un campione
@@ -57,4 +58,4 @@ Per imparare a camminare
 Puoi risalire o continuare a scavare
 Puoi anche prendere il volo
 E sparire nel vuoto
-Giocavamo sotto casa a palloneEmbed
+Giocavamo sotto casa a pallone

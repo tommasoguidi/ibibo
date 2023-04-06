@@ -1,4 +1,4 @@
-Milano Droga Lyrics[Testo di "Milano Droga"]
+[Testo di "Milano Droga"]
 
 [Strofa 1]
 Con i vestiti comprati a quel mercatino
@@ -45,7 +45,8 @@ Ora Milano è sguardo basso
 È paura di incontrarti
 Milano è un po' come le droghe
 Milano cambia le persone
-You might also like[Ritornello]
+
+[Ritornello]
 Io lo so che non piangi
 Io lo so che non ti manco mai
 Che giri tutti i locali
@@ -70,4 +71,4 @@ La tua amica
 Tu non puoi guidare
 Ti riporta a casa la tua amica
 La tua amica
-La tua amicaEmbed
+La tua amica

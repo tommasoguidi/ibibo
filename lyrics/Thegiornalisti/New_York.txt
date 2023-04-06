@@ -1,4 +1,4 @@
-New York Lyrics[Testo di "New York"]
+[Testo di "New York"]
 
 [Strofa 1]
 Giro male la testa da una parte all'altra
@@ -44,7 +44,8 @@ Che il vento poi le porta fino a Saturno
 Oh dove sei tu
 Oh dove sei tu
 Oh dove sei tu
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Il profumo delle Wilson da tennis nuove
 Delle Superga al mare
 Delle docce all'aperto a Fregene
@@ -62,4 +63,4 @@ Oh dove sei tu
 Oh dove sei tu
 
 [Outro]
-Dove sei tuEmbed
+Dove sei tu

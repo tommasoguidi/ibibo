@@ -1,4 +1,4 @@
-Martelli Lyrics[Testo di "Martelli"]
+[Testo di "Martelli"]
 
 [Strofa 1]
 Ho perso tutto, tutto d'un botto
@@ -38,7 +38,8 @@ Oggi mi sparo in testa, mi sparo in testa, mi sparo in testa ah ah
 Oggi mi sparo in testa, mi sparo in testa, mi sparo in testa ah ah
 Oggi mi sparo in testa, mi sparo in testa, mi sparo in testa ah ah
 Oggi mi sparo in testa, mi sparo in testa, mi sparo in testa ah ah
-You might also like[Bridge]
+
+[Bridge]
 Voglio solo stare bene, voglio solo stare bene
 Ritrovare il mio colore, ritrovare il mio colore
 Voglio solo stare bene, voglio solo stare bene
@@ -52,4 +53,4 @@ Oggi mi sparo in testa mi sparo in testa mi sparo in testa ah ah
 Sei come sei ma non sei come vorrei (mi sparo in testa)
 Io e lei eravamo più belli
 Quello che ti do non è quello che dovrei
-Ma che vuoi, i giorni sembrano martelli1Embed
+Ma che vuoi, i giorni sembrano martelli

@@ -1,4 +1,4 @@
-Drink! Lyrics[Testo di "Drink!"]
+[Testo di "Drink!"]
 
 [Ritornello]
 Mix
@@ -67,7 +67,8 @@ Al bancone t'offro un altro grosso (drink)
 Lei viene in bagno, porta questo (drink)
 Gira tutto, casca questo (drink)
 Gira tutto, casca questo (drink)
-You might also like[Outro]
+
+[Outro]
 Mix
 Letale: ketamina, coca, speed
 Dove siete? Dove siamo qui?
@@ -75,4 +76,4 @@ Bevo, mi disseta questo drink, drink
 Mix
 Letale: ketamina, coca, speed
 Dove siete? Dove siamo qui?
-Bevo, mi disseta questo drink, drinkEmbed
+Bevo, mi disseta questo drink, drink

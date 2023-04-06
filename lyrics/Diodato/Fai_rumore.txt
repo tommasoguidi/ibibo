@@ -1,4 +1,4 @@
-Fai rumore Lyrics[Testo di "Fai rumore"]
+[Testo di "Fai rumore"]
 
 [Strofa 1]
 Sai che cosa penso
@@ -38,7 +38,8 @@ E faccio finta di dimenticare
 Ma capisco che
 Per quanto io fugga
 Torno sempre a te
-You might also like[Ritornello]
+
+[Ritornello]
 Che fai rumore qui
 E non lo so se mi fa bene
 Se il tuo rumore mi conviene
@@ -52,4 +53,4 @@ Ma fai rumore, sì
 Che non lo posso sopportare
 Questo silenzio innaturale
 E non ne voglio fare a meno oramai
-Di quel bellissimo rumore che fai1Embed
+Di quel bellissimo rumore che fai

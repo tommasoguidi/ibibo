@@ -1,4 +1,4 @@
-Essere liberi Lyrics[Testo di "Essere liberi"]
+[Testo di "Essere liberi"]
 
 [Strofa 1]
 Non batti ciglio mentre te ne vai
@@ -42,7 +42,8 @@ So che ci credevi davvero
 (Davvero)
 Ma partiamo in cento e ritorniamo soli
 Il prezzo d'essere liberi
-You might also like[Bridge]
+
+[Bridge]
 Se guardassi dentro di me
 Ci troveresti il vento forte
 Di tutte le porte, di tutte le volte
@@ -68,4 +69,4 @@ Il prezzo d'essere liberi (Liberi, liberi, liberi, liberi)
 
 [Outro]
 Il prezzo d'essere liberi
-Il prezzo d'essere liberiEmbed
+Il prezzo d'essere liberi

@@ -1,4 +1,4 @@
-Ogni benedetto giorno Lyrics[Testo di "Ogni benedetto giorno"]
+[Testo di "Ogni benedetto giorno"]
 
 [Strofa 1]
 Niente è cosi chiaro sotto
@@ -53,7 +53,8 @@ Su queste vie strisciate come zebre
 A vantarci delle parentele
 Mio cugino ha conoscenze nelle alte sfere
 Ma finisce a bere da solo tutte le sere
-You might also like[Ritornello]
+
+[Ritornello]
 Quando il livello sale
 Tu non puoi più tirarti indietro adesso
 Sai cosa devi fare
@@ -69,4 +70,4 @@ Ti porta via
 Quasi sempre qualcuno è pronto a spegnerci
 Ma non ci riuscirà
 
-La la la la...Embed
+La la la la...

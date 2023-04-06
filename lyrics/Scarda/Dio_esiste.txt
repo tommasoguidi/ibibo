@@ -1,4 +1,4 @@
-Dio esiste Lyrics[Testo di "Dio esiste"]
+[Testo di "Dio esiste"]
 
 [Strofa 1]
 Dei castelli sulla spiaggia
@@ -40,9 +40,10 @@ Ma non credo badi molto a quelle cose popolari
 Tipo benedire case, automobili e animali
 Il cielo era arancione e lei piangeva su un vagone
 Quanti amori straordinari fuggon via sopra i binari
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 E quanta strada che ci sta fra il parabrezza e casa mia
 E quante facce che mi guardano sui bordi della via
 Sui pulpiti chi parla non sa darmi le risposte, però insiste
 Dice sempre che Dio esiste
-Dice sempre che Dio esisteEmbed
+Dice sempre che Dio esiste

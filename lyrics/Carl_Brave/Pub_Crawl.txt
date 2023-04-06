@@ -1,4 +1,4 @@
-Pub Crawl Lyrics[Testo di "Pub Crawl"]
+[Testo di "Pub Crawl"]
 
 [Strofa 1]
 Che amarezza Piazza Venezia
@@ -49,7 +49,8 @@ Io caffè al bar, lei Starbucks
 Una cuffietta a testa, specchiati sul tram
 Il capodanno che vorrei, con tuffo di Mister Ok
 Ma tu stai pellaria nel Maine
-You might also like[Ritornello]
+
+[Ritornello]
 Pardon, ti mando un corazon, corazon
 Lo so, mi so' imbucato a questo pub crawl
 Ho visto dallo specchio la tua maglia Roma, ho letto "Amor"
@@ -62,4 +63,4 @@ Where are you from?
 Mmhhh
 Where are you from?
 Mmhhh
-Where are you from?Embed
+Where are you from?

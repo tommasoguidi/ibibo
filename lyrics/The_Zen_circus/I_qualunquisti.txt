@@ -1,4 +1,4 @@
-I qualunquisti Lyrics[Testo di "I qualunquisti"]
+[Testo di "I qualunquisti"]
 
 [Strofa 1]
 L'ultimo dei tuoi problemi è trovare da mangiare
@@ -39,9 +39,10 @@ Non chiamarci comunisti
 Dai che non ce n'è più bisogno
 Piuttosto siamo i qualunquisti
 Gente come te
-You might also like[Ritornello]
+
+[Ritornello]
 Pensa poco e ridi scemo che la vita è un baleno
 Ridi, scemo, e bacia tutti, prima o poi son tutti morti
 Ridi, scemo, e di gusto, che sei nel paese giusto
 Ridi, pazzo, e piangi forte
-E tira a campareEmbed
+E tira a campare

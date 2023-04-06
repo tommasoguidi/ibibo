@@ -1,4 +1,4 @@
-Ancora Ad Odiare Lyrics[Verse]
+[Verse]
 Che non aveva faccia questo lo sapevo
 E del suo inutile stare lo immaginavo
 Ma non pensavo di arrivare ad odiarlo
@@ -36,7 +36,8 @@ Ancora ad odiare
 Che non aveva faccia questo lo sapevo
 Ed il suo inutile stare
 Lo immaginavo...
-You might also like[Chorus]
+
+[Chorus]
 Ringhiando forte, più forte al vento
 Gridando una, 10 volte 100
 Sono riuscito ancora ad odiare
@@ -50,4 +51,4 @@ Ringhiando forte, più forte al vento
 Gridando una, 10 volte 100
 Sono riuscito a farmi del male
 Ancora ad odiare
-A farmi del maleEmbed
+A farmi del male

@@ -1,4 +1,4 @@
-Calamite Lyrics[Testo di "Calamite"]
+[Testo di "Calamite"]
 
 [Intro]
 Non sei mia, puoi fuggire
@@ -41,7 +41,8 @@ Che prima o poi si rincontrano
 [Pre-Ritornello]
 Non ho ricordi di ieri, ho vissuto a metà, metà
 Tu non ballare anche quando la musica va, va
-You might also like[Ritornello]
+
+[Ritornello]
 Non sei mia, puoi fuggire
 Io non ti rincorrerò
 Siamo come calamite
@@ -63,4 +64,4 @@ Io non ti rincorrerò (Io non ti rincorrerò)
 Siamo come calamite (Siamo come calamite)
 Che prima o poi si rincontrano (Prima o poi, prima o poi)
 Che prima o poi si rincontrano
-Che prima o poi si rincontranoEmbed
+Che prima o poi si rincontrano

@@ -1,4 +1,4 @@
-Vagabunda Lyrics[Testo di "Vagabunda"]
+[Testo di "Vagabunda"]
 
 [Strofa 1]
 La prigione ha molte sbarre
@@ -40,7 +40,8 @@ Alla fine della giungla
 Al di là di questo viaggio
 Vorrei passare dentro al buio
 Con un po' del tuo coraggio
-You might also like[Ritornello]
+
+[Ritornello]
 A brisa virou meu amor
 E tudo acabou
 A minha dor
@@ -52,4 +53,4 @@ E tudo acabou
 A minha dor
 É um grão de areia
 Uma lua cheia é muito maior
-É muito maiorEmbed
+É muito maior

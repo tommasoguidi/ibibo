@@ -1,4 +1,4 @@
-Giorni buoni Lyrics[Testo di "Giorni Buoni"]
+[Testo di "Giorni Buoni"]
 
 [Strofa 1]
 Nei temporali estivi
@@ -41,8 +41,9 @@ Un amore col vento
 La pioggia, il cemento
 Senza volerlo ho appiccato un incendio
 Dentro di me e te
-You might also like[Outro]
+
+[Outro]
 Ma sono giorni buoni
 Fatti di ore crudeli
 Ma sono giorni buoni
-Fatti di ore crudeliEmbed
+Fatti di ore crudeli

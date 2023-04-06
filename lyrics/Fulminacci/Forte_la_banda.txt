@@ -1,4 +1,4 @@
-Forte la banda Lyrics[Testo di "Forte la banda"]
+[Testo di "Forte la banda"]
 
 [Strofa 1]
 Oh, bella chitarra
@@ -33,7 +33,8 @@ Ma lo sai come va il mondo
 Le cose belle non durano mai
 Io, pensa, ero biondo
 Oh, mi raccomando non ti vendere, chissà se ce la fai
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Te lo prometto
 Scusami, è tardi
 Non mi concentro
@@ -54,4 +55,4 @@ Mhm, le idee
 Basta con i toni leggeri, con le accuse pesanti
 Mi piace la musica, quella dei grandi
 E dopo tutto può essere un atto d'amore rubargli le idee
-Le ideeEmbed
+Le idee

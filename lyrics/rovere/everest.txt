@@ -1,4 +1,4 @@
-​everest Lyrics[Testo di "everest"]
+[Testo di "everest"]
 
 [Strofa 1]
 Mi prometti che andiamo lontano
@@ -48,7 +48,8 @@ La notte con le stelle
 Sperando di vedere
 Se mi abbronzano le spalle
 Ho voglia di mischiare la mia estate con la tua
-You might also like[Bridge]
+
+[Bridge]
 Dentro i nostri sorrisi migliori
 Che rovinano le foto di famiglia
 Con l’orecchio teso sui mari (Sui mari del mondo)
@@ -64,4 +65,4 @@ La notte con le stelle
 Sperando di vedere
 Se mi abbronzano le spalle
 Ho voglia di mischiare la mia estate con la tua
-Ho voglia di rischiare la mia estate con la tuaEmbed
+Ho voglia di rischiare la mia estate con la tua

@@ -1,4 +1,4 @@
-Asciutto Lyrics[Testo di "Asciutto"]
+[Testo di "Asciutto"]
 
 [Strofa 1]
 Ridi piano
@@ -46,7 +46,8 @@ Quando il sole non bussa
 Entra dalla finestra
 Tu ti illumini tutta
 Fuori e dentro la testa
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Non stare a preoccuparti
 Per ogni giorno nero
 Passerà il silenzio
@@ -84,4 +85,4 @@ Che si fa secco
 Uoh, uoh, uoh
 Uoh, uoh, uoh
 Uoh, uoh, uoh
-UohEmbed
+Uoh

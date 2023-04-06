@@ -1,4 +1,4 @@
-Game Over Lyrics[Testo di "Game Over"]
+[Testo di "Game Over"]
 
 [Strofa 1]
 Facciamo un sacco di chilometri al telefono
@@ -39,7 +39,8 @@ E dentro agli occhi tuoi
 Tutta la notte poi ci giocherei
 Game over, insert coin
 Game over, insert coin, insert coin
-You might also like[Bridge]
+
+[Bridge]
 E mi sento strano
 Abbiamo litigato
 Prenoto il messicano
@@ -56,4 +57,4 @@ Sicuramente i tuoi sbattimenti me li accollerei
 E con i fianchi tuoi
 Tutta la notte poi ci giocherei
 Game over, insert coin
-Game over, insert coin, oh-ohEmbed
+Game over, insert coin, oh-oh

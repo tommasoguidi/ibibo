@@ -1,4 +1,4 @@
-Vieni da me Lyrics[Testo di "Vieni da me"]
+[Testo di "Vieni da me"]
 
 [Strofa 1]
 Ricordami che non è vero
@@ -42,7 +42,8 @@ E se il mondo è una macchina
 Noi due siamo le ruote di scorta
 E se poi ci fermiamo
 Noi due siamo il divieto di sosta
-You might also like[Ritornello]
+
+[Ritornello]
 Vieni da me
 Stanotte non riesco a dormire
 Sono le 3
@@ -60,4 +61,4 @@ Non c'è
 Non c'è
 Non c'è
 Non c'è
-Non c'èEmbed
+Non c'è

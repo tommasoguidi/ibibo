@@ -1,4 +1,4 @@
-Il musichiere 999 Lyrics[Testo di "Il musichiere 999"]
+[Testo di "Il musichiere 999"]
 
 Voglio essere Gainsbourg
 Voglio una Lolita al mou
@@ -35,7 +35,8 @@ Copulare in hit parade
 Suicidarmi insieme a te
 Il tabacco di De André
 E una fica come te
-You might also likeBuild the modern chansonnier
+
 Build the modern chansonnier
 Build the modern chansonnier
-Build the modern chansonnierEmbed
+Build the modern chansonnier
+Build the modern chansonnier

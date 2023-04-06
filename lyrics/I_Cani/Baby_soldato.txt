@@ -1,4 +1,4 @@
-Baby soldato Lyrics[Testo di "Baby soldato"]
+[Testo di "Baby soldato"]
 
 [Strofa 1]
 Non lo sai perché ti sei trovata a correre
@@ -39,7 +39,8 @@ E gallerie d'arte, lacrime calde
 "Zio, non è niente, lo sai sono scoppiata, zio
 Non è niente, sono solo stanca, zio
 Non è niente, niente, niente, niente, niente"
-You might also like[Interludio]
+
+[Interludio]
 Niente, niente, niente, niente
 Niente, niente, niente, niente
 Niente, niente, niente, niente
@@ -65,4 +66,4 @@ Tra JFK e Charles De Gaulle
 Tra la carriera e il rock 'n' roll
 Tra l'obiettivo ed il backdrop
 Tra l'afterparty e il panico
-Tra JFK e Charles De GaulleEmbed
+Tra JFK e Charles De Gaulle

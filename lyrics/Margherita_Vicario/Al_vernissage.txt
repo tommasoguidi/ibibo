@@ -1,4 +1,4 @@
-Al vernissage Lyrics[Testo di "Al vernissage"]
+[Testo di "Al vernissage"]
 
 [Intro]
 Il vestito mi sta stretto
@@ -34,7 +34,8 @@ Non sono io, stava parlando mi sa, col signore!"
 Trattare con vecchi arricchiti beoni
 Che osannano pigri e ambiziosi cafoni
 Un circo perenne trainato da mere pulsioni
-You might also like[Strofa 3]
+
+[Strofa 3]
 Rubens, Kafka, Becken, Rothko, Hitchcock, Johnson, Michael Jackson, Hinter, Jung, Oliver Stone e Cher
 
 [Strofa 4]
@@ -61,4 +62,4 @@ Voglio restare qua!
 Voglio restare qua!
 Voglio restare qua!
 Voglio restare qua, eh!
-Voglio restare qua, oh!Embed
+Voglio restare qua, oh!

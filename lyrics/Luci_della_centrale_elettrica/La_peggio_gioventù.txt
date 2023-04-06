@@ -1,4 +1,4 @@
-La peggio gioventù Lyrics[Testo di "La peggio gioventù"]
+[Testo di "La peggio gioventù"]
 
 [Strofa 1]
 Esubero di rifiuti, ce n'erano a Reggio Emilia
@@ -46,11 +46,12 @@ Ma non è niente, l'amore va in discariche
 Lei sputa parole di pietra, ha visto un terremoto
 Un terrorista sparato alle spalle
 Mi entra dentro ancora con le scarpe
-You might also like[Ritornello 4]
+
+[Ritornello 4]
 La meglio gioventù (La meglio gioventù) sei tu (La meglio gioventù)
 La peggio gioventù (La meglio gioventù) sei sempre tu (La meglio gioventù)
 La meglio gioventù (La meglio gioventù) sei tu (La meglio gioventù)
 La peggio gioventù (La peggio gioventù) sei sempre tu (La meglio gioventù)
 
 [Outro]
-E indelebili, noi saremo indelebiliEmbed
+E indelebili, noi saremo indelebili

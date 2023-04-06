@@ -1,4 +1,4 @@
-E invece niente Lyrics[Testo di "E invece niente"]
+[Testo di "E invece niente"]
 
 [Strofa 1]
 Quanti giorni tutti uguali
@@ -40,7 +40,8 @@ E invece niente
 E invece niente
 E invece niente
 E invece niente
-You might also like[Strofa 3]
+
+[Strofa 3]
 E da lì, da quel punto lontano
 Se avessi potuto ti avrei salutato con la mano, baby
 Bye bye, baby
@@ -65,4 +66,4 @@ Bye bye, baby
 Bye bye, baby
 Bye bye, baby
 Bye bye, baby
-Bye bye, babyEmbed
+Bye bye, baby

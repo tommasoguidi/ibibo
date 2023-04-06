@@ -1,4 +1,4 @@
-Vorrei portarti via Lyrics[Testo di "Vorrei portarti via"]
+[Testo di "Vorrei portarti via"]
 
 [Strofa 1]
 Tu sei più giovane di me
@@ -38,6 +38,7 @@ Vorrei portarti via, via da te
 Ma non lo so dove sto andando sai
 Vorrei portarti via, via con me
 Che non lo so dove vado mai
-You might also like[Outro]
+
+[Outro]
 Tu sei più giovane di me
-Ma hai gli occhi grandi come i mieiEmbed
+Ma hai gli occhi grandi come i miei

@@ -1,4 +1,4 @@
-Angeli stanchi Lyrics[Testo di "Angeli stanchi"]
+[Testo di "Angeli stanchi"]
 
 [Strofa 1]
 Ormai è tardi, ma sai che c'è?
@@ -35,7 +35,8 @@ Ti prego, volo un po' più su dei miei cieli di forse
 Dei miei sogni caduti, delle giornate vuote
 Di 'sti dischi fottuti da 'ste lacrime amare
 Tu che arrivi in silenzio tra 'ste pagine chiare
-You might also like[Ritornello]
+
+[Ritornello]
 E brillano i tuoi occhi e non so perché
 L'unica stella buona dentro a un buio orrendo
 Saranno forse le sei birre o le lacrime
@@ -51,4 +52,4 @@ Io non ho imparato un cazzo, solo perso mille pezzi
 Ho rovinato tutto quanto, resto qui in ginocchio
 Perché sei l'ultima cosa che mi resta ancora addosso
 Non ho niente ormai, non ho niente ormai
-Non ho più niente ormai, non ho più niente ormaiEmbed
+Non ho più niente ormai, non ho più niente ormai

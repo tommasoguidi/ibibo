@@ -1,4 +1,4 @@
-Onde Lyrics[Testo di "Onde"]
+[Testo di "Onde"]
 
 La mattina le onde girano
 Come ruote di bicicletta
@@ -34,7 +34,8 @@ Ci può andare
 Poi veloci come uccelli
 Tornano in spiaggia
 A distruggere i castelli
-You might also likeE così verso le due
+
+E così verso le due
 I bambini tornano dal pranzo
 E i loro genitori devono lottare
 
@@ -66,4 +67,4 @@ Poi tornano sott'acqua
 Onde che girano
 E girando cambian volto
 E dopo aver girato tutto il mondo
-Tornano nel portoEmbed
+Tornano nel porto

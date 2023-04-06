@@ -1,4 +1,4 @@
-Mappa Lyrics[Testo di "Mappa"]
+[Testo di "Mappa"]
 
 [Strofa 1: Mameli & Meli]
 Stasera dimentica tutto
@@ -34,7 +34,8 @@ E tutto ciò che ti fa strano
 È la mia quotidianità
 Tu mi dicevi vacci piano
 Ma dimmi come si fai
-You might also like[Ritornello: Mameli & Meli,  solo Mameli]
+
+[Ritornello: Mameli & Meli,  solo Mameli]
 A restare svegli
 Sulle tue labbra
 E senza una mappa
@@ -44,4 +45,4 @@ Che brutta giornata mi aspetta se te ne vai
 
 [Outro: Mameli & Meli,  solo Meli]
 Che brutta giornata mi aspetta se te ne vai
-Che brutta giornata mi aspetta se te ne vaiEmbed
+Che brutta giornata mi aspetta se te ne vai

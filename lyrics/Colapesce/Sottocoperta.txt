@@ -1,4 +1,4 @@
-Sottocoperta Lyrics[Testo di "Sottocoperta"]
+[Testo di "Sottocoperta"]
 
 [Strofa 1]
 Cerco le rime
@@ -40,6 +40,7 @@ La tua voce ricorda
 Il vento nella stagione calda
 Come ombre di stelle
 Sono i nei della tua pelle
-You might also like[Outro]
+
+[Outro]
 Sottocoperta
-Profumo di cannella misto a gelsomino e telaEmbed
+Profumo di cannella misto a gelsomino e tela

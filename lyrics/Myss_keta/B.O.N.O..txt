@@ -1,4 +1,4 @@
-B.O.N.O. Lyrics[Testo di "B.O.N.O."]
+[Testo di "B.O.N.O."]
 
 [Ritornello]
 Sto guardando te perché sei un bono da paura
@@ -51,7 +51,8 @@ Brioche e cappuccino, pago io
 Lo porto a casa, sta in provincia, oh mio Dio
 Ha il cellulare scarico, usa il mio
 Ce ne importa poco o nulla se è un addio
-You might also like[Outro]
+
+[Outro]
 B.O.N.O
 Sali in macchina con me, ti porto
 B.O.N.O
@@ -59,4 +60,4 @@ Sali in macchina con me, ti porto
 Magnetico
 Sali in macchina con me, ti porto
 Magnetico
-Sali in macchina con me, ti portoEmbed
+Sali in macchina con me, ti porto

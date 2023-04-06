@@ -1,4 +1,4 @@
-Lacri-ma Lyrics[Testo di "Lacri-ma"]
+[Testo di "Lacri-ma"]
 
 [Strofa 1]
 Mentre ti scende una lacri-
@@ -36,9 +36,10 @@ T'avrei tenuto vici-
 Non potevo capi-
 Respirami addosso ancora un po', ti prego
 Non riesco a mangiare
-You might also like[Ritornello]
+
+[Ritornello]
 Guarda che bella giorna-
 T'avrei tenuto vici-
 Non potevo capi-
 Respirami addosso ancora un po', ti prego
-Non riesco a mangiareEmbed
+Non riesco a mangiare

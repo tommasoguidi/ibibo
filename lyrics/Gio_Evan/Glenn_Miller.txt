@@ -1,4 +1,4 @@
-Glenn Miller Lyrics[Testo di "Glenn Miller"]
+[Testo di "Glenn Miller"]
 
 [Strofa 1]
 Che bello vederti di sera
@@ -44,7 +44,8 @@ Le cose preziose della mia vita
 Coincidono sempre con te
 Io che esco di casa Renoir
 Ma rientro Lucio Fontana
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Io prima lo faccio
 Poi mi domando
 Prima la vivo
@@ -94,4 +95,4 @@ Ridere e altre cose semplici (Mica so vivere, io)
 [Outro]
 Mica so vivere
 Mica so vivere
-Mica so vivere, ioEmbed
+Mica so vivere, io

@@ -1,4 +1,4 @@
-Nuova fissa Lyrics[Testo di ''Nuova fissa'']
+[Testo di ''Nuova fissa'']
 
 [Strofa 1]
 Dopo due sorsi già mezzo ubriaco
@@ -37,7 +37,8 @@ Però se tu stai, se tu stai io rimango
 Anche se siamo un disco che salta, che salta
 Che salta
 Ci sei solo tu, oh-oh
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Sto ancora in questo loop
 Voglio rischiare tutto
 Avevo qualche dubbio, ma tu
@@ -56,4 +57,4 @@ Ma sei tu il mio chiodo fisso (Ma sei tu il mio chiodo fisso)
 Oh-oh-oh
 Volevo restare single
 Ma sei tu il mio chiodo fisso
-Ma sei tu il mio chiodo fissoEmbed
+Ma sei tu il mio chiodo fisso

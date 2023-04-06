@@ -1,4 +1,4 @@
-Vita Sperduta Lyrics[Testo di "Vita Sperduta"]
+[Testo di "Vita Sperduta"]
 
 [Strofa 1]
 E allora prendi queste mani e bevici
@@ -36,7 +36,8 @@ Alle strade in salita
 Che ci portano al mare
 A una vita sperduta
 Fra la gioia e il dolore
-You might also like[Ritornello]
+
+[Ritornello]
 Balla sui problemi e non pensarci più
 Togliti le scarpe e accendi la TV
 Spogliati ed esprimi un desiderio
@@ -61,4 +62,4 @@ Se il tempo corre, io faccio il contrario
 Balla sui problemi e non pensarci più (Non pensarci più)
 Togliti le scarpe e accendi la TV (La TV)
 Spogliati ed esprimi un desiderio (Un desiderio)
-Se il tempo corre, io faccio il contrarioEmbed
+Se il tempo corre, io faccio il contrario

@@ -1,4 +1,4 @@
-Congo Lyrics[Testo di "Congo"]
+[Testo di "Congo"]
 
 [Strofa 1]
 L'ultimo ricercato è scappato dal prato
@@ -50,10 +50,11 @@ C'è un fiume rosso che sfonda le case, che affonda le chiese
 E arriva sempre una volta al mese
 Quanto mi piace, non ti fermare
 Corriamo insieme prima che si richiuda il mare, amen
-You might also like[Strofa 7]
+
+[Strofa 7]
 Vengono sulla terra, vengono a tempo di guerra
 Vengono sopra i campi, vengono come lampi
 Vengono sulla pelle, come funghi, come le sberle
 Vengono nell'oblio e, mentre vengono, chiamano Dio
 E Dio è solo un pezzo di carne legata allo spago
-Fra la bocca dell'affamato e la mano del magoEmbed
+Fra la bocca dell'affamato e la mano del mago

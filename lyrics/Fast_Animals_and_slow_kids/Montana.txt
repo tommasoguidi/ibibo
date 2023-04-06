@@ -1,4 +1,4 @@
-Montana Lyrics[Testo di "Montana"]
+[Testo di "Montana"]
 
 [Strofa 1]
 Ricordi quella stanza?
@@ -34,7 +34,8 @@ Lucideremo il tutto
 Sarà come se il tempo
 Non sia mai stato qua
 Non sia mai stato qua
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 L'abitudine fra noi
 È la piaga nel mio petto
 L'abitudine fra noi
@@ -48,4 +49,4 @@ L'abitudine fra noi
 Tempo
 Inquina
 La stabilità
-È crusca per le bestie1Embed
+È crusca per le bestie

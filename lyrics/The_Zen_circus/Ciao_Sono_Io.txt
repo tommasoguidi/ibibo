@@ -1,4 +1,4 @@
-Ciao Sono Io Lyrics[Testo di "Ciao Sono Io"]
+[Testo di "Ciao Sono Io"]
 
 [Strofa 1]
 Se mia madre avesse vent'anni
@@ -38,8 +38,9 @@ Voleva morire e adesso vuole solo guarire
 Ci lasciamo dietro un solco
 E qualche chicco di grano
 Figli qualcuno e accanto nessuno
-You might also like[Ritornello]
+
+[Ritornello]
 Ciao, sono io, ti ricordi di me?
 Calciavamo palloni, sgonfi come polmoni
 Il primo giorno di lavoro il padrone ci dice:
-"Siete qui per faticare, ragazzi mi dispiace"Embed
+"Siete qui per faticare, ragazzi mi dispiace"

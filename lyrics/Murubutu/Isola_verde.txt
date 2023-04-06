@@ -1,4 +1,4 @@
-Isola verde Lyrics[Testo di "Isola verde"]
+[Testo di "Isola verde"]
 
 [Strofa 1]
 Lei che è la sola e l’unica e quando il sole la illumina
@@ -40,7 +40,8 @@ No, non so quando ritornerò (quando soffia il maestrale)
 Forse quando ritornerò (riuscirò ad ammaestrare il mare)"
 Claudio vuole andar via, poi non vuole andar via
 Claudio cerca una via, lui cerca una via qualunque essa sia
-You might also like[Rit]
+
+[Rit]
 "Io non so quando ritornerò, isola verde
 Forse da morto, io che ne so, non so più niente
 È vero, questo cielo non è un altro cielo
@@ -75,4 +76,4 @@ C’è chi dice sia l’isola che piange il figlio prediletto
 Forse da morto, io che ne so, non so più niente
 È vero, questo cielo non è un altro cielo
 E tu terra celi in te un segreto
-Che forse conosciamo solo io e te"1Embed
+Che forse conosciamo solo io e te"

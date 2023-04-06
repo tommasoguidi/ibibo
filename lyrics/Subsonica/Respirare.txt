@@ -1,4 +1,4 @@
-Respirare Lyrics[Strofa 1]
+[Strofa 1]
 Potrei essere una bugia
 Falsa da sembrare vera
 Che ti illuda per un po'
@@ -45,8 +45,9 @@ Vuoi respirare
 Solo respirare
 E dimenticare
 E non pensare più
-You might also like[Outro]
+
+[Outro]
 Vorrei essere un sorriso
 Ed incollarmi su di te
 Per disegnare il paradiso
-E regalarteloEmbed
+E regalartelo

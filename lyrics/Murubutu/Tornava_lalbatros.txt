@@ -1,4 +1,4 @@
-Tornava l’albatros Lyrics[Testo di "Tornava l'albatros"]
+[Testo di "Tornava l'albatros"]
 
 [Strofa 1]
 Tornava l'albatros dopo un inverno eterno, immerso
@@ -52,7 +52,8 @@ Vide i lutti tra la tende di juta
 Pensò fosse il colera a riempire ogni buca
 Uno strano colera: variante più arguta
 Che colpiva alla schiena con un colpo di grazia alla nuca
-You might also like[Ritornello]
+
+[Ritornello]
 Forse su, su nel vuoto l'aria sembra la stessa
 Ma qua giù sopra il suolo qua la terra si è persa (My man)
 C'è una, c'è una terra diversa (My man)
@@ -70,4 +71,4 @@ Il peggior male di una terra è la sua guerra civile
 L'albatros, sì, cominciava a capire
 Non gli rimase che patire e partire
 Il vento tossiva, lui pensava che infine
-Il peggior male di una terra è la sua guerra civileEmbed
+Il peggior male di una terra è la sua guerra civile

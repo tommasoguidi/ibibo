@@ -1,4 +1,4 @@
-Fratello mio Lyrics[Testo di "Fratello mio"]
+[Testo di "Fratello mio"]
 
 [Strofa 1]
 Di notte tremano, di giorno ridono
@@ -37,7 +37,8 @@ Vorrei per te
 La vita più lieve
 Comunque andrà
 Saremo qua insieme
-You might also like[Ritornello]
+
+[Ritornello]
 Fratello mio, non piangere
 Fratello mio, non piangere
 Io l'ho già visto quanto è buio il mare
@@ -56,4 +57,4 @@ Non resterà
 La traccia sul viso
 Ti guarderai e farai un sorriso
 Tu, ma io ed io
-In cerca di noiEmbed
+In cerca di noi

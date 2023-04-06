@@ -1,4 +1,4 @@
-Mare Lyrics[Testo di "Mare"]
+[Testo di "Mare"]
 
 [Strofa 1]
 Quando ho voglia di parlarti
@@ -44,6 +44,7 @@ Non è sempre vero
 Che si sta meglio in cielo
 C'è chi sceglie il mare
 E continua a nuotare
-You might also like[Outro]
+
+[Outro]
 Mare, mare
-Mare, mareEmbed
+Mare, mare

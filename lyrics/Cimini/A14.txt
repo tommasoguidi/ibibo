@@ -1,4 +1,4 @@
-A14 Lyrics[Strofa 1]
+[Strofa 1]
 Una giornata da dimenticare
 Magari stanotte ti porterò al mare
 Tanto lo sai che non riesco a dormire
@@ -39,7 +39,8 @@ Mi hai detto sempre di sì
 Mi hai dato tutto
 Poi ti ho buttata nel vento
 È stato solo un momento
-You might also likeÈ stato solo un momento
+
+È stato solo un momento
 Solo un momento, solo un momento
 
 [Ritornello]
@@ -51,4 +52,4 @@ Spengo le luci di casa per non riconoscerti
 Ci siamo abbandonati in autostrada
 Mi hai rubato il cuore in Autogrill
 Ma adesso che la sete mi è tornata
-Mi serve solo una scusa per un altro spritzEmbed
+Mi serve solo una scusa per un altro spritz

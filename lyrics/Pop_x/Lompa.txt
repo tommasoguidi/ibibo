@@ -1,4 +1,4 @@
-Lompa Lyrics[Testo di "Lompa"]
+[Testo di "Lompa"]
 
 [Intro]
 (Oh oh oh oh-oh-oh)
@@ -38,7 +38,8 @@ Everybody go, go, go
 Tutte le notti sogno un vecchio col badile
 Lui mi guarda, io lo guardo
 E lui mi dice: "C'ho un fucile"
-You might also like[Ritornello]
+
+[Ritornello]
 Yoohoo, here we go
 Everybody go
 Yoohoo, everybody go
@@ -63,4 +64,4 @@ Questo vecchio ragazzo se lo guardo per bene
 Se lo guardo davvero lui mi mostra anche il suo pene
 
 [Outro]
-HeyEmbed
+Hey

@@ -1,4 +1,4 @@
-Le quattro volte Lyrics[Testo di "Le quattro volte"]
+[Testo di "Le quattro volte"]
 
 [Strofa 1]
 Devo solo arrivare alla quinta elementare
@@ -36,7 +36,8 @@ Devo solo arrivare a due passi dall'altare
 Prendere una moglie e poi essere un buon padre
 E dopo quarant'anni forse andarmene in pensione
 Con l'orologio d'oro al polso e il gelo dentro al cuore
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E un altro capodanno
 Un altro carnevale
 Un altro Ferragosto
@@ -70,4 +71,4 @@ Poi rinascere
 Ancora un'altra volta
 Si può nascere un'altra volta
 Poi rinascere
-Ancora un'altra volta, se ti vaEmbed
+Ancora un'altra volta, se ti va

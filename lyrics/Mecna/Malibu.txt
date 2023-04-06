@@ -1,4 +1,4 @@
-Malibu Lyrics[Testo di "Malibu"]
+[Testo di "Malibu"]
 
 [Strofa 1]
 Chiuso qui dentro questo silenzio che cala
@@ -38,7 +38,8 @@ Per terra le calze di Nike, la tuta di Palace, la felpa di Stüssy
 Scambiamo opinioni sugli altri, perdiamo saliva, scambiamoci i gusti
 Mi tengo la maglia come ultima cosa perché mi sta bene di brutto
 Tu lascia il telefono nei pantaloni ché dopo poi penso io a tutto
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Non guardo giù
 Non prendermi
 Non vorrai rifare il mio errore
@@ -54,4 +55,4 @@ Non torniamo più (Yeah)
 Tu vuoi restare a dormire
 Io vorrei stare a guardarti un po'
 La speranza non è un fucile
-È solo il finale più logicoEmbed
+È solo il finale più logico

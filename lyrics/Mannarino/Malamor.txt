@@ -1,4 +1,4 @@
-Malamor Lyrics[Testo di "Malamor"]
+[Testo di "Malamor"]
 
 [Strofa 1]
 Qui si nasce senza fiato e già la prima punizione
@@ -34,7 +34,8 @@ Ti uccidono quei giorni sempre vuoti e uguali
 
 [Ritornello]
 Malamor, malamor malamor, malamor
-You might also like[Strofa 5]
+
+[Strofa 5]
 Ma io trovai un binario sulla linea regionale
 Che rigava sempre dritto fino al campo militare
 Mi tagliarono i capelli e quando caddero per terra
@@ -55,4 +56,4 @@ Per fortuna c’è il signore che mi offre un'altra vita
 Una medaglia al petto, dei gradi di ufficiale
 E non ho più sentito niente farmi male
 Non piangerò mai più adesso che so fare
-Il saluto militare e il verso del cinghialeEmbed
+Il saluto militare e il verso del cinghiale

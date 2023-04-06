@@ -1,4 +1,4 @@
-XANANAS Lyrics[Ritornello]
+[Ritornello]
 Xananas
 Vieni a rilassarti gioia
 Xananas
@@ -44,7 +44,8 @@ Sono la gran contessa
 Arciduchessa, sacerdotessa
 Controversa, compromessa
 La prima donna a dire la messa
-You might also like[Ritornello]
+
+[Ritornello]
 Xananas
 Vieni a rilassarti gioia
 Xananas
@@ -66,4 +67,4 @@ Xananas
 Xananas
 Xananas
 Xananas
-XananasEmbed
+Xananas

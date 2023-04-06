@@ -1,4 +1,4 @@
-Signor poliziotto Lyrics[Strofa 1]
+[Strofa 1]
 Sai per sognare, amore
 Non basta soltanto dormire
 Devi averne un tremendo bisogno
@@ -37,7 +37,8 @@ Non piangere
 Per la pena che ti fanno
 Questi pessimi esempi di normalità
 Di normosità
-You might also like[Strofa 2]
+
+[Strofa 2]
 Sai per sognare, amore
 Non basta soltanto dormire
 Te la devi sudare
@@ -59,4 +60,4 @@ Ce l'ho nella testa
 Signor poliziotto
 Mi dispiace rovinarle la festa
 Le bombe non ce l'ho nella valigia
-Ce l'ho nella testaEmbed
+Ce l'ho nella testa

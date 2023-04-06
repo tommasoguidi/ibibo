@@ -1,4 +1,4 @@
-Distrutto Lyrics[Strofa 1]
+[Strofa 1]
 Io mi sento una fiamma
 Su una candela sciolta
 Che si è spenta col vento
@@ -47,7 +47,8 @@ Ma l'ho stretto troppo forse l'ho distrutto
 Se io fossi la sabbia del mare
 Sulla pelle ti potrei restare un po'
 Ooo ooo ooo
-You might also like[Bridge]
+
+[Bridge]
 Pensami cosi' quando parti
 Pensa a quei pomeriggi
 Mentre guardi le nuvole
@@ -70,4 +71,4 @@ Io ricordo tutto, io volevo tutto
 Ma l'ho stretto troppo forse l'ho distrutto
 Se io fossi la sabbia del mare
 Sulla pelle ti potrei restare un po'
-Ooo ooo oooEmbed
+Ooo ooo ooo

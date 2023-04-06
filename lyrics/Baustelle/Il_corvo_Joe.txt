@@ -1,4 +1,4 @@
-Il corvo Joe Lyrics[Testo di "Il corvo Joe"]
+[Testo di "Il corvo Joe"]
 
 [Strofa 1]
 I barboni mi guardano
@@ -39,7 +39,8 @@ I borghesi si siedono
 E poi leggono il giornale
 I ragazzi si baciano
 Mezzogiorno sta per scoccare
-You might also likeSenza grazia e gracchiando
+
+Senza grazia e gracchiando
 Mi avvicino e poi li supplico
 Se soltanto per oggi
 Fossi libero di parlare
@@ -61,4 +62,4 @@ Mi sanno cantare
 Ma vi perdono
 Perché in fondo portate nel cuore
 Sangue che è destinato a seccare
-Vivete un morire1Embed
+Vivete un morire

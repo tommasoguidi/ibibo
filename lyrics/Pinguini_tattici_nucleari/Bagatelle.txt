@@ -1,4 +1,4 @@
-Bagatelle Lyrics[Testo di "Bagatelle"]
+[Testo di "Bagatelle"]
 
 [Intro]
 Uno, bue, re, gatto
@@ -39,9 +39,10 @@ Amore, amore che da tempo sei scappato dalle chiese
 E ti nascondi nelle foto di un turista giapponese
 Sei quasi morto sotto i colpi di fucile della Nato
 Ed oggi taci per paura di sembrare sdolcinato
-You might also like[Ritornello]
+
+[Ritornello]
 Amore, amore sei sempre la stessa vecchia solfa
 Sei la porta che scricchiola, il motore che s'ingolfa
 L'ombrello dimenticato alla stazione del tram
 Il rumore di un sogno che resiste sotto al peso dell'età
-E della realtàEmbed
+E della realtà

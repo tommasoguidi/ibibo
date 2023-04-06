@@ -1,4 +1,4 @@
-Ragazzo eroe Lyrics[Testo di "Ragazzo eroe"]
+[Testo di "Ragazzo eroe"]
 
 Vieni con me
 Ragazzo eroe di Cantù
@@ -40,7 +40,8 @@ Ti ci vedi a fare il portuale?
 Ma vuoi mettere starsene al mare?
 Ma non c'è tempo per nuotare perché
 Ah beh, tu vieni con me
-You might also likeVieni con me
+
+Vieni con me
 Ti porto in un posto che
 Tu intanto gioca, sbaglia tutto
 Raglia contro il muro
@@ -48,4 +49,4 @@ Giocati il futuro prima ancora che cominci
 Il belpaese ha bisogno di te
 Ah beh, tu vieni con me
 
-FinishEmbed
+Finish

@@ -1,4 +1,4 @@
-Scomparire Lyrics[Testo di "Scomparire"]
+[Testo di "Scomparire"]
 
 [Strofa 1]
 Le persone sono di cristallo
@@ -37,11 +37,12 @@ E tu verrai da me
 Così vediamo se
 Due che s'abbracciano strettissimi
 Ce la fanno a scomparire
-You might also like[Outro]
+
+[Outro]
 E ora che abbiamo capito
 Che siamo soltanto richieste di aiuto
 Ci sembrerà poco meno che un gioco
 Due che s'abbracciano strettissimi ce la fanno
 Due che stanno vicinissimi ce la fanno
 Due che s'abbracciano strettissimi
-Ce la fanno a scomparireEmbed
+Ce la fanno a scomparire

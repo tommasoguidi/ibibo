@@ -1,4 +1,4 @@
-È questione di esercizio LyricsÈ questione di esercizioÈ questione di esercizio
+È questione di esercizioÈ questione di esercizio
 
 [Strofa 1]
 Se è questione di esercizio, allora lo farò
@@ -41,7 +41,8 @@ L'ira del serpente cresce:
 "No, ti prego questa serata"
 "Hai detto: Ricomincerò da zero"
 "Ma non ci riesco, io ci provo"
-You might also like[Ritornello]
+
+[Ritornello]
 Non ci provi abbastanza, no, mai
 È questione di esercizio, lo sai
 Non ci provi abbastanza, no, mai
@@ -51,4 +52,4 @@ Non ci provi abbastanza, no, mai
 Il gioco, il fumo e il grasso
 Vene occludono a gogò
 È questione di esercizio
-Non so se lo faròEmbed
+Non so se lo farò

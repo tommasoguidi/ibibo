@@ -1,4 +1,4 @@
-Quando una storia finisce Lyrics[Testo di "Quando una storia finisce"]
+[Testo di "Quando una storia finisce"]
 
 [Strofa 1]
 Quando il vetro della macchina si appanna
@@ -43,7 +43,8 @@ In fondo che male c'è?
 Faremo finta di niente
 Il problema è che
 Poi di un errore ci si pente
-You might also like[Ritornello]
+
+[Ritornello]
 Quando una storia finisce lei si taglia i capelli
 Butta tutti i regali e non lo richiama più
 Quando una storia finisce lui ripensa ai concerti
@@ -58,4 +59,4 @@ Io non ci credo che mai più
 
 [Outro]
 Quando una storia finisce io ripenso ai concerti
-Poi mi butto sul letto e non la richiamo piùEmbed
+Poi mi butto sul letto e non la richiamo più

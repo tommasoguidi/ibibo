@@ -1,4 +1,4 @@
-Merci Lyrics[Testo di "Merci"]
+[Testo di "Merci"]
 
 [Strofa 1]
 Quattro e mezza, Corso Francia
@@ -53,7 +53,8 @@ Ti cerco e poi ti trovo solo nelle bollicine delle bire
 Non è Gewürztraminer, none
 Un altro tira e molla, tira e molla, tira e molla, no, ciao core (ciao ciao)
 Ciao core
-You might also like[Ritornello]
+
+[Ritornello]
 Ballando con le stelle edizione français
 Ci fermano le guardie, madame, monsieur
 Mi lego in una vecchia felpa prêt-à-porter
@@ -75,4 +76,4 @@ Ma niente, ma niente, ma niente
 Ma niente, ma niente, ma niente
 Ma niente, ma niente, ma niente
 Ma niente, ma niente, ma niente
-Ma niente di niente1Embed
+Ma niente di niente

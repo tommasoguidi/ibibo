@@ -1,4 +1,4 @@
-Tuo padre, mia madre, Lucia Lyrics[Testo di "Tuo padre, mia madre, Lucia"]
+[Testo di "Tuo padre, mia madre, Lucia"]
 
 [Strofa 1]
 Quando ti ho incontrata per la prima volta
@@ -43,7 +43,8 @@ Risponderò come rispondo anche a me
 Che
 Amarti è credere che
 Che quello che sarò sarà con te
-You might also like[Bridge]
+
+[Bridge]
 Amore mio, per vivere
 Facciamo mille cose stupide
 Lo sai, per sopravvivere
@@ -66,4 +67,4 @@ Che quello che sarò sarà con te
 Sto camminando verso di te
 Ti vedo all'incrocio, mi fermo a guardarti
 E aspetto l'attimo in cui
-Ti girerai e mi sorriderai vedendomi arrivareEmbed
+Ti girerai e mi sorriderai vedendomi arrivare

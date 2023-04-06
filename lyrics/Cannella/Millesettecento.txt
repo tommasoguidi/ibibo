@@ -1,4 +1,4 @@
-Millesettecento Lyrics[Testo di "Millesettecento"]
+[Testo di "Millesettecento"]
 
 [Strofa 1]
 Ti canterò per altre millesettecento volte
@@ -46,7 +46,8 @@ E non c'ho mica voglia di trovarne un'altra
 E di portarla in tutti quanti i posti che ricordano te
 Non mi sembra giusto, non mi sembra giusto
 E non ci proverei gusto per niente
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Ta-tararirirururà
 Ta-tararirirururà
 Ta-tararirirururà
@@ -76,4 +77,4 @@ Ta-tararirirururà
 [Outro]
 Ta-taraririruru
 Ta-taraririruru
-Ta-tararirirururàEmbed
+Ta-tararirirururà

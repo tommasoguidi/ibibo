@@ -1,4 +1,4 @@
-Viieni via con me (cover demo) Lyrics[Testo di "Viieni via con me (cover demo)"]
+[Testo di "Viieni via con me (cover demo)"]
 
 Via via
 Vieni via di qui
@@ -34,7 +34,8 @@ It's wonderful
 It's wonderful
 It's wonderful
 I dream of you
-You might also likeVia via
+
+Via via
 Vieni via con me
 Entra in questo amore buio
 Pieno di uomini
@@ -59,4 +60,4 @@ Pieno di uomini
 Via
 Entra e fatti un bagno caldo
 C'è un accappatoio azzurro
-Fuori piove, è un mondo freddoEmbed
+Fuori piove, è un mondo freddo

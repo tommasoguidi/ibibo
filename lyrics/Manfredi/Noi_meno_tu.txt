@@ -1,4 +1,4 @@
-Noi meno tu Lyrics[Testo di "Noi meno tu"]
+[Testo di "Noi meno tu"]
 
 [Strofa 1]
 Era d'inverno, non ricordo quando
@@ -34,7 +34,8 @@ Mi fa ancora male anche se poi non piango
 Scusa, parlo troppo, forse sono stanco
 Volevo solo un tuo respiro in più
 Davvero solo un tuo respiro in più
-You might also like[Ritornello]
+
+[Ritornello]
 Stanotte dormi da me
 Poi non ti chiedo più niente
 Le parole finiscono dentro al cuscino e nessuno le sente
@@ -52,4 +53,4 @@ Dimmi quanto fa noi meno tu
 È solo noi meno tu
 È solo noi meno tu
 È solo noi meno tu
-Dimmi quanto fa noi meno tuEmbed
+Dimmi quanto fa noi meno tu

@@ -1,4 +1,4 @@
-Belva Lyrics[Testo di "Belva"]
+[Testo di "Belva"]
 
 [Intro]
 Non mi chiedi mai veramente come sto
@@ -35,7 +35,8 @@ Tienimi le braccia così non casco giù, giù
 Giurami che cercherai di stare qui
 Anche se vorrai strappartimi di dosso
 Anche se perdo la testa e divento uno stronzo, un mezzo orso
-You might also like[Bridge]
+
+[Bridge]
 Non è veramente com'è
 Se ti fa star meglio, puoi dormirmi dentro
 Anche se poi non è mica il grand hotel
@@ -47,4 +48,4 @@ Guardami la faccia, poi decidi tu
 Tienimi le braccia così non casco giù, giù
 Giurami che cercherai di stare qui
 Anche se vorrai strappartimi di dosso
-Anche se perdo la testa e divento uno stronzo, un mezzo orsoEmbed
+Anche se perdo la testa e divento uno stronzo, un mezzo orso

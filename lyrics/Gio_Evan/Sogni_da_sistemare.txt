@@ -1,4 +1,4 @@
-Sogni da sistemare Lyrics[Testo di "Sogni da sistemare"]
+[Testo di "Sogni da sistemare"]
 
 Sei fatta di particolari che sfuggono ai molti, tu
 Si disperdono tra gli occhi distratti
@@ -29,4 +29,4 @@ Di mani forti
 Di abbracci a pezzi e caffè amaro
 Sei fatta di vita, tu
 Piena di sogni da sistemare meglio
-Ma comunque piena di sogniEmbed
+Ma comunque piena di sogni

@@ -1,4 +1,4 @@
-MIRIAM Lyrics[Testo di "MIRIAM"]
+[Testo di "MIRIAM"]
 
 [Strofa 1]
 Metallo gelido
@@ -42,7 +42,8 @@ Miriam
 Where the fuck are you?
 Miriam
 Ah, stan account
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 I'm gonna get the bitch from her grave to my way
 I'm gonna get the bitch from her grave to my way
 I'm gonna get the bitch from her grave to my way
@@ -56,4 +57,4 @@ La speranza è morta per me
 Ho scritto un requiem per te
 In mi bemolle come
 Quel piano trio di Schubert
-Che hai suonato per meEmbed
+Che hai suonato per me

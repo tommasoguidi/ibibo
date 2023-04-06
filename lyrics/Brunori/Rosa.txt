@@ -1,4 +1,4 @@
-Rosa Lyrics[Testo di "Rosa"]
+[Testo di "Rosa"]
 
 [Strofa 1]
 Rosa, non piangere dai, anch'io mi voglio sposare
@@ -35,7 +35,8 @@ Tu pensa alle bomboniere e alla roba da mangiare
 Ed avverti pure il prete che ti porterò all'altare
 Pace in terra, gloria in cielo e sotto al velo
 C'è la Madonna di Pompei, mi pare tale e quale a lei
-You might also like[Ritornello]
+
+[Ritornello]
 Rosa fra un mese si sposa, tra un mese si sposa
 Si sposa con me
 Rosa fra un mese si sposa, tra un mese si sposa
@@ -64,4 +65,4 @@ Ma non si sposa più con me
 [Outro]
 Bacio, bacio, bacio, bacio, bacio, bacio, bacio, bacio, bacio
 Bacio
-Boom!Embed
+Boom!

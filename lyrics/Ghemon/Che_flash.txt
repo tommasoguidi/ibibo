@@ -1,4 +1,4 @@
-Che flash Lyrics[Testo di "Che Flash"]
+[Testo di "Che Flash"]
 
 [Intro]
 E va così...
@@ -50,7 +50,8 @@ Che flash!
 Perché , se il mondo suona il suo blues
 Tu devi ballarci su
 Non c’è nemmeno il tempo di parlare
-You might also like[Strofa 2]
+
+[Strofa 2]
 La testa che dirige su di un corpo che gestisce
 È corporate business, poi mobbing o conquiste
 E' lavoro interinale, è lavoro dipendente, precariato
@@ -122,4 +123,4 @@ Non c’è nemmeno il tempo di parlare
 Che flash
 Che flash
 Che flash
-Che flashEmbed
+Che flash

@@ -1,4 +1,4 @@
-Maiale (Demo) Lyrics[Testo di "Maiale (Demo)"]
+[Testo di "Maiale (Demo)"]
 
 [Strofa 1]
 "Torna da me, posso cambiare"
@@ -50,7 +50,8 @@ Di andare in vacanza senza mai lavorare
 Possibili code su raccordi stradali e riunioni aziendali
 A cui non andare
 A cui non andare
-You might also like[Outro]
+
+[Outro]
 No, no, non ci andare
 Ma chi ci vuole entrare?
 Non vedo l'ora che tu arrivi
@@ -65,4 +66,4 @@ Solo i soldi, solo i soldi, loro
 Quanti vogliono bene a me?
 Non importa se mi fai male
 Può succedere qualsiasi cosa
-Quelli vogliono solo il tuo sangueEmbed
+Quelli vogliono solo il tuo sangue

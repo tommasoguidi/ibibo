@@ -1,4 +1,4 @@
-Betty Lyrics[Testo di "Betty"]
+[Testo di "Betty"]
 
 [Strofa 1]
 Ride quando la tocchi
@@ -38,7 +38,8 @@ Con l'amore e la violenza
 Vive bene, vive male
 Non conosce differenza
 Tra il fiorire di una rosa e la decadenza
-You might also like[Interludio]
+
+[Interludio]
 Piove su immondizia, tamerici
 Sui suoi cinquemila amici, sui ragazzi e le città
 Tanto poi ritorna il sole
@@ -53,4 +54,4 @@ Una dose di qualcosa, una dipendenza?
 Betty ha sognato di morire, sulla circonvallazione
 Prima ancora di soffrire, era già in putrefazione
 Un bellissimo mattino, senza alcun dolore
-Senza più doloreEmbed
+Senza più dolore

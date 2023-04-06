@@ -1,4 +1,4 @@
-L’Europa Lyrics[Testo di "L'Europa"]
+[Testo di "L'Europa"]
 
 [Strofa 1]
 Che ci faccio qua? Chiuso fuori
@@ -35,7 +35,8 @@ E stringimi forte a te come fai solo tu
 Che poi quando sto con te
 Sono più lucido e produco di più, perciò lo vedi anche tu
 Che è l'Europa che ce lo chiede
-You might also like[Strofa 3]
+
+[Strofa 3]
 E per me, per me
 Più passa il tempo
 Più smette di essere un passatempo
@@ -57,4 +58,4 @@ Che è l'Europa che ce lo chiede
 [Outro]
 Che ci si dice un sacco di bugie
 E si sprecano un sacco di energie
-Ma è l'Europa che ce lo chiedeEmbed
+Ma è l'Europa che ce lo chiede

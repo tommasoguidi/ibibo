@@ -1,4 +1,4 @@
-Barzellette Lyrics[Testo di "Barzellette"]
+[Testo di "Barzellette"]
 
 [Strofa 1]
 Che buio stasera da questa pianura
@@ -43,7 +43,8 @@ Non servono né bombe
 Né trapani né gru
 Per scavare un tunnel dentro la notte
 Prima che il buio ci fotte
-You might also like[Outro]
+
+[Outro]
 Ma ridere
 Ma ridere delle tue barzellette
-Prima che il mondo ci faccia a fetteEmbed
+Prima che il mondo ci faccia a fette

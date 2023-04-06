@@ -1,4 +1,4 @@
-E Invece No Lyrics[Testo di "E Invece No"]
+[Testo di "E Invece No"]
 
 [Intro]
 Yeh, Sine
@@ -43,7 +43,8 @@ Non è che so sbronzo mi sa che so stronzo
 Se ogni rapporto che stringo mi ci strozzo
 E mentre annego il rimorso in un Montenegro
 A volte credo anche di averlo rimosso
-You might also like[Pre-Ritornello 1]
+
+[Pre-Ritornello 1]
 Guardo negli occhi mia madre
 E le giuro che smetterò, smetterò
 Ma sento il male che sale
@@ -82,4 +83,4 @@ E so che continuerò, e continuerò
 E in questi bicchieri ci annego
 E io pensavo di smettere
 E invece no, e invece no, e invece no
-Ci dovrei riflettere e invece no, e invece no, e invece noEmbed
+Ci dovrei riflettere e invece no, e invece no, e invece no

@@ -1,4 +1,4 @@
-Un’altra ancora Lyrics[Testo di "Un'altra ancora"]
+[Testo di "Un'altra ancora"]
 
 [Strofa 1]
 Questa città mi sta ammazzando
@@ -36,7 +36,8 @@ Canto per te che non ascolti
 Per voi che vi state abbracciando
 Su queste note che compongo
 Ma non sopporto più
-You might also likeEccone un'altra per te, amore
+
+Eccone un'altra per te, amore
 Pensavi non ce la facessi
 E invece un brindisi al dolore
 Di una canzone in più
@@ -58,4 +59,4 @@ Che il diavolo è qua per me
 So non morirò
 Ma sento che il diavolo è qua
 Che il diavolo è qua per me
-So non morirò per teEmbed
+So non morirò per te

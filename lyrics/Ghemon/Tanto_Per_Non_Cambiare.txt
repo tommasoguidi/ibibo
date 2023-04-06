@@ -1,4 +1,4 @@
-Tanto Per Non Cambiare Lyrics[Testo di "Tanto Per Non Cambiare"]
+[Testo di "Tanto Per Non Cambiare"]
 
 [Intro]
 Era scritto che
@@ -46,7 +46,8 @@ Però alla fine ti lamenti che è tutto uguale
 E sei convinto che hai ragione tu
 Perché se prendi posizione addio
 Ma poi alla fine cambi tanto per non cambiare
-You might also like[Bridge]
+
+[Bridge]
 (Quando guardi la tua faccia nello specchio fissi altrove)
 Quando guardi la tua faccia nello specchio retrovisore
 (Cosa vedi lì davanti a te?)
@@ -59,4 +60,4 @@ Nella vita speri sempre di non cambiare
 Ma poi alla fine ti lamenti che è tutto uguale
 E sei convinto che hai ragione tu
 Perché se prendi posizione addio
-Ma poi alla fine cambi tanto per non cambiareEmbed
+Ma poi alla fine cambi tanto per non cambiare

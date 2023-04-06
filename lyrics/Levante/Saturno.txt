@@ -1,4 +1,4 @@
-Saturno Lyrics[Testo di "Saturno"]
+[Testo di "Saturno"]
 
 [Strofa 1]
 Mentre sogno di arrivare a te
@@ -40,10 +40,11 @@ Ti ho consegnato il tuo dolore
 Ed io, mi nutrirò del tuo rancore
 E tu rinascerai senza perdonarmi mai
 Senza perdonarmi
-You might also like[Ritornello]
+
+[Ritornello]
 Ho corso a perdi fiato per vederti respirare
 Per sperare mi sputassi in faccia il cuore
 Quanto ho fatto male a questo amore
 È vero, io l'ho ucciso sul serio
 Ed ero fuori di me, ero fuori di me
-Ero fuori di me, di meEmbed
+Ero fuori di me, di me

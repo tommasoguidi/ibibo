@@ -1,4 +1,4 @@
-Scivola Lyrics[Testo di "Scivola"]
+[Testo di "Scivola"]
 
 [Strofa 1]
 Alberi tagliati, la collina è liscia
@@ -44,7 +44,8 @@ Noi siamo internet che ha dato il diritto di parola a tutti
 Per scrivere di quanto sia pericolosa l'informazione
 Se cade sulle teste
 Diventando recipiente di stragi e peste
-You might also like[Ritornello]
+
+[Ritornello]
 Scivola via, scivola via
 Il mondo è diventato impermeabile
 Scivola via, scivola via
@@ -55,4 +56,4 @@ Scivola via, scivola via
 
 [Outro]
 Le notizie sono un tormentone
-Nella mia testa un acquazzoneEmbed
+Nella mia testa un acquazzone

@@ -1,4 +1,4 @@
-Raggio Laser Lyrics[Testo di "Raggio Laser"]
+[Testo di "Raggio Laser"]
 
 [Strofa 1]
 Chissà cosa cazzo hai mangiato da bambina
@@ -38,7 +38,8 @@ Pensavo di avere passato questa fase
 E invece sono intrappolato in questa fase
 Sto cominciando a pensare non sia una fase
 Ti vorrei cancellare con un raggio laser
-You might also like[Ritornello]
+
+[Ritornello]
 Che mi esce dagli occhi
 Come le lacrime e i sospiri
 Come lo sporco dai vinili
@@ -48,4 +49,4 @@ Anche se noi siamo puliti (Puliti, puliti, puliti, puliti)
 Sta quasi iniziando a piacermi questa fase
 Ti vorrei trascinare dentro questa fase
 Ma forse smetterebbe di essere una fase
-E mi cancelleresti con un raggio laserEmbed
+E mi cancelleresti con un raggio laser

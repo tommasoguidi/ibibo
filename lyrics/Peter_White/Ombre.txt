@@ -1,4 +1,4 @@
-Ombre Lyrics[Testo di "Ombre"]
+[Testo di "Ombre"]
 
 [Strofa 1]
 Lei gira per la stanza con la maglietta bianca
@@ -42,7 +42,8 @@ Puoi fumare con le stelle sopra a un tetto
 In realtà vorrei che fossi sul mio letto
 Magari vedo un film e dormo presto
 Ma tanto alla fine esco
-You might also like[Ritornello]
+
+[Ritornello]
 E ci scambiamo le ombre
 Sta scendendo il Sole
 E tra un milione di onde io mi perdo
@@ -56,4 +57,4 @@ Sta scendendo il Sole
 E tra un milione di onde io mi perdo
 E ci scambiamo le ombre
 Sta scendendo il Sole
-E tra un milione di onde sarà invernoEmbed
+E tra un milione di onde sarà inverno

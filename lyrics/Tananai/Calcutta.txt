@@ -1,4 +1,4 @@
-Calcutta Lyrics[Testo di "Calcutta"]
+[Testo di "Calcutta"]
 
 [Strofa 1]
 Se potessi scrivere un po' meglio di come faccio
@@ -40,7 +40,8 @@ Ma a quanto pare non è mai abbastanza
 Sapessi dove andare, scapperei
 Sapessi con chi parlare, ci parlerei
 Ma sono solo in questa stanza
-You might also like[Bridge]
+
+[Bridge]
 Dovessi scegliere un super potere
 Sarebbe quello di svegliarmi presto
 Dovessi chiedermi qual è il mio sogno
@@ -52,4 +53,4 @@ Sapessi cosa fare, lo farei
 Ma a quanto pare non è mai abbastanza
 Sapessi dove andare, scapperei
 Sapessi con chi parlare, ci parlerei
-Ma sono solo in questa stanzaEmbed
+Ma sono solo in questa stanza

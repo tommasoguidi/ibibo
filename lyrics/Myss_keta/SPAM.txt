@@ -1,4 +1,4 @@
-SPAM Lyrics[Testo di "SPAM"]
+[Testo di "SPAM"]
 
 [Intro]
 Ho trovato uno scam
@@ -34,7 +34,8 @@ Su un'auto blu che mi porta nel club
 Shazammo me stessa con l'iPad
 Controllo i miei like su Instagram
 Sono una manager business class
-You might also like[Interludio]
+
+[Interludio]
 Ragazzi sono veramente euforica
 Volevo farvi una domanda e sono seria
 
@@ -69,4 +70,4 @@ Spam
 E ora guarda come voguo
 E ora guarda come voguo
 E ora guarda come
-Voguo)Embed
+Voguo)

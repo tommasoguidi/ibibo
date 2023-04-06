@@ -1,4 +1,4 @@
-Via Lyrics[Strofa 1]
+[Strofa 1]
 La mia sigaretta brilla rossa
 Insieme a luci di periferia
 Calci della vita sulle mie ossa
@@ -42,7 +42,8 @@ Alla radio un rock arrabbiato
 Come un pugno allo stomaco che mi spinge nella notte
 Un dolore un lampo di fuoco rosso
 Dentro questo amore che io non posso, io non posso più
-You might also like[Ritornello]
+
+[Ritornello]
 Voglio andar via da te
 I sogni cercano dove ma via
 Tanto non ti perderò
@@ -50,4 +51,4 @@ Perché tu non sei stata mai mia
 Voglio andar via
 Da quei tuoi occhi che tirano sassi
 E come in un duello far dieci passi e poi
-Guardarci un'ultima volta e viaEmbed
+Guardarci un'ultima volta e via

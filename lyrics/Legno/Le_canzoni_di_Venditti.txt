@@ -1,4 +1,4 @@
-Le canzoni di Venditti Lyrics[Testo di "Le canzoni di Venditti"]
+[Testo di "Le canzoni di Venditti"]
 
 [Strofa 1]
 È inutile dirti che va bene così
@@ -41,7 +41,8 @@ Dei cantautori
 Di Venditti
 La, la-la, la-la
 La, la-la, la-la
-You might also like[Bridge]
+
+[Bridge]
 La, la-la, la-la
 E porto fuori il cane
 La, la-la
@@ -58,4 +59,4 @@ Le canzoni di Venditti
 È inutile dirti che va bene così
 Tra un amaro e una domenica che ormai è lunedì
 È inutile dirti che mi mancherai
-Che sei bella, cazzo, e non passi maiEmbed
+Che sei bella, cazzo, e non passi mai

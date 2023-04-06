@@ -1,4 +1,4 @@
-Spazzolino Lyrics[Strofa 1]
+[Strofa 1]
 Cos'é che non va più cos'é che hai?
 Ma se non mi vuoi più dov'é che vai?
 A casa di quella no, ti prego
@@ -38,7 +38,8 @@ E niente di me, niente di me
 Non resta niente di me, niente di me
 Niente di me, niente di me
 Non resta niente di me, niente di me
-You might also like[Strofa 3]
+
+[Strofa 3]
 E mi manca fare la spesa
 E cucinare insieme per cena
 Discutere per tutto quanto
@@ -58,4 +59,4 @@ A parte il cane e un po' di vino
 E niente di me, niente di me
 Non resta niente di me, niente di me
 Niente di me, niente di me
-Non resta niente di me, niente di meEmbed
+Non resta niente di me, niente di me

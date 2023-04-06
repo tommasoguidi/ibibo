@@ -1,4 +1,4 @@
-Antonio Lyrics[Testo di "Antonio"]
+[Testo di "Antonio"]
 
 [Strofa 1]
 Antonio, lo sai benissimo
@@ -40,7 +40,8 @@ Sembra meravigliosa
 Tu, il battito che non rallenta mai
 Quanto rumore fa un sospiro dentro a un corpo solo
 Se apro le braccia volo
-You might also like[Bridge]
+
+[Bridge]
 Se apro le braccia volo
 Se apro le braccia volo
 Se apro le braccia volo
@@ -56,4 +57,4 @@ E farmi male e farmi amare
 
 [Outro]
 Antonio, lo sai benissimo
-Antonio, lo sai benissimo, mi piaci tuEmbed
+Antonio, lo sai benissimo, mi piaci tu

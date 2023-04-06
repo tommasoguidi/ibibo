@@ -1,4 +1,4 @@
-L’apatico Lyrics[Testo di "L'apatico"]
+[Testo di "L'apatico"]
 
 [Intro]
 Mi hai conosciuto in un momento particolare
@@ -50,7 +50,8 @@ Se mi dai ascolto
 Se mi dai ascolto
 Se mi dai ascolto in questo momento
 Puoi percepire il distacco dal concetto di contento
-You might also like[Ritornello]
+
+[Ritornello]
 Perché io
 Io sono l’apatico
 Giro in tondo, ma sono statico
@@ -67,4 +68,4 @@ La lucina dentro agli occhi
 Io sono l’apatico
 Giro in tondo, ma sono statico
 La lucina dentro agli occhi
-È il riflesso di una scintilla che non scoccaEmbed
+È il riflesso di una scintilla che non scocca

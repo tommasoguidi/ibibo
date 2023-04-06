@@ -1,4 +1,4 @@
-Gibson rotte Lyrics[Testo di "Gibson rotte"]
+[Testo di "Gibson rotte"]
 
 [Ritornello]
 E cantavamo insieme in casa in quell'estate calda
@@ -36,8 +36,9 @@ Sei da sola in camera, ma è come se ci fossi anche io
 Stai fumando l'ultima come se fosse un addio
 Sei da sola in camera, ma è come se ci fossi anche io
 Stai fumando l'ultima come se fosse un addio
-You might also like[Ritornello]
+
+[Ritornello]
 E cantavamo insieme in casa in quell'estate calda
 La luna discendente in cielo e tu ballavi scalza
 Il vino, il buio, il fumo e il tempo dato da una cassa
-Non avevamo soldi, ma tutte le notti in tascaEmbed
+Non avevamo soldi, ma tutte le notti in tasca

@@ -1,4 +1,4 @@
-Love Lyrics[Testo di "Love"]
+[Testo di "Love"]
 
 [Strofa 1]
 Le tue foto mi uccidono, love
@@ -41,7 +41,8 @@ Menomale che c'è da bere
 Menomale che c'è
 Sempre qualcosa
 Su cui mi posso sdraiare
-You might also like[Outro]
+
+[Outro]
 Ma soltanto tu
 Mi puoi salvare
 Quando la vita non gira bene
@@ -49,4 +50,4 @@ Non ti fa volare
 Sì, soltanto tu
 Mi puoi salvare
 Sì, soltanto tu
-Love mio, love mio5Embed
+Love mio, love mio

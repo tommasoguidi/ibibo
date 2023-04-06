@@ -1,4 +1,4 @@
-Ricostruire Lyrics[Testo di "Ricostruire"]
+[Testo di "Ricostruire"]
 
 [Strofa 1]
 Il sapore delle tue labbra
@@ -40,7 +40,8 @@ Chiami un taxi e corri a casa
 Se poi neanche mi svegli quando te ne vai
 Scusa, tanto ho perso il conto
 Dimmi quante cose sei
-You might also like[Ritornello]
+
+[Ritornello]
 Tu che per caso mi hai trovato il cuore
 Tu che mi hai chiesto se ci puoi giocare
 Cerca soltanto di non farmi male
@@ -60,4 +61,4 @@ Non vedo la sabbia, ma solo il cemento
 Cerca soltanto di non farmi male
 Perché poi da soli non si può guarire
 E non importa se mi fai paura
-Mi godrò il momento almeno finché duraEmbed
+Mi godrò il momento almeno finché dura

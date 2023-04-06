@@ -1,4 +1,4 @@
-Sorriso Lyrics[Testo di "Sorriso"]
+[Testo di "Sorriso"]
 
 [Strofa 1]
 Penserò a quei calzini puliti
@@ -41,7 +41,8 @@ Che vivi anche adesso
 Che ricordo un posto in cui mi sento meglio
 Finché non mi sveglio e non posso averle
 Le cose che voglio
-You might also like[Outro]
+
+[Outro]
 Penso che in fondo la vita e la morte
 Siano due facce della stessa sorte
 Ci abituiamo a vederle più spesso
@@ -54,4 +55,4 @@ Però non si posa
 E non serve più bere e fumare
 Io questa notte ti voglio pensare
 Con il trucco sbavato sul viso
-L'ultima cosa che ho visto è un sorrisoEmbed
+L'ultima cosa che ho visto è un sorriso

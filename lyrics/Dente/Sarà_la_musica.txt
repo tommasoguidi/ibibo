@@ -1,4 +1,4 @@
-Sarà la musica Lyrics[Testo di "Sarà la musica"]
+[Testo di "Sarà la musica"]
 
 [Strofa 1]
 Io non capisco i giovani di oggi
@@ -36,7 +36,8 @@ Sarà la musica a cambiare il mondo
 L'hanno detto oggi alla tv
 Ma se non ce la fa pensaci tu
 Ma se non ce la fa pensaci tu
-You might also like[Strofa 3]
+
+[Strofa 3]
 Io non conosco i moti planetari
 Il tempo di domani i cazzi dei vicini
 Un sacco di parole il genio militare
@@ -55,4 +56,4 @@ L'hanno detto oggi alla tv
 Ma se non ce la fa pensaci tu
 Ma se non ce la fa pensaci tu
 E se non ce la fa pensaci tu
-E se non ce la fa pensaci tuEmbed
+E se non ce la fa pensaci tu

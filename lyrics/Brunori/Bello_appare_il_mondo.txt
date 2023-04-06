@@ -1,4 +1,4 @@
-Bello appare il mondo Lyrics[Testo di "Bello appare il mondo"]
+[Testo di "Bello appare il mondo"]
 
 [Strofa 1]
 Bello appare il mondo agli occhi di Francesco
@@ -39,7 +39,8 @@ La tua storia personale è una grande cazzata, e lo sai
 È soltanto una scatola vuota riempita di vecchie versioni di te
 Che non servono più
 Che non sei neanche tu
-You might also like[Ritornello]
+
+[Ritornello]
 Non puoi fare l'amore
 Se continui ad urlare
 Se non smetti di farti ogni volta del male
@@ -50,4 +51,4 @@ Ma lasciaci stare
 La tua storia personale è una grande invenzione, e lo sai
 È soltanto una scatola vuota riempita di vecchie versioni di te
 Che non servono più
-Che non sei neanche tuEmbed
+Che non sei neanche tu

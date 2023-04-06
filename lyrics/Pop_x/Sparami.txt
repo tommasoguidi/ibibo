@@ -1,4 +1,4 @@
-Sparami Lyrics[Testo di "Sparami"]
+[Testo di "Sparami"]
 
 Sparisci tu
 Sparisco io
@@ -44,7 +44,8 @@ Spariamo noi
 Ai vecchi DJ
 Facciamo noi
 Facciamo noi
-You might also likeFammi crepare
+
+Fammi crepare
 Oppure giocare
 Verso il cuore
 Sul suolo lunare
@@ -77,4 +78,4 @@ Eraccot oilgoV
 Erusim itnagig id
 Evan atseuq ad
 Eram len obmoip a
-Eredac immaFEmbed
+Eredac immaF

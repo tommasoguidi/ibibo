@@ -1,4 +1,4 @@
-Major Tom Lyrics[Testo di "Major Tom"]
+[Testo di "Major Tom"]
 
 [Strofa 1]
 C'è che toccarti i capelli ormai per me
@@ -40,9 +40,10 @@ Giurami che non mi mancherai
 Giurami che non mi fermerai
 Riesci a sentirmi Major Tom?
 Riesci a sentirmi Major Tom?
-You might also like[Outro]
+
+[Outro]
 C'è che toccarti la pelle ormai per me
 È cadere nel freddo di un burrone
 C'è che quel fottuto bisogno che ho di te
 È come perdersi nel vuoto
-È come perdersi nel vuotoEmbed
+È come perdersi nel vuoto

@@ -1,4 +1,4 @@
-Stalker Lyrics[Testo di "Stalker"]
+[Testo di "Stalker"]
 
 [Intro]
 Na na na na na
@@ -44,7 +44,8 @@ E tu sei matta da legare
 Io c'ho talento per legare con i matti, ma ti pare ?!
 E sarò sempre pronto a farti del male
 Se continui a farti negare
-You might also like[Bridge 2]
+
+[Bridge 2]
 Ma questa volta è diverso
 Se te ne vai, io non ti lascio andare
 E forse resterò immerso in mezzo ai miei guai
@@ -79,4 +80,4 @@ Na na na na na
 Se mi scappi ti inseguirò
 Na na na na na
 Na na na na naaa
-E se ti trovo ti ucciderò1Embed
+E se ti trovo ti ucciderò

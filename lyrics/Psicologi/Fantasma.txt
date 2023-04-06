@@ -1,4 +1,4 @@
-Fantasma Lyrics[Testo di "Fantasma"]
+[Testo di "Fantasma"]
 
 [Ritornello: Drast]
 Un'altra notte in down
@@ -58,7 +58,8 @@ Ma vado in down
 Perché a scuola stavo fatto
 Scrivevamo sopra al banco
 Ora scendo dal palco e passo
-You might also like[Ritornello: Drast]
+
+[Ritornello: Drast]
 Un'altra notte in down
 E bevo finché poi
 Dimentico di noi
@@ -66,4 +67,4 @@ E torno in ambulanza, in ambulanza
 Ma vado in down
 E bevo finché poi
 Dimentico di noi
-Ma resti il mio fantasma, il mio fantasma1Embed
+Ma resti il mio fantasma, il mio fantasma

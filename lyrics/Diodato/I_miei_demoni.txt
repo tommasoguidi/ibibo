@@ -1,4 +1,4 @@
-I miei demoni Lyrics[Testo di "I miei demoni"]
+[Testo di "I miei demoni"]
 
 [Strofa 1]
 Voglio sentirmi libero, stasera esco
@@ -44,7 +44,8 @@ Dalla tua mente in gabbia
 Gli obblighi scaccia
 E bevi e vieni, bevi e vieni giù con con me
 Sì bevi e vieni, bevi e vieni giù con con me
-You might also like[Bridge]
+
+[Bridge]
 E non lo so
 Cosa mi spinge a farlo
 Non lo so
@@ -57,4 +58,4 @@ Non fare quella faccia
 Dalla tua mente in gabbia
 Gli obblighi scaccia
 E bevi e vieni, bevi e vieni giù con con me
-Sì bevi e vieni, bevi e vieni giù con con meEmbed
+Sì bevi e vieni, bevi e vieni giù con con me

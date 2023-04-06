@@ -1,4 +1,4 @@
-Fantabosco in fiamme Lyrics[Testo di "Fantabosco in fiamme"]
+[Testo di "Fantabosco in fiamme"]
 
 [Ritornello]
 Fantabosco in fiamme
@@ -48,7 +48,8 @@ Fantabosco in fiamme
 Gibo Scribantino ucciso
 Dai sicari della mafia del Blumele
 Perché sapeva troppo
-You might also like[Bridge]
+
+[Bridge]
 Eh eh eh eh
 Eh eh eh eh
 
@@ -56,4 +57,4 @@ Eh eh eh eh
 Fantabosco in fiamme
 Fantabosco in fiamme
 Fantabosco in fiamme
-Fantabosco in fiammeEmbed
+Fantabosco in fiamme

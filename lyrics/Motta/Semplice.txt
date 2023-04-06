@@ -1,4 +1,4 @@
-Semplice Lyrics[Testo di "Semplice"]
+[Testo di "Semplice"]
 
 [Strofa 1]
 Semplice
@@ -36,7 +36,8 @@ Basta un attimo
 Per perdersi e non pensarci più
 Lo sapevo io, lo sapevi anche tu
 Oh
-You might also like[Outro]
+
+[Outro]
 Semplice
 Semplice
 Semplice
@@ -52,4 +53,4 @@ Semplice
 Come tutto quello che non è
 Semplice
 Come tutto quello che non è
-Come tutto quello che non èEmbed
+Come tutto quello che non è

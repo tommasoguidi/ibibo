@@ -1,4 +1,4 @@
-Cosa resta di noi Lyrics[Testo di "Cosa resta di noi"]
+[Testo di "Cosa resta di noi"]
 
 [Intro]
 Yeah
@@ -46,7 +46,8 @@ Ed ho concluso che mi hai offuscato
 Sembravi limpido e non lo sei stato
 Ho solo un flashback molto chiaro
 Che mi torna a mente in ogni caso
-You might also like[Ritornello]
+
+[Ritornello]
 È la radio, la radio, e suonava quel pezzo alla radio
 Ed è l'unica cosa che ormai mi è rimasta di noi
 E la radio, la radio era con un volume da stadio
@@ -62,4 +63,4 @@ In replay, in replay
 È la radio, la radio, e suonava quel pezzo alla radio
 Ed è l'unica cosa che ormai mi è rimasta di noi
 E la radio, la radio era con un volume da stadio
-E suonava quel pezzo che tu avevi messo in replay, in replayEmbed
+E suonava quel pezzo che tu avevi messo in replay, in replay

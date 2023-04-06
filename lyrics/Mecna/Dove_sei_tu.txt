@@ -1,4 +1,4 @@
-Dove sei tu Lyrics[Testo di "Dove sei tu"]
+[Testo di "Dove sei tu"]
 
 [Intro]
 Yeah
@@ -57,7 +57,8 @@ O il karma in questa stanza mi ha fatto un piacere, vado
 Volevi un bacio, ma mi sono spostato
 Sono un bastardo
 Lasciami solo sbagliare da capo
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Io rimango qui
 Distratto da me
 Disperso sull'autobus che portava a casa
@@ -86,4 +87,4 @@ Tra sconosciuti che dormono abbracciati
 Non so com'è
 Ma so che ti starei dentro per almeno i prossimi giorni
 Prossimi "ciao", prossimi bronci
-Prossimi "tutto a posto", prossimi imbrogliEmbed
+Prossimi "tutto a posto", prossimi imbrogli

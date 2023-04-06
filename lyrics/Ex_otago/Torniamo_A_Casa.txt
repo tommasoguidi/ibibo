@@ -1,4 +1,4 @@
-Torniamo A Casa Lyrics[Testo di "Torniamo A Casa"]
+[Testo di "Torniamo A Casa"]
 
 [Strofa 1]
 Dovevo prenotare al ristorante
@@ -39,7 +39,8 @@ Oppure fare il corridore
 Che corre senza una ragione
 O per te
 Solo per te
-You might also like[Ritornello 2]
+
+[Ritornello 2]
 Se mi vuoi io sono qui
 Stasera guardiamo un film
 Oppure andiamo a ballare
@@ -60,4 +61,4 @@ E sono tutti nei miei occhi
 [Outro]
 Io sono molte cose
 Che si sommano alle tue
-Ma casa nostra è piccolaEmbed
+Ma casa nostra è piccola

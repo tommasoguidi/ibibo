@@ -1,4 +1,4 @@
-Marta Lyrics[Testo di "Marta"]
+[Testo di "Marta"]
 
 [Strofa 1]
 Marta è andata via
@@ -42,7 +42,8 @@ Marta è facile sbagliare
 Marta è facile star male
 Marta è facile cambiare
 Il difficile è tornare, lo so
-You might also likeMarta è facile cadere
+
+Marta è facile cadere
 Marta è facile sbagliare
 Marta è facile star male, sai
 Marta è facile cambiare
@@ -66,4 +67,4 @@ Marta è facile cadere
 Marta è facile sbagliare
 Marta è facile star male, sai
 Marta è facile cambiare
-Il difficile è tornare, lo so, lo sai1Embed
+Il difficile è tornare, lo so, lo sai

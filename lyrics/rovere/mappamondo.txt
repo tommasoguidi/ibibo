@@ -1,4 +1,4 @@
-​mappamondo Lyrics[Testo di "​mappamondo"]
+[Testo di "​mappamondo"]
 
 [Intro]
 Da domani per davvero apriremo questa stanza
@@ -45,7 +45,8 @@ E il mercato di Hong Kong
 E strapperemo un pezzo dell'estate
 Per stare al caldo quando è freddo intorno
 Perché ogni secondo insieme è in equilibrio sopra al mondo
-You might also like[Strofa 2]
+
+[Strofa 2]
 Ma non ti puoi fermare mai
 Non c'è più niente che tu non vorrai
 Una barca che affonda, un aereo alle Hawaii
@@ -65,4 +66,4 @@ E strapperemo un pezzo dell'estate
 Per stare al caldo quando è freddo intorno
 Perché ogni secondo insieme è in equilibrio sopra al mondo
 È in equilibrio sopra al mondo
-È in equilibrio sopra al mondoEmbed
+È in equilibrio sopra al mondo

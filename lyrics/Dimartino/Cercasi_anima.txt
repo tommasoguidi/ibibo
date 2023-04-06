@@ -1,4 +1,4 @@
-Cercasi anima Lyrics[Testo di "Cercasi anima"]
+[Testo di "Cercasi anima"]
 
 [Strofa 1]
 Cercasi anima persa in un supermarket sabato mattina alle nove e trenta
@@ -40,7 +40,8 @@ Con gli occhiali scuri
 Le mutande di Francesca
 La banda in piazza
 Il tempo per amarmi ancora un po’
-You might also like[Outro]
+
+[Outro]
 Cercasi anima persa in uno schedario di un archivio comunale
 Mentre riempivo un altro modulo per inventarmi una ragione sociale
 L'ho sentita scivolare
@@ -52,4 +53,4 @@ Il vento che se l'è portata, come quando porta via le ossa a un cane
 Mi ha lasciato solo il freddo che se l'è inghiottita
 Come quando inghiotte le persone sole
 Ed io ho perso l'anima e non ho parole
-Più per continuareEmbed
+Più per continuare

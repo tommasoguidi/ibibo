@@ -1,4 +1,4 @@
-Baci alla française Lyrics[Testo di "Baci alla française"]
+[Testo di "Baci alla française"]
 
 [Strofa 1]
 Lei ripassa per l'esame di domani
@@ -43,7 +43,8 @@ Andiamo via da questo bar
 L'alba avvolge la città
 Un filo di Libeccio
 Ti passa sui collant
-You might also like[Bridge]
+
+[Bridge]
 Venerdì e non sai cosa fare
 Le tue amiche che vanno a ballare
 Dietro casa hanno aperto un locale
@@ -57,4 +58,4 @@ Mille baci alla française
 Appoggiamo sulle macchine
 Due birre e quattro chiacchiere
 Io sorrido se sorridi te
-Mille baci alla françaiseEmbed
+Mille baci alla française

@@ -1,4 +1,4 @@
-Soldi Lyrics[Testo di "Soldi"]
+[Testo di "Soldi"]
 
 Soldi soldi soldi
 Per andare via lontano
@@ -43,7 +43,8 @@ Finalmente facce belle
 Son porcari ma brutti rari
 Questi bari dei miei compari
 Amici miei
-You might also likeLe gocciola sul lucido parquet
+
+Le gocciola sul lucido parquet
 Vassoio ripieno di cliché
 Vassoio che gocciola sul cachè
 Lascialo li per tutto il dì
@@ -100,4 +101,4 @@ Sulla sponda chiamata bicchiere
 Se io muoio tu te ne infischi
 Che da sempre lo piazzi nel sedere
 Se l'oste al vino ci ha messo l'acqua
-Noi s'annaquamo1Embed
+Noi s'annaquamo

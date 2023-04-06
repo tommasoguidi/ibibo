@@ -1,4 +1,4 @@
-Quando imparerò Lyrics[Testo di "Quando imparerò"]
+[Testo di "Quando imparerò"]
 
 [Ritornello]
 Quando imparerò
@@ -34,7 +34,8 @@ Quando imparerò
 Non mi basta una vita intera
 E i piatti dell'altra sera
 Non spariranno col tocco magico
-You might also like[Strofa 2]
+
+[Strofa 2]
 E io ci provo a tenere una direzione, ma ogni parte di me
 Vuole avere ragione sono quasi sempre diviso
 Qualcuno ha detto: "Senti, narciso
@@ -79,4 +80,4 @@ Diglielo, sto da un'altra parte
 Calma calma calma
 La gente qua non lo sa
 Diglielo, man maaaaaan
-Quando impareròEmbed
+Quando imparerò

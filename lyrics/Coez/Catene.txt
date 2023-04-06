@@ -1,4 +1,4 @@
-Catene Lyrics[Testo di "Catene"]
+[Testo di "Catene"]
 
 [Strofa 1]
 Io non ho catene
@@ -44,7 +44,8 @@ Tutta questa fantasia forse è solo una bugia
 Che non voglio vedere
 Tutta questa fantasia forse è solo una bugia
 Che non voglio vedere
-You might also like[Ritornello]
+
+[Ritornello]
 Mi serve un elastico, sì, per tenermi insieme
 Ci serve un elastico, sì, per tenerci insieme
 Non basta un elastico per tenerci insieme
@@ -56,4 +57,4 @@ Ah-ah, ah-ah, io non ho catene
 
 [Outro]
 Ah-ah, ah-ah, ah-ah
-Ah-ah, ah-ah, ah-ahEmbed
+Ah-ah, ah-ah, ah-ah

@@ -1,4 +1,4 @@
-IL CIELO DI ROMA Lyrics[Testo di "IL CIELO DI ROMA"]
+[Testo di "IL CIELO DI ROMA"]
 
 [Strofa 1]
 Tutte le volte che sono in volo
@@ -40,7 +40,8 @@ Sopra il cielo di Roma
 Sopra il cielo di Roma
 A fissare la notte
 A toccare le stelle con te
-You might also like[Bridge]
+
+[Bridge]
 Torneranno quelle notti in vespa
 Io, tu e il montone di mio padre
 Le sue tasche larghe
@@ -70,4 +71,4 @@ Sopra il cielo di Roma
 Certe cose non cambiano
 A fissare la notte
 A toccare le stelle con te
-(Sopra il cielo di Roma)Embed
+(Sopra il cielo di Roma)

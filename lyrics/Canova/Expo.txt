@@ -1,4 +1,4 @@
-Expo Lyrics[Testo di "Expo"]
+[Testo di "Expo"]
 
 [Strofa 1]
 Ci siamo conosciuti a novembre
@@ -45,5 +45,6 @@ L'occasione che ho
 L'occasione che ho
 L'occasione che ho
 Per dirti...
-You might also like[Outro]
-Che stronza!Embed
+
+[Outro]
+Che stronza!

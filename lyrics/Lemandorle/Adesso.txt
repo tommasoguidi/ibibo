@@ -1,4 +1,4 @@
-Adesso Lyrics[Testo di "Adesso"]
+[Testo di "Adesso"]
 
 [Stofa 1]
 Parliamo così spesso
@@ -41,7 +41,8 @@ Marco, io ti voglio adesso
 Io ti voglio adesso
 Dopo in fondo fa lo stesso
 Ma non è lo stesso
-You might also likeMarco, io ti voglio adesso
+
+Marco, io ti voglio adesso
 Io ti voglio adesso
 Dopo in fondo fa lo stesso
 Ma non è lo stesso
@@ -50,4 +51,4 @@ Ma non è lo stesso
 Tu lo sai, tu lo sai
 Tu lo sai, non cambio mai
 Già lo sai, già lo sai
-Già lo sai, non cambierai1Embed
+Già lo sai, non cambierai

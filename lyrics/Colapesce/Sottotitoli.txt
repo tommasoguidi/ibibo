@@ -1,4 +1,4 @@
-Sottotitoli Lyrics[Testo di "Sottotitoli"]
+[Testo di "Sottotitoli"]
 
 [Strofa 1]
 La stanza diventa una barca
@@ -40,7 +40,8 @@ Nello spazio
 Immergiamoci nel mare con Zissou
 Non ricordo più
 Dove eravamo quasi un anno fa
-You might also like[Outro]
+
+[Outro]
 La stanza diventa una barca
 E sono qui in silenzio
-E in mano tengo stretto un altro filmEmbed
+E in mano tengo stretto un altro film

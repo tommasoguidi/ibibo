@@ -1,4 +1,4 @@
-Non Lyrics[Testo di "Non"]
+[Testo di "Non"]
 
 [Strofa 1]
 Non era il mare all'orizzonte
@@ -46,7 +46,8 @@ Il sangue che mi esce dal corpo
 È mio soltanto se lo riconosco
 Sei una ferita aperta dentro cui viaggiare
 Tu non mi abbandonare
-You might also like[Strofa 3]
+
+[Strofa 3]
 Salvami dai mostri, dal mondo
 Salvami da quello che voglio
 Il male profondo
@@ -67,4 +68,4 @@ Non ero io, non eri tu
 Il sangue che mi esce dal corpo
 È mio soltanto se lo riconosco
 Sei una ferita aperta dentro cui viaggiare
-Tu non mi abbandonareEmbed
+Tu non mi abbandonare

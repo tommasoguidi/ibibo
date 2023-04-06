@@ -1,4 +1,4 @@
-Il concorso musicale Lyrics[Testo di "Il concorso musicale"]
+[Testo di "Il concorso musicale"]
 
 [Strofa 1]
 La Multipla di mio papà c'ha vomitati
@@ -51,7 +51,8 @@ E accennano le note della prima cover
 Ed il pubblico visibilmente esplode
 (Oh, Simone, piano!) Qualcuno urla:
 "Il rock non morirà mai, non è una delle vostre sporche mode!"
-You might also like[Strofa 5]
+
+[Strofa 5]
 Il giudice testa di ginocchio
 Balla come se non ci fosse un futuro
 Gli efebi poganti piangono la morte di un fratello
@@ -68,4 +69,4 @@ Anche se non fossimo perdenti?
 
 [Outro]
 Presidente siamo con te
-Menomale che Silvio c'èEmbed
+Menomale che Silvio c'è

@@ -1,4 +1,4 @@
-Le margherite sono salve Lyrics[Testo di "Le margherite sono salve"]
+[Testo di "Le margherite sono salve"]
 
 [Strofa 1]
 Eri stanco nel bel mezzo della vita
@@ -46,4 +46,5 @@ Io morirei, morirei
 Io morirei, morirei
 Per te che il vento ha reso più distante
 Dove le margherite sono salve
-You might also likeIo morirei, morirei, ioEmbed
+
+Io morirei, morirei, io

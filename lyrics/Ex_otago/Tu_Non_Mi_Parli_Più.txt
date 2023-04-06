@@ -1,4 +1,4 @@
-Tu Non Mi Parli Più Lyrics[Testo di "Tu Non Mi Parli Più"]
+[Testo di "Tu Non Mi Parli Più"]
 
 [Strofa 1]
 Quando passo dalla riviera
@@ -44,7 +44,8 @@ Io mi chiedo perché
 Tu non mi parli più
 Io mi chiedo perché
 Tu non mi parli più
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Vorrei scriverti solo "Come stai?"
 Chissà cosa fai
 O come stanno i tuoi
@@ -65,4 +66,4 @@ Ma, ma io ti volevo bene e ti volevo bene sinceramente
 E poi, e poi non c'è mai un'epoca giusta, no
 Per stare con una persona
 Le persone si incontrano in un certo momento, stanno insieme
-E poi si lascianoEmbed
+E poi si lasciano

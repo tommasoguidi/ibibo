@@ -1,4 +1,4 @@
-FRAGILI Lyrics[Testo di "FRAGILI" ft. Franco126]
+[Testo di "FRAGILI" ft. Franco126]
 
 [Strofa 1: ARIETE]
 Siamo fragili
@@ -40,7 +40,8 @@ Questa notte sa di false promesse
 Che si fanno a volte invece di lasciarsi andar via
 E so già che non se ne farà niente
 Sulle labbra resterà il sapore di una bugia
-You might also like[Pre-Ritornello: ARIETE & Franco126]
+
+[Pre-Ritornello: ARIETE & Franco126]
 Che tu ci creda o no
 Ora è tardi per i tuoi "però"
 Domani sparirò
@@ -63,4 +64,4 @@ Un motivo per restare
 
 [Outro: ARIETE & Franco126]
 E non so più se
-Tu fai per me1Embed
+Tu fai per me

@@ -1,4 +1,4 @@
-Pesce d’aprile Lyrics[Testo di "Pesce d'aprile"]
+[Testo di "Pesce d'aprile"]
 
 [Strofa 1]
 A volte 16 anni sono violenti
@@ -36,7 +36,8 @@ Entriamo in seconda ora o rischiamo di morire
 Un falso all'arme allo stadio
 Ed ho pensato di averti perduto per sempre in un giorno sbagliato
 Non avere avuto il tempo di salvarti dall'inferno
-You might also like[Bridge]
+
+[Bridge]
 Pesce d’aprile
 Pesce d’aprile
 Pesce d'aprile
@@ -49,4 +50,4 @@ Un'autobomba alla scuola
 Entriamo in seconda ora o rischiamo di morire
 Un falso all’arme allo stadio
 Ed ho pensato di averti perduto per sempre in un giorno sbagliato
-Non avere avuto il tempo di salvarti dall'infernoEmbed
+Non avere avuto il tempo di salvarti dall'inferno

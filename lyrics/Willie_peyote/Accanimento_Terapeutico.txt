@@ -1,4 +1,4 @@
-Accanimento Terapeutico Lyrics[Strofa 1]
+[Strofa 1]
 Ok sorridi
 Siamo ragazzi impauriti e sconvolti
 Dalla caduta dei miti e meeting suicidi
@@ -43,7 +43,8 @@ Hanno tutti bisogno, di riempire
 Il vuoto intorno a sé per riempire il vuoto interno, per me
 L’inferno sono gli altri
 E per alcuni la mancanza degli altri è un inferno
-You might also like[Ritornello]
+
+[Ritornello]
 Nel mondo dell’immagine, lo share, le vostre lacrime
 Raggiungo il fondo in fretta, mi getto nella voragine
 Mi iniettano il veleno e dettano formule magiche
@@ -68,4 +69,4 @@ La mia l’ho lasciata, morire a tempo debito
 Accanimento terapeutico
 Tenete viva la vostra speranza grazie a una bugia
 La mia l’ho lasciata, morire a tempo debito
-È una presa di coscienza che chiamate eutanasiaEmbed
+È una presa di coscienza che chiamate eutanasia

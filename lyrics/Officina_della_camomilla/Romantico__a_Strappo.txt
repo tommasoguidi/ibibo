@@ -1,4 +1,4 @@
-Romantico = a Strappo Lyrics[Testo di "Romantico = a Strappo"]
+[Testo di "Romantico = a Strappo"]
 
 Romantico sta fermo, sta piano a Firenze
 Si tocca sul petto
@@ -36,6 +36,7 @@ Se tu mi baci in teoria ti dovresti fare male
 Romantico raccoglie per terra i cognomi
 Delle studentesse come profiteroles
 In galleria LaFayette cha cha cha!
-You might also likePensieroso in acquari di film splatter ma tuttavia
+
+Pensieroso in acquari di film splatter ma tuttavia
 Le mie tenebre sono stelle filanti e un tristissimo arrivederci
-Ma sexy è la mia maglietta di Gaetano BresciEmbed
+Ma sexy è la mia maglietta di Gaetano Bresci

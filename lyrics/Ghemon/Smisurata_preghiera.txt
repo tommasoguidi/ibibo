@@ -1,4 +1,4 @@
-Smisurata preghiera Lyrics[Testo di "Smisurata preghiera"]
+[Testo di "Smisurata preghiera"]
 
 [Verse 1]
 Certe volte le parole sono nebbia densa in bocca
@@ -52,7 +52,8 @@ Le mie stanno cor veleno come Primo
 Come quelle di Kuala Lumpur
 Ma quale New School?!
 Chiamami Dottore e non darmi del tu
-You might also like[Hook]
+
+[Hook]
 (E non mi fermerò, no)
 Anche se cambi maschera, io so chi sei
 Anche se cambi carte in tavola, so chi sei
@@ -63,4 +64,4 @@ Anche se cambi maschera, io so chi sei
 Anche se cambi carte in tavola, so chi sei
 (E non mi fermerò, no)
 Anche se cambi maschera io so chi sei
-Anche se ti nascondi io so dove seiEmbed
+Anche se ti nascondi io so dove sei

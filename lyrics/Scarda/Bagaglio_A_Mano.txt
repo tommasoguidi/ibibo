@@ -1,4 +1,4 @@
-Bagaglio A Mano Lyrics[Testo di "Bagaglio A Mano"]
+[Testo di "Bagaglio A Mano"]
 
 [Strofa 1]
 Io vorrei morire del tutto
@@ -36,7 +36,8 @@ Nel vento
 Cento semafori in fila con la luce azzurra
 Accelera senza pensare più a nulla
 Pensa alla strada e non a quanto è lunga
-You might also like[Bridge]
+
+[Bridge]
 Perché ogni nostro respiro ora vola leggero
 Nel vento
 E ogni tanto fa il giro
@@ -52,4 +53,4 @@ Perché ogni nostro respiro è rimasto leggero
 Nel vento
 Cento semafori in fila con la luce azzurra
 Accelera senza pensare più a nulla
-Pensa alla strada e non a quanto è lungaEmbed
+Pensa alla strada e non a quanto è lunga

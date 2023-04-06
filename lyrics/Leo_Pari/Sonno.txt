@@ -1,4 +1,4 @@
-Sonno Lyrics[Testo di "Sonno"]
+[Testo di "Sonno"]
 
 [Intro]
 Dio ha creato l'uomo e ha detto: "Tu lavorerai al posto mio"
@@ -47,7 +47,8 @@ Alle nove metto un piede giù dal letto
 Sento freddo e fuori piove
 Sono un lavoratore, ascoltami, o Signore
 Ti prego, regalami un po' di ore di sonno
-You might also like[Strofa 2]
+
+[Strofa 2]
 Sonno, tu mi dai stanchezza ed allucinazioni
 Tu mi accompagni il giorno, tu che rallenti le mie singole azioni
 Non mi permetti mai di stare in completa forma
@@ -82,4 +83,4 @@ Entro in macchina, faccio un'altra oretta di traffico
 Fumo un'altra sigaretta e, come se non bastasse, questo schifo di monossido
 Mi sdraio sul divano e mi intossico di un programma deprimente
 Poi mi trascino fino al letto e mi rilasso, finalmente
-Che succede? Eh, ragazzo, adesso non ho sonno per nienteEmbed
+Che succede? Eh, ragazzo, adesso non ho sonno per niente

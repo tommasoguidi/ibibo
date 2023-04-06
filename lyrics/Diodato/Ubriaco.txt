@@ -1,4 +1,4 @@
-Ubriaco Lyrics[Testo di "Ubriaco"]
+[Testo di "Ubriaco"]
 
 [Strofa 1]
 Quando la luna spuntò
@@ -46,7 +46,8 @@ Ubriaco, ubriaco
 Ubriaco, ubriaco
 Ubriaco di me
 Sì, forse solo di me
-You might also like[Bridge]
+
+[Bridge]
 Quando la luna spuntò
 Ero già un fiasco di vino
 E non mi accorsi che un angelo
@@ -59,4 +60,4 @@ Ubriaco, ubriaco
 Ubriaco, ubriaco
 Ubriaco, ubriaco
 Ubriaco, ubriaco
-Ubriaco di meEmbed
+Ubriaco di me

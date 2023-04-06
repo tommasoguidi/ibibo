@@ -1,4 +1,4 @@
-Ave Maria Lyrics[Testo di "Ave Maria"]
+[Testo di "Ave Maria"]
 
 [Strofa 1]
 A dodic'anni mi sentivo vecchio
@@ -43,7 +43,8 @@ Con te
 La vita in questo mondo non è facile
 L'indifferenza adesso è consuetudine
 Siamo pezzi d'acciaio sull'incudine
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Macchine isteriche e veloci
 La fertilità
 Dentro ai piano bar
@@ -58,4 +59,4 @@ Ave Maria
 Piena di graffi
 Ave Maria
 Piena di graffi
-Ave MariaEmbed
+Ave Maria

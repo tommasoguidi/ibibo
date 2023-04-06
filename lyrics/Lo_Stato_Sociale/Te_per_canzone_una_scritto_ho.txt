@@ -1,4 +1,4 @@
-Te per canzone una scritto ho Lyrics[Testo di "Te per una canzone ho scritto"]
+[Testo di "Te per una canzone ho scritto"]
 
 [Strofa]
 Ho scritto una canzone per te
@@ -41,7 +41,8 @@ Via, via, via dal divieto di sosta
 Che anche io scappo via dalla rimozione
 E c'era una musica, un ballo, una piazza e in un colpo
 Tra tutte le persone c'eri anche tu
-You might also likeHo scritto una canzone per te
+
+Ho scritto una canzone per te
 Che di sicuro stavi guardando un film
 Che non mi piacciono i film
 E poi mi faccio i film
@@ -82,4 +83,4 @@ Da dimenticare
 Via via via dal divieto di sosta
 Che anch'io scappo via dalla rimozione
 Che qui c'è una musica, un ballo, una piazza e in un colpo
-Tra tutte le persone ci sei anche tuEmbed
+Tra tutte le persone ci sei anche tu

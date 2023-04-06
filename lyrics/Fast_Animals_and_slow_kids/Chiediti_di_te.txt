@@ -1,4 +1,4 @@
-Chiediti di te Lyrics[Testo di "Chiediti di te"]
+[Testo di "Chiediti di te"]
 
 [Strofa 1]
 Ieri mi han fatto proprio male
@@ -46,7 +46,8 @@ Ma dopo tutti questi schiaffi
 Dopo questi anni in copertura
 Io non ho paura
 Io non ho paura
-You might also like[Bridge]
+
+[Bridge]
 Se non sai chi sei
 Chiediti di te
 Se non ce la fai
@@ -68,4 +69,4 @@ Se non sai chi sei
 Chiediti di te
 Se non ce la fai
 (Sentirmi un animale)
-Chiediti di teEmbed
+Chiediti di te

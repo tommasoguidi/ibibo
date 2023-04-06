@@ -1,4 +1,4 @@
-Pantalica Lyrics[Testo di "Pantalica"]
+[Testo di "Pantalica"]
 
 [Strofa 1]
 Il fiume taglia la pietra
@@ -34,7 +34,8 @@ Fra il fico d'India e le stelle
 La vipera cambia pelle
 Io mi riempio i polmoni
 E ti continuo a chiamare
-You might also like[Ritornello]
+
+[Ritornello]
 La notte non mi aspetta
 Si porta avanti il lavoro
 E succhio un'altra tetta
@@ -43,4 +44,4 @@ E sullo sfondo un coro
 C'è stato un fuoco
 In questa grotta bianca
 Esce un bambino
-Ha della cenere in manoEmbed
+Ha della cenere in mano

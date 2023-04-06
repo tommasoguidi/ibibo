@@ -1,4 +1,4 @@
-Antille Lyrics[Testo di "Antille"]
+[Testo di "Antille"]
 
 [Strofa 1]
 A dieci mila chilometri da questo mondo
@@ -39,7 +39,8 @@ Che sia una donna sotto un ponte
 Arriva sempre l'homo nero
 Che ha mille anni e non ne ha visti cento
 Sta sempre lì all'Imbarcadero
-You might also like[Outro]
+
+[Outro]
 Chiudi le strade
 Dobbiamo fare lavori (no)
 Apriti cielo
@@ -47,4 +48,4 @@ Non ci lasciare tutti quanti di fuori
 Dacci le strade
 Dobbiamo fare gli amori
 Apriti cielo
-Non ci lasciare da soli (oh)Embed
+Non ci lasciare da soli (oh)

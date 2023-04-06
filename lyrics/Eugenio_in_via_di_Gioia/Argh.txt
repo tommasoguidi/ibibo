@@ -1,4 +1,4 @@
-Argh! Lyrics[Intro]
+[Intro]
 One ciò tre!
 Argh!
 Non è così che si fa
@@ -43,7 +43,8 @@ In controtempo mi prendi lo sai
 Non è così che si fa
 In controtempo continuerai
 Mi prenderai
-You might also like[Bridge]
+
+[Bridge]
 7 quarti d'ora che aspetto te
 7 quarti d'ora che aspetto che
 7 quarti d'ora non ne posso più
@@ -66,4 +67,4 @@ Arriviamo tardi ai concerti che non iniziano mai
 Il cliente ha sempre ragione, il locale ci soddisferà
 Un dj e gli mp3 nessuno si lamenterà
 Non è così che si fa
-In controtempo mi prendiEmbed
+In controtempo mi prendi

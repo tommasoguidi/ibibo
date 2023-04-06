@@ -1,4 +1,4 @@
-Sally Lyrics[Testo di "Sally"]
+[Testo di "Sally"]
 
 [Strofa 1]
 Mia madre mi disse: "Non devi giocare
@@ -36,7 +36,8 @@ Mi parlò sulla bocca, mi donò un braccialetto
 Dite alla quercia che non tornerò
 Mi baciò sulla bocca, mi propose il suo letto
 Dite a mia madre che non tornerò
-You might also like[Bridge]
+
+[Bridge]
 (Che non tornerò)(Che non tornerò)
 (Che non tornerò)(Che non tornerò)
 
@@ -44,4 +45,4 @@ You might also like[Bridge]
 Mia madre mi disse: "Non devi giocare
 Con gli zingari del bosco"
 Ma il bosco era scuro l'erba già verde
-Lì venne Sally con un tamburelloEmbed
+Lì venne Sally con un tamburello

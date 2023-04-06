@@ -1,4 +1,4 @@
-Milano Roma Lyrics[Testo di "Milano Roma"]
+[Testo di "Milano Roma"]
 
 [Strofa 1]
 Roma città
@@ -42,7 +42,8 @@ Vorrei dei figli e un appartamento al sole
 E invece ancora
 Milano Roma
 Milano Roma
-You might also like[Bridge]
+
+[Bridge]
 Non so quando e non so in che posto
 Non lo so, se poi mi fermerò
 Non so quando e non so in che posto
@@ -51,4 +52,4 @@ Non lo so, se poi mi fermerò
 [Outro]
 Milano Roma
 Milano Roma
-Milano RomaEmbed
+Milano Roma

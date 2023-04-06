@@ -1,4 +1,4 @@
-10K scale Lyrics[Testo di "10K scale"]
+[Testo di "10K scale"]
 
 [Strofa 1]
 Noi non facevamo sesso
@@ -34,7 +34,8 @@ Sei stata al centro del mio giorno almeno per un anno
 Mi hai visto piangere accasciato in mezzo al bagno
 E se ti vedo con un altro, giuro che lo scanno
 Anche se non— (Non)
-You might also like[Bridge]
+
+[Bridge]
 Non sento vento addosso a me
 Non parlo quando domandano di te
 
@@ -50,4 +51,4 @@ Anche se non sei—
 [Outro]
 E adesso sono come gli altri, non mi guardo dentro
 E se mi manchi questa notte, giuro, non ti cerco
-Ho sceso diecimila scale tenendoti il braccio1Embed
+Ho sceso diecimila scale tenendoti il braccio

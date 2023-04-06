@@ -1,4 +1,4 @@
-Pesto Lyrics[Testo di "Pesto"]
+[Testo di "Pesto"]
 
 [Strofa 1]
 Esco o non esco
@@ -35,7 +35,8 @@ Dai, non fa niente
 Mi richiamerai da un call center
 E io ti dirò
 Lo sai che io ti dirò
-You might also like[Ritornello]
+
+[Ritornello]
 Uè, deficiente
 Negli occhi ho una botte che perde
 E lo sai perché?
@@ -56,4 +57,4 @@ Negli occhi ho una botte che perde
 E lo sai perché?
 Perché mi sono innamorato
 Mi ero addormentato di te
-Mi sono addormentato di te5Embed
+Mi sono addormentato di te

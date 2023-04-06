@@ -1,4 +1,4 @@
-Punk Lyrics[Testo di "Punk"]
+[Testo di "Punk"]
 
 [Strofa 1]
 Tu sapevi un po' di punk
@@ -44,7 +44,8 @@ E bevo come un ragazzino
 E quando bevo senza te
 Quando faccio schifo
 Quando faccio schifo come te
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Preso male che non c'è
 Più nessuno come te
 (Quando faccio schifo
@@ -55,4 +56,4 @@ E quando bevo senza te
 Quando faccio schifo come te)
 
 [Outro]
-Quando faccio schifo come teEmbed
+Quando faccio schifo come te

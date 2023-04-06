@@ -1,4 +1,4 @@
-Lacrima=piccolo mare Lyrics[Testo di "Lacrima=piccolo mare"]
+[Testo di "Lacrima=piccolo mare"]
 
 [Strofa 1]
 Confondo i tuoi sogni con i miei sogni
@@ -34,8 +34,9 @@ Farei tutto per amore, baby
 Anche se non si vede, tu non temere, okay?
 Farei tutto per amore, baby
 Anche se non si vede, tu non temere, okay?
-You might also like[Outro]
+
+[Outro]
 All for you, baby
 All for you, baby
 All for you, baby
-All for you, babyEmbed
+All for you, baby

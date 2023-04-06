@@ -1,4 +1,4 @@
-Sono molto in forma Lyrics[Testo di "Sono molto in forma"]
+[Testo di "Sono molto in forma"]
 
 [Strofa 1]
 Mi sono innamorato di una ragazza del '90
@@ -41,8 +41,9 @@ Oppure anche come quando vorresti esserlo di nuovo
 Bambino, dico
 La bestemmia allo stato attuale è paragonabile alla virgola
 Ma io, io
-You might also like[Ritornello]
+
+[Ritornello]
 E sono molto in forma
 Sono molto in forma
 Sono molto in forma
-Sono molto in forma-a-aEmbed
+Sono molto in forma-a-a

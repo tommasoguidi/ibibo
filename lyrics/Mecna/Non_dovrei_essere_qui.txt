@@ -1,4 +1,4 @@
-Non dovrei essere qui Lyrics[Testo di "Non dovrei essere qui"]
+[Testo di "Non dovrei essere qui"]
 
 [Intro]
 Starei per sempre qui in manette
@@ -49,7 +49,8 @@ Sempre le stesse le cose di cui parla
 Se non è rap non ci riguarda"
 Chiedono: "Pensi di buttarti nella mischia prima o poi
 O resti a fare la guardia?"
-You might also like[Ritornello]
+
+[Ritornello]
 Io non vorrei essere qui, non dovrei essere
 Non vorrei essere qui, non dovrei (Non dovrei)
 Io non vorrei essere qui, non dovrei essere
@@ -61,4 +62,4 @@ Non vorrei essere qui, non dovrei (Non dovrei)
 Io non vorrei essere qui, non dovrei essere
 (Qui in manette tra draghi e feste)
 Non vorrei essere qui, non dovrei
-(Io vi attraverserò)1Embed
+(Io vi attraverserò)

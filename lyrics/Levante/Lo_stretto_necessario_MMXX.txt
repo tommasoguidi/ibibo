@@ -1,4 +1,4 @@
-Lo stretto necessario (MMXX) Lyrics[Intro]
+[Intro]
 Ah-ah, ah-ah, ah-ahh
 Oh-oh!
 Ah-ah, ah-ah, ah-ahh
@@ -35,7 +35,8 @@ Dolce come zàgara, la via del ritorno
 Di chi parte e resta sempre qua
 Perché ho dovuto perderti per ritrovare il bello di te?
 Ma proverò a difendere lo stretto necessario che c'è
-You might also like[Ritornello: Levante e Carmen Consoli]
+
+[Ritornello: Levante e Carmen Consoli]
 Le facciate mai finite
 Le Madonne chiuse in una teca
 Le tende spiegate
@@ -64,4 +65,4 @@ Le campagne in fiamme
 I primi baci
 Gli atti di dolore
 I panni stesi ad asciugare al sole
-Lo stretto necessarioEmbed
+Lo stretto necessario

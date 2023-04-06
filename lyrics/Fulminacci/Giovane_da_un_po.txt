@@ -1,4 +1,4 @@
-Giovane da un po’ Lyrics[Testo di "Giovane da un po'"]
+[Testo di "Giovane da un po'"]
 
 [Strofa 1]
 Tu, sandali e bambù
@@ -35,7 +35,8 @@ Sai, quello che vorrei
 Quello ce l'avevi tu
 Ma, ehi, questi giorni miei
 Li racconterò
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Io che ho accettato quel sogno
 Come un volantino e ci ho fatto un aereo
 Sempre promosso, sempre compreso
@@ -59,4 +60,4 @@ La voglia che è tutta da immaginare
 La solita stupida barca
 Nel solito fradicio mare
 Decidi se farti un bagno o guardare
-Gli altri che se lo fannoEmbed
+Gli altri che se lo fanno

@@ -1,4 +1,4 @@
-Combattere per l’incertezza Lyrics[Testo di "Combattere per l'incertezza"]
+[Testo di "Combattere per l'incertezza"]
 
 [Ritornello]
 Combattere per l'incertezza
@@ -45,7 +45,8 @@ Questo ci resta
 Combattere per l'incertezza
 Questo ci resta
 Oh-oh
-You might also like[Strofa 2]
+
+[Strofa 2]
 E di nuovo, di nuovo
 Di nuovo a parlare
 Di quello che manca
@@ -66,4 +67,4 @@ Di esser diverso
 Lo sento
 Ma ora
 Divento più grande
-E cambio le sorti del mondoEmbed
+E cambio le sorti del mondo

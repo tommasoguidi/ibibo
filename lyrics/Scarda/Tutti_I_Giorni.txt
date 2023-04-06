@@ -1,4 +1,4 @@
-Tutti I Giorni Lyrics[Testo di "Tutti I Giorni"]
+[Testo di "Tutti I Giorni"]
 
 [Strofa 1]
 Dovrebbe restarti
@@ -43,7 +43,8 @@ Negroni per mandare tutto quanto in soffitto
 Ma la mattina dopo te la risenti tutta
 C'è chi mi dice limitati sennò ti sfondi
 Ma è che non so contare i bicchieri e le onde
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E bevo sempre
 Per essere coerente
 
@@ -71,4 +72,4 @@ Quando dormivi sul mio stesso fianco
 Tutti i giorni
 Mi perdo le cose importanti
 Ma io non riuscivo a staccarmi
-Quando dormivi e ti stavo guardandoEmbed
+Quando dormivi e ti stavo guardando

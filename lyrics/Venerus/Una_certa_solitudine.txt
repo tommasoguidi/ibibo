@@ -1,4 +1,4 @@
-Una certa solitudine Lyrics[Testo di "Una certa solitudine"]
+[Testo di "Una certa solitudine"]
 
 [Intro]
 Everyone's out
@@ -45,7 +45,8 @@ E colleziono scrupoli
 Per farne un fuoco e urlarci attorno come stupidi
 Correre in tondo ed evocare qualche spirito (Where? Where? Where?)
 Che sappia ancora forse come uscir di qua
-You might also like[Ritornello]
+
+[Ritornello]
 Uh, uh, uh, uh, uh
 Uh, uh, uh, uh, uh
 Uh (Where? Where? Where?)
@@ -60,4 +61,4 @@ Everyone's out
 And the world's a little slow
 Where is my mind?
 Do you know where?
-(Where? Where? Where?)Embed
+(Where? Where? Where?)

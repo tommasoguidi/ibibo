@@ -1,4 +1,4 @@
-Dove finiscono le favole Lyrics[Testo di "Dove finiscono le favole"]
+[Testo di "Dove finiscono le favole"]
 
 [Strofa 1]
 Gira in strada il bastardo
@@ -42,7 +42,8 @@ E torna sempre da lui
 E torna sempre da lui
 E torna sempre da lui
 E torna sempre da lui
-You might also like[Strofa 3]
+
+[Strofa 3]
 Sara è già grande ma ha solo vent'anni
 E le sirene della polizia
 Sbattono forte sopra le serrande
@@ -63,4 +64,4 @@ Ma non ritorna da lui
 Ma non ritorna da lui
 Ma non ritorna da lui
 Ma non ritorna da lui
-(Sara non sa)Embed
+(Sara non sa)

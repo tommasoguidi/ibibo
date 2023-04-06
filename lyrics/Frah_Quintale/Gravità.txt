@@ -1,4 +1,4 @@
-Gravità Lyrics[Testo di "Gravità"]
+[Testo di "Gravità"]
 
 [Strofa 1]
 Resta qui a vedermi dondolare
@@ -38,7 +38,8 @@ Sai cosa c'è?
 Chiama un taxi per recuperarmi fra le nuvole
 Io casa non so più dov'è
 Sei il viaggio più lungo per me
-You might also like[Ritornello]
+
+[Ritornello]
 Come se non ci fosse gravità
 E guardassimo dall'alto la città
 Sei con me anche quando non sei qua
@@ -52,4 +53,4 @@ Mi prendi e mi riporti ancora una volta in cima
 
 [Outro]
 Questa notte non ti preoccupare
-Siamo vivi finché sorge il sole2Embed
+Siamo vivi finché sorge il sole

@@ -1,4 +1,4 @@
-Umano Lyrics[Testo di "Umano"]
+[Testo di "Umano"]
 
 [Strofa 1]
 Il sole è un ammasso di fuoco rovente e ti sembra un pallino
@@ -38,7 +38,8 @@ Ma chi sta meglio di te
 Ma chi sta meglio di me
 Ma chi sta meglio di te
 Ma chi sta meglio
-You might also like[Bridge]
+
+[Bridge]
 E passano i giorni, passano anche gli anni
 Tutta questa storia ci fa sentire grandi
 Ma appassiscono i fiori, mordi gli ultimi frutti
@@ -62,4 +63,4 @@ Ma chi sta meglio
 
 [Outro]
 Umano, sorridi, sei sempre il migliore
-Ti faccio uno spoiler: alla fine si muore1Embed
+Ti faccio uno spoiler: alla fine si muore

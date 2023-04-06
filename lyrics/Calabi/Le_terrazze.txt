@@ -1,4 +1,4 @@
-Le terrazze Lyrics[Testo di "Le terrazze"]
+[Testo di "Le terrazze"]
 
 Sai che c'è?
 Sai che c'è?
@@ -36,7 +36,8 @@ Sai cos'è?
 Ti specchi e non ti piace
 Non sai cosa postare
 E non ne puoi più
-You might also likeSì l'ho capito che ti senti sola
+
+Sì l'ho capito che ti senti sola
 Ma stammi ad ascoltare
 Che non ci serve un'astronave
 C'è un posto che mi piace
@@ -49,4 +50,4 @@ Se guardi giù
 A Malibu
 Poi ci sei tu
 È meglio di Manhattan
-Usciamo che ci passaEmbed
+Usciamo che ci passa

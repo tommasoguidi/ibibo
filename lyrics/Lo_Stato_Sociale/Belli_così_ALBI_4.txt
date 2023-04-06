@@ -1,4 +1,4 @@
-Belli così (ALBI #4) Lyrics[Testo di "Belli così (ALBI #4)"]
+[Testo di "Belli così (ALBI #4)"]
 
 [Strofa 1]
 Mi piace farti ridere
@@ -44,7 +44,8 @@ Ma quale libertà
 Se si può solo scegliere
 Tra un orizzonte perso tra cielo e mare
 E un centinaio di film in prima visione
-You might also like[Ritornello]
+
+[Ritornello]
 Ma siamo belli così
 Senza chiedere niente
 Scusate tanto il disordine
@@ -65,4 +66,4 @@ Non ce ne frega niente
 
 [Outro]
 Oggi è domenica
-E la sveglia non si senteEmbed
+E la sveglia non si sente

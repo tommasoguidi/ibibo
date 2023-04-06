@@ -1,4 +1,4 @@
-Piccola Lyrics[Testo di "Piccola"]
+[Testo di "Piccola"]
 
 [Strofa 1]
 Piccola
@@ -42,7 +42,8 @@ Io
 Se sei felice
 Non chiedo niente
 Me ne posso andare
-You might also like[Bridge]
+
+[Bridge]
 Avevi solo vent'anni
 E il desiderio di spaccare la vita
 Avevi solo vent'anni
@@ -64,4 +65,4 @@ Me ne posso andare
 
 [Outro]
 Piccola
-Guarda come è grande il mondoEmbed
+Guarda come è grande il mondo

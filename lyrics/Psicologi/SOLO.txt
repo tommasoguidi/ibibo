@@ -1,4 +1,4 @@
-SOLO Lyrics[Testo di "SOLO"]
+[Testo di "SOLO"]
 
 [Strofa 1: Drast]
 Che succede se prendi un cuore e ci giochi?
@@ -47,7 +47,8 @@ Siamo panni lasciati al sole, oh
 Lascia, basta, affogare in tutto questo dolore, no
 Affogare in tutte queste parole, no
 Siamo panni lasciati al sole, oh
-You might also like[Ritornello: Drast]
+
+[Ritornello: Drast]
 E tu mi hai lasciato solo, solo
 Ora sono solo, solo
 Guardo quelle foto, foto
@@ -65,4 +66,4 @@ E vorrei dargli fuoco, fuoco
 Solo, solo, solo
 Ora sono solo, solo
 E ti direi solo, solo, solo
-Che lo farei di nuovo, nuovo1Embed
+Che lo farei di nuovo, nuovo

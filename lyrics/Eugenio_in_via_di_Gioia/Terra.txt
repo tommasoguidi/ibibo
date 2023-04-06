@@ -1,4 +1,4 @@
-Terra Lyrics[Testo di "Terra"]
+[Testo di "Terra"]
 
 [Strofa 1]
 Che cosa è successo tra noi?
@@ -38,7 +38,8 @@ Ma che dico, non sono il tipo
 Se mi resti vicino, dentro il tuo profumo ritorno bambino
 E sai di buono, mi ricordi mia mamma
 Se chiudo gli occhi già sento la banda che suona musica senza parole
-You might also like[Bridge]
+
+[Bridge]
 Sarà, sarà, sarà
 Come un canto che rimbomba
 Sarà, sarà, sarà
@@ -54,4 +55,4 @@ Perfetta e essenziale, non cerchi clamore
 Sei musica senza parole
 
 [Outro]
-Musica senza parole1Embed
+Musica senza parole

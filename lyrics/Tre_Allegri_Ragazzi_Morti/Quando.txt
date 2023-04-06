@@ -1,4 +1,4 @@
-Quando Lyrics[Testo di "Quando"]
+[Testo di "Quando"]
 
 [Ritornello]
 Dimmi quando potrò
@@ -41,7 +41,8 @@ Mi stai facendo male
 Peggio di una connessione senza alcuna traduzione
 Come faremo a stare uniti
 Senza inutili confini
-You might also like[RItornello]
+
+[RItornello]
 Dimmi quando potrò
 Passare a prenderti
 Non dirmi mai più di no
@@ -57,4 +58,4 @@ Vieni giù, arrenditi
 Dimmi quando potrò
 Passare a prenderti
 Non dirmi mai più di no
-Vieni giù, arrenditiEmbed
+Vieni giù, arrenditi

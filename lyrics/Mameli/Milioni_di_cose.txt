@@ -1,4 +1,4 @@
-Milioni di cose Lyrics[Testo di "Milioni di cose"]
+[Testo di "Milioni di cose"]
 
 [Strofa 1]
 Lo sai che non c'è
@@ -50,10 +50,11 @@ Possiamo organizzare un party
 E poi lasciare fuori gli altri
 O fare finta di ubriacarci
 Cadere a terra come stracci
-You might also like[Ritornello]
+
+[Ritornello]
 Lo sai che io e te
 Un giorno avremo vissuto milioni di cose
 Tra mille storie
 E mi passerà
 La strana fissazione di cercare il tuo nome
-Tra le personeEmbed
+Tra le persone

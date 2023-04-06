@@ -1,4 +1,4 @@
-Luci Blu e Sirene Lyrics[Testo di "Luci Blu e Sirene"]
+[Testo di "Luci Blu e Sirene"]
 
 [Strofa 1]
 C'è una cosa che non ti ho detto
@@ -36,7 +36,8 @@ Non voglio più vedere (Non voglio più vedere)
 Luci blu e sirene (Luci blu e sirene)
 Io non voglio più vederle (Io non voglio più vederle)
 Luci blu e sirene (Luci blu e sirene)
-You might also like[Ritornello]
+
+[Ritornello]
 Ma se stiamo insieme
 È una presa a bene
 I soldi sono catene
@@ -65,4 +66,4 @@ I soldi sono catene
 Però ci fanno bene
 E parlano di me, ma non mi conoscono
 Poi li incontri per la strada: come stai? Tutto a posto?
-E non mi importa di niente, se poi non ci sei teEmbed
+E non mi importa di niente, se poi non ci sei te

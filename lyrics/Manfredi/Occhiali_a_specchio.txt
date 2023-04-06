@@ -1,4 +1,4 @@
-Occhiali a specchio Lyrics[Testo di "Occhiali a specchio"]
+[Testo di "Occhiali a specchio"]
 
 [Strofa 1]
 In un bilancio totale per te
@@ -43,7 +43,8 @@ So che sei di fretta
 Tempo una sigaretta
 Disegno un quadro astratto
 Con i mozziconi sull'asfalto
-You might also like[Bridge]
+
+[Bridge]
 E mi ripeto che chi parte prima o poi ritorna
 Tu ti allontani all’orizzonte, ma la terra è tonda
 Stiamo giocando a nascondino, ma nessuno conta
@@ -63,4 +64,4 @@ Arrivo, ti faccio uno squillo e scendi
 So che sei di fretta
 Tempo una sigaretta
 Disegno un quadro astratto
-Con i mozziconi sull'asfaltoEmbed
+Con i mozziconi sull'asfalto

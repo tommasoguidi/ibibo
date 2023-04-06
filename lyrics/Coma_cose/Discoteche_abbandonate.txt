@@ -1,4 +1,4 @@
-Discoteche abbandonate Lyrics[Testo di "Discoteche abbandonate"]
+[Testo di "Discoteche abbandonate"]
 
 Siamo le discoteche abbandonate
 Scheletri di cattedrali
@@ -35,7 +35,8 @@ In cui eravamo liberi
 Il mito di una generazione in un vicolo cieco
 Ma che spreco
 E tu lo senti l'eco? (Lo senti l'eco? Lo senti l'eco? Lo senti l'eco?)
-You might also likeDi quelle discoteche abbandonate
+
+Di quelle discoteche abbandonate
 Negli angoli della memoria
 La prova che qualcosa si è distrutto
 Ma il tempo fa un errore
@@ -44,4 +45,4 @@ Quindi perdono tutto, oggi
 Io mi perdono tutto, oggi
 Anche il mio lato brutto, oggi
 Domani non lo so
-Se mi perdoneròEmbed
+Se mi perdonerò

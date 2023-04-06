@@ -1,4 +1,4 @@
-Luna Lyrics[Testo di "Luna"]
+[Testo di "Luna"]
 
 [Strofa 1]
 Se avessi detto a tutti che ti amo ancora
@@ -33,11 +33,12 @@ Sì, guarda che stronzo
 Che poi, quando ti vedo, tu non immagini
 Le mie voragini
 Ma dai, cambiamo discorso che è meglio
-You might also like[Ritornello]
+
+[Ritornello]
 E allora sai che c'è?
 Che sono innamorato di te
 E canto disperato per te
 Che la luna stanotte non dorme
 Si arrende, non splende, se ne fotte di te
 La luna se ne fotte di me
-La luna se ne fotteEmbed
+La luna se ne fotte

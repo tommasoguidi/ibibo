@@ -1,4 +1,4 @@
-Regina Lyrics[Testo di "Regina"]
+[Testo di "Regina"]
 
 [Strofa 1]
 Non è una questione di mode
@@ -38,7 +38,8 @@ Siam vecchi laidi, innamorati
 Come balene, siamo spiaggiati
 Siam vecchi laidi, addormentati
 È la stagione dei pensionati
-You might also like[Ritornello]
+
+[Ritornello]
 Siamo invaghiti
 Dalle bambine
 Dagli ormonauti
@@ -62,4 +63,4 @@ Dalle vetrine
 Siamo invaghiti
 Dalle bambine
 Dagli ormonauti
-Dalle regineEmbed
+Dalle regine

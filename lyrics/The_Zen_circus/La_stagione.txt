@@ -1,4 +1,4 @@
-La stagione Lyrics[Testo di "La stagione"]
+[Testo di "La stagione"]
 
 [Strofa 1]
 I ragazzi hanno armadi vuoti e scheletri seduti sul davanzale
@@ -36,7 +36,8 @@ Fronte bassa e selvaggia
 Un identico cielo
 Un solo mare
 E nessunissima medaglia
-You might also like[Bridge]
+
+[Bridge]
 Chi vi credete che noi siamo
 Per le ferite che portiamo
 La differenza sta tutta tra il mondo che subiamo
@@ -50,4 +51,4 @@ Che cosa ci vuoi fare
 Finché ci trema il cuore
 Finché la testa vuole
 Potremo finalmente urlare il nostro vero nome
-Il nostro vero nomeEmbed
+Il nostro vero nome

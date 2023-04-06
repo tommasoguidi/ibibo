@@ -1,4 +1,4 @@
-Guai Lyrics[Testo di "Guai"]
+[Testo di "Guai"]
 
 [Strofa 1]
 C'era un uomo solo nella sera
@@ -40,7 +40,8 @@ Non ha più niente ora
 Non ha più un nome né un età
 È solo un pazzo che urla
 Per le vie della città
-You might also like[Ritornello]
+
+[Ritornello]
 Guai, io porto solo
 Io porto solo guai
-Io porto solo guaiEmbed
+Io porto solo guai

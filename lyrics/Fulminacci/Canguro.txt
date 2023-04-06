@@ -1,4 +1,4 @@
-Canguro Lyrics[Testo di "Canguro"]
+[Testo di "Canguro"]
 
 [Strofa 1]
 Mi sposterai
@@ -42,7 +42,8 @@ Stancami d'affеtto
 E dopo bruciami nel petto
 Come un sogno
 Come la prima volta
-You might also like[Ritornello]
+
+[Ritornello]
 Salto, sono un canguro
 Trenta testate al muro
 Bella la sensazione
@@ -88,4 +89,4 @@ Sono un mostro, sì, faccio paura
 Fino ad oggi vabbè
 Ma domani non so
 Voglio fare una brutta figura
-Questa qua è la mia vera naturaEmbed
+Questa qua è la mia vera natura

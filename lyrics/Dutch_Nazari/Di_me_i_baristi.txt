@@ -1,4 +1,4 @@
-Di me i baristi Lyrics[Testo di "Di me i baristi"]
+[Testo di "Di me i baristi"]
 
 [Strofa 1]
 Il cielo tutto nero
@@ -36,7 +36,8 @@ E sto seguendo un'idea
 Ma senza avere un'idea di dove porti
 Come quando premo a caso i tasti dei pianoforti
 E scopro nuovi accordi
-You might also like[Ritornello]
+
+[Ritornello]
 Mi piacciono i bar un po' tristi
 Andarci di mattina
 E chiedermi se stanno pensando lo stesso di me i baristi
@@ -60,4 +61,4 @@ Ieri mi sono scordato di te, Battisti
 Sai che a me piacciono i bar tristi
 Andarci di mattina
 E chiedermi se stanno pensando lo stesso di me i baristi
-E chissà se ieri sera ti sei scordata di meEmbed
+E chissà se ieri sera ti sei scordata di me

@@ -1,4 +1,4 @@
-Palazzina Gialla Lyrics[Testo di "Palazzina Gialla"]
+[Testo di "Palazzina Gialla"]
 
 [Verso 1]
 So cosa tieni dentro quel cassetto
@@ -44,7 +44,8 @@ Tre milioni e mezzo di invitati
 Tre milioni di telefoni usati
 Con dentro i video che non dovevi fare
 Messaggi e foto che non vuoi più guardare
-You might also like[Ritornello]
+
+[Ritornello]
 E forse adesso tu ti meriti questo
 Io sveglio che ti penso al buio pesto
 E guardo la tua palazzina gialla
@@ -60,4 +61,4 @@ TI penserò guardando un'altra schiena
 Le nuvole cambiano forma
 E lo fanno spesso
 E noi forse insomma
-Facciamo lo stessoEmbed
+Facciamo lo stesso

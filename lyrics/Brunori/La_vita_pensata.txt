@@ -1,4 +1,4 @@
-La vita pensata Lyrics[Testo di "La vita pensata"]
+[Testo di "La vita pensata"]
 
 [Strofa 1]
 Dove te ne stai andando, amico mio?
@@ -38,8 +38,9 @@ Che vedi solo tu"
 Me lo dicevi sempre:
 "La vita è una catena
 Che chiudi a chiave tu"
-You might also like[Outro]
+
+[Outro]
 Dove te ne stai andando, amico mio?
 Forse torno a casa
 C'è qualcuno che mi aspetta e finalmente
-SorrideràEmbed
+Sorriderà

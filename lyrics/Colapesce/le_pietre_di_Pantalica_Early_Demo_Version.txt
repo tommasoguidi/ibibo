@@ -1,4 +1,4 @@
-(le pietre di) Pantalica [Early Demo Version] Lyrics[Testo di "(le pietre di) Pantalica [Early Demo Version]"]
+[Testo di "(le pietre di) Pantalica [Early Demo Version]"]
 
 [Strofa 1]
 Il fiume taglia la pietra
@@ -34,7 +34,8 @@ Fra il fico d'India e le pietre
 La vipera cambia pelle
 Io mi riempio i polmoni
 E ti continuo a pensare
-You might also like[Ritornello]
+
+[Ritornello]
 La notte non mi aspetta
 Si porta avanti il lavoro
 E succhio un'altra tetta, sì
@@ -48,4 +49,4 @@ Ha della cenere in mano
 C'è stato un fuoco
 In questa grotta bianca
 Esce un bambino
-Ha della cenere in manoEmbed
+Ha della cenere in mano

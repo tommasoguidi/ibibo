@@ -1,4 +1,4 @@
-È Colpa Tua Lyrics[Testo di "È Colpa Tua"]
+[Testo di "È Colpa Tua"]
 
 [Ritornello]
 È colpa tua se ora non mangio più
@@ -48,7 +48,8 @@ Che anche se non voglio insiste
 Maestri nell'arte di litigare
 Non c'è più tempo ed è il momento d'andare
 Ti porto dentro, ma spengo il cellulare
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E non mi chiedere più se sto bene
 E non mi chiedere più se sto male
 Non preoccuparti, non mi taglio le vene
@@ -81,4 +82,4 @@ Che se ti trovo ti strappo i vestiti
 È colpa tua se ora non mangio più
 Se non guardo più la TV e prendo antidepressivi
 Tu non cercarmi più, io non ti cerco più
-Che se ti trovo poi ti strappo i vestitiEmbed
+Che se ti trovo poi ti strappo i vestiti

@@ -1,4 +1,4 @@
-LA LA LAND Lyrics[Testo di "LA LA LAND"]
+[Testo di "LA LA LAND"]
 
 [Intro]
 Quel film
@@ -37,7 +37,8 @@ Come quel film
 Come quei due
 La la la la, La La Land
 La la la la, La La Land
-You might also like[Interludio]
+
+[Interludio]
 La la la la, La La Land
 La la la la, La La Land
 La la la la, La La Land
@@ -68,4 +69,4 @@ Una notte buia
 Me la ricordo ancora quella notte buia
 Me lo dicesti tu
 Una notte buia
-Me la ricordo ancoraEmbed
+Me la ricordo ancora

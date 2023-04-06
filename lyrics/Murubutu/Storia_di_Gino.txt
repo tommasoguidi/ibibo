@@ -1,4 +1,4 @@
-Storia di Gino Lyrics[Testo di "Storia di Gino"]
+[Testo di "Storia di Gino"]
 
 [Strofa 1]
 È un'alba calda e Gino corre per la strada
@@ -40,7 +40,8 @@ Gino vide piani e sedi, poi mise le ali ai piedi
 Poi corse tra i sentieri ad avvisare i suoi guerrieri
 Quel giorno il suo ardore bagnò il manto al futuro
 Ma il sangue invasore bagnò il grano maturo
-You might also like[Ritornello]
+
+[Ritornello]
 No, no, Gino non sente
 Non sente più qui: "Caricare", poi "ricaricare";
 Gino non sente più niente
@@ -72,4 +73,4 @@ Non sente più click-click sul manico, il fucile carico
 No, Gino non sente
 Non sente più qui: "Caricare", poi "ricaricare";
 Gino non sente più niente
-È stato colpito prima alle gambe e alle tempie poiEmbed
+È stato colpito prima alle gambe e alle tempie poi

@@ -1,4 +1,4 @@
-La notte mi chiama Lyrics[Testo di "La notte mi chiama"]
+[Testo di "La notte mi chiama"]
 
 [Strofa 1]
 A volte la notte mi chiama
@@ -36,7 +36,8 @@ Con l'acqua alta fino alla gola
 [Pre-Ritornello]
 Poi con due occhi grandi come fari verrò a cercarti
 Non ho smesso di sperare di trovarti
-You might also like[Ritornello]
+
+[Ritornello]
 Volevo dirti che starò a galla
 Finché il mio mare non si calma
 Sembra impossibile, forse all'alba
@@ -44,4 +45,4 @@ Un'onda mi porterà a casa
 Vorrei saper nuotare
 In mezzo a queste strade
 Non sento più il fondale
-E fa così male1Embed
+E fa così male

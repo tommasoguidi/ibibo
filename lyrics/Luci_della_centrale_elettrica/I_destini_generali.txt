@@ -1,4 +1,4 @@
-I destini generali Lyrics[Testo di "I destini generali"]
+[Testo di "I destini generali"]
 
 [Intro]
 Pa-pa-pa-pa-pa-pa-pa
@@ -35,7 +35,8 @@ Pa-pa-pa-pa-pa-pa-pa
 Pa-pa-pa-pa-pa
 Pa-pa-pa-pa-pa-pa-pa
 Pa-pa-pa-pa-pa
-You might also like[Strofa 3]
+
+[Strofa 3]
 E le parole di quel giorno
 Mentre ti spogliavi in mezzo ai campi
 Saranno argomenti più memorabili
@@ -48,4 +49,4 @@ Luminosa natura morta con ragazza al computer
 Poverissima patria, evviva, evviva la deriva economica
 
 Luminosa natura morta con ragazza al computer
-Poverissima patria, evviva, evviva la deriva economicaEmbed
+Poverissima patria, evviva, evviva la deriva economica

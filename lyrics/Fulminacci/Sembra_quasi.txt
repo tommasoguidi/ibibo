@@ -1,4 +1,4 @@
-Sembra quasi Lyrics[Testo di "Sembra quasi"]
+[Testo di "Sembra quasi"]
 
 [Strofa 1]
 Sembra quasi che mi diverto
@@ -39,7 +39,8 @@ E chissà che ti frulla in testa
 E chissà chi ti ronza intorno
 Vorrei dare una spinta al mondo
 Per tagliare lo spazio e il tempo
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Ma mi fanno ballare e bere vino
 E mi dicono: "Vola adesso, ora, ragazzino"
 Ma a Milano ha la nostra stessa luna
@@ -58,4 +59,4 @@ Per una vita, per sempre
 [Post-Ritornello 2]
 Per tutti i giorni che ho
 E tutti i giorni che hai
-Li porteremo con noi, mhmEmbed
+Li porteremo con noi, mhm

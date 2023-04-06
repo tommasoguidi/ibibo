@@ -1,4 +1,4 @@
-Daimon Lyrics[Testo di "Daimon"]
+[Testo di "Daimon"]
 
 [Intro]
 Nanananana
@@ -54,7 +54,8 @@ Tu tra me e te ti muovi, tu fra vette ed i tuoni
 Mi rifletto in nuovi [?], com'è che mi trovi?
 Ogni fine è un inizio, scrivo il nuovo capitolo
 Ed intitolo il mio libro "Amore e metempsicosi"
-You might also like[Ritornello]
+
+[Ritornello]
 Quando pioverà (Ah, ah, ah)
 Luce la sera
 Solo anime qua in volo
@@ -73,4 +74,4 @@ Che viaggia dentro a Crono
 E in volo porta da te
 
 [Outro]
-Da-Da-Da-Daimon DaimonEmbed
+Da-Da-Da-Daimon Daimon

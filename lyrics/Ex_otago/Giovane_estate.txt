@@ -1,4 +1,4 @@
-Giovane estate Lyrics[Testo di "Giovane estate"]
+[Testo di "Giovane estate"]
 
 [Strofa 1]
 Quando l'inverno se ne va
@@ -44,7 +44,8 @@ Come un abbraccio molto forte, molto forte
 Giovane estate
 Il mare arriverà fino a qui in montagna
 E sarà un incontro molto forte, molto forte
-You might also like[Outro]
+
+[Outro]
 Mi fermo nel buio
 Mi sdraio sull'asfalto
 Mi fermo nel buio
@@ -52,4 +53,4 @@ Mi sdraio sull'asfalto
 Mi fermo nel buio
 Mi sdraio sull'asfalto
 Mi fermo nel buio
-Mi sdraio sull'asfaltoEmbed
+Mi sdraio sull'asfalto

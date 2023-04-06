@@ -1,4 +1,4 @@
-L’appuntamento Lyrics[Testo di "L'appuntamento"]
+[Testo di "L'appuntamento"]
 
 [Strofa 1]
 Quante cose devo fare
@@ -36,4 +36,4 @@ In capo al mondo
 Ma sono già stanco
 Da qui non me ne vado
 Io resto qua nascosto
-Io entro in letargoYou might also likeEmbed
+Io entro in letargo

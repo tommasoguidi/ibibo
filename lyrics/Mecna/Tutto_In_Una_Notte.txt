@@ -1,4 +1,4 @@
-Tutto In Una Notte Lyrics[Strofa 1: Mecna]
+[Strofa 1: Mecna]
 Chiudo la porta di casa
 Ed è il rumore delle chiavi
 A dire no ad un silenzio che non si paga
@@ -57,8 +57,9 @@ Fossi mia veramente è diretto perchè
 L'empatia che ora c'è
 Tra di noi è malattia
 E non c'è tempo da perdere più, non c'è tempo...
-You might also like[Rit]
+
+[Rit]
 Sogna, stanotte è quella giusta per noi
 Ora che sei così lontana
 Sogna, a volte il tempo è contro di noi
-Ma se vuoi ti aspetteròEmbed
+Ma se vuoi ti aspetterò

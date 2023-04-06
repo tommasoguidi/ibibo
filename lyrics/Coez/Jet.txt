@@ -1,4 +1,4 @@
-Jet Lyrics[Testo di "Jet"]
+[Testo di "Jet"]
 
 [Strofa 1]
 Vorrei vederti vestita di niente
@@ -36,7 +36,8 @@ Dove il tetto del mondo
 Forse per te
 Potrei rigare dritto, superare gli ostacoli
 Ci credi ai miracoli?
-You might also like[Strofa 3]
+
+[Strofa 3]
 Hai mai bevuto un bicchiere di vetro
 Pieno di schegge di vetro
 Succede peggio se ci bevo
@@ -59,4 +60,4 @@ Cancella i lividi e i tagli che abbiamo
 E in 'sto macello ridere so che possiamo
 Mi perdo dentro l'iride degli occhi
 Più belli che abbia mai visto
-Mi dici di fermarmi e non resisto, ciao6Embed
+Mi dici di fermarmi e non resisto, ciao

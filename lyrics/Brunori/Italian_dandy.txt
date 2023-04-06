@@ -1,4 +1,4 @@
-Italian dandy Lyrics[Testo di "Italian dandy"]
+[Testo di "Italian dandy"]
 
 [Strofa 1]
 Mia madre sfogliava Novella 2000
@@ -34,7 +34,8 @@ Amami come se fossimo ancora
 In quel bar di Berlino a fumare Pall Mall
 Amami come quella sera a Marsiglia
 Quando in preda al barbera mangiammo escargot
-You might also like[Strofa 3]
+
+[Strofa 3]
 A giugno mi chiese di amarla per sempre
 Ma io impenitente risposi di no
 Avevo trent'anni e vivevo da bohemien
@@ -42,4 +43,4 @@ Lei disse sottovoce: "Vedrai, te ne pentirai"
 
 [Outro]
 Amami come se fossimo ancora
-Fra calde lenzuola nel letto dei tuoiEmbed
+Fra calde lenzuola nel letto dei tuoi

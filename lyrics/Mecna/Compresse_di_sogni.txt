@@ -1,4 +1,4 @@
-Compresse di sogni Lyrics[Testo di "Compresse di sogni"]
+[Testo di "Compresse di sogni"]
 
 [Intro]
 Ah, ehi Clefco, yeah, e sono tutti bravi
@@ -68,10 +68,11 @@ Con le stesse maschere e lo stesso mondo
 Tra le stesse farse nello stesso modo
 Nello stesso modo
 Nello stesso modo
-You might also like[Ritornello]
+
+[Ritornello]
 Nah che non, nah che non sai fare, sai fare
 Nah che non sai fare, devi andare via di qua
 No che non puoi
 No che non, no che non puoi fare, puoi fare
 No che non puoi fare, devi andare via di qua
-No che non puoiEmbed
+No che non puoi

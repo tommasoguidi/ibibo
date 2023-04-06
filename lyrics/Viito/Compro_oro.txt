@@ -1,4 +1,4 @@
-Compro oro Lyrics[Testo di "Compro oro"]
+[Testo di "Compro oro"]
 
 [Strofa 1]
 Chiusa in ufficio morirai
@@ -36,7 +36,8 @@ Madonna, come baci quel bicchiere
 [Pre-Ritornello]
 Non sogno più l'America ora che c'è Trump
 Non sento più la musica da quando c'è la trap
-You might also like[Ritornello]
+
+[Ritornello]
 Ma quanto ci fa bene questo mare
 E quanto ci fa male questo bere
 E quanto ci fa bere questo amare
@@ -59,4 +60,4 @@ E non sei niente di che
 Ma quanto ci fa bene questo mare
 E quanto ci fa male questo bere
 E quanto ci fa bere questo amare
-La sento adesso sale, adesso sale, adesso saleEmbed
+La sento adesso sale, adesso sale, adesso sale

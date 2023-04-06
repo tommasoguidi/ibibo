@@ -1,4 +1,4 @@
-Melting Pop Lyrics[Testo di "Melting Pop"]
+[Testo di "Melting Pop"]
 
 [Intro]
 Yī , zwei, trois
@@ -42,7 +42,8 @@ Che han lasciato i baobab (Melting pop)
 Cerco di trovare un senso per questa fortuna  (Melting pop)
 Mi fa paura  (Melting pop)
 Sarà che da un attico e un albero si vede la stessa luna
-You might also like[Ritornello]
+
+[Ritornello]
 E se mi dai la mano, ti prometto che ti seguo e che ballerò
 Melting pop
 Perché il mondo è un cinema all'aperto e i nostri passi sono lo show
@@ -53,4 +54,4 @@ Triste come un albero che cresce in CityLife
 Vuol toccare i grattacieli e non ci arriva mai
 Cerco di salvarti dalle potenze dell'asset
 Ed è una guerra che si balla solo su frequenze basse
-..-. --- .-. ... .Embed
+..-. --- .-. ... .

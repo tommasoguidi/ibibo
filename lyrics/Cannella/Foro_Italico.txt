@@ -1,4 +1,4 @@
-Foro Italico Lyrics[Testo di "Foro Italico"]
+[Testo di "Foro Italico"]
 
 [Strofa 1]
 Oggi piove tanto per strada c'è il panico
@@ -41,7 +41,8 @@ E se ti dico una bugia
 Ti prenderò la rosa che ti avevo promesso
 Ti porterò a Parigi e la vedremo da un tetto
 Ma ti prego non mi lasciare in mano a me stesso
-You might also like[Ritornello]
+
+[Ritornello]
 Non ho voglia di restare da solo un'altra notte
 A dare pugni sulle porte, ad immaginare una vita con te
 E non riesco a ragionare se ti penso così forte
@@ -52,4 +53,4 @@ Non ho voglia di restare da solo un'altra notte
 A dare pugni sulle porte, ad immaginare una vita con te
 E non riesco a ragionare se ti penso così forte
 E se sbatto sempre la fronte contro di te
-Contro di teEmbed
+Contro di te

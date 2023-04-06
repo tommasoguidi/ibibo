@@ -1,4 +1,4 @@
-In un certo qual modo Lyrics[Testo di "In Un Certo Qual Modo"]
+[Testo di "In Un Certo Qual Modo"]
 
 [Strofa 1]
 Ho grande fiuto ed intuito però lascio tutto a metà
@@ -42,7 +42,8 @@ Perché hai il bisogno profondo
 Di provare a ragionare giorno per giorno
 E domani poi scoprire com'è
 Davvero non sapere com'è
-You might also like[Bridge]
+
+[Bridge]
 Quando stai con me
 Pure nei momenti in cui mi sembra di impazzire
 Tu mi fai sentire tipo sai
@@ -69,4 +70,4 @@ Più un giorno senza di te
 Che non posso stare
 Più un giorno senza di te
 Che non posso stare
-Più un giorno senza di te1Embed
+Più un giorno senza di te

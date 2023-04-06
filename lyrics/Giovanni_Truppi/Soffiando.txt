@@ -1,4 +1,4 @@
-Soffiando Lyrics[Testo di "Soffiando"]
+[Testo di "Soffiando"]
 
 [Strofa 1]
 L‘uomo dei piccoli sogni
@@ -39,7 +39,8 @@ Che sono stati belli questi giorni
 [Pre-Ritornello]
 E anche volendo provare, non posso cambiare
 E anche potendo provare, non voglio cambiare
-You might also like[RItornello]
+
+[RItornello]
 La donna rispose: "Andare e venire
 Mi manca soltanto un riposo da ricordare
 E perderti adesso, vederti sparire
@@ -54,4 +55,4 @@ E più scivola questa voce, più sono da sola
 E più scivola questa voce, più sono da sola
 Come è vero che luna muore
 E subito all'alba è la via
-E subito all'alba è la viaEmbed
+E subito all'alba è la via

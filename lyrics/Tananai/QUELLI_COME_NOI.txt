@@ -1,4 +1,4 @@
-QUELLI COME NOI Lyrics[Testo di "QUELLI COME NOI"]
+[Testo di "QUELLI COME NOI"]
 
 [Strofa 1]
 Sarebbe un sogno vivere in campagna
@@ -38,7 +38,8 @@ Ti chiedo scusa, ma non chiedo scusa
 In fondo "scusa" è un suono che non ho sentito da te e
 Non mi credevi che fossi felice, non mi si addice
 Ma io ero più felice di te
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Siamo due scostumati
 Noi a volerci bene non riusciamo a smettere
 E un'altra notte finirà
@@ -69,4 +70,4 @@ Che ci vogliamo diversi e poi restiamo gli stessi
 E poi lo sai che non piango per te
 Stammi lontana, lontano da me
 Tanto lo sai che stare con te, fare l'amore in un vicolo
-Quelli come noi lo sai già come finisconoEmbed
+Quelli come noi lo sai già come finiscono

@@ -1,4 +1,4 @@
-L’odore Lyrics[Verse 1]
+[Verse 1]
 È stato un solco
 Tracciato all'improvviso
 Senza certezze
@@ -50,7 +50,8 @@ Ma voglio che tu
 Tu piano piano faccia strage di me
 In un incerto compromesso
 Tra la mia anima e il suo riflesso
-You might also like[Chorus 2]
+
+[Chorus 2]
 Sei il suono, le parole
 Di ogni certezza persa dentro il tuo odore
 Siamo gli ostaggi di un amore
@@ -70,4 +71,4 @@ Ma voglio che tu
 Tu piano piano scivoli dentro me
 Ma voglio che tu
 Nell'insinuarti tu sia incantevole
-Ma voglio...Embed
+Ma voglio...

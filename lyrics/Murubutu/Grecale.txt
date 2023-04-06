@@ -1,4 +1,4 @@
-Grecale Lyrics[Testo di "Grecale"]
+[Testo di "Grecale"]
 
 [Strofa 1]
 E Giulia ascolta fuori il vento, balla con le foglie
@@ -57,7 +57,8 @@ Giulia rincasa sente il vento e il profumo
 S'addormenta sogna i lumi, poi l'applauso diffuso
 Sente i fiori sopra il palco ogni applauso futuro
 E non è vero sai che i ciechi sognano il buio
-You might also like[Ritornello]
+
+[Ritornello]
 Poi un soffio d'aria a tratti la raggiunse fra i suoi nastri Sussurandole: "Dai, dai, dai"
 Fidati di te, riuscirai, riuscirai e ce la fai
 Danza come il vento, danza come il vento
@@ -71,4 +72,4 @@ Danza del suo vorticare
 Raggio dentro il temporale
 S'alza il vento di Grecale
 L'aria in senso circolare
-Danza del suo vorticare9Embed
+Danza del suo vorticare

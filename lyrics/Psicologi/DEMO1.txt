@@ -1,4 +1,4 @@
-DEMO1 Lyrics[Testo di "DEMO1"]
+[Testo di "DEMO1"]
 
 [Strofa 1: Drast & Lil Kaneki]
 E ti ho vista a Roma Termini
@@ -43,4 +43,4 @@ Sennò chi glielo spiega alla professoressa
 E ci vediamo per l’una e mezza
 Quando tutti sono distratti
 E ti giuro che per vederti
-Spero che il mio autobus non passiYou might also like1Embed
+Spero che il mio autobus non passi

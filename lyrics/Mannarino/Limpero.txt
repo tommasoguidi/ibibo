@@ -1,4 +1,4 @@
-L’impero Lyrics[Testo di "L'impero"]
+[Testo di "L'impero"]
 
 [Strofa 1]
 Il cardinale ha scritto la legge
@@ -35,7 +35,8 @@ Però
 Poi un giorno lei mi liberò
 Però
 Poi un giorno lei mi liberò
-You might also like[Strofa 4]
+
+[Strofa 4]
 Se torna la bella che viene e va
 Io questa volta le parlerò
 Forse si scappa lontano da qua
@@ -51,4 +52,4 @@ L’impero crollerà
 Forse ce ne andremo alla città
 Riderà al sole
 L’impero crollerà
-Quando il suo amore torneràEmbed
+Quando il suo amore tornerà

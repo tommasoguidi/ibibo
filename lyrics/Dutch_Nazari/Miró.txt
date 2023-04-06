@@ -1,4 +1,4 @@
-Miró Lyrics[Testo di "Miró"]
+[Testo di "Miró"]
 
 [Strofa 1]
 Oggi ho fatto la lista della spesa
@@ -40,7 +40,8 @@ Che ogni cosa ha i suoi pro
 Addirittura questo tramonto
 O questo nostro rapporto
 Ma so che
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Prima del tempo perfetto in cui ogni progetto si avvera
 C'è sempre un tempo imperfetto, o almeno c'era
 Qui fuori città non ci sono lampioni e la sera
@@ -58,4 +59,4 @@ Ma ne parlano bene in tanti e io mi fido
 E non vorrei suonare riduttivo, ma
 Per me il mondo è come un quadro astratto
 E se tu dici che è figo e mi ricordi il motivo
-Sta' a vedere che, tu sta' a vedere che mi fidoEmbed
+Sta' a vedere che, tu sta' a vedere che mi fido

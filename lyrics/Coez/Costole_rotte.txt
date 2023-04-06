@@ -1,4 +1,4 @@
-Costole rotte Lyrics[Testo di "Costole rotte"]
+[Testo di "Costole rotte"]
 
 [Ritornello]
 Costole rotte, bottiglie rotte
@@ -44,7 +44,8 @@ Ma di certo non volerà
 Eh no, eh no
 Certo no che non volerà
 Eh no, eh no
-You might also like[Ritornello]
+
+[Ritornello]
 Costole rotte, bottiglie rotte
 Questa notte suonerà
 Una sirena della polizia
@@ -83,4 +84,4 @@ Ma l'ambulanza tarderà
 Come fa caldo in mezzo alle botte
 Della centrale di polizia
 Qualcuno non dormirà
-E qualcun altro andrà viaEmbed
+E qualcun altro andrà via

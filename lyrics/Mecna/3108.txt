@@ -1,4 +1,4 @@
-31/08 Lyrics[Testo di "31/08"]
+[Testo di "31/08"]
 
 [Strofa 1]
 Ah, yeah
@@ -47,7 +47,8 @@ Cercherò di immaginare com'è
 Non essere triste, non vivere come vivrai
 Quando te ne andrai
 Ma non te ne andrai
-You might also like[Outro]
+
+[Outro]
 Cercherò di immaginare com'è
 Non essere triste, non vivere come vivrai
 Quando te ne andrai
@@ -59,4 +60,4 @@ Poi dove vai e quando torni, quanto manchi?
 Quand'è che torni di preciso?
 Quanti giorni, che hai deciso?
 Dove dormi? Quanto manchi?
-Quanto manchi2Embed
+Quanto manchi

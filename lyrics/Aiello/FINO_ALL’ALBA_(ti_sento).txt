@@ -1,4 +1,4 @@
-FINO ALL’ALBA (ti sento) Lyrics[Testo di "FINO ALL'ALBA (ti sento)"]
+[Testo di "FINO ALL'ALBA (ti sento)"]
 
 [Strofa 1]
 Guarda come ti vesti
@@ -39,7 +39,8 @@ E se è peccato darsi amore
 Tu non ballare questa canzone
 Gridalo forte, grida il mio nome
 E dal tramonto fino all’alba ti sento
-You might also like[Bridge]
+
+[Bridge]
 Ti vengo lento, ci muoio dentro
 E dal tramonto fino all'alba ti sento (Mio amore)
 
@@ -52,4 +53,4 @@ E dal tramonto fino all’alba ti sento
 E dal tramonto fino all’alba ti sento
 
 [Outro]
-Ti sentoEmbed
+Ti sento

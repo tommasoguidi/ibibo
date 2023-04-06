@@ -1,4 +1,4 @@
-Il Salto Lyrics[Testo di "Il Salto"]
+[Testo di "Il Salto"]
 
 [Strofa 1]
 È normale, non fa male
@@ -41,7 +41,8 @@ Che tanto ci rivediamo lì nel sole
 Si ricongiunge al mare
 È il capolavoro della vita
 È il suo gran finale
-You might also like[Ritornello]
+
+[Ritornello]
 È dall'amore che io sono nato
 E solamente amore troverò
 È questa è l'ultima cosa che ho pensato
@@ -72,4 +73,4 @@ E non puoi immaginare
 Il mondo su dall'alto
 Che impressione fa
 Che impressione fa
-Che impressione faEmbed
+Che impressione fa

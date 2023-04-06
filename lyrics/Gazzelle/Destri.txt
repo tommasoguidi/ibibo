@@ -1,4 +1,4 @@
-Destri Lyrics[Testo di "Destri"]
+[Testo di "Destri"]
 
 [Strofa 1]
 All'improvviso sei volata via
@@ -35,7 +35,8 @@ Mi ricordavi il mare, gli occhiali di mia madre
 Le quattro del mattino, le Winston blu smezzate
 Le facce come zombie, svegliarti mentre dormi
 Come le cazzo di zanzare
-You might also like[Ritornello]
+
+[Ritornello]
 E non è colpa mia
 Se tutta questa luce, luce, luce
 Non ti illumina più dentro casa mia
@@ -54,4 +55,4 @@ A quei momenti lì
 [Outro]
 A quei momenti lì
 A quei momenti lì
-A quei momenti lì2Embed
+A quei momenti lì

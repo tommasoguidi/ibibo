@@ -1,4 +1,4 @@
-Nessuno vale quanto te Lyrics[Testo di "Nessuno vale quanto te"]
+[Testo di "Nessuno vale quanto te"]
 
 [Strofa 1]
 Dicono che da un posto piccolo non può venire niente di buono
@@ -37,7 +37,8 @@ Certe volte era troppo ma ci ho creduto
 (Perché)
 Mi sono sempre ripetuto che
 Nessuno vale quanto te
-You might also like[Bridge]
+
+[Bridge]
 E ora loro mi stringono la mano
 Mi chiamano dall'altro marciapiede e fanno "bravo"
 Mi dicono "lo sape- sape- sapevamo"
@@ -84,4 +85,4 @@ Io non mi sono mai seduto
 Certe volte era troppo ma ci ho creduto
 (Perché)
 Mi sono sempre ripetuto che
-Nessuno vale quanto teEmbed
+Nessuno vale quanto te

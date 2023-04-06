@@ -1,4 +1,4 @@
-Portovenere Lyrics[Testo di "Portovenere"]
+[Testo di "Portovenere"]
 
 [Strofa 1]
 Per esempio
@@ -39,7 +39,8 @@ Solo a prenderci male
 Io e te al mare è meglio lavorare
 Che stare a litigare
 E non ho detto che non voglio viaggiare
-You might also like[Strofa 3]
+
+[Strofa 3]
 Per esempio
 Ricordi due anni fa in Salento?
 Ma che gran divertimento
@@ -76,4 +77,4 @@ Solo a prenderci male
 Io e te al mare
 È meglio lavorare
 Che stare a litigare
-E non ho detto che non voglio viaggiareEmbed
+E non ho detto che non voglio viaggiare

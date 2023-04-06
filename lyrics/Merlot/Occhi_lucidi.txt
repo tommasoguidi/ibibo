@@ -1,4 +1,4 @@
-Occhi lucidi Lyrics[Testo di "Occhi lucidi"]
+[Testo di "Occhi lucidi"]
 
 [Strofa 1]
 Bel tempo si spera, dopo 'sta vita fatta di uragani
@@ -34,7 +34,8 @@ Per riuscire a parlare, per non stare a pensare
 Credimi dentro 'sti occhi lucidi
 Pieni di parole incatenate a questo mezzo cuore
 Che come in autunno un bel sole, non escono sempre
-You might also like[Bridge]
+
+[Bridge]
 E tu che sei da sola con me un'altra volta
 Stare soli in due va bene, allora che ci importa
 Non possiamo più tornare indietro ma sta luna ci consuma
@@ -51,4 +52,4 @@ Per me che bevo per lasciarmi andare
 Per riuscire a parlare, per non stare a pensare
 Credimi dentro 'sti occhi lucidi
 Pieni di parole incatenate a questo mezzo cuore
-Che come in autunno un bel sole, non escono sempreEmbed
+Che come in autunno un bel sole, non escono sempre

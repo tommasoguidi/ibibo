@@ -1,4 +1,4 @@
-INCUBO Lyrics[Testo di "INCUBO"]
+[Testo di "INCUBO"]
 
 [Strofa 1: Drast]
 Vicoli ciechi come me quando ti vedo in giro
@@ -40,7 +40,8 @@ Ho fatto un incubo ed ero da solo (Da solo)
 Mi dicevi che oramai io ti annoio (Ti annoio)
 La tua voce non aveva quel suono (Quel suono)
 Cosa si prova a saltare nel vuoto, vuoto?
-You might also like[Bridge: Lil Kaneki & Drast]
+
+[Bridge: Lil Kaneki & Drast]
 Correremo davvero, ma stando solo lontani
 E ci odieremo davvero, ma non saremo più umani
 Se vuoi, facciamo i sinceri, ma non saremo bravi
@@ -68,4 +69,4 @@ Gli alcolici coi pianti e scappi
 Da una vita, da una vita, da una vita di sbagli
 È da una vita, è da una vita, è da una vita che scappi
 Da una vita che non vuoi, dici che con me ti annoi
-Perché ti ricordo che stiamo diventando grandi4Embed
+Perché ti ricordo che stiamo diventando grandi

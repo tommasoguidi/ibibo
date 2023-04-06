@@ -1,4 +1,4 @@
-Va Così Lyrics[Intro]
+[Intro]
 Va così
 Sì
 Questa è per tutte quelle persone là fuori
@@ -48,7 +48,8 @@ E tu sei come me uguale
 È perciò che non ti riesci a voltare
 E il destino che ci ha fatto incontrare
 Ogni metà cerca metà è una regola naturale
-You might also like[Ritornello]
+
+[Ritornello]
 E va così
 Per ogni giorno in cui dobbiamo perderci
 Per ogni ora e minuto in cui ritrovarci ancora
@@ -56,4 +57,4 @@ Per ogni attimo insieme quando verrà a sorprenderci
 E va così
 Per ogni giorno in cui dobbiamo perderci
 Per ogni ora e minuto in cui ritrovarci ancora
-Per ogni attimo insieme quando verrà a sorprenderciEmbed
+Per ogni attimo insieme quando verrà a sorprenderci

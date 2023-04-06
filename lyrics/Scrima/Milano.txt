@@ -1,4 +1,4 @@
-Milano Lyrics[Testo di "Milano"]
+[Testo di "Milano"]
 
 [Strofa 1]
 Milano che va troppo in fretta questa sera
@@ -42,6 +42,7 @@ Milano
 Milano
 Milano
 Milano
-You might also like[Outro]
+
+[Outro]
 E ti giuro Milano che ci resto per poco
-Giusto il tempo per dirti ti ho scattato una foto, fotoEmbed
+Giusto il tempo per dirti ti ho scattato una foto, foto

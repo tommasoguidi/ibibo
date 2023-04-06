@@ -1,4 +1,4 @@
-Senza macchine che vadano a fuoco Lyrics[Testo di "Senza macchine che vadano a fuoco"]
+[Testo di "Senza macchine che vadano a fuoco"]
 
 [Strofa 1]
 Amore mio, strappami i pidocchi
@@ -38,11 +38,12 @@ Come quando con una bottiglia in fiamma mi dicevi:
 [Pre-Ritornello 2]
 Tra una pantera insanguinata e una gazzella morta
 Nella giungla delle strade balla solo la rivolta
-You might also like[Ritornello]
+
+[Ritornello]
 Non t'amerei senza perdere i denti
 Senza asfalti roventi
 O meritevoli agenti vivi ancora per poco
 Se l'isteria dei collocamenti
 Gli spari sugli studenti
 Per te non fossero altro che un gioco
-Non t'amerei senza macchine che vadano a fuocoEmbed
+Non t'amerei senza macchine che vadano a fuoco

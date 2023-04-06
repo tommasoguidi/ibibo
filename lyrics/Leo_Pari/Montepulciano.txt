@@ -1,4 +1,4 @@
-Montepulciano Lyrics[Testo di "Montepulciano"]
+[Testo di "Montepulciano"]
 
 [Strofa 1]
 Montepluciano
@@ -37,7 +37,8 @@ La vita al terzo piano
 Chiama i pompieri e la polizia
 Stiamo sbagliando lato
 Che non ti lascio più andarei via
-You might also like[Bridge]
+
+[Bridge]
 I baci nello spazio
 Il derby Roma-Lazio
 Lo stadio che si sfolla
@@ -53,4 +54,4 @@ Dentro la bocca, l'anestesia
 La vita al terzo piano
 Chiama i pompieri e la polizia
 Stiamo sbagliando lato
-Che non ti lascio più andarei viaEmbed
+Che non ti lascio più andarei via

@@ -1,4 +1,4 @@
-Domenica Lyrics[Testo di "Domenica"]
+[Testo di "Domenica"]
 
 [Strofa 1]
 Vorrei fosse domenica
@@ -40,7 +40,8 @@ Come se fossimo destini
 Che si corrono accanto (Che si corrono accanto)
 Con le mani nel vento (Con le mani nel vento)
 Come fosse domenica con te, con te
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Vorrei fosse domenica
 Vorrei fosse domenica
 E stringi la giornata fra le dita
@@ -65,4 +66,4 @@ Come fosse domenica con te
 (Che si corrono accanto)
 Con te
 (Con le mani nel vento)
-Come fosse domenica con te, con te2Embed
+Come fosse domenica con te, con te

@@ -1,4 +1,4 @@
-Micidiale Lyrics[Testo di "Micidiale"]
+[Testo di "Micidiale"]
 
 [Intro]
 C-C-C-Ceasars
@@ -56,7 +56,8 @@ E continua, che sei una medicina, ogni volta che fai una rima
 Il bus sul quale sto viaggiando si inclina
 La mia vita è la tua musica e cresco con lei vicina
 Ci vediamo sotto al palco, come le volte prima"
-You might also like[Ritornello]
+
+[Ritornello]
 E non importa quanta strada hai fatto
 Quanto hai sognato
 E in quanti ti hanno detto: "Hai spaccato"
@@ -71,4 +72,4 @@ Non provarci, non ti avvicinare, avvicinare
 Non provarci, non ti avvicinare, avvicinare
 Questa musica è micidiale, micidiale
 Questa musica è micidiale, micidiale
-Questa musica è mia1Embed
+Questa musica è mia

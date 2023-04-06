@@ -1,4 +1,4 @@
-Bianca Lyrics[Testo di "Bianca"]
+[Testo di "Bianca"]
 
 [Strofa 1]
 Non è tutto quello che mi hai dato che mi manca
@@ -38,9 +38,10 @@ Non te lo ricordi quello che eravamo allora?
 Dondolavamo insieme sopra a un'altalena sola
 Non te lo ricordi quello che eravamo allora?
 Dondolavamo insieme sopra a un'altalena sola
-You might also like[Ritornello]
+
+[Ritornello]
 I ricordi sono coltelli
 Quelli che fanno più male sono i più belli
 E quando mi muoverò ancora fra i tuoi capelli
 Sarò solo il vento mentre li sta agitando
-E tu mi stai pensandoEmbed
+E tu mi stai pensando

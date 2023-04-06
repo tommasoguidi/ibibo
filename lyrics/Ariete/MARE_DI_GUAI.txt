@@ -1,4 +1,4 @@
-MARE DI GUAI Lyrics[Testo di "MARE DI GUAI"]
+[Testo di "MARE DI GUAI"]
 
 [Strofa 1]
 Tu, tu eri più bella di me
@@ -39,7 +39,8 @@ Non so nuotare in una vasca piena di squali, piena di squali
 Vestiti da sera, c'è il mio pezzo preferito e buttati
 Che la notte è solo un giorno che riposa e ci incontriamo
 Ci cerchiamo nelle strade e nei silenzi di un cielo blu
-You might also like[Bridge]
+
+[Bridge]
 È lunedì, la luna sembra un po' arrabbiata
 Come mai stanotte non sei più tornata?
 Sono qui con la finestra spalancata
@@ -51,4 +52,4 @@ Tu buttati con me, mare di guai
 Non so nuotare in una vasca piena di squali, piena di squali
 Vestiti da sera, c'è il mio pezzo preferito e buttati
 Che la notte è solo un giorno che riposa e ci incontriamo
-Ci cerchiamo nelle strade e nei silenzi di un cielo bluEmbed
+Ci cerchiamo nelle strade e nei silenzi di un cielo blu

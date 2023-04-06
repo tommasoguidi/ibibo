@@ -1,4 +1,4 @@
-Maddalena e Madonna Lyrics[Testo di "Maddalena e Madonna"]
+[Testo di "Maddalena e Madonna"]
 
 [Strofa 1]
 C'erano pile di libri sottolineati di rosso e di blu
@@ -35,7 +35,8 @@ Profumo di te
 Maddalena e Madonna
 Ogni tanto ritorna
 La mia voglia di averti ancora
-You might also like[Ritornello]
+
+[Ritornello]
 E c'era l'amore
 Che cambiava il colore del cielo, il sapore del vino
 L'odore dell'aria al mattino era solo per te
@@ -55,4 +56,4 @@ E canzoni in barrè
 Oo-oo-ooh
 Era solo per te
 La-la-la-la
-Ed è ancora per teEmbed
+Ed è ancora per te

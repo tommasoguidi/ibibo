@@ -1,4 +1,4 @@
-IO ero io Lyrics[Testo di “IO ero io”]
+[Testo di “IO ero io”]
 
 [Strofa 1]
 Mi chiami nel mezzo della notte
@@ -34,9 +34,10 @@ Ai sospiri “addio” saprò dirlo io
 Voltati e in un attimo sarò scomparsa via
 Tra le pieghe del tuo cuore
 Senza più paure
-You might also like[Ritornello]
+
+[Ritornello]
 Il male di me
 C'ero io tra le tue lacrime
 Come hai fatto a non accorgerti dov'ero?
 Al fianco del guerriero fiero, del guerriero fiero
-E quel guerriero eroEmbed
+E quel guerriero ero

@@ -1,4 +1,4 @@
-Per due che come noi Lyrics[Testo di "Per due come noi"]
+[Testo di "Per due come noi"]
 
 [Strofa 1]
 Vuoi fare l'amore o vuoi solo godere?
@@ -36,9 +36,10 @@ Il senso dell'orientamento quando fuori tira vento
 Per due che come noi non si son persi mai
 E che se guardi indietro non ci crederai
 Perché ci vuole passione
-You might also like[Outro]
+
+[Outro]
 Dopo vent'anni a dirsi ancora di sì
 E stai tranquilla, sono sempre qui
 A stringerti la mano
 Ti amo
-AndiamoEmbed
+Andiamo

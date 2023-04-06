@@ -1,4 +1,4 @@
-Stati Di Grazia Lyrics[Testo di "Stati Di Grazia"]
+[Testo di "Stati Di Grazia"]
 
 [Strofa 1]
 Beatitudine che arrivi
@@ -35,7 +35,8 @@ Dividerai le folle
 Come apocalissi urbane
 Ti siederai nei tribunali
 E nei consigli comunali
-You might also like[Pre-ritornello]
+
+[Pre-ritornello]
 Ma cos'è che ci fa commuovere
 Quasi all'improvviso?
 Forse è un po' di gratitudine
@@ -57,4 +58,4 @@ Stati di grazia
 Dentro a un aeroporto
 C’è una rondine agli arrivi
 Stati di grazia
-PassanoEmbed
+Passano

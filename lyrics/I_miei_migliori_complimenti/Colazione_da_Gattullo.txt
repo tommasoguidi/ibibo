@@ -1,4 +1,4 @@
-Colazione da Gattullo Lyrics[Testo di "Colazione da Gattullo"]
+[Testo di "Colazione da Gattullo"]
 
 [Strofa]
 A Carolina non andava che facessi la Bocconi
@@ -37,7 +37,8 @@ Mia madre al 93% ha sempre ragione
 Dice non sono i miei amici ma io il coglione
 Le scrivi ‘ste canzoni tristi e poi diventi scemo
 Finisce che poi fai come Tenco dopo Sanremo
-You might also like[Ritorello]
+
+[Ritorello]
 Ma in fondo io l'amavo lo davvero
 Sentivo un sentimento sincero
 Che è un po' come quando ti svegli con una playlist industrial
@@ -57,4 +58,4 @@ Che è come quando ti prendono a calci gridando "Questa è Sparta!"
 A Carolina non andava che facessi la Bocconi
 Di me non vi ho detto niente non amo i riflettori
 Mi chiamano per nome quando esco da Gattullo
-E ordino la sfoglia ai mirtilli col cappuccioEmbed
+E ordino la sfoglia ai mirtilli col cappuccio

@@ -1,4 +1,4 @@
-Onde Lyrics[Testo di "Onde"]
+[Testo di "Onde"]
 
 [Strofa 1]
 Guarda come va a finire
@@ -36,7 +36,8 @@ Nostalgia futura, Morricone e reggaeton
 E la città (Si squaglia)
 L'amico tuo (Che abbaia)
 E naufragare non m'è dolce in questo mare
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Ma che strano
 Riuscirsi a dire "Ti amo"
 Sai, non importa a nessuno
@@ -61,4 +62,4 @@ Ci buttiamo in mezzo alle onde, onde, onde
 Con la luna che sorge, sorge
 Ci buttiamo in mezzo alle onde, onde, onde
 Con la luna che sorge, sorge
-Salta, salta, saltaEmbed
+Salta, salta, salta

@@ -1,4 +1,4 @@
-Fra milioni di stelle Lyrics[Testo di "Fra milioni di stelle"]
+[Testo di "Fra milioni di stelle"]
 
 [Intro]
 La-la-la-la-la-la
@@ -37,7 +37,8 @@ C'è chi beve Negroni, chi nemmeno un caffè
 Chi si è rotto i coglioni di guardare Rai Tre
 Chi è partito e si è perso, e chi ha perso il partito
 Chi si sente diverso, chi non alza mai un dito
-You might also like[Ritornello]
+
+[Ritornello]
 E tu, adagiata su un angolo di cielo a guardare
 Questo mondo che si affanna
 Che si illude e s'inganna
@@ -46,4 +47,4 @@ A tener su la vita, con un paio di bretelle
 (La-la-la-la-la-la
 La-la-la-la-la
 La-la-la-la-la-la
-La-la-la-la-la-la-la)Embed
+La-la-la-la-la-la-la)

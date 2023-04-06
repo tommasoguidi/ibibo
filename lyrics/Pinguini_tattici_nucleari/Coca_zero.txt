@@ -1,4 +1,4 @@
-Coca zero Lyrics[Testo di "Coca zero"]
+[Testo di "Coca zero"]
 
 [Strofa 1]
 Signora mia, che cosa vuole che le dica
@@ -34,7 +34,8 @@ E ieri ha visto una frase intelligente sul Facebook
 Si diceva che le giacche e le cravatte fan più danno dei tattoo
 Boh, non lo so
 Sarà che è un po' di tempo che fan più casino i papillon
-You might also like[Ritornello]
+
+[Ritornello]
 Toglieranno Gesù dalla parete
 Mentre lei rimpiange di quando c'era lui
 L'inno di Mameli si canterà in inglese
@@ -73,4 +74,4 @@ Coca Zero
 (Signora mia-mia)
 Coca Zero
 Coca Zero
-Coca ZeroEmbed
+Coca Zero

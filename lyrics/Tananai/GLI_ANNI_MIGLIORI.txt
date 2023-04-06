@@ -1,4 +1,4 @@
-GLI ANNI MIGLIORI Lyrics[Testo di "GLI ANNI MIGLIORI"]
+[Testo di "GLI ANNI MIGLIORI"]
 
 [Intro]
 Tarà, eh, eh, eh
@@ -44,7 +44,8 @@ Che ho solo perso gli anni migliori
 Per la paura di andare fuori
 Mentre volevo solo star dentro
 Star dentro te
-You might also like[Bridge]
+
+[Bridge]
 Che mi ricordi solamente le cose più belle
 Che ricordano i miei sbatti
 Io adoravo sbattermi per te
@@ -63,4 +64,4 @@ Star dentro te
 [Outro]
 Pensa a te
 Che non t'aiuterà mai nessuno
-Neanche io e ti giuro che avrei volutoEmbed
+Neanche io e ti giuro che avrei voluto

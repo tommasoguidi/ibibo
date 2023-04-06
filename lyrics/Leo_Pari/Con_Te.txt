@@ -1,4 +1,4 @@
-Con Te Lyrics[Testo di "Con Te"]
+[Testo di "Con Te"]
 
 [Strofa 1]
 Guarda le mie mani, oggi sono un arcobaleno
@@ -37,7 +37,8 @@ In mezzo a tutta questa gente
 [Ritornello]
 Dimmi com'è
 Sembra tutto più bello con te
-You might also like[Post-Ritornello 2]
+
+[Post-Ritornello 2]
 Uscire con il cane, studiare per l'esame
 Alzarmi la mattina per andare a lavorare
 Che caldo che fa
@@ -53,4 +54,4 @@ Sembra tutto più bello con te
 [Outro]
 Sembra tutto più facile
 Sembra tutto possibile l'impossibile
-Dimmi com'èEmbed
+Dimmi com'è

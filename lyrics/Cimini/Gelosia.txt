@@ -1,4 +1,4 @@
-Gelosia Lyrics[Testo di "Gelosia"]
+[Testo di "Gelosia"]
 
 [Strofa 1]
 Questa luna è una gelosia
@@ -35,7 +35,8 @@ C'è chi guida con il braccio di fuori
 Chi di casa non se ne va
 L'autoradio che passa canzoni
 E ogni tanto la musica trap
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Io non ti cerco più, uh
 Mi sono perso in un attimo
 Ma ti ritrovo in un battito
@@ -87,4 +88,4 @@ Se tutti ballano male
 Mi sento solo sudare
 Mi faccio un tuffo nel mare
 Io voglio solo voglio solo nuotare
-Solo nuotareEmbed
+Solo nuotare

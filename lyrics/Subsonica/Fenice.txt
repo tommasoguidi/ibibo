@@ -1,4 +1,4 @@
-Fenice Lyrics[Strofa 1]
+[Strofa 1]
 Ancora tu
 Tra tutti quegli sguardi
 La stessa replica di sempre, film già visti
@@ -42,7 +42,8 @@ Salderò i miei debiti
 È il mio destino il mio destino
 È il mio destino il mio destino ora che
 È libero senza di te
-You might also like[Strofa 3]
+
+[Strofa 3]
 Brucia il passato e bruciano quei giorni
 Insieme a tutti quei ricatti da nascondere
 Tra il filo spinato dei tuoi miseri incanti
@@ -68,4 +69,4 @@ Tra le macerie che hai lasciato in me
 Brucia il regno dei tuoi giri di parole
 E senza niente più da perdere
 Senza rimpianti come brucia il sole
-Poi dalle ceneri rinascereEmbed
+Poi dalle ceneri rinascere

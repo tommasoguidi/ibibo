@@ -1,4 +1,4 @@
-Questa Notte Lyrics[Testo di "Questa Notte"]
+[Testo di "Questa Notte"]
 
 [Strofa 1]
 Se ripenso alle prime sere
@@ -38,8 +38,9 @@ Cosa fai questa notte?
 Per il resto chi se ne fotte
 Dove vai questa notte
 Per il resto chi se ne fotte
-You might also like[Outro]
+
+[Outro]
 Amore disperato
 Prende a pugni, lascia senza fiato
 Amore disperato
-Da solo fradicio, pur sempre l’unicoEmbed
+Da solo fradicio, pur sempre l’unico

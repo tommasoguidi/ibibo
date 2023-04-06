@@ -1,4 +1,4 @@
-Domenicamara Lyrics[Testo di "Domenicamara"]
+[Testo di "Domenicamara"]
 
 [Strofa 1]
 So quello che pensi tu
@@ -46,7 +46,8 @@ Una domenica amara
 È complicata
 Lo è sempre stata
 E grazie che mi lasci questa
-You might also like[Bridge]
+
+[Bridge]
 Voglio una vita amara e strana
 Ce l'ho nel DNA
 Mi vuole così bene che non se ne va
@@ -65,4 +66,4 @@ Una domenica amara
 Una vita amara
 Un'esistenza amara
 E grazie che mi lasci questa
-Una domenica amara, domenica amara, domenica amaraEmbed
+Una domenica amara, domenica amara, domenica amara

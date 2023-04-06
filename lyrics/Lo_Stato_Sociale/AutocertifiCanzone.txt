@@ -1,4 +1,4 @@
-AutocertifiCanzone Lyrics[Testo di "AutocertifiCanzone"]
+[Testo di "AutocertifiCanzone"]
 
 [Strofa 1]
 Un giorno pesto, un giorno raffreddore
@@ -37,7 +37,8 @@ E se sarà la fine, ne usciremo insieme
 E non sarà la fine e ne usciremo bene
 E se sarà la fine, ne usciremo insieme
 E ne usciremo bene
-You might also like[Ritornello]
+
+[Ritornello]
 Dammi un appuntamento, anche se è vietato
 Al reparto sanitario di un supermercato
 Soli nel corridoio per un bacio rubato
@@ -45,4 +46,4 @@ Per ricordarci che il mondo non è ancora finito
 Dammi un appuntamento, anche se è vietato
 Al reparto sanitario di un supermercato
 Soli nel corridoio per un bacio rubato
-Per ricordarci che il mondo non è ancora finitoEmbed
+Per ricordarci che il mondo non è ancora finito

@@ -1,4 +1,4 @@
-Nuova Tipa Lyrics[Testo di "Nuova Tipa"]
+[Testo di "Nuova Tipa"]
 
 [Intro: Mecna]
 No, no, no, no
@@ -40,7 +40,8 @@ Sarò il tuo ricordo tra le storie
 Anche se ho scelto le parole
 Sbagliate per dire sottovoce:
 "Sparisci, veloce"
-You might also like[Ritornello: Mecna]
+
+[Ritornello: Mecna]
 Qui non puoi più restare
 Ho una nuova tipa
 Che è meglio di quella di prima
@@ -65,4 +66,4 @@ Vi spacco la testa, oh
 Comunque, come stai? Mi manchi un po', mi chiami venerdì?
 No, vaffanculo"
 Per cancellare il messaggio, digita "5"
-Messaggio cancellatoEmbed
+Messaggio cancellato

@@ -1,4 +1,4 @@
-In vendita Lyrics[Testo di "In vendita"]
+[Testo di "In vendita"]
 
 [Intro]
 Mi gira un po' la testa
@@ -36,10 +36,11 @@ E poi parlo troppo, scеlgo tutto, faccio ciò che non vorrei
 E allora torno indietro е penso che
 Se mi faccio paura, ora ne faccio anche a te (Buh)
 (Ma portami più in su)
-You might also like[Ritornello]
+
+[Ritornello]
 Guardaci, noi siamo in vendita
 Credici per sempre giovani
 Guardaci, noi siamo in vendita
 Credici per sempre giovani
 Deboli, troviamo un modo per perderci più
-Il mondo come vuoi tuEmbed
+Il mondo come vuoi tu

@@ -1,4 +1,4 @@
-Gli animali Lyrics[Testo di "Animali"]
+[Testo di "Animali"]
 
 [Strofa 1]
 Il cane sottomette
@@ -47,7 +47,8 @@ Perché ogni tanto qualche compagno scompare?"
 "Perché è stato preso dalla rete del pescatore"
 "Ma ce sarà un modo per non farsi acchiappare?"
 "Bisogna sape' distingue la luce delle stelle da quella delle lampare"
-You might also like[Ritornello]
+
+[Ritornello]
 Oh oh oh
 Oh oh oh
-Oh oh ohEmbed
+Oh oh oh

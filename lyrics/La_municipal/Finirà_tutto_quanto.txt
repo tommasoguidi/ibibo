@@ -1,4 +1,4 @@
-Finirà tutto quanto Lyrics[Testo di "Finirà tutto quanto"]
+[Testo di "Finirà tutto quanto"]
 
 [Strofa 1]
 Ciao, playboy, tutto bene?
@@ -38,7 +38,8 @@ Amico mio ti hanno tagliato la lingua?
 Non sai cosa tagliarono a mia figlia
 Non ci pensare, è solo un giorno di merda
 Vedrai che passerà
-You might also like[Ritornello]
+
+[Ritornello]
 Perché tanto prima o poi finirà
 Finirà tutto quanto, finirà tutto quanto
 Perché tanto prima o poi finirà
@@ -68,4 +69,4 @@ E di attaccarmi alle mie solite scuse, amico mio
 Che te la ridi sempre, dimmi che sei felice
 [Outro]
 O raccontami del tuo paese perché qui, qui non si sta più bene
-Amico mio che te la ridi sempre, almeno tu, dimmi che sei feliceEmbed
+Amico mio che te la ridi sempre, almeno tu, dimmi che sei felice

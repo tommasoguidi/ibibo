@@ -1,4 +1,4 @@
-Le Rane Lyrics[Verse 1]
+[Verse 1]
 Le navi son partite
 La vita è sulla Luna
 Ma nel cielo d'acquavite
@@ -40,8 +40,9 @@ Mi bevo quello che non ho
 Da quando sei andato via
 Ho allagato casa mia
 E a Natale dove andrò?
-You might also like
+
+
 [Outro]
 Ho visto i migliori
 Pollini al vento
-Cadere al cementoEmbed
+Cadere al cemento

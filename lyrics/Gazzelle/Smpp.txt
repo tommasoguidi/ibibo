@@ -1,4 +1,4 @@
-Smpp Lyrics[Testo di "Smpp"]
+[Testo di "Smpp"]
 
 [Strofa 1]
 Stavi male pure prima
@@ -39,7 +39,8 @@ Non sei più sparita?
 È tutto quello che non dico mai
 È tutto quello che non dico mai
 (È tutto quello che non dico mai)
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Stavi male pure prima
 Pure prima di star male
 Con la testa sulle scale
@@ -69,4 +70,4 @@ Quello che non dico mai
 [Outro]
 Stavi male pure prima
 Pure prima di
-Me1Embed
+Me

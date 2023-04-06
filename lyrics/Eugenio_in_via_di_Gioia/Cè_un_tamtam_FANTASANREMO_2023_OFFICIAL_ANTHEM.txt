@@ -1,4 +1,4 @@
-C’è un tam-tam (FANTASANREMO 2023 OFFICIAL ANTHEM) Lyrics[Testo di "C'è un tam-tam (FANTASANREMO 2023 OFFICIAL ANTHEM)"]
+[Testo di "C'è un tam-tam (FANTASANREMO 2023 OFFICIAL ANTHEM)"]
 
 [Intro]
 C'è un clima, c'è un mondo
@@ -37,7 +37,8 @@ C'è chi compie gli anni: Happy Baudi
 C'è chi corre con Gianni Moraudi (Col barchino)
 C'è chi si dichiara LGBT (QIA+)
 E chi aspetta Beppe Vessì
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 E c'è un'ultima richiesta: Ferragni, please (Il terzo desiderio)
 Ama', porta i Pooh, tu portaci i Jalisse
 
@@ -59,4 +60,4 @@ Tam-tam-tam-tam-tam-tam-tam-tam (Siamo tutti già lì)
 C'è anche il Premio Tananai
 Arriva ultimo e vincerai (Papalina)
 Ultimo e vincerai
-Ultimo, vincera-iEmbed
+Ultimo, vincera-i

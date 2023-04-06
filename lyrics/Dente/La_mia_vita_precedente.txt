@@ -1,4 +1,4 @@
-La mia vita precedente Lyrics[Testo di "La mia vita precedente"]
+[Testo di "La mia vita precedente"]
 
 [Strofa 1]
 Andavo a ballare con le scarpe anti-infortunistica
@@ -33,7 +33,8 @@ Slegami lasciami andare via
 Via da te, via da voi
 Via di qua, via da lei
 Via da lei
-You might also like[Strofa 3]
+
+[Strofa 3]
 Non facevo niente tutto il giorno
 Fingevo di dormire
 Fino a mezzogiorno
@@ -48,4 +49,4 @@ Diventano pesanti
 Slegami lasciami andare via
 Via da te, via da voi
 Via di qua, via da lei
-Via da leiEmbed
+Via da lei

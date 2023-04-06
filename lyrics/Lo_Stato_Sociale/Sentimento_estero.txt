@@ -1,4 +1,4 @@
-Sentimento estero Lyrics[Testo di "Sentimento estero"]
+[Testo di "Sentimento estero"]
 
 [Strofa 1]
 Se ti pagassero per stare con me, sarebbe tutto in nero
@@ -43,7 +43,8 @@ E va bene così
 E qui mi colloco al centro di tutto questo bordello
 Ti guardo negli occhi
 Mi prendo dei pugni e mi va bene così
-You might also like[Strofa 3]
+
+[Strofa 3]
 E te l'ho detto che era facile, dai
 Non ci voleva un genio
 E per partito preso
@@ -74,4 +75,4 @@ Pa-pa-pa-ra-pa, pa-ra-ra-ra
 Pa-pa-pa-ra-pa, pa-ra-ra-ra
 Pa-pa-pa-ra-pa, pa-ra-ra-ra
 Pa-pa-pa-ra-pa, pa-ra-ra-ra
-Pa-pa-pa-ra-pa, pa-ra-ra-raEmbed
+Pa-pa-pa-ra-pa, pa-ra-ra-ra

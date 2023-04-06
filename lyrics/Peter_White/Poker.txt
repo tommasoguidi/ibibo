@@ -1,4 +1,4 @@
-Poker Lyrics[Strofa 1]
+[Strofa 1]
 Oggi, che sembra un po' ieri
 Ho mischiato i pensieri
 Come drink nei bicchieri
@@ -48,7 +48,8 @@ Come quando fuori piove
 Che non si vede niente
 Sotto una scala di stelle
 Faccio poker con te
-You might also like[Bridge]
+
+[Bridge]
 Quando il sole se ne va
 Fuma l'ultima città
 E dipinge le case
@@ -66,4 +67,4 @@ Faccio poker con te
 Come quando fuori piove
 Che non si vede niente
 Sotto una scala di stelle
-Faccio poker con teEmbed
+Faccio poker con te

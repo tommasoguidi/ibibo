@@ -1,4 +1,4 @@
-Marco gioca sott’acqua Lyrics[Testo di "Marco gioca sott'acqua"]
+[Testo di "Marco gioca sott'acqua"]
 
 [Strofa 1]
 Marco che guarda la schiuma sopra una cresta
@@ -76,7 +76,8 @@ E perché proprio noi ora caro è un enigma
 E tutto ciò che non puoi te lo ha tolto lo stigma"
 E fu come il risveglio da un sonno profondo
 Riflesso del mondo di un sordo profondo
-You might also like[Ritornello]
+
+[Ritornello]
 Quando e come, quando e dove, quanto e come
 E quale suono han le parole che non volano fino a qua?
 E quali sono, quante sono, quando sono
@@ -90,4 +91,4 @@ Lui che non sente ogni soffio, ogni tuono
 Ogni strofa, ogni suono, ogni nota , ogni "la la la"
 "E qui parole che van, van, van, salgono lentamente al cielo
 Provo a afferrarle ma loro si librano in volo
-Mi lasciano solo qua… Bye, bye, bye…"3Embed
+Mi lasciano solo qua… Bye, bye, bye…"

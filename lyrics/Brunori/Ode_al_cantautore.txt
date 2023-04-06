@@ -1,4 +1,4 @@
-Ode al cantautore Lyrics[Testo di "Ode al cantautore"]
+[Testo di "Ode al cantautore"]
 
 [Intro]
 Oh
@@ -34,7 +34,8 @@ A me sempre affiancato da tutti i detratto-ori
 Perché, l'ho detto, sono un surrogato, voluto da un mercato
 Che vive di cliché, o di cachet
 O di cachet, o di cliché
-You might also like[Strofa 4]
+
+[Strofa 4]
 Poi parte la crociata in Feltrinelli
 Palermo poi Milano ed i Castelli
 Fatece largo che passamo noi
@@ -64,4 +65,4 @@ Quant'è bono 'sto Nastro d'argento
 E daje de tacco, e daje de coro
 Quanto so' boni i diritti d'autore
 Perché so' senza IVA, nun so' come er baccalà
-Perché so' senza IVA, nun so' come er baccalà, cha-cha-cha!Embed
+Perché so' senza IVA, nun so' come er baccalà, cha-cha-cha!

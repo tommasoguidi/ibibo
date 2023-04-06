@@ -1,4 +1,4 @@
-L’ultima notte Lyrics[Testo di "L'ultima notte"]
+[Testo di "L'ultima notte"]
 
 [Strofa 1]
 Un'altra estate passa
@@ -35,7 +35,8 @@ Mi risfiori le labbra
 E restiamo insieme fino alle sette
 E sparirà anche l'alba
 Tra baci che sanno di sigarette
-You might also like[Pre-Ritornello 2]
+
+[Pre-Ritornello 2]
 Da stesi sulla riva all'alto mare
 Quante giornate ho visto cominciare
 La luce è spenta adesso in quel locale
@@ -50,4 +51,4 @@ Prendi da bere e portami dove vanno le stelle
 [Outro]
 Dimmi che ti ricorderai di me
 Dimmi che ti ricorderai di me
-Dimmi che ti ricorderaiEmbed
+Dimmi che ti ricorderai

@@ -1,4 +1,4 @@
-Luce (CHECCO #5) Lyrics[Testo di "Luce (CHECCO #5)"]
+[Testo di "Luce (CHECCO #5)"]
 
 [Strofa 1]
 Spengo la luce e non mi vedi
@@ -39,7 +39,8 @@ Non sei le cose che hai
 Non sei la vita che vivi
 Non sei le cose che lasci
 Apri gli occhi
-You might also like[Strofa 2]
+
+[Strofa 2]
 Ti chiamo ancora e tu non vieni mai
 Ti vedo sempre, non mi guardi mai
 Ti parlo ancora e tu non vibri mai
@@ -63,4 +64,4 @@ Vorrei tornassimo potente
 [Outro]
 Così distante
 Così distante
-Così distanteEmbed
+Così distante

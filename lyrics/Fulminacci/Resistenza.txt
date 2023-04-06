@@ -1,4 +1,4 @@
-Resistenza Lyrics[Testo di "Resistenza"]
+[Testo di "Resistenza"]
 
 [Strofa 1]
 Non mento finché non mi mentirai
@@ -44,7 +44,8 @@ Cerco nella rabbia
 Cerco nella posta
 Una sensazione
 (Che chissà dov'è, che chissà cos'è)
-You might also like[Bridge]
+
+[Bridge]
 Pensa se fosse una cosa di tutti
 Sbagliare e poi ammettere subito di averlo fatto
 Ridi perché appartieni a questa categoria
@@ -64,4 +65,4 @@ E magari un nome
 Cerco nella rabbia
 Cerco nella posta
 Una sensazione
-(Che chissà dov'è, che chissà cos'è)Embed
+(Che chissà dov'è, che chissà cos'è)

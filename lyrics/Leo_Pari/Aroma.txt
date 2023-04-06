@@ -1,4 +1,4 @@
-Aroma Lyrics[Testo di "Aroma"]
+[Testo di "Aroma"]
 
 [Strofa 1]
 La pioggia che cade, il rumore del traffico
@@ -37,7 +37,8 @@ Non posso sbagliare, lo so che sei te
 Mi fai morire
 E senti che si diffonde l'aroma
 Inconfondibile
-You might also like[Bridge]
+
+[Bridge]
 E chissà come facevo prima
 Prima di incontarti di mattina
 Che ti erano finiti i giga
@@ -51,4 +52,4 @@ E senti che oramai ci sorvola
 Non posso sbagliare, lo so che sei te
 Mi fai morire
 E senti che si diffonde l'aroma
-InconfondibileEmbed
+Inconfondibile

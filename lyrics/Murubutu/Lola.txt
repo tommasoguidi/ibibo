@@ -1,4 +1,4 @@
-Lola Lyrics[Intro:]
+[Intro:]
 Lola, Lola canta
 Lola danza ancora
 Lola, Lola canta
@@ -42,7 +42,8 @@ Lola suona una polka, poi intona la stessa strofa
 Che suona la stessa nota, che agogna una banconota
 Domani è una strada nota e la casa è una stanza vuota
 Dove Lola si acciambella, chiude gli occhi e dorme sola
-You might also like[Ritornello:]
+
+[Ritornello:]
 Lola danza sul marciapiede
 Scalza, scarna
 La massa la scansa
@@ -53,4 +54,4 @@ Lola è in trappola
 Non sa com'è arrivata ma sa che non è nata qua
 E ormai è tardi per tornare indietro
 Compra la cena con quel che fa con l'elemosina
-E a dodici anni questo peso immensoEmbed
+E a dodici anni questo peso immenso

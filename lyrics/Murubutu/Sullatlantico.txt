@@ -1,4 +1,4 @@
-Sull’atlantico Lyrics[Testo di "Sull'atlantico"]
+[Testo di "Sull'atlantico"]
 
 [Intro]
 Una storia d'altri tempi
@@ -66,7 +66,8 @@ Gianni sulla spiaggia di casa, sotto il sole che scalpita
 Guarda il mare che guarda la costa che guarda l'Africa
 Poi all'orizzonte scorge un barcone, è fitto di corpi e dolore
 Gianni rivede sé stesso: il migrante ha un solo colore, un solo nome
-You might also like[Ritornello]
+
+[Ritornello]
 E quanti anni sono? Tanti anni fa
 E quanto campa un uomo? Non così tanto, man
 Non sono solo, sai, i porti degli altri
@@ -82,4 +83,4 @@ I corpi degli altri, i morti degli altri (Seh)
 E quali anni sono? Questi anni qua
 E quanto vale un uomo? Quanti anni ha
 Non sono solo, sai i mondi degli altri
-Si scaldano al sole i volti migranti2Embed
+Si scaldano al sole i volti migranti

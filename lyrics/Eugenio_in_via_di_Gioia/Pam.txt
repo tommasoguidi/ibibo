@@ -1,4 +1,4 @@
-Pam Lyrics[Testo di "Pam"]
+[Testo di "Pam"]
 
 Io vado al Pam a comprare
 Hanno aperto proprio oggi un nuovo centro commerciale
@@ -40,7 +40,8 @@ Ma, quell'uomo laggiù, quale?
 Eddai, non le avrà viste, dai
 Andiamo noi, andiamo a prenderle
 Andiamo a cercarle noi, dai, da questa parte
-You might also likeAspetta, aspetta, aspetta
+
+Aspetta, aspetta, aspetta
 Nemmeno quell'altro ha le prugne
 Ma com'è possibile? Eppure, ha il carrello pieno
 Eh, ma se vieni al Pam prendi le prugne
@@ -69,4 +70,4 @@ Pam Pam Pam Pam Pam Pam Pam
 Pam Pam Pam Pam Pam Pam Pam Pam Pam
 Pam Pam Pam Pam Pam Pam Pam Pam Pam
 Pam Pam Pam Pam Pam Pam Pam Pam Pam
-Andiamo al PamEmbed
+Andiamo al Pam

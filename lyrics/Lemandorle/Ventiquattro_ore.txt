@@ -1,4 +1,4 @@
-Ventiquattro ore Lyrics[Testo di "Ventiquattro ore"]
+[Testo di "Ventiquattro ore"]
 
 [Strofa 1]
 Sai che ci possiamo amare anche un po' per errore?
@@ -40,7 +40,8 @@ Ventiquattr'ore di noi, ventiquattr'ore di noi
 Ventiquattr'ore di noi, noi
 Ventiquattr'ore che poi, ventiquattr'ore che poi
 Ventiquattr'ore che poi
-You might also like[Ritornello]
+
+[Ritornello]
 E anche se m'hai fatto male
 Io spero di trovare un'altra come te
 E anche se m'hai fatto male
@@ -50,4 +51,4 @@ La notte con le altre cerco solo te
 E anche se m'hai fatto male
 Io spero di trovare un'altra come te
 E anche se m'hai fatto male
-La notte con le altre cerco solo teEmbed
+La notte con le altre cerco solo te

@@ -1,4 +1,4 @@
-Tre capelli sul comò Lyrics[Testo di "Tre capelli sul comò"]
+[Testo di "Tre capelli sul comò"]
 
 [Strofa 1]
 Dottore, non voglio più uscire
@@ -45,7 +45,8 @@ Al mago Conti o a Nino Strano
 Perché mi diano un talismano
 Capace di farti tornare da me
 La-eh-de-de-de-la-la
-You might also like[Outro]
+
+[Outro]
 Eh-la-la-la
 Ora che cosa ne sarà
 Del nostro primo bacio
@@ -54,4 +55,4 @@ Forse ti mancherà
 Tra un mese, un anno o tra una vita
 Quando ti accorgerai che è stata
 La notte d'amore più dolce per te
-La-eh-de-de-de-la-laEmbed
+La-eh-de-de-de-la-la

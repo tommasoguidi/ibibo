@@ -1,4 +1,4 @@
-20 100 Lyrics[Testo di "20 100"]
+[Testo di "20 100"]
 
 [Strofa 1]
 Dimmi cosa devo fare
@@ -39,5 +39,6 @@ E scusami se non sono stato bravo abbastanza
 Da capire al volo
 Dove andasse la tua vita adesso
 Ti ho persa sotto una luna piena
-You might also like[Outro]
-Ti ho persa sotto una luna pienaEmbed
+
+[Outro]
+Ti ho persa sotto una luna piena

@@ -1,4 +1,4 @@
-Io ti maledico Lyrics[Testo di "Io ti maledico"]
+[Testo di "Io ti maledico"]
 
 [Strofa 1]
 Ora è più di un'ora
@@ -37,7 +37,8 @@ Maledetto, me lo hai detto tu
 Vengo a baciarti per le sette
 È mezza notte, ho i pugni chiusi e di carezze non ne ho avute
 No, no, no, di carezze non ne ho avute
-You might also like[Bridge]
+
+[Bridge]
 Che sia il giorno o la notte
 Un dolore dal niente
 Possa tornarti indietro
@@ -54,4 +55,4 @@ Che siano ore od un istante sembra poco rilevante
 Maledetto, me lo hai detto tu
 Vengo a baciarti per le sette
 È  mezza notte e pugni chiusi e di carezze non ne ho avute
-No, no, no, di carezze non ne ho avuteEmbed
+No, no, no, di carezze non ne ho avute

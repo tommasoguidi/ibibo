@@ -1,4 +1,4 @@
-Qualcosa di Diverso Lyrics[Testo di "Qualcosa di Diverso"]
+[Testo di "Qualcosa di Diverso"]
 
 [Verse 1]
 Man forse ti è arrivato il concetto sbagliato
@@ -65,7 +65,8 @@ Se chiedi a chi ha masticato di hip hop
 Io sono come Rakim, "I ain't no joke"
 Con questa storia che i buoni non vinceranno
 A noi non ci convinceranno
-You might also like[Bridge]
+
+[Bridge]
 E va così quando è in sincope il battito
 Va così quando è in sincope il battito
 Va così, lo vedi è fuori sinco il battito
@@ -83,4 +84,4 @@ E vi tocca fare presto
 Qualcosa di diverso vuol dire che
 Ho lasciato l’universo
 Vuol dire che o trovate il mezzo per raggiungermi
-O vi accontentate del restoEmbed
+O vi accontentate del resto

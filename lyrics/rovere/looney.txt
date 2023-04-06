@@ -1,4 +1,4 @@
-​looney Lyrics[Testo di "looney"]
+[Testo di "looney"]
 
 [Strofa 1]
 Mi piacerebbe sapere perché a volte piangi
@@ -43,7 +43,8 @@ E poi le luci si spengono
 Ed io ti sento respirare
 È che mi manca l'ossigeno quando mi dai del preso male
 E canto una canzone e sbaglio le parole
-You might also like[Ritornello 3]
+
+[Ritornello 3]
 Potremmo scappare su una nuvola
 Mangiare sushi coi piedi sulla tavola
 E cantare i Red Hot in riva al mare
@@ -53,4 +54,4 @@ Con Michael Jordan e i Looney Tunes
 
 [Outro]
 Looney Tunes
-Looney TunesEmbed
+Looney Tunes

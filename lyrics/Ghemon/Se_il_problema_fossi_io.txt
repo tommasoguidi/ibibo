@@ -1,4 +1,4 @@
-Se il problema fossi io Lyrics[Testo di "Se il problema fossi io"]
+[Testo di "Se il problema fossi io"]
 
 [Strofa 1]
 Se il problema fossi io ,si
@@ -41,7 +41,8 @@ Che vuoi starmi più vicino, ma io quasi non respiro
 Se il problema fossi io…
 Se il problema fossi tu, no?
 Ma non basta un tentativo, è per questo che ti scrivo
-You might also like[Strofa 3]
+
+[Strofa 3]
 Ma nessuno vuole dirselo...
 Nessuno vuole darsi una delusione (una delusione)...
 Tutti lo stesso sintomo...
@@ -66,4 +67,4 @@ Se il problema fossi tu, no?
 Che vuoi starmi più vicino, ma io quasi non respiro
 Se il problema fossi io…
 Se il problema fossi tu, no?
-Ma non basta un tentativo, è per questo che ti scrivoEmbed
+Ma non basta un tentativo, è per questo che ti scrivo

@@ -1,4 +1,4 @@
-Insulti Lyrics[Testo di "Insulti"]
+[Testo di "Insulti"]
 
 [Strofa 1]
 Sto in avaria, stordito da questi silenzi
@@ -37,7 +37,8 @@ Se non mi prendono, mi spacco in tre
 Batti le palpebre a tempo col parabrezza
 E ti nascondi dietro al fumo di una sigaretta spenta
 È una picchiata perenne: se caschi, caschiamo insieme
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Aspe' (Aspe'), time out (Time out)
 Ho bisogno di tempo, tempo, tempo, oh-oh-oh
 Per cambiare strategia
@@ -57,4 +58,4 @@ Cliché, cliché, cliché
 E se senti freddo, ti coprirò di insulti
 Cerco una tipo te in un video per adulti
 Cliché, cliché
-Cliché, clichéEmbed
+Cliché, cliché

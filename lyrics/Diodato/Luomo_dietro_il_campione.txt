@@ -1,4 +1,4 @@
-L’uomo dietro il campione Lyrics[Testo di "L'uomo dietro il campione"]
+[Testo di "L'uomo dietro il campione"]
 
 [Strofa 1]
 Più di vent'anni in un pallone
@@ -40,11 +40,12 @@ Sentire come un abbraccio arrivarti dal cuore
 Di chi ti ha visto incantare il mondo con un pallone
 Senza nascondere mai
 L'uomo dietro il campione
-You might also like[Outro]
+
+[Outro]
 Che poi, Roberto, in fondo tutto questo amore
 È pure figlio del coraggio (Figlio del coraggio)
 Di quel campione che toccava ogni pallone
 Come se fosse la vita
 Lo so potrà sembrarti un'esagerazione
 Ma pure quel rigore
-A me ha insegnato un po' la vitaEmbed
+A me ha insegnato un po' la vita

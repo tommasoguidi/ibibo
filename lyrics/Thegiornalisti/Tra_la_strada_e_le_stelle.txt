@@ -1,4 +1,4 @@
-Tra la strada e le stelle Lyrics[Testo di "Tra la strada e le stelle"]
+[Testo di "Tra la strada e le stelle"]
 
 [Strofa 1]
 Hai cambiato faccia
@@ -38,7 +38,8 @@ La mattina ti penti
 E vai a fare lo sport
 Poi ti basta una doccia
 Per uscire la sera
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 In cerca della gente come te
 Che si abbraccia senza motivo
 E non discute mai di niente
@@ -68,4 +69,4 @@ Tra la strada e le stelle
 Tra noi
 Tra la vita e la morte
 Tra la strada e le stelle
-Tra noiEmbed
+Tra noi

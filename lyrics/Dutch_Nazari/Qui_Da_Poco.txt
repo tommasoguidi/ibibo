@@ -1,4 +1,4 @@
-Qui Da Poco Lyrics[Testo di "Qui Da Poco"]
+[Testo di "Qui Da Poco"]
 
 [Strofa 1]
 Sono italiano, ma non amo il calcio
@@ -43,7 +43,8 @@ Raccontate quasi sempre nello stesso modo
 E noi ce le cantiamo
 E anche se sono brutte o una noia
 Le sai comunque tutte a memoria
-You might also like[Strofa 3]
+
+[Strofa 3]
 Ho perso i numeri della rubrica
 Mi sono trasferito qui da poco
 In sto locale non conosco nessuno e non so ballare
@@ -76,4 +77,4 @@ Raccontate quasi sempre nello stesso modo
 E noi ce le cantiamo
 E anche se sono brutte o una noia
 Le sai comunque tutte a memoria
-E fai "Lalalala"Embed
+E fai "Lalalala"

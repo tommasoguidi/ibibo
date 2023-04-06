@@ -1,4 +1,4 @@
-Amianto Lyrics[Testo di "Amianto"]
+[Testo di "Amianto"]
 
 [Strofa 1]
 Siamo due amanti fatti al contrario
@@ -48,7 +48,8 @@ Se poi ci perderemo
 Siamo amianto dentro una stanza ed esploderemo
 Noi esploderemo
 Sì, esploderemo, mhm-mhm
-You might also like[Outro]
+
+[Outro]
 E sai sto male, e sai ci ho pianto
 Ma siamo amanti come l'amianto
-Un po' soffriamo se ci stiamo accanto2Embed
+Un po' soffriamo se ci stiamo accanto

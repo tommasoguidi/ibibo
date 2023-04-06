@@ -1,4 +1,4 @@
-Cambio di stagione Lyrics[Testo di "Cambio di stagione"]
+[Testo di "Cambio di stagione"]
 
 [Strofa 1]
 Netflix resta spento e non lo guardo più
@@ -43,7 +43,8 @@ E mentre cambia la stagione
 Giro l'Italia su un furgone
 Resto un po' là con qualche centinaia di persone
 Poi via verso un'altra destinazione
-You might also like[Ritornello]
+
+[Ritornello]
 E mentre il sole scende lentamente si fa buio
 Io più mi specchio su 'sto vetro
 E meno vedo il mondo dietro
@@ -76,4 +77,4 @@ Ed ho un momento per guardare dentro a tutte le cose
 Che ho tentato di nascondere
 Sotto a un tappeto come polvere
 [Outro]
-No, ecco, togliti quegli occhiali che ti coprivano tutto il viso. Ecco, non mi piacevi nienteEmbed
+No, ecco, togliti quegli occhiali che ti coprivano tutto il viso. Ecco, non mi piacevi niente

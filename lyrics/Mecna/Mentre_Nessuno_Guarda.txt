@@ -1,4 +1,4 @@
-Mentre Nessuno Guarda Lyrics[Testo di "Mentre Nessuno Guarda"]
+[Testo di "Mentre Nessuno Guarda"]
 
 [Presentazione 1]
 Mi guardo indietro e rivedo come ero allora
@@ -47,7 +47,8 @@ Mi hai mandato un messaggio e diceva:
 Ti sparo o ti ammazzerò"
 "Ti sparo o ti ammazzerò
 Ti sparo o ti ammazzerò"
-You might also like[Presentazione 4]
+
+[Presentazione 4]
 (I nostri demoni non ci somigliano mai)
 (Ma sono identici tra loro)
 Hanno un aspetto normale, quasi anonimo
@@ -91,4 +92,4 @@ Non c'è bisogno che torni da me
 Sai che è facile a dirsi
 Ma qui niente è come lo voglio io
 (Non tornare da me)
-(Yeh)Embed
+(Yeh)

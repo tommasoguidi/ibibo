@@ -1,4 +1,4 @@
-Naftalina Lyrics[Testo di "Naftalina"]
+[Testo di "Naftalina"]
 
 [Strofa 1]
 A volte con te è ​come stare in ascensore con un estraneo
@@ -41,7 +41,8 @@ Volevo dirti tante cose
 E dirti che un po' mi dispiace
 A volte ancora penso a come
 È stato facile scappare
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Ridere, ridere, ridere, ridere, ridere, eh
 Non è mai stato bello
 Non è mai stato vero per me
@@ -54,4 +55,4 @@ Vero per me
 
 [Outro]
 Vero per me
-Vero per meEmbed
+Vero per me

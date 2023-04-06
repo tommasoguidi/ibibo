@@ -1,4 +1,4 @@
-C’eravamo tanto sbagliati Lyrics[Testo di "C'eravamo tanto sbagliati"]
+[Testo di "C'eravamo tanto sbagliati"]
 
 [Strofa 1]
 Fanculo a chi non ha mai colpa
@@ -62,7 +62,8 @@ A chi non si perde mai
 A chi non ha mai davvero paura
 A chi è come sarei diventato io se per un po' di paura in meno avessi scelto di non rischiare mai
 Fanculo a chi non si lascia cadere
-You might also like[Ritornello]
+
+[Ritornello]
 La-la-la-la, la-la-la-la
 La-la-la-la, la-la-la-la
 La-la-la-la, la-la-la-la
@@ -81,4 +82,4 @@ La-la-la-la, la-la-la-la
 La-la-la-la, la-la-la-la
 La-la-la-la, la-la-la-la
 La-la-la-la, la-la-la-la
-La-la-la-la, la-la-la-laEmbed
+La-la-la-la, la-la-la-la

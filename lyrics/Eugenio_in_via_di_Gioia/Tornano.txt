@@ -1,4 +1,4 @@
-Tornano Lyrics[Testo di "Tornano"]
+[Testo di "Tornano"]
 
 [Strofa 1]
 Si spengon le luci, rimaniamo noi
@@ -53,7 +53,8 @@ Concerti sudati d'estate
 Paolo Nutini e le nostre risate
 Gli anni passano e noi fradici sotto
 Ma chi se ne frega se piove a dirotto
-You might also like[Bridge]
+
+[Bridge]
 Gli anni passano e non lasciano niente
 No, non è vero qui c'è un sacco di gente
 Un sacco di gente, noi fradici sotto
@@ -71,4 +72,4 @@ Ma chi se ne frega se piove a dirotto
 
 [Outro]
 Gli anni passano e noi fradici sotto
-E chi se ne frega se piove a dirottoEmbed
+E chi se ne frega se piove a dirotto

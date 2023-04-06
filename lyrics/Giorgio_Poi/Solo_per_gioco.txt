@@ -1,4 +1,4 @@
-Solo per gioco Lyrics[Testo di "Solo per gioco"]
+[Testo di "Solo per gioco"]
 
 [Strofa 1]
 Io, un punto a metà
@@ -39,7 +39,8 @@ Per prendere parte a un miracolo
 Quando t'accorgi di stringere forte
 Il cuscino dentro la mano
 Sorridi piano
-You might also like[Outro]
+
+[Outro]
 E tu che mi capisci bene
 Rimani un po'
 Lo so, lo so
@@ -47,4 +48,4 @@ Sorridi piano
 E tu che mi capisci bene
 Rimani un po'
 Lo so, lo so
-Sorridi pianoEmbed
+Sorridi piano

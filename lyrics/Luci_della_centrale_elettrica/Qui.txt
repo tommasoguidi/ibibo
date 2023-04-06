@@ -1,4 +1,4 @@
-Qui Lyrics[Testo di "Qui"]
+[Testo di "Qui"]
 
 Io sono nei detriti spaziali
 Nelle notizie da casa dei fronti siriani
@@ -33,7 +33,8 @@ Sono al di là della paura
 In quella prateria infinita
 Piena di pericoli, strapiena di vita
 Piena di pericoli, strapiena di vita
-You might also likeE adesso sono qui
+
+E adesso sono qui
 È un superpotere essere vulnerabili
 E adesso sono qui
 Dove sono possibili cose impossibili
@@ -52,4 +53,4 @@ Tra i fiori che crescono su ogni abbandono
 Sono pericoloso io che ti rassicuro
 E hai visto all'improvviso è arrivato il futuro
 
-E adesso sono quiEmbed
+E adesso sono qui

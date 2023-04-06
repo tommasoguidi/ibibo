@@ -1,4 +1,4 @@
-I maestri Lyrics[Testo di "I maestri"]
+[Testo di "I maestri"]
 
 [Intro]
 Ehi, ehi, ahi ehi my man, eh ehi ehi
@@ -57,7 +57,8 @@ Ti ci affliggi qui tra 'sti righi dritti
 Fissi 'sti enigmi qui, ma non li decripti
 Ehi, non conta se sono spariti i tragitti dei vivi
 Morirò tra i miei miti sbiaditi nella sezione "rari ed antichi"
-You might also like[Ritornello]
+
+[Ritornello]
 Sono loro i miei maestri, oh man, non c'è limite
 Le righe di 'sti testi qua segnan l'iride
 E con calma, man, con karma, man
@@ -77,4 +78,4 @@ Trovo in loro i miei pensieri che rinnovo e confermo, bro
 Questo è un altro mondo e dunque un altro flow
 È un altro mondo e dunque un altro flow
 Un altro mondo e dunque un altro flow
-Un altro mondo e dunque un altro mondo, dunqueEmbed
+Un altro mondo e dunque un altro mondo, dunque

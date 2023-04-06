@@ -1,4 +1,4 @@
-Tutte le direzioni Lyrics[Testo di "Tutte le direzioni"]
+[Testo di "Tutte le direzioni"]
 
 [Strofa 1]
 Lo sai la vita a volte è dura
@@ -34,7 +34,8 @@ E alcuni amici sono andati a Londra
 Ma li trattano peggio di qua
 Che lavorano senza sosta per poi fare la fame come qua
 E pensare
-You might also like[Ritornello]
+
+[Ritornello]
 Mi è venuta così tanta fame a fare piani
 Che sudo con la lingua come i cani
 Fumavamo sigarette fuori dai locali
@@ -60,4 +61,4 @@ Poi se chiudi gli occhi è già domani
 Scusami, sai leggere le mani?
 Per la fortuna ci vuole timing
 Un po' di vernice tra i binari
-E tutti questi treni sono quasi quadriEmbed
+E tutti questi treni sono quasi quadri

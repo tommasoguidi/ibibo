@@ -1,4 +1,4 @@
-01/12 Lyrics[Testo di "01/12"]
+[Testo di "01/12"]
 
 [Strofa 1]
 Ho pensato fosse amore
@@ -40,7 +40,8 @@ A ricontare i passi
 A ricontare i passi
 A ricontare i passi
 Vedersi di nascosto e riiniziare a odiarsi
-You might also like[Strofa 3]
+
+[Strofa 3]
 Dimmi quanto costa, dimmi quando basta
 Dimmi: "Sei una stronza" o "Non sei abbastanza"
 Mi ritrovo sola dentro questa stanza
@@ -57,4 +58,4 @@ A ricontare i passi
 A ricontare i passi
 A ricontare i passi, mhm, a ricontare i passi
 Oh, a ricontare i passi
-Ho sbagliato a pensare che tu mi somigliassiEmbed
+Ho sbagliato a pensare che tu mi somigliassi

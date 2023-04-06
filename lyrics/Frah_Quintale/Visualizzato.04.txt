@@ -1,4 +1,4 @@
-Visualizzato.04 Lyrics[Testo di "Visualizzato.04"]
+[Testo di "Visualizzato.04"]
 
 [Skit]
 Oh, eh, Frah, tu sei ancora Brescia?
@@ -33,6 +33,7 @@ E sono appena arrivato in studio
 
 Ero stase-, ieri a Teramo e stasera siamo a Ceccano
 Che è tipo...
-You might also likeVecchio, ma vieni o no alla fine?
+
+Vecchio, ma vieni o no alla fine?
 Dai, vieni vecchio, ti stiam, ti stanno aspettando tutti qua
-C'è già la fila fuoriEmbed
+C'è già la fila fuori

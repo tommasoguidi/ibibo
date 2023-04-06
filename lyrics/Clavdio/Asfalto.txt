@@ -1,4 +1,4 @@
-Asfalto Lyrics[Testo di "Asfalto"]
+[Testo di "Asfalto"]
 
 [Strofa 1]
 Sto aspettando che arrivi l'estate
@@ -41,7 +41,8 @@ E non ci casco più
 Dentro i tuoi sguardi profondi
 Almeno evito di fargli male
 Di farti gli occhi rossi
-You might also like[Outro]
+
+[Outro]
 Lo so, io e te ci morderemo le mani
 Se temi gli occhi lucidi quando mi guardi
-Mettiti il collirio, non so cosa dirtiEmbed
+Mettiti il collirio, non so cosa dirti

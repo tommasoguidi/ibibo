@@ -1,4 +1,4 @@
-Ti voglio bere Lyrics[Testo di "Ti voglio bere"]
+[Testo di "Ti voglio bere"]
 
 Ho ancora i piatti da lavare
 E pensieri da asciugare
@@ -37,7 +37,8 @@ E voglio sbattere la testa
 Guarire i lividi che hai
 E voglio sbattere la testa
 Guarire i lividi che hai
-You might also likeMi voglio bere così
+
+Mi voglio bere così
 Mi voglio bere
 Mi voglio bere così
 Mi voglio bere
@@ -50,4 +51,4 @@ Ti voglio bere così
 Ti voglio bere
 Ti voglio bere così
 Ti voglio bere
-Finché non mi dai in testaEmbed
+Finché non mi dai in testa

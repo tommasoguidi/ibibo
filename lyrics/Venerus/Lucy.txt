@@ -1,4 +1,4 @@
-Lucy Lyrics[Testo di "Lucy"]
+[Testo di "Lucy"]
 
 [Strofa 1]
 Chissà se mai
@@ -36,7 +36,8 @@ Potrai parlare al cielo se lo vuoi
 [Pre-Ritornello]
 Uh-uh-uh-uh, ah-ah-ah-ah
 Ah-ah-ah-ah-ah
-You might also like[Ritornello]
+
+[Ritornello]
 Lucy nel tuo cielo di diamanti (Uh-uh-uh-uh, ah-ah-ah-ah)
 Mi piaccion tutti quanti da quando ci sei tu (Ah-ah-ah-ah-ah)
 Lucy non vorrebbe mai lasciarmi (Uh-uh-uh-uh, ah-ah-ah-ah)
@@ -52,4 +53,4 @@ Ah-ah-ah-ah-ah
 Uh-uh-uh-uh, ah-ah-ah-ah
 Ah-ah-ah-ah-ah
 Uh-uh-uh-uh, ah-ah-ah-ah
-Ah-ah-ah-ah-ahEmbed
+Ah-ah-ah-ah-ah

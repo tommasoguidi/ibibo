@@ -1,4 +1,4 @@
-20143 Milano Navigli Lyrics[Testo di "20143 Milano Navigli"]
+[Testo di "20143 Milano Navigli"]
 
 [Strofa 1]
 Avevi detto che avresti smesso di fumare
@@ -34,7 +34,8 @@ Quante volte restavamo chiusi in una stanza
 Credendo di essere speciali solo noi
 Mi parlavi di filosofi che neanche conoscevo
 Però io stavo zitto e ti ascoltavo
-You might also like[Bridge]
+
+[Bridge]
 Quante volte ho provato a fare colpo
 Cercando il nostro posto dove stare
 I Navigli in piena notte
@@ -54,4 +55,4 @@ Vedere il mondo da lontano, tornarci solamente per morire
 E se un giorno cade il mondo io mi sposto più in là
 Non sai che male che fa l'intimità
 Dovrei anche iniziare a pensare ai problemi reali
-Ma magari incomincio domani1Embed
+Ma magari incomincio domani

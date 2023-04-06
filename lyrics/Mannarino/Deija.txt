@@ -1,4 +1,4 @@
-Deija Lyrics[Testo di "Deija"]
+[Testo di "Deija"]
 [Strofa 1]
 Il primo Dio fu un buco dentro al cielo
 Nascosto in un buio di provetta
@@ -36,7 +36,8 @@ E c’è già chi ride di lacrime
 Oh Deija mi profuma l’anima
 Guarda qua
 C’è un marmocchio che scalpita
-You might also like[Outro]
+
+[Outro]
 Oh Deija oh Deija
 Oh Deija oh Deija
 Nostro signore Deija
@@ -51,4 +52,4 @@ Deija è nuovo
 Deija è nuovo
 Perché poca giustizia?
 Se siamo tutti figli del re
-Se siamo tutti ugualiEmbed
+Se siamo tutti uguali

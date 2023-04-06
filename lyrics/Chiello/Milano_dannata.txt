@@ -1,4 +1,4 @@
-Milano dannata Lyrics[Testo di "Milano dannata"]
+[Testo di "Milano dannata"]
 
 [Strofa 1]
 Eravamo troppo fatti
@@ -34,7 +34,8 @@ Però non siamo più gli stessi
 Albеri con i rami secchi
 Ci stai pensando oppure no?
 Mi stai cеrcando ancora oppure no?
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Sono sotto un raggio
 Molto spesso sono ubriaco
 Vivo meglio che posso
@@ -62,4 +63,4 @@ Sei una donna che vuole apparire
 Con un vuoto dentro che non sa riempire
 Milano dannata
 Hai riempito il mio cuore di spine
-L'hai buttato in un cassetto che non posso aprireEmbed
+L'hai buttato in un cassetto che non posso aprire

@@ -1,4 +1,4 @@
-Eurofestival Lyrics[Testo di "Eurofestival"]
+[Testo di "Eurofestival"]
 
 [Strofa 1]
 Dalla Turchia all'Albania
@@ -38,11 +38,12 @@ Io non voglio più
 Soffrire così
 Ho perso la fede e la verginità
 Buttatemi fuori dal festival
-You might also likeVia, portatemi via
+
+Via, portatemi via
 Lontano da qui
 Che non voglio più
 Cantare così
 Ho perso la voce e la tonalità
 Vorrei ritirarmi dal festival
 
-Via, portatemi viaEmbed
+Via, portatemi via

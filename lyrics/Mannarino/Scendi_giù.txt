@@ -1,4 +1,4 @@
-Scendi giù Lyrics[Testo di "Scendi giù"]
+[Testo di "Scendi giù"]
 
 [Strofa 1]
 Il detenuto
@@ -45,7 +45,8 @@ Urlando dentro al fiume
 Mi riconobbe
 Solamente per i segni
 Delle botte sulle mie piume
-You might also like[Ritornello]
+
+[Ritornello]
 Scendi giù bella, scendi giù
 Scendi giù bella, scendi giù
 Dammi l'ultimo bacio
@@ -83,4 +84,4 @@ Che non tornerò più
 Scendi giù bella, scendi giù
 Scendi giù bella, scendi giù
 Dammi l'ultimo bacio
-Che non tornerò piùEmbed
+Che non tornerò più

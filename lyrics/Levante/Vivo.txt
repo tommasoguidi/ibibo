@@ -1,4 +1,4 @@
-Vivo Lyrics[Testo di "Vivo"]
+[Testo di "Vivo"]
 
 [Strofa 1]
 O sorrido o piango
@@ -40,7 +40,8 @@ Ho voglia di prendere tutto il possibile
 Non voglio perdermi niente di me
 Ho voglia di credere, nulla è impossibile
 Vorrei provarci per tutta la vita che
-You might also like[Pre-Ritornello]
+
+[Pre-Ritornello]
 Vivo come viene
 Vivo il male, vivo il bene
 Vivo come piace a me
@@ -68,4 +69,4 @@ Vivo un sogno erotico
 Vivo un sogno erotico
 La gioia del mio corpo è un atto magico
 Vivo un sogno erotico
-La gioia del mio corpo è un atto magicoEmbed
+La gioia del mio corpo è un atto magico

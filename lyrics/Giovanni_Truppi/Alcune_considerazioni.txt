@@ -1,4 +1,4 @@
-Alcune considerazioni Lyrics[Testo di "Alcune considerazioni"]
+[Testo di "Alcune considerazioni"]
 
 [Strofa 1]
 E mi rileggo i libri che ho già letto, per capire come sono diventato
@@ -52,10 +52,11 @@ Veramente
 Che il trucco c'è ed è non essere in giro quand'è l'uscita di scuola
 Basta soltanto questo, perché soltanto così puoi pensare
 Che intanto il tempo non passa, anche se passa lo stesso
-You might also like[Ritornello 3]
+
+[Ritornello 3]
 E mentre stai pensando alle parole giuste
 E mentre stai cercando la melodia
 Arriva con un niente, non fa neanche rumore
 Non sai mai quando, mai come
 Qualcosa viene, ti prende, ti incarta
-E ti trascina viaEmbed
+E ti trascina via

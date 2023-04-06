@@ -1,4 +1,4 @@
-Pensione Lyrics[Testo di "Pensione"]
+[Testo di "Pensione"]
 
 [Strofa 1]
 Sei il mio paese dei balocchi
@@ -37,10 +37,11 @@ Digrigno un po' i denti con te
 Digrigno un po' i denti con te
 Digrigno un po' i denti con te
 Digrigno un po' i denti con te
-You might also like[Ritornello 3]
+
+[Ritornello 3]
 E sogno la pensione perché odio lavorare
 Tu sogni il grande amore che io non ti riesco a dare
 Danza con me
 Con le mie paure
 Ecco perché
-Te ne vaiEmbed
+Te ne vai

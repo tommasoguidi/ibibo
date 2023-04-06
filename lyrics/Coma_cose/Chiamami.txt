@@ -1,4 +1,4 @@
-Chiamami Lyrics[Testo di "Chiamami"]
+[Testo di "Chiamami"]
 
 [Strofa 1: Francesca California]
 Chiamami, chiamami
@@ -34,7 +34,8 @@ Ho superato le onde di un mare che a volte mi butta giù
 Per ritornare nel punto dove incontrarti e non c'eri più
 Ho conosciuto le bombe, lo iodio, l'inverno, la schiavitù
 Ma c'eri sempre tu che mi tenevi su
-You might also like[Post-Ritornello: Francesca California]
+
+[Post-Ritornello: Francesca California]
 Già, come fai sempre
 (Come fai sempre)
 (Come fai, come fai, come fai)
@@ -46,4 +47,4 @@ Ho conosciuto le bombe, lo iodio, l'inverno, la dignità
 Ma sono ancora qua, sì, qua per dirti
 
 [Outro: Francesca California]
-Chiamami, chiamamiEmbed
+Chiamami, chiamami

@@ -1,4 +1,4 @@
-Titoli di coda Lyrics[Testo di "Titoli di coda"]
+[Testo di "Titoli di coda"]
 
 Guardo la via dal balcone
 Col cielo che sembra un dipinto di qualche pittore
@@ -43,7 +43,8 @@ Siamo la scena del film sotto la pioggia
 La corsa in aeroporto tra la folla
 Siamo la scena clou in cui lei si volta
 Poco prima dei titoli di coda
-You might also likeSiamo la scena del film sotto la pioggia
+
+Siamo la scena del film sotto la pioggia
 La corsa in aeroporto tra la folla
 Siamo la scena clou in cui lei si volta
-Poco prima dei titoli di codaEmbed
+Poco prima dei titoli di coda

@@ -1,4 +1,4 @@
-Scusa Lyrics[Testo di "Scusa"]
+[Testo di "Scusa"]
 
 [Strofa 1]
 Scusa
@@ -45,7 +45,8 @@ Fino a Milano
 Poi mangio qualcosa dolce o salato
 Poi provo a chiamarti da sempre occupato
 Allora mi perdo in un finestrino
-You might also like[Post-Ritornello]
+
+[Post-Ritornello]
 Il sole scende sulla nostra pelle
 Infreddolita, ancora nuda
 Bevi qualcosa tra le lenzuola
@@ -61,4 +62,4 @@ Nessuno mai
 Nessuno mai ci troverà
 Nessuno mai
 Nessuno mai
-Nessuno maiEmbed
+Nessuno mai

@@ -1,4 +1,4 @@
-Sono Ancora Qui Lyrics[Testo di "Sono Ancora Qui"]
+[Testo di "Sono Ancora Qui"]
 
 [Strofa 1]
 Oggi non abbiamo più niente da inventare
@@ -35,7 +35,8 @@ Stanotte ho fatto un sogno
 Che mi fa venire i brividi
 Tu mi manchi anche quando sei con me
 Stringimi
-You might also like[Ritornello]
+
+[Ritornello]
 Sono ancora qui
 Sono ancora qui
 Dimmi come si potrebbe stare meglio di cosi
@@ -56,4 +57,4 @@ Sono ancora qui
 Sono ancora qui
 Dimmi come si potrebbe stare meglio di cosi
 Sono ancora qui
-Resto ancora qui con teEmbed
+Resto ancora qui con te

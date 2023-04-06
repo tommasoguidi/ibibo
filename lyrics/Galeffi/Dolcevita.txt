@@ -1,4 +1,4 @@
-Dolcevita Lyrics[Testo di "Dolcevita"]
+[Testo di "Dolcevita"]
 
 [Strofa 1]
 Immagina un pianoforte bianco, una Cadillac
@@ -42,7 +42,8 @@ E mi tenevi stretto a te
 E buonanotte al mondo
 Tu-ru-tu-tu-tu-ru-tu-tu (Je t'aime)
 Uh-ah-ah (J'adore ton corp)
-You might also like[Bridge]
+
+[Bridge]
 Dolce vita, dolce notte, dolcemente, mon amour
 Dolce vita, dolce notte, quante volte
 
@@ -52,4 +53,4 @@ E tutte quelle stelle sparse sopra il letto
 Mi tenevi stretto a te
 E buonanotte al mondo
 Uh-uh-uh
-E buonanotte al mondoEmbed
+E buonanotte al mondo

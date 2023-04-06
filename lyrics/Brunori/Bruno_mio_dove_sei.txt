@@ -1,4 +1,4 @@
-Bruno mio dove sei Lyrics[Testo di "Bruno mio dove sei"]
+[Testo di "Bruno mio dove sei"]
 
 [Strofa 1]
 Bruno mio, dove sei?
@@ -42,7 +42,8 @@ Su questo vecchio divano
 Guardo una foto e non lo ammetterai
 Mi hai amato da sempre
 Anche se non me l'hai detto mai
-You might also like[Ritornello]
+
+[Ritornello]
 Eh, proprio assurdo il buon Dio
 Dovevo esserci io al posto tuo
 Te la saresti cavata molto meglio di me
@@ -50,4 +51,4 @@ Che non so neanche vivere senza di te
 
 [Outro]
 Bruno mio, dove sei?
-Scusami se ti chiamo sempreEmbed
+Scusami se ti chiamo sempre

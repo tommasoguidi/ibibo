@@ -1,4 +1,4 @@
-Chiuso dall’interno Lyrics[Testo di "Chiuso dall'interno"]
+[Testo di "Chiuso dall'interno"]
 
 [Strofa 1]
 Vorrei esplodere al centro
@@ -35,7 +35,8 @@ Pieno di bugie e chiuso dall'interno
 Al mondo svendo la bandiera bianca
 Usata di nascosto, allego una fotografia
 Di me che vado via
-You might also like[Strofa 3]
+
+[Strofa 3]
 Potresti essere un biglietto
 Infilato di nascosto nel cappotto
 E io il cappotto appoggiato sul letto
@@ -47,4 +48,4 @@ Al mondo svendo la bandiera bianca
 Usata di nascosto allego una fotografia
 Di me che vado via
 Di me che vado via
-Di me che vado viaEmbed
+Di me che vado via

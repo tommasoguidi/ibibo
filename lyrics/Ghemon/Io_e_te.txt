@@ -1,4 +1,4 @@
-Io e te Lyrics[Testo di "Io e te"]
+[Testo di "Io e te"]
 
 [Strofa 1]
 Mettiamo in chiaro subito una cosa
@@ -40,7 +40,8 @@ Sono concentrato, mi alzo, mi rado, mi specchio, mi lavo
 Mi vesto minimale, mirato
 Ho rivisto la luce, mi sento rinato
 Le cose belle sono semplici, ma questo è proprio un cazzo di miracolo
-You might also like[Ritornello]
+
+[Ritornello]
 Io e te (Io e te)
 Insieme siamo un vero miracolo (Io e te)
 Riuscito senza una preghiera
@@ -50,4 +51,4 @@ Ti scrivo a lume di candela
 
 [Outro]
 Sai che ci fa bene anche non stare sempre assieme?
-Dirci questa volta: "Chissà se ti manco o no"Embed
+Dirci questa volta: "Chissà se ti manco o no"

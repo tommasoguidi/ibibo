@@ -1,4 +1,4 @@
-Testa a posto Lyrics[Testo di "Testa a posto"]
+[Testo di "Testa a posto"]
 
 [Intro]
 Quando vado a fare le serate, i concerti
@@ -57,7 +57,8 @@ Ahi, tolgo Juicy e passo al blues di Miles
 A chi vuoi che gliene fotta quanti groupies hai
 Emozioni da supermarket, Upim, Crai
 Sono quello che tu non avrai il coraggio di essere mai
-You might also like[Ritornello]
+
+[Ritornello]
 Sono io
 Il ragazzo con la testa a posto
 Venuto per tagliare la testa al mostro
@@ -88,4 +89,4 @@ Li passo nel tritacarne
 Grazie alla vita perché mi ha mostrato il baratro
 E poi mi ha portato a risuonare ogni sabato
 E mi ha dato l’opportunità di dire ciò che nessuno vi dice
-Adesso sono un uomo feliceEmbed
+Adesso sono un uomo felice

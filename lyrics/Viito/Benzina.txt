@@ -1,4 +1,4 @@
-Benzina Lyrics[Testo di "Benzina"]
+[Testo di "Benzina"]
 
 [Intro]
 Per tutte le volte che ti senti diverso
@@ -53,7 +53,8 @@ Ti porterei su un'isola senza nessuno
 Ti regalerei un viaggio nel nostro futuro
 Ma tu non ci sei mai, quasi mai
 Milano piange sopra la mia faccia
-You might also like[Bridge]
+
+[Bridge]
 Per tutte le volte che ti senti diverso
 Per tutte le volte che hai sputato allo specchio
 Per tutte le volte che ti senti depresso
@@ -71,4 +72,4 @@ Milano piange sopra la mia faccia
 Ti porterei su un'isola senza nessuno
 Ti regalerei un viaggio nel nostro futuro
 Ma tu non ci sei mai, quasi mai
-Milano piange sopra la mia facciaEmbed
+Milano piange sopra la mia faccia

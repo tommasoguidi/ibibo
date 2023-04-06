@@ -1,4 +1,4 @@
-La Notte Chiama Lyrics[Testo di "La Notte Chiama"]
+[Testo di "La Notte Chiama"]
 
 [Strofa 1]
 La notte chiama
@@ -46,7 +46,8 @@ Che mi riporta a casa
 Come una cicogna
 E mentre io mi sveglio
 Che non è neanche l'alba
-You might also like[Ritornello]
+
+[Ritornello]
 Io in discoteca
 Non ci vado più
 Da quando sto con te
@@ -84,4 +85,4 @@ Passata in camera con te
 Con te
 Con te
 Con te
-Con teEmbed
+Con te

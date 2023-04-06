@@ -1,4 +1,4 @@
-A cosa ci serve Lyrics[Testo di "A cosa ci serve"]
+[Testo di "A cosa ci serve"]
 
 [Strofa]
 (Dammi più tempo)
@@ -44,7 +44,8 @@ Ora che aspetto il treno
 (Dammi più tempo)
 Mi merito di peggio
 E lo so che è meglio se esplodo
-You might also like[Ritornello]
+
+[Ritornello]
 A cosa ci serve se non ci proviamo più?
 Il tempo che perdo è la morte
 A cosa ci serve se non crediamo più?
@@ -56,4 +57,4 @@ Non vorrei esser mai nato
 A cosa ci serve se non ci sarai più?
 A cosa ci serve se non ci sarai più?
 A cosa ci serve se non ci sarai più?
-Mi troverai marcio in un lagoEmbed
+Mi troverai marcio in un lago

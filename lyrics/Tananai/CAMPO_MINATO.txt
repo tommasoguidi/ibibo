@@ -1,4 +1,4 @@
-CAMPO MINATO Lyrics[Testo di "CAMPO MINATO" ft. ARIETE]
+[Testo di "CAMPO MINATO" ft. ARIETE]
 
 [Strofa 1: ARIETE]
 Ho sognato un campo minato
@@ -42,7 +42,8 @@ Ed il mio l'ho già perso da un po'
 E se un giorno tornerai
 Alla stessa fermata
 Non saprò mai dirti di no
-You might also like[Ritornello: Tananai]
+
+[Ritornello: Tananai]
 Dimmi, dimmi, dimmi, dimmi, dimmelo ancora
 Dimmi, dimmi, dimmi, dimmi, dimmelo adesso
 Dimmi che non posso fa' lo stesso e passerà (Sì, vabbè)
@@ -65,4 +66,4 @@ Dimmi, dimmi, dimmi, dimmi, dimmelo adesso
 Dimmi che non posso fa' lo stesso e passerà
 Bacia, bacia, bacia, bacia, baciami adesso
 E salta, salta, salta, salta, saltami addosso
-Ho le braccia forti e non ti farò cadereEmbed
+Ho le braccia forti e non ti farò cadere

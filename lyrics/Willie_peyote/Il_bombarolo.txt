@@ -1,4 +1,4 @@
-Il bombarolo Lyrics[Testo di "Il bombarolo"]
+[Testo di "Il bombarolo"]
 
 [Strofa 1]
 Chi va dicendo in giro che ora sembro pazzo
@@ -52,7 +52,8 @@ Ti scoverò i nemici, per voi così distanti
 E dopo averli uccisi sarò fra i latitanti
 Ma finché li cerco io i latitanti sono loro
 Ho scelto un'altra scuola, son bombarolo
-You might also like[Ritornello]
+
+[Ritornello]
 Adesso basta, a sto giro ho deciso
 Il colpevole ha un nome preciso
 Ho protestato e mi avete deriso
@@ -78,4 +79,4 @@ Vedendo esplodere un chiosco di giornali
 Ma ciò che lo ferì profondamente nell'orgoglio
 L'immagine di lei che si sporgeva da ogni foglio
 Lontana dal ridicolo in cui lo lasciò solo
-In prima pagina, col bombaroloEmbed
+In prima pagina, col bombarolo

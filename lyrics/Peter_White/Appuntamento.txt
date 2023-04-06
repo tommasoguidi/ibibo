@@ -1,4 +1,4 @@
-Appuntamento Lyrics[Testo di "Appuntamento"]
+[Testo di "Appuntamento"]
 
 [Strofa 1]
 Cammino di nuovo di notte
@@ -48,7 +48,8 @@ E alla fine scusa ancora ma c’ho fretta
 Devo andare a un brindisi di un’amica stretta
 E risuona solo un nome nella testa
 Come un tuono durante la tempesta
-You might also like[Ritornello]
+
+[Ritornello]
 Ci diamo appuntamento
 E poi finiamo nudi
 Vestiti sul parquet
@@ -66,4 +67,4 @@ Le ombre sopra i muri
 E fuori poi si gela
 Ma noi restiamo nudi
 Vestiti sul parquet
-Le ombre sopra i muriEmbed
+Le ombre sopra i muri

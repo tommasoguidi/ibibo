@@ -1,4 +1,4 @@
-Punk Ipa Lyrics[Testo di "Punk Ipa"]
+[Testo di "Punk Ipa"]
 
 [Strofa 1]
 Correre nel centro della tua autostrada
@@ -42,7 +42,8 @@ Sofia starà pensando a un altro modo per morire
 Laurino già lo so che mi pugnalerà alle spalle
 E io sento che mi manca il tuo profumo sulla pelle
 E io sento che mi manca il tuo profumo sulla pelle
-You might also like[Outro]
+
+[Outro]
 Ma che sapore ha
 Questa giornata uggiosa?
 Ma che sapore avrà?
@@ -59,4 +60,4 @@ E di una birra buona
 E di una birra buona
 E di una birra buona
 Saprà della tua bocca secca
-E di una birra buonaEmbed
+E di una birra buona
