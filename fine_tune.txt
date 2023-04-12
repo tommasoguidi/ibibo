@@ -1,1 +1,2 @@
 openai api fine_tunes.create -t lyrics.jsonl -m curie --suffix ibibo --n_epochs 2 --batch_size 64 --learning_rate_multiplier 0.1
+FINE_TUNE_ID = ft-VIxWv14O7vZSZD8Ci8H1qbu0
