@@ -2,11 +2,13 @@ import json
 from pathlib import Path
 from tqdm import tqdm
 import re
+import numpy as np
 
 
 root = Path('lyrics')
 _all_paths = list(root.rglob('*.txt'))
 _n_paths = len(_all_paths)
+tiny = True
 
 prompt_end_line = '\n\n###\n\n'
 completion_end_line = ' END'
@@ -31,6 +33,18 @@ for path in progress:
         line = {'prompt': prompt, 'completion': completion}
         lines.append(line)
 
-with open("lyrics.jsonl", 'w', encoding='UTF-8') as f:
-    for item in lines:
-        f.write(json.dumps(item, ensure_ascii=False) + "\n")
+print(f'{len(lines)} examples in the dataset.')
+if tiny:
+    chance = np.random.rand(len(lines))
+    tiny_lines = []
+    for i,j in zip(lines, chance):
+        if j <= 0.01:
+            tiny_lines.append(i)
+    print(f'{len(tiny_lines)} examples in the tiny dataset.')
+    with open("tiny_lyrics.jsonl", mode='w', encoding='UTF-8') as f:
+        for item in tiny_lines:
+            f.write(json.dumps(item, ensure_ascii=False) + "\n")
+else:
+    with open("lyrics.jsonl", mode='w', encoding='UTF-8') as f:
+        for item in lines:
+            f.write(json.dumps(item, ensure_ascii=False) + "\n")

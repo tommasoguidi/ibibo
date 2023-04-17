@@ -1,5 +1,5 @@
 from lyricsgenius import Genius
-from secrets import *
+from secret_keys import *
 from pathlib import Path
 from tqdm import tqdm
 import os
